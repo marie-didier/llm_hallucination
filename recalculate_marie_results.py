@@ -12,9 +12,8 @@ INPUT_FILE = "truthfulqa_with_metrics.json"
 OUTPUT_FILE = "truthfulqa_final_complete.json"
 NLI_MODEL = "cross-encoder/nli-deberta-v3-small"
 
-# "Strong VM" settings
-BATCH_SIZE = 128  # Increased from 16. Deberta-small is light; A100/V100 can handle 256+.
-NUM_WORKERS = 4   # Parallelizes tokenization
+BATCH_SIZE = 128
+NUM_WORKERS = 4
 # ===============================================
 
 class NLIDataset(Dataset):
@@ -27,28 +26,29 @@ class NLIDataset(Dataset):
     def __getitem__(self, idx):
         return self.text_pairs[idx]
 
-def collate_fn(batch, tokenizer, device):
-    """Custom collator to tokenize a batch on the fly."""
+def collate_fn(batch, tokenizer):
+    """
+    Tokenizes the batch. 
+    CRITICAL CHANGE: Returns tensors on CPU. Do not move to 'device' here.
+    """
     premises = [p[0] for p in batch]
     hypotheses = [p[1] for p in batch]
     
-    # Tokenize in batch
     inputs = tokenizer(
         premises, 
         hypotheses, 
         padding=True, 
         truncation=True, 
         return_tensors="pt",
-        max_length=512 # Safety cap
+        max_length=512
     )
-    return inputs.to(device)
+    return inputs
 
 def main():
     # 1. Setup
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Running on: {device}")
     
-    # Enable cuDNN benchmarking for consistent input sizes
     if device == "cuda":
         torch.backends.cudnn.benchmark = True
 
@@ -66,12 +66,11 @@ def main():
         print(f"Error: Could not find {INPUT_FILE}.")
         return
 
-    # 3. Pre-process: Flatten everything into a list of pairs
-    # We map every inference pair back to the original item index
+    # 3. Pre-process
     print("Preparing inference batches...")
     
     inference_pairs = []
-    metadata_map = [] # Stores tuple: (data_index, type, value_placeholder)
+    metadata_map = [] 
 
     for idx, item in enumerate(data):
         samples = item.get("samples", [])
@@ -80,8 +79,7 @@ def main():
         if not samples: 
             continue
 
-        # --- Coherence Pairs ---
-        # Compare Sample[0] (Anchor) against Sample[1], Sample[2]...
+        # Coherence Pairs
         if len(samples) >= 2:
             anchor = samples[0]
             targets = samples[1:]
@@ -89,8 +87,7 @@ def main():
                 inference_pairs.append((anchor, t))
                 metadata_map.append((idx, "coherence"))
         
-        # --- Factuality Pairs ---
-        # Compare Ground Truth vs Sample[0]
+        # Factuality Pairs
         inference_pairs.append((ground_truth, samples[0]))
         metadata_map.append((idx, "factuality"))
 
@@ -103,7 +100,8 @@ def main():
         batch_size=BATCH_SIZE, 
         shuffle=False, 
         num_workers=NUM_WORKERS,
-        collate_fn=lambda b: collate_fn(b, tokenizer, device),
+        # REMOVED 'device' argument from here
+        collate_fn=lambda b: collate_fn(b, tokenizer),
         pin_memory=True if device == "cuda" else False
     )
 
@@ -111,9 +109,12 @@ def main():
     all_probs = []
     
     print("Running Inference (Mixed Precision)...")
-    # Use autocast for FP16 speedup on modern GPUs
+    
     with torch.no_grad():
         for batch_inputs in tqdm(dataloader):
+            # MOVE TO GPU HERE (Main Process)
+            batch_inputs = batch_inputs.to(device)
+
             with torch.cuda.amp.autocast(enabled=(device=="cuda")):
                 logits = model(**batch_inputs).logits
                 probs = torch.softmax(logits, dim=1).cpu().numpy()
@@ -128,31 +129,25 @@ def main():
     # 6. Aggregate Results
     print("Aggregating results...")
     
-    # Temporary storage: { item_idx: { 'coherence_scores': [], 'factuality': val } }
     temp_storage = defaultdict(lambda: {"coherence_scores": [], "factuality": 0})
     
     for i, (data_idx, task_type) in enumerate(metadata_map):
         probs = flat_results[i]
         
         if task_type == "coherence":
-            # Index 0 = Contradiction
             contradiction_score = probs[0] 
             temp_storage[data_idx]["coherence_scores"].append(contradiction_score)
             
         elif task_type == "factuality":
-            # Index 1 = Entailment
-            # Predicted Label: 0 if Factual (Entailment highest), 1 if Hallucination
             predicted_label = np.argmax(probs)
             is_hallucination = 0 if predicted_label == 1 else 1
             temp_storage[data_idx]["factuality"] = is_hallucination
 
-    # 7. Write back to Data object
+    # 7. Write back
     for idx, item in enumerate(data):
         samples = item.get("samples", [])
         if not samples: continue
 
-        # Coherence Logic
-        # If < 2 samples, Coherence is 1.0 (default)
         if len(samples) < 2:
             item["coherence_score"] = 1.0
         else:
@@ -162,7 +157,6 @@ def main():
             else:
                 item["coherence_score"] = 1.0
 
-        # Factuality Logic
         item["is_hallucination"] = int(temp_storage[idx]["factuality"])
 
     # 8. Save
