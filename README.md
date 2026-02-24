@@ -1,19 +1,34 @@
-# Extracting samples from the Trivia dataset
+# LLM Hallucination Detection
 
-These samples were generated using the Llama2-13b for the TriviaQA dataset.
+Detect hallucinations in LLM responses using **Kernel Language Entropy** and NLI models.
 
-To extract the samples from the .pkl object into a .json file use the `read_model_samples.py`.
+## About
 
-To run the script use the following commands:
+This project implements uncertainty quantification methods to detect hallucinations in LLM-generated text using:
+- **Kernel Language Entropy** (via [lm-polygraph](https://github.com/IINemo/lm-polygraph))
+- **NLI models** for semantic similarity between responses
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/marie-didier/llm-hallucination.git
+cd llm-hallucination
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate  # Windows
+
+# Install package
+pip install -e .
 ```
-python read_model_samples.py <path_to_file>.pkl
-```
-You can also send the command with arguments for a number of samples and generation per sample:
-- `-num` or `--numSamples` to indicate the number of samples to extract;
-- `-numGen` or `--numGenerations` to indicate the number of generations per sample.
 
-Example: to run with the file `./llama2-13b_triviaqa_new_10_0.4_20/0.pkl`, and extract 2000 examples of the dataset with 10 generations each:
+## Running tests
 
-```
-python read_model_samples.py ./llama2-13b_triviaqa_new_10_0.4_20/0.pkl -num 2000 -numGen 10
+### NLI Computing
+
+From the root directory, run:
+```bash
+python -m src.tests.run_nli
 ```

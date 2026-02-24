@@ -2,11 +2,17 @@ import numpy as np
 from sklearn.metrics import roc_auc_score, roc_curve
 import matplotlib.pyplot as plt
 import pandas as pd
+import os
 
 class EvalMethods:
-    def __init__(self, y_true):
+    def __init__(self, y_true, print_logs=False):
         self.y_true = y_true
-        pass
+        self.metrics = []
+
+        self.print_logs = print_logs
+
+        self.output_path = 'outputs'
+        os.makedirs(self.output_path, exist_ok=True)
 
     """
     Area Under the Risk-Coverage Curve.
@@ -46,18 +52,19 @@ class EvalMethods:
                 accuracy_in_bin = np.mean(self.y_true[in_bin])
                 avg_confidence_in_bin = np.mean(y_scores[in_bin])
                 ece += prop_in_bin * np.abs(avg_confidence_in_bin - accuracy_in_bin)
-        return ece
+        return ece        
     
     def compute_metrics(self, y_scores, name_score):
         # Compute metrics on the score
         auroc = roc_auc_score(self.y_true, y_scores)
-        aurc = self.calculate_aurc(self.y_true, y_scores)
-        ece = self.calculate_ece(self.y_true, y_scores)
+        aurc = self.calculate_aurc(y_scores)
+        ece = self.calculate_ece(y_scores)
 
-        print(f"--- Results ---")
-        print(f"AUROC: {auroc:.4f} (Higher is better)")
-        print(f"AURC:  {aurc:.4f} (Lower is better)")
-        print(f"ECE:   {ece:.4f} (Lower is better - measures calibration)")
+        if self.print_logs:
+            print(f"--- Results {name_score} ---")
+            print(f"AUROC: {auroc:.4f} (Higher is better)")
+            print(f"AURC:  {aurc:.4f} (Lower is better)")
+            print(f"ECE:   {ece:.4f} (Lower is better - measures calibration)")
 
         self.metrics.append({
             "method": name_score,
@@ -69,8 +76,13 @@ class EvalMethods:
         return auroc, aurc, ece
 
     # Plot ROC Curve for given score
-    def plot_roc(self, y_scores, name_score):
+    def plot_roc(self, y_scores, name_method, name_score):
         auroc, _, _ = self.compute_metrics(y_scores, name_score)
+
+        plot_path = f'{self.output_path}/{name_method}'
+        os.makedirs(plot_path, exist_ok=True)
+
+        plt.figure(figsize=(8, 6))
 
         fpr, tpr, _ = roc_curve(self.y_true, y_scores)
         plt.plot(fpr, tpr, label=f'NLI Method (AUC = {auroc:.2f})')
@@ -79,9 +91,9 @@ class EvalMethods:
         plt.ylabel('True Positive Rate (Hallucination correctly caught)')
         plt.title('ROC Curve for Hallucination Detection')
         plt.legend()
-        plt.savefig(f'outputs/kle_roc_curve_{name_score}.png', dpi=150)
-        plt.show()
+        plt.savefig(f'{plot_path}/{name_method}_roc_curve_{name_score}.png', dpi=150)
+        plt.close()
 
-    def save_eval_metrics(self, file_name="outputs/nli_comparison_metrics.csv"):
+    def save_eval_metrics(self, file_name="outputs/nli/nli_comparison_metrics.csv"):
         metrics_df = pd.DataFrame(self.metrics)
         metrics_df.to_csv(file_name, index=False)
