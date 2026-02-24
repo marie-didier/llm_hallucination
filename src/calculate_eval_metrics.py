@@ -6,7 +6,7 @@ import os
 
 class EvalMethods:
     def __init__(self, y_true, print_logs=False):
-        self.y_true = y_true
+        self.y_true = np.array(y_true)
         self.metrics = []
 
         self.print_logs = print_logs
@@ -19,6 +19,8 @@ class EvalMethods:
     Risk = 1 - Accuracy at a specific coverage.
     """
     def calculate_aurc(self, y_scores):
+        y_scores = np.array(y_scores)
+
         desc_score_indices = np.argsort(y_scores)[::-1] # Sort by confidence of hallucination
         y_true_sorted = self.y_true[desc_score_indices]
         
@@ -40,6 +42,8 @@ class EvalMethods:
     Expected Calibration Error.
     """
     def calculate_ece(self, y_scores, n_bins=10):
+        y_scores = np.array(y_scores)
+        
         bin_boundaries = np.linspace(0, 1, n_bins + 1)
         ece = 0
         for i in range(n_bins):

@@ -111,22 +111,27 @@ class NLICalculator:
         self.all_matrices = []
         
         for entry in tqdm(self.dataset, desc="Processing questions"):
-            responses = entry["samples"]
+            responses_data = entry["model_responses"]
+            responses_texts = [r["text"] for r in responses_data]
+            responses_labels = [r["is_hallucination"] for r in responses_data]
             
-            if len(responses) < 2:
-                print(f"Warning: Question '{entry['question'][:50]}...' has only {len(responses)} response(s). Skipping.")
+            if len(responses_texts) < 2:
+                print(f"Warning: Question '{entry['question'][:50]}...' has only {len(responses_texts)} response(s). Skipping.")
                 continue
+
+            question_label = 1 if sum(responses_labels) > len(responses_labels)/2 else 0
             
-            matrix_entail, matrix_contra = self.calculate_matrices(responses)
+            matrix_entail, matrix_contra = self.calculate_matrices(responses_texts)
             
             self.all_matrices.append({
                 'question': entry['question'],
-                'ground_truth': entry['ground_truth'],
+                'ground_truth': entry['ground_truth_reference'],
                 'matrix_entail': matrix_entail.tolist(),
                 'matrix_contra': matrix_contra.tolist(),
-                'label': entry['is_hallucination'],
-                'num_responses': len(responses),
-                'responses': responses
+                'question_label': question_label,
+                'num_responses': len(responses_texts),
+                'num_hallucinations': sum(responses_labels),
+                'num_factual': len(responses_labels) - sum(responses_labels)
             })
         
         return self.all_matrices
@@ -141,7 +146,7 @@ class NLICalculator:
     '''
     Save NLI matrices scores
     '''
-    def save_nli_matrices_scores(self, file_name="data/nli_matrices_scores.csv"):     
+    def save_nli_matrices_scores(self, file_name="data/nli_matrices_scores.json"):     
         with open(file_name, 'w', encoding='utf-8') as f:
             json.dump(self.all_matrices, f, indent=2, ensure_ascii=False)
 

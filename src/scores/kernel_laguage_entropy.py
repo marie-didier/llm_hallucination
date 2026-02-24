@@ -1,19 +1,19 @@
 import json
 from tqdm import tqdm
 import numpy as np
+import os
 
 from lm_polygraph.estimators import KernelLanguageEntropy
 
 from src.compute_nli import NLICalculator
 
-class KernelLanguageEntropy:
+class KleScore:
     def __init__(self, dataset_path=None, nli_matrices_json=None):
-        self.nli_matrices_json = nli_matrices_json
-        if nli_matrices_json:
+        try:
             # Load dataset with NLI matrices
-            with open(self.nli_matrices_json, 'r', encoding='utf-8') as f:
+            with open(nli_matrices_json, 'r', encoding='utf-8') as f:
                 self.nli_scores = json.load(f)
-        else:
+        except:
             if dataset_path:
                 # Call NLI Calculator
                 nli_calc = NLICalculator(dataset_path)
@@ -21,11 +21,14 @@ class KernelLanguageEntropy:
                 nli_calc.save_nli_matrices_scores()
             else:
                 raise AttributeError("No dataset given to generate NLI stats.")
+            
+        self.output_path = 'outputs/kle/'
+        os.makedirs(self.output_path, exist_ok=True)
 
     """
     Calculate KLE for each question
     """
-    def compute_kle(self, nli_calculator=None):
+    def compute_kle(self):
         # Initialize KLE method
         kle_method = KernelLanguageEntropy(t=0.3, normalize=True, scale=True, jitter=1e-6)
         
@@ -37,7 +40,7 @@ class KernelLanguageEntropy:
             matrix_contra = np.array(item['matrix_contra'])
             # Get metadata
             question = item.get('question', 'Unknown')
-            label = item.get('label', item.get('is_hallucination', None))
+            label = item.get('question_label', item.get('is_hallucination', None))
             n_responses = item.get('num_responses', matrix_entail.shape[0])
             ground_truth = item.get('ground_truth', '')
 
@@ -59,9 +62,13 @@ class KernelLanguageEntropy:
                 'ground_truth': ground_truth,
                 'kle_score': kle_score,
                 'label': label,
-                'num_responses': n_responses,
-                'matrix_shape': matrix_entail.shape
+                'num_responses': n_responses
             })
+    
+    def get_y_scores(self):
+        y_scores = [r['kle_score'] for r in self.results]
+        y_true = [r['label'] for r in self.results]
+        return y_scores, y_true
         
     def save_kle_scores(self, file_name='outputs/kle/kle_scores.json'):
         # Save results
