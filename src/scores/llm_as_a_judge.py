@@ -10,8 +10,9 @@ from sklearn.metrics import roc_auc_score, roc_curve
 import matplotlib.pyplot as plt
 
 class LlmAsAJudge:
-    def __init__(self, data):
-        self.data = data
+    def __init__(self, dataset_path):
+        with open(dataset_path, "r", encoding="utf-8") as f:
+            self.data = json.load(f)
 
     # Define the Prompting Logic
     def get_llama_score(self, question, reference, response):
