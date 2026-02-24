@@ -79,9 +79,9 @@ class EvalMethods:
         plt.ylabel('True Positive Rate (Hallucination correctly caught)')
         plt.title('ROC Curve for Hallucination Detection')
         plt.legend()
-        plt.savefig(f'kle_roc_curve_{name_score}.png', dpi=150)
+        plt.savefig(f'outputs/kle_roc_curve_{name_score}.png', dpi=150)
         plt.show()
 
-    def save_eval_metrics(self, file_name="data/nli_comparison_metrics.csv"):
+    def save_eval_metrics(self, file_name="outputs/nli_comparison_metrics.csv"):
         metrics_df = pd.DataFrame(self.metrics)
         metrics_df.to_csv(file_name, index=False)

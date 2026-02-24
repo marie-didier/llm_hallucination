@@ -26,7 +26,7 @@ class NLICalculator:
 
         print(f"Processing {len(self.dataset)} questions...")
 
-        for entry in tqdm(range(0, len(self.dataset), self.dataset), desc="Calculating NLI"):
+        for entry in tqdm(self.dataset, desc="Calculating NLI"):
             premise = entry["ground_truth_reference"]
             
             for resp in entry["model_responses"]:
