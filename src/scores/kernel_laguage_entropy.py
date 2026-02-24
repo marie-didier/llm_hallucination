@@ -4,35 +4,45 @@ import numpy as np
 
 from lm_polygraph.estimators import KernelLanguageEntropy
 
-class KernelLanguageEntropy:
-    def __init__(self, nli_json=None, kle_json='kle_results.json'):
-        if nli_json:
-            # Load dataset with NLI
-            with open(self.nli_json, 'r', encoding='utf-8') as f:
-                self.nli_dataset = json.load(f)
-        else:
-            # Call NLI Calculator
-            pass
+from src.compute_nli import NLICalculator
 
-        self.kle_json = kle_json
+class KernelLanguageEntropy:
+    def __init__(self, dataset_path=None, nli_matrices_json=None):
+        self.nli_matrices_json = nli_matrices_json
+        if nli_matrices_json:
+            # Load dataset with NLI matrices
+            with open(self.nli_matrices_json, 'r', encoding='utf-8') as f:
+                self.nli_scores = json.load(f)
+        else:
+            if dataset_path:
+                # Call NLI Calculator
+                nli_calc = NLICalculator(dataset_path)
+                self.nli_scores = nli_calc.calculate_nli_matrices()
+                nli_calc.save_nli_matrices_scores()
+            else:
+                raise AttributeError("No dataset given to generate NLI stats.")
 
     """
     Calculate KLE for each question
     """
-    def processar_dataset(self, nli_calculator=None):
+    def compute_kle(self, nli_calculator=None):
         # Initialize KLE method
         kle_method = KernelLanguageEntropy(t=0.3, normalize=True, scale=True, jitter=1e-6)
         
-        results = []
+        self.results = []
         
-        for item in tqdm(self.nli_dataset, desc="Processing questions..."):
-            question = item['question']
-            answers = item['samples']
-            ground_truth = item['ground_truth']
-            is_hallucination = item['is_hallucination']
-            
-            # Calculate semantic matrixes
-            matrix_entail, matrix_contra = nli_calculator.calcular_matrizes(answers)
+        for item in tqdm(self.nli_scores, desc="Processing questions..."):
+            # Extract matrices
+            matrix_entail = np.array(item['matrix_entail'])
+            matrix_contra = np.array(item['matrix_contra'])
+            # Get metadata
+            question = item.get('question', 'Unknown')
+            label = item.get('label', item.get('is_hallucination', None))
+            n_responses = item.get('num_responses', matrix_entail.shape[0])
+            ground_truth = item.get('ground_truth', '')
+
+            assert matrix_entail.shape[0] == matrix_entail.shape[1]
+            assert n_responses >= 2
             
             # Prepare stats with KLE
             stats = {
@@ -44,20 +54,16 @@ class KernelLanguageEntropy:
             kle_scores = kle_method(stats)
             kle_score = kle_scores[0]
             
-            # Comparar com outras métricas existentes (opcional)
-            results.append({
+            self.results.append({
                 'question': question,
                 'ground_truth': ground_truth,
-                'is_hallucination': is_hallucination,
-                'kle_score': float(kle_score),
-                'semantic_entropy_original': item.get('semantic_entropy'),
-                'num_semantic_clusters': item.get('num_semantic_clusters'),
-                'coherence_score': item.get('coherence_score'),
-                'num_samples': len(answers)
+                'kle_score': kle_score,
+                'label': label,
+                'num_responses': n_responses,
+                'matrix_shape': matrix_entail.shape
             })
         
+    def save_kle_scores(self, file_name='outputs/kle/kle_scores.json'):
         # Save results
-        with open(self.kle_json, 'w', encoding='utf-8') as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
-    
-        self.results = results
+        with open(file_name, 'w', encoding='utf-8') as f:
+            json.dump(self.results, f, indent=2, ensure_ascii=False)
