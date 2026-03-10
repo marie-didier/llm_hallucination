@@ -37,24 +37,36 @@ class EvalMethods:
             risks.append(risk)
         
         return np.mean(risks)
+    
+    def _normalize_for_ece(self, y_scores):
+        """Normaliza scores para [0,1] APENAS para ECE"""
+        y_scores = np.array(y_scores)
+        min_score = y_scores.min()
+        max_score = y_scores.max()
+        
+        if max_score > min_score:
+            return (y_scores - min_score) / (max_score - min_score)
+        return y_scores - min_score
 
     """
     Expected Calibration Error.
     """
     def calculate_ece(self, y_scores, n_bins=10):
         y_scores = np.array(y_scores)
+
+        normalized_scores = self._normalize_for_ece(y_scores)
         
         bin_boundaries = np.linspace(0, 1, n_bins + 1)
         ece = 0
         for i in range(n_bins):
             bin_lower, bin_upper = bin_boundaries[i], bin_boundaries[i+1]
             # Find indices in the current bin
-            in_bin = (y_scores > bin_lower) & (y_scores <= bin_upper)
+            in_bin = (normalized_scores > bin_lower) & (normalized_scores <= bin_upper)
             prop_in_bin = np.mean(in_bin)
             
             if prop_in_bin > 0:
                 accuracy_in_bin = np.mean(self.y_true[in_bin])
-                avg_confidence_in_bin = np.mean(y_scores[in_bin])
+                avg_confidence_in_bin = np.mean(normalized_scores[in_bin])
                 ece += prop_in_bin * np.abs(avg_confidence_in_bin - accuracy_in_bin)
         return ece        
     
