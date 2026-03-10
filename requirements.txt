@@ -1,0 +1,11 @@
+ollama
+jupyter
+ipykernel
+deepeval>=1.0.0,<2.0.0
+bert-score
+scikit-learn
+datasets
+matplotlib
+numpy
+tqdm
+seaborn
