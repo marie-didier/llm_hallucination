@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 # %%
 # 1. Load your TruthfulQA dataset
-with open("data/truthfulqa_with_hallucination_truth.json", "r", encoding="utf-8") as f:
+with open("data/truthfulqa_gtb.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # %%
