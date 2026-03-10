@@ -1,10 +1,44 @@
 import json
 import pandas as pd
 import numpy as np
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 from tqdm import tqdm
 from itertools import combinations
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+
+from lm_polygraph.stat_calculators.semantic_matrix import SemanticMatrixCalculator
+
+class NLIModelWrapper:
+    def __init__(self, model, tokenizer, batch_size, device):
+        self.deberta = model
+        self.deberta_tokenizer = tokenizer
+        self.batch_size = batch_size
+        self.device = device
+
+        if hasattr(model.config, 'label2id'):
+            print("Label mapping:", model.config.label2id)
+            print("Id2label mapping:", model.config.id2label)
+            label2id = model.config.label2id
+            # Adiciona as chaves em caixa alta se não existirem
+            if "ENTAILMENT" not in label2id and "entailment" in label2id:
+                label2id["ENTAILMENT"] = label2id["entailment"]
+            if "CONTRADICTION" not in label2id and "contradiction" in label2id:
+                label2id["CONTRADICTION"] = label2id["contradiction"]
+            # Finding right IDs
+            if "ENTAILMENT" in label2id:
+                self.entail_id = label2id["ENTAILMENT"]
+                self.contra_id = label2id["CONTRADICTION"]
+            elif "entailment" in label2id:
+                self.entail_id = label2id["entailment"]
+                self.contra_id = label2id["contradiction"]
+            else:
+                # Fallback para o padrão mais comum
+                print("WARNING: Using default mapping (0=contradiction, 1=neutral, 2=entailment)")
+                self.entail_id = 2
+                self.contra_id = 0
+        else:
+            self.entail_id = 2
+            self.contra_id = 0
 
 class NLICalculator:
     def __init__(self, dataset, model_name="cross-encoder/nli-deberta-v3-large", batch_size=32, device="cuda"):
@@ -15,6 +49,14 @@ class NLICalculator:
         self.batch_size = batch_size
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.model = AutoModelForSequenceClassification.from_pretrained(model_name).to(self.device)
+
+        self.nli_model = NLIModelWrapper(
+            self.model, 
+            self.tokenizer, 
+            self.batch_size, 
+            self.device
+        )
+
         self.model.eval()
 
     """
@@ -61,46 +103,26 @@ class NLICalculator:
     """
         Calculate entailment and contradiction matrices for all response combinations.
     """
-    def calculate_matrices(self, responses):
-        n = len(responses)
-        matrix_entail = np.zeros((n, n))
-        matrix_contra = np.zeros((n, n))
+    def calculate_matrices(self, responses):        
+        dependencies = {
+            "sample_texts": [responses]
+        }
         
-        # Create all pairs (i, j) where i < j
-        indices = list(combinations(range(n), 2))
-        pairs = [(responses[i], responses[j]) for i, j in indices]
+        # Input text, no need
+        texts = [""] * len(responses)
         
-        # Process in batches
+        # Chamar o calculator
         with torch.no_grad():
-            for k in tqdm(range(0, len(pairs), self.batch_size), desc="Calculating NLI between responses"):
-                batch_pairs = pairs[k:k+self.batch_size]
-                batch_indices = indices[k:k+self.batch_size]
-                
-                # Tokenize
-                inputs = self.tokenizer(
-                    [p[0] for p in batch_pairs],
-                    [p[1] for p in batch_pairs],
-                    truncation=True,
-                    padding=True,
-                    max_length=512,
-                    return_tensors="pt"
-                ).to(self.device)
-                
-                # Get probabilities
-                outputs = self.model(**inputs)
-                probs = torch.softmax(outputs.logits, dim=-1).cpu().numpy()
-                
-                # Mapping for DeBERTa-MNLI: [contradiction, neutral, entailment]
-                for idx, (i, j) in enumerate(batch_indices):
-                    matrix_entail[i, j] = probs[idx, 2]  # entailment
-                    matrix_entail[j, i] = matrix_entail[i, j]  # symmetric
-                    
-                    matrix_contra[i, j] = probs[idx, 0]  # contradiction
-                    matrix_contra[j, i] = matrix_contra[i, j]  # symmetric
+            matrixes = self.semantic_calculator(
+                dependencies=dependencies,
+                texts=texts,
+                model=None,  # Não precisamos do modelo aqui
+                max_new_tokens=100  # valor padrão
+            )
         
-        # Diagonal (response compared to itself) = full entailment
-        np.fill_diagonal(matrix_entail, 1.0)
-        np.fill_diagonal(matrix_contra, 0.0)
+        # Extrair matrizes
+        matrix_entail = matrixes["semantic_matrix_entail"][0]  # primeira (e única) batch
+        matrix_contra = matrixes["semantic_matrix_contra"][0]
         
         return matrix_entail, matrix_contra
     
@@ -108,6 +130,8 @@ class NLICalculator:
     Calculate matrices for all questions in the dataset
     """
     def calculate_nli_matrices(self):
+        self.semantic_calculator = SemanticMatrixCalculator(self.nli_model)
+
         self.all_matrices = []
         
         for entry in tqdm(self.dataset, desc="Processing questions"):

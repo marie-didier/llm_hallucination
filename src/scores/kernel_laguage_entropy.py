@@ -8,7 +8,7 @@ from lm_polygraph.estimators import KernelLanguageEntropy
 from src.compute_nli import NLICalculator
 
 class KleScore:
-    def __init__(self, dataset_path=None, nli_matrices_json=None):
+    def __init__(self, dataset_path=None, nli_matrices_json=None, invert_scores=True):
         try:
             # Load dataset with NLI matrices
             with open(nli_matrices_json, 'r', encoding='utf-8') as f:
@@ -24,6 +24,8 @@ class KleScore:
             
         self.output_path = 'outputs/kle/'
         os.makedirs(self.output_path, exist_ok=True)
+
+        self.invert_scores = invert_scores
 
     """
     Calculate KLE for each question
@@ -56,6 +58,9 @@ class KleScore:
             # Calculate Kernel Language Entropy
             kle_scores = kle_method(stats)
             kle_score = kle_scores[0]
+
+            if self.invert_scores:
+                kle_score = -kle_score
             
             self.results.append({
                 'question': question,
