@@ -2,7 +2,7 @@ from src.compute_nli import NLICalculator
 from src.calculate_eval_metrics import EvalMethods
 import numpy as np
 
-nli_calc = NLICalculator("data/truthfulqa_with_hallucination_truth.json")
+nli_calc = NLICalculator("data/truthfulqa/truthfulqa_with_hallucination_truth.json")
 
 try:
     all_labels, all_contradiction, all_neutral, all_entailment, y_true = nli_calc.get_nli_scores()

@@ -1,9 +1,8 @@
 import json
 import pandas as pd
-import numpy as np
+import os
 import torch
 from tqdm import tqdm
-from itertools import combinations
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 from lm_polygraph.stat_calculators.semantic_matrix import SemanticMatrixCalculator
@@ -39,6 +38,9 @@ class NLIModelWrapper:
         else:
             self.entail_id = 2
             self.contra_id = 0
+
+        self.output_path = 'outputs/stats/'
+        os.makedirs(self.output_path, exist_ok=True)
 
 class NLICalculator:
     def __init__(self, dataset, model_name="cross-encoder/nli-deberta-v3-large", batch_size=32, device="cuda"):
@@ -135,10 +137,18 @@ class NLICalculator:
         self.all_matrices = []
         
         for entry in tqdm(self.dataset, desc="Processing questions"):
-            responses_data = entry["model_responses"]
-            responses_texts = [r["text"] for r in responses_data]
-            responses_labels = [r["is_hallucination"] for r in responses_data]
-            
+            responses_data = entry.get("generations", entry.get("model_responses", []))
+
+            responses_texts = []
+            responses_labels = []
+            for i, r in enumerate(responses_data):
+                if isinstance(r, dict):
+                    responses_texts.append(r.get("text"))
+                    responses_labels.append(r.get("is_hallucination"))
+                else:
+                    responses_texts.append(r)
+                    responses_labels.append(entry.get("hallucination_labels")[i])
+                        
             if len(responses_texts) < 2:
                 print(f"Warning: Question '{entry['question'][:50]}...' has only {len(responses_texts)} response(s). Skipping.")
                 continue
@@ -148,8 +158,8 @@ class NLICalculator:
             matrix_entail, matrix_contra = self.calculate_matrices(responses_texts)
             
             self.all_matrices.append({
-                'question': entry['question'],
-                'ground_truth': entry['ground_truth_reference'],
+                'question': entry.get("question"),
+                'ground_truth': entry.get("ground_truth_reference", entry.get("gold_answer", "")),
                 'matrix_entail': matrix_entail.tolist(),
                 'matrix_contra': matrix_contra.tolist(),
                 'question_label': question_label,
@@ -163,18 +173,18 @@ class NLICalculator:
     '''
     Save NLI scores
     '''
-    def save_nli_scores(self, file_name="data/nli_scores.csv"):
-        self.nli_scores.to_csv(file_name, index=False)
-        print(f"Saved NLI scores to {file_name}")
+    def save_nli_scores(self, file_name="nli_scores.csv"):
+        self.nli_scores.to_csv(f"{self.output_path}{file_name}", index=False)
+        print(f"Saved NLI scores to {self.output_path}{file_name}")
 
     '''
     Save NLI matrices scores
     '''
-    def save_nli_matrices_scores(self, file_name="data/nli_matrices_scores.json"):     
-        with open(file_name, 'w', encoding='utf-8') as f:
+    def save_nli_matrices_scores(self, file_name="nli_matrices_scores.json"):     
+        with open(f"{self.output_path}{file_name}", 'w', encoding='utf-8') as f:
             json.dump(self.all_matrices, f, indent=2, ensure_ascii=False)
 
-        print(f"Saved NLI matrices scores to {file_name}")
+        print(f"Saved NLI matrices scores to {self.output_path}{file_name}")
 
     '''
     Retrieve NLI scores
@@ -188,5 +198,3 @@ class NLICalculator:
         y_true = self.nli_scores["label"].values
 
         return all_labels, all_contradiction, all_neutral, all_entailment, y_true
-    
-    
