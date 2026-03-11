@@ -39,13 +39,13 @@ class NLIModelWrapper:
             self.entail_id = 2
             self.contra_id = 0
 
-        self.output_path = 'outputs/stats/'
-        os.makedirs(self.output_path, exist_ok=True)
-
 class NLICalculator:
     def __init__(self, dataset, model_name="cross-encoder/nli-deberta-v3-large", batch_size=32, device="cuda"):
         with open(dataset, "r", encoding="utf-8") as f:
             self.dataset = json.load(f)
+
+        self.output_path = 'outputs/stats/'
+        os.makedirs(self.output_path, exist_ok=True)
 
         self.device = device if torch.cuda.is_available() else "cpu"
         self.batch_size = batch_size
@@ -173,15 +173,15 @@ class NLICalculator:
     '''
     Save NLI scores
     '''
-    def save_nli_scores(self, file_name="nli_scores.csv"):
-        self.nli_scores.to_csv(f"{self.output_path}{file_name}", index=False)
-        print(f"Saved NLI scores to {self.output_path}{file_name}")
+    def save_nli_scores(self, file_name="outputs/stats/nli_scores.csv"):
+        self.nli_scores.to_csv(file_name, index=False)
+        print(f"Saved NLI scores to {file_name}")
 
     '''
     Save NLI matrices scores
     '''
-    def save_nli_matrices_scores(self, file_name="nli_matrices_scores.json"):     
-        with open(f"{self.output_path}{file_name}", 'w', encoding='utf-8') as f:
+    def save_nli_matrices_scores(self, file_name="outputs/stats/nli_matrices_scores.json"):     
+        with open(file_name, 'w', encoding='utf-8') as f:
             json.dump(self.all_matrices, f, indent=2, ensure_ascii=False)
 
         print(f"Saved NLI matrices scores to {self.output_path}{file_name}")
@@ -189,7 +189,7 @@ class NLICalculator:
     '''
     Retrieve NLI scores
     '''
-    def get_nli_scores(self, file_name="data/nli_scores.csv"):
+    def get_nli_scores(self, file_name="outputs/stats/nli_scores.csv"):
         self.nli_scores = pd.read_csv(file_name)
         all_labels = self.nli_scores["label"].values
         all_contradiction = self.nli_scores["contradiction"].values

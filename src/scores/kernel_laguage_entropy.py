@@ -8,7 +8,7 @@ from lm_polygraph.estimators import KernelLanguageEntropy
 from src.compute_nli import NLICalculator
 
 class KleScore:
-    def __init__(self, dataset_path=None, nli_matrices_json=None, invert_scores=True):
+    def __init__(self, nli_matrices_json=None, dataset_path=None, invert_scores=True):
         try:
             # Load dataset with NLI matrices
             with open(nli_matrices_json, 'r', encoding='utf-8') as f:
@@ -18,7 +18,7 @@ class KleScore:
                 # Call NLI Calculator
                 nli_calc = NLICalculator(dataset_path)
                 self.nli_scores = nli_calc.calculate_nli_matrices()
-                nli_calc.save_nli_matrices_scores()
+                nli_calc.save_nli_matrices_scores(nli_matrices_json)
             else:
                 raise AttributeError("No dataset given to generate NLI stats.")
             
