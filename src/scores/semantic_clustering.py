@@ -4,9 +4,6 @@ import os
 from collections import defaultdict
 from tqdm import tqdm
 
-from src.compute_nli import NLICalculator
-
-
 class SemanticClustering:
     def __init__(self, nli_matrices_json=None, dataset_path=None, threshold=0.5):
         self.threshold = threshold
@@ -15,6 +12,7 @@ class SemanticClustering:
                 self.nli_scores = json.load(f)
         except:
             if dataset_path:
+                from src.compute_nli import NLICalculator
                 nli_calc = NLICalculator(dataset_path)
                 self.nli_scores = nli_calc.calculate_nli_matrices()
                 nli_calc.save_nli_matrices_scores()
