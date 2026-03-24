@@ -1,0 +1,36 @@
+[
+  {
+    "method_label": "baseline",
+    "family": "baseline",
+    "dataset": "qa820",
+    "n_samples": 300.0,
+    "k": 20,
+    "mean_auroc": 0.8094281309215624,
+    "std_auroc": 0.014864209347521785,
+    "mean_aurc": 0.19251808263777326,
+    "std_aurc": 0.0066875710223793785,
+    "mean_pcc": -0.5032344811684754,
+    "std_pcc": 0.030015282461806077,
+    "mean_num_correct": 180.33333333333334,
+    "mean_num_incorrect": 119.66666666666667,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  },
+  {
+    "method_label": "fc_0.5_99.5",
+    "family": "fc",
+    "dataset": "qa820",
+    "n_samples": 300.0,
+    "k": 20,
+    "mean_auroc": 0.8102054954287454,
+    "std_auroc": 0.016611433522507133,
+    "mean_aurc": 0.19438641601137388,
+    "std_aurc": 0.0050090507308422315,
+    "mean_pcc": -0.5165713490807721,
+    "std_pcc": 0.037752122502820645,
+    "mean_num_correct": 180.0,
+    "mean_num_incorrect": 120.0,
+    "mean_clip_fraction": 0.006506728685554855,
+    "n_runs": 4
+  }
+]

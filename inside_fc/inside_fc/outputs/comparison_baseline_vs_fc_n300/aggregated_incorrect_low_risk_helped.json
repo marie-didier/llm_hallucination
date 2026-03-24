@@ -1,0 +1,867 @@
+{
+  "meta": {
+    "low_risk_quantile": 0.25,
+    "baseline_incorrect_low_risk_threshold": -4.7970443248305905,
+    "baseline_correct_low_risk_threshold": -6.175988032644215,
+    "num_aggregated_rows": 300,
+    "num_incorrect_low_risk_helped": 15,
+    "num_correct_low_risk_worsened": 4
+  },
+  "rows": [
+    {
+      "id": "sfq_4713",
+      "question": "Which character did Felicity Kendall play in 'The Good Life'? (Christian name and surname required)",
+      "gold_answer": "Barbara Good",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 2.6666666666666665,
+      "fc_mean_unique_generations": 4.0,
+      "baseline_mean_eigenscore": -5.301357661468141,
+      "fc_mean_eigenscore": -4.665770893294119,
+      "mean_delta_eigenscore": 0.6355867681740225,
+      "mean_delta_unique_generations": 1.3333333333333333,
+      "mean_fc_clip_fraction": 0.006685813621238426,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Pauline.",
+          "is_correct": false,
+          "eigenscore": -5.630177413404203
+        },
+        {
+          "seed": 42,
+          "answer": "Pauline.",
+          "is_correct": false,
+          "eigenscore": -5.5558590356449695
+        },
+        {
+          "seed": 43,
+          "answer": "Pauline.",
+          "is_correct": false,
+          "eigenscore": -4.718036535355251
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Pauline.",
+          "is_correct": false,
+          "eigenscore": -5.122099172951354
+        },
+        {
+          "seed": 42,
+          "answer": "Pauline.",
+          "is_correct": false,
+          "eigenscore": -5.075533937400129
+        },
+        {
+          "seed": 43,
+          "answer": "Pauline.",
+          "is_correct": false,
+          "eigenscore": -3.7996795695308734
+        }
+      ]
+    },
+    {
+      "id": "sfq_16651",
+      "question": "Which Gilbert and Sullivan opera has the alternate title 'Bunthome's Bride'?",
+      "gold_answer": "Patience",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 3.3333333333333335,
+      "fc_mean_unique_generations": 4.666666666666667,
+      "baseline_mean_eigenscore": -4.966591952471429,
+      "fc_mean_eigenscore": -4.356062587262641,
+      "mean_delta_eigenscore": 0.6105293652087888,
+      "mean_delta_unique_generations": 1.3333333333333333,
+      "mean_fc_clip_fraction": 0.007464253646176948,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Iolanthe.",
+          "is_correct": false,
+          "eigenscore": -4.6757264578721065
+        },
+        {
+          "seed": 42,
+          "answer": "Iolanthe.",
+          "is_correct": false,
+          "eigenscore": -5.101784595841557
+        },
+        {
+          "seed": 43,
+          "answer": "Iolanthe.",
+          "is_correct": false,
+          "eigenscore": -5.122264803700625
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Iolanthe.",
+          "is_correct": false,
+          "eigenscore": -3.2772829740846205
+        },
+        {
+          "seed": 42,
+          "answer": "Iolanthe.",
+          "is_correct": false,
+          "eigenscore": -4.651398635376746
+        },
+        {
+          "seed": 43,
+          "answer": "Iolanthe.",
+          "is_correct": false,
+          "eigenscore": -5.139506152326555
+        }
+      ]
+    },
+    {
+      "id": "dpql_701",
+      "question": "‘Hampsteads’ is Cockney rhyming slang for what?",
+      "gold_answer": "teeth",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 1.6666666666666667,
+      "fc_mean_unique_generations": 2.6666666666666665,
+      "baseline_mean_eigenscore": -5.861001160263462,
+      "fc_mean_eigenscore": -5.394999455709714,
+      "mean_delta_eigenscore": 0.4660017045537484,
+      "mean_delta_unique_generations": 1.0,
+      "mean_fc_clip_fraction": 0.006228885135135135,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Heads.",
+          "is_correct": false,
+          "eigenscore": -6.183730660294321
+        },
+        {
+          "seed": 42,
+          "answer": "Heads.",
+          "is_correct": false,
+          "eigenscore": -6.183730660294321
+        },
+        {
+          "seed": 43,
+          "answer": "Heads.",
+          "is_correct": false,
+          "eigenscore": -5.2155421602017435
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Heads.",
+          "is_correct": false,
+          "eigenscore": -5.237229090292229
+        },
+        {
+          "seed": 42,
+          "answer": "Heads.",
+          "is_correct": false,
+          "eigenscore": -5.732227116635168
+        },
+        {
+          "seed": 43,
+          "answer": "Heads.",
+          "is_correct": false,
+          "eigenscore": -5.2155421602017435
+        }
+      ]
+    },
+    {
+      "id": "qw_1933",
+      "question": "What remake of a British science-fiction serial broadcast by BBC Television in the summer of 1953 was staged live by BBC Four in 2005 with actors Jason Flemyng, Mark Gatiss, Andrew Tiernan, Indira Varma, David Tennant and Adrian Bower?",
+      "gold_answer": "The Quatermass Experiment",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.4,
+      "fc_mean_correctness_score_vs_gold": 0.4,
+      "baseline_mean_unique_generations": 2.6666666666666665,
+      "fc_mean_unique_generations": 3.3333333333333335,
+      "baseline_mean_eigenscore": -5.273349961576818,
+      "fc_mean_eigenscore": -4.928518478007962,
+      "mean_delta_eigenscore": 0.3448314835688559,
+      "mean_delta_unique_generations": 0.6666666666666666,
+      "mean_fc_clip_fraction": 0.011521913022268135,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "The Quatermass and the Pit.",
+          "is_correct": false,
+          "eigenscore": -5.599541111813322
+        },
+        {
+          "seed": 42,
+          "answer": "The Quatermass and the Pit.",
+          "is_correct": false,
+          "eigenscore": -5.2021036361017305
+        },
+        {
+          "seed": 43,
+          "answer": "The Quatermass and the Pit.",
+          "is_correct": false,
+          "eigenscore": -5.018405136815401
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "The Quatermass and the Pit.",
+          "is_correct": false,
+          "eigenscore": -5.086310366785297
+        },
+        {
+          "seed": 42,
+          "answer": "The Quatermass and the Pit.",
+          "is_correct": false,
+          "eigenscore": -4.644733541266793
+        },
+        {
+          "seed": 43,
+          "answer": "The Quatermass and the Pit.",
+          "is_correct": false,
+          "eigenscore": -5.054511525971796
+        }
+      ]
+    },
+    {
+      "id": "sfq_2004",
+      "question": "\"Who in the wild west was known as \"\"Iron Eyes\"\" among his other nicknames?\"",
+      "gold_answer": "WILLIAM CODY",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 2.6666666666666665,
+      "fc_mean_unique_generations": 3.0,
+      "baseline_mean_eigenscore": -5.2587600125198986,
+      "fc_mean_eigenscore": -5.078629961031612,
+      "mean_delta_eigenscore": 0.18013005148828723,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.006761012768108299,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Wyatt Earp.",
+          "is_correct": false,
+          "eigenscore": -4.575886257632737
+        },
+        {
+          "seed": 42,
+          "answer": "Wyatt Earp.",
+          "is_correct": false,
+          "eigenscore": -5.6069951736817405
+        },
+        {
+          "seed": 43,
+          "answer": "Wyatt Earp.",
+          "is_correct": false,
+          "eigenscore": -5.593398606245219
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Wyatt Earp.",
+          "is_correct": false,
+          "eigenscore": -4.559063017867295
+        },
+        {
+          "seed": 42,
+          "answer": "Wyatt Earp.",
+          "is_correct": false,
+          "eigenscore": -5.0901047826113714
+        },
+        {
+          "seed": 43,
+          "answer": "Wyatt Earp.",
+          "is_correct": false,
+          "eigenscore": -5.586722082616168
+        }
+      ]
+    },
+    {
+      "id": "qb_919",
+      "question": "Composite, Shield and Cinder Cone are all types of what?",
+      "gold_answer": "Volcano",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 1.6666666666666667,
+      "fc_mean_unique_generations": 2.0,
+      "baseline_mean_eigenscore": -5.818999919952686,
+      "fc_mean_eigenscore": -5.652155035461901,
+      "mean_delta_eigenscore": 0.1668448844907863,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.0054675608828006084,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Volcanic landforms.",
+          "is_correct": false,
+          "eigenscore": -5.6568983087889695
+        },
+        {
+          "seed": 42,
+          "answer": "Volcanic landforms.",
+          "is_correct": false,
+          "eigenscore": -5.628130835368603
+        },
+        {
+          "seed": 43,
+          "answer": "Volcanic landforms.",
+          "is_correct": false,
+          "eigenscore": -6.171970615700487
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Volcanic landforms.",
+          "is_correct": false,
+          "eigenscore": -5.639483467785989
+        },
+        {
+          "seed": 42,
+          "answer": "Volcanic landforms.",
+          "is_correct": false,
+          "eigenscore": -5.628130835368603
+        },
+        {
+          "seed": 43,
+          "answer": "Volcanic landforms.",
+          "is_correct": false,
+          "eigenscore": -5.688850803231109
+        }
+      ]
+    },
+    {
+      "id": "qf_317",
+      "question": "In which country will you find the 'Carisbrook Rugby Stadium'?",
+      "gold_answer": "New Zealand",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 1.3333333333333333,
+      "fc_mean_unique_generations": 1.6666666666666667,
+      "baseline_mean_eigenscore": -6.022346809447787,
+      "fc_mean_eigenscore": -5.860430447938651,
+      "mean_delta_eigenscore": 0.1619163615091367,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.004418781494857654,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Australia.",
+          "is_correct": false,
+          "eigenscore": -6.177778185868878
+        },
+        {
+          "seed": 42,
+          "answer": "Australia.",
+          "is_correct": false,
+          "eigenscore": -6.177778185868878
+        },
+        {
+          "seed": 43,
+          "answer": "Australia.",
+          "is_correct": false,
+          "eigenscore": -5.711484056605606
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Australia.",
+          "is_correct": false,
+          "eigenscore": -6.177778185868878
+        },
+        {
+          "seed": 42,
+          "answer": "Australia.",
+          "is_correct": false,
+          "eigenscore": -6.177778185868878
+        },
+        {
+          "seed": 43,
+          "answer": "Australia.",
+          "is_correct": false,
+          "eigenscore": -5.225734972078196
+        }
+      ]
+    },
+    {
+      "id": "qw_8251",
+      "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+      "gold_answer": "Whistle Down the Wind",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 2.3333333333333335,
+      "fc_mean_unique_generations": 2.6666666666666665,
+      "baseline_mean_eigenscore": -5.488110892536893,
+      "fc_mean_eigenscore": -5.3301001976611975,
+      "mean_delta_eigenscore": 0.15801069487569563,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.007149549034552846,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "King of Kings.",
+          "is_correct": false,
+          "eigenscore": -5.2246094189979955
+        },
+        {
+          "seed": 42,
+          "answer": "King of Kings.",
+          "is_correct": false,
+          "eigenscore": -5.619861629309938
+        },
+        {
+          "seed": 43,
+          "answer": "King of Kings.",
+          "is_correct": false,
+          "eigenscore": -5.619861629302747
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "King of Kings.",
+          "is_correct": false,
+          "eigenscore": -5.207367573196601
+        },
+        {
+          "seed": 42,
+          "answer": "King of Kings.",
+          "is_correct": false,
+          "eigenscore": -5.602446529456612
+        },
+        {
+          "seed": 43,
+          "answer": "King of Kings.",
+          "is_correct": false,
+          "eigenscore": -5.18048649033038
+        }
+      ]
+    },
+    {
+      "id": "sfq_1803",
+      "question": "New Zealander Jack Lovelock gained fame in the1930's in which field?",
+      "gold_answer": "ATHLETICS",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 3.6666666666666665,
+      "fc_mean_unique_generations": 4.0,
+      "baseline_mean_eigenscore": -5.01246028548548,
+      "fc_mean_eigenscore": -4.887048488321986,
+      "mean_delta_eigenscore": 0.12541179716349435,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.006463923501230661,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Middle-distance running.",
+          "is_correct": false,
+          "eigenscore": -5.252847568313591
+        },
+        {
+          "seed": 42,
+          "answer": "Track and Field.",
+          "is_correct": false,
+          "eigenscore": -4.8994535153930485
+        },
+        {
+          "seed": 43,
+          "answer": "Middle-distance running.",
+          "is_correct": false,
+          "eigenscore": -4.8850797727498
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Track and Field.",
+          "is_correct": false,
+          "eigenscore": -4.930721636518705
+        },
+        {
+          "seed": 42,
+          "answer": "Track and Field.",
+          "is_correct": false,
+          "eigenscore": -4.8858688299484285
+        },
+        {
+          "seed": 43,
+          "answer": "Track and field.",
+          "is_correct": false,
+          "eigenscore": -4.844554998498823
+        }
+      ]
+    },
+    {
+      "id": "odql_8823",
+      "question": "The crime drama 'The Killing' shown on BBC 4 earlier this year is set in which European capital city?",
+      "gold_answer": "COPENHAGEN",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 3.0,
+      "fc_mean_unique_generations": 3.0,
+      "baseline_mean_eigenscore": -5.1600626883481935,
+      "fc_mean_eigenscore": -5.1397003270571,
+      "mean_delta_eigenscore": 0.020362361291093183,
+      "mean_delta_unique_generations": 0.0,
+      "mean_fc_clip_fraction": 0.006239826393880375,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Stockholm.",
+          "is_correct": false,
+          "eigenscore": -5.619672043365295
+        },
+        {
+          "seed": 42,
+          "answer": "Stockholm.",
+          "is_correct": false,
+          "eigenscore": -4.236128507779663
+        },
+        {
+          "seed": 43,
+          "answer": "Stockholm.",
+          "is_correct": false,
+          "eigenscore": -5.624387513899623
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Berlin.",
+          "is_correct": false,
+          "eigenscore": -5.141943598474342
+        },
+        {
+          "seed": 42,
+          "answer": "Stockholm.",
+          "is_correct": false,
+          "eigenscore": -4.656982828007807
+        },
+        {
+          "seed": 43,
+          "answer": "Berlin.",
+          "is_correct": false,
+          "eigenscore": -5.620174554689152
+        }
+      ]
+    },
+    {
+      "id": "qf_1525",
+      "question": "If you dress in clothes of the opposite sex, you are a what (no rude answers please!)?",
+      "gold_answer": "transvestite",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 2.0,
+      "fc_mean_unique_generations": 2.0,
+      "baseline_mean_eigenscore": -5.725483533753323,
+      "fc_mean_eigenscore": -5.709599812668808,
+      "mean_delta_eigenscore": 0.015883721084515596,
+      "mean_delta_unique_generations": 0.0,
+      "mean_fc_clip_fraction": 0.006805126886145405,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Cross-dresser.",
+          "is_correct": false,
+          "eigenscore": -4.804827982674676
+        },
+        {
+          "seed": 42,
+          "answer": "Cross-dresser.",
+          "is_correct": false,
+          "eigenscore": -6.185811309292647
+        },
+        {
+          "seed": 43,
+          "answer": "Cross-dresser.",
+          "is_correct": false,
+          "eigenscore": -6.185811309292647
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Cross-dresser.",
+          "is_correct": false,
+          "eigenscore": -5.249695014176881
+        },
+        {
+          "seed": 42,
+          "answer": "Cross-dresser.",
+          "is_correct": false,
+          "eigenscore": -5.693293114536895
+        },
+        {
+          "seed": 43,
+          "answer": "Cross-dresser.",
+          "is_correct": false,
+          "eigenscore": -6.185811309292647
+        }
+      ]
+    },
+    {
+      "id": "odql_6788",
+      "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+      "gold_answer": "GERMANY",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 2.6666666666666665,
+      "fc_mean_unique_generations": 2.6666666666666665,
+      "baseline_mean_eigenscore": -5.362712615112278,
+      "fc_mean_eigenscore": -5.347185667251616,
+      "mean_delta_eigenscore": 0.015526947860661148,
+      "mean_delta_unique_generations": 0.0,
+      "mean_fc_clip_fraction": 0.007526113399454462,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "France.",
+          "is_correct": false,
+          "eigenscore": -4.685809047882457
+        },
+        {
+          "seed": 42,
+          "answer": "France.",
+          "is_correct": false,
+          "eigenscore": -6.1792703355087
+        },
+        {
+          "seed": 43,
+          "answer": "France.",
+          "is_correct": false,
+          "eigenscore": -5.223058461945676
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "France.",
+          "is_correct": false,
+          "eigenscore": -4.639228204300474
+        },
+        {
+          "seed": 42,
+          "answer": "France.",
+          "is_correct": false,
+          "eigenscore": -6.1792703355087
+        },
+        {
+          "seed": 43,
+          "answer": "France.",
+          "is_correct": false,
+          "eigenscore": -5.223058461945676
+        }
+      ]
+    },
+    {
+      "id": "qw_11243",
+      "question": "Which country shares a 530 km border with Saudi Arabia on the west, south, and southeast, a 450 km border with Oman on the southeast and northeast, and a smaller border with Qatar in the northwest?",
+      "gold_answer": "United Arab Emirates",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 3.0,
+      "fc_mean_unique_generations": 3.0,
+      "baseline_mean_eigenscore": -5.205615843866183,
+      "fc_mean_eigenscore": -5.195016544404846,
+      "mean_delta_eigenscore": 0.010599299461336939,
+      "mean_delta_unique_generations": 0.0,
+      "mean_fc_clip_fraction": 0.008122482217502697,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Yemen.",
+          "is_correct": false,
+          "eigenscore": -5.160346676475756
+        },
+        {
+          "seed": 42,
+          "answer": "Yemen.",
+          "is_correct": false,
+          "eigenscore": -5.228250427565132
+        },
+        {
+          "seed": 43,
+          "answer": "Yemen.",
+          "is_correct": false,
+          "eigenscore": -5.228250427557662
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Yemen.",
+          "is_correct": false,
+          "eigenscore": -5.160346676475756
+        },
+        {
+          "seed": 42,
+          "answer": "Yemen.",
+          "is_correct": false,
+          "eigenscore": -5.196452529181121
+        },
+        {
+          "seed": 43,
+          "answer": "Yemen.",
+          "is_correct": false,
+          "eigenscore": -5.228250427557662
+        }
+      ]
+    },
+    {
+      "id": "qw_1392",
+      "question": "What is the former name of Helsingor, Denmark?",
+      "gold_answer": "Elsinor",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 2.0,
+      "fc_mean_unique_generations": 2.0,
+      "baseline_mean_eigenscore": -5.59717600142128,
+      "fc_mean_eigenscore": -5.593391740240968,
+      "mean_delta_eigenscore": 0.003784261180312498,
+      "mean_delta_unique_generations": 0.0,
+      "mean_fc_clip_fraction": 0.005114671803001652,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Helsingør.",
+          "is_correct": false,
+          "eigenscore": -5.597176001395122
+        },
+        {
+          "seed": 42,
+          "answer": "Helsingør.",
+          "is_correct": false,
+          "eigenscore": -5.597176001452569
+        },
+        {
+          "seed": 43,
+          "answer": "Helsingør.",
+          "is_correct": false,
+          "eigenscore": -5.597176001416149
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Helsingør.",
+          "is_correct": false,
+          "eigenscore": -5.597176001395122
+        },
+        {
+          "seed": 42,
+          "answer": "Helsingør.",
+          "is_correct": false,
+          "eigenscore": -5.597176001452569
+        },
+        {
+          "seed": 43,
+          "answer": "Helsingør.",
+          "is_correct": false,
+          "eigenscore": -5.585823217875212
+        }
+      ]
+    },
+    {
+      "id": "dpql_140",
+      "question": "JB Who wrote the novel ‘Greenmantle’?",
+      "gold_answer": "JOHN BUCHAN",
+      "n_seeds": 3,
+      "baseline_correct_rate": 0.0,
+      "fc_correct_rate": 0.0,
+      "baseline_mean_correctness_score_vs_gold": 0.0,
+      "fc_mean_correctness_score_vs_gold": 0.0,
+      "baseline_mean_unique_generations": 3.6666666666666665,
+      "fc_mean_unique_generations": 3.6666666666666665,
+      "baseline_mean_eigenscore": -4.7970443248305905,
+      "fc_mean_eigenscore": -4.79478075036406,
+      "mean_delta_eigenscore": 0.0022635744665304713,
+      "mean_delta_unique_generations": 0.0,
+      "mean_fc_clip_fraction": 0.006144240066807314,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+          "is_correct": false,
+          "eigenscore": -5.0672489478732645
+        },
+        {
+          "seed": 42,
+          "answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+          "is_correct": false,
+          "eigenscore": -4.687758237737743
+        },
+        {
+          "seed": 43,
+          "answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+          "is_correct": false,
+          "eigenscore": -4.636125788880764
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+          "is_correct": false,
+          "eigenscore": -5.0672489478732645
+        },
+        {
+          "seed": 42,
+          "answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+          "is_correct": false,
+          "eigenscore": -4.6809675143381515
+        },
+        {
+          "seed": 43,
+          "answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+          "is_correct": false,
+          "eigenscore": -4.636125788880764
+        }
+      ]
+    }
+  ]
+}

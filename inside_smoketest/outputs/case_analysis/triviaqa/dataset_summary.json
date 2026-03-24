@@ -1,0 +1,9 @@
+{
+  "n_items": 100,
+  "n_correct_aggregate": 54,
+  "n_incorrect_aggregate": 46,
+  "mean_eigenscore_all": -4.3068226754245345,
+  "mean_eigenscore_correct": -4.970625955532774,
+  "mean_eigenscore_incorrect": -3.5275753466018185,
+  "mean_correct_rate_all": 0.54
+}

@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "qf_792",
+    "question": "Who designed the Queen's wedding dress?",
+    "gold_answer": "Norman Hartnell",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.13333333333333333,
+    "fc_mean_correctness_score_vs_gold": 0.13333333333333333,
+    "baseline_mean_unique_generations": 7.666666666666667,
+    "fc_mean_unique_generations": 5.333333333333333,
+    "baseline_mean_eigenscore": -2.8243833875267805,
+    "fc_mean_eigenscore": -3.884299640903742,
+    "mean_delta_eigenscore": -1.0599162533769617,
+    "mean_delta_unique_generations": -2.3333333333333335,
+    "mean_fc_clip_fraction": 0.0075945317535750095,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "is_correct": false,
+        "eigenscore": -3.210406288617493
+      },
+      {
+        "seed": 42,
+        "answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "is_correct": false,
+        "eigenscore": -2.725015891178558
+      },
+      {
+        "seed": 43,
+        "answer": "The Queen's wedding dress was designed by David and Elizabeth Emanuel.",
+        "is_correct": false,
+        "eigenscore": -2.5377279827842907
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "is_correct": false,
+        "eigenscore": -4.088012744149337
+      },
+      {
+        "seed": 42,
+        "answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "is_correct": false,
+        "eigenscore": -3.592282497268662
+      },
+      {
+        "seed": 43,
+        "answer": "The Queen's wedding dress was designed by David and Elizabeth Emanuel.",
+        "is_correct": false,
+        "eigenscore": -3.972603681293228
+      }
+    ]
+  },
+  {
+    "id": "qg_4604",
+    "question": "With a motto of Always Ready, Always There, what US military branch had it's founding on Dec 14, 1636?",
+    "gold_answer": "National Guard",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 9.666666666666666,
+    "fc_mean_unique_generations": 7.666666666666667,
+    "baseline_mean_eigenscore": -2.155585709955256,
+    "fc_mean_eigenscore": -3.1070731199769606,
+    "mean_delta_eigenscore": -0.9514874100217049,
+    "mean_delta_unique_generations": -2.0,
+    "mean_fc_clip_fraction": 0.007387911543972377,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The United States Marine Corps.",
+        "is_correct": false,
+        "eigenscore": -2.5515734763191746
+      },
+      {
+        "seed": 42,
+        "answer": "The US Marine Corps.",
+        "is_correct": false,
+        "eigenscore": -2.6036378746115965
+      },
+      {
+        "seed": 43,
+        "answer": "The United States Marine Corps.",
+        "is_correct": false,
+        "eigenscore": -1.3115457789349956
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The United States Marine Corps.",
+        "is_correct": false,
+        "eigenscore": -2.60870524779065
+      },
+      {
+        "seed": 42,
+        "answer": "The United States Marine Corps.",
+        "is_correct": false,
+        "eigenscore": -3.561583300188701
+      },
+      {
+        "seed": 43,
+        "answer": "The United States Marine Corps.",
+        "is_correct": false,
+        "eigenscore": -3.1509308119515302
+      }
+    ]
+  },
+  {
+    "id": "sfq_4730",
+    "question": "What year appears on bottles of the French lager Kronenbourg?",
+    "gold_answer": "1664",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.3333333333333333,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.3333333333333333,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 17.333333333333332,
+    "fc_mean_unique_generations": 15.333333333333334,
+    "baseline_mean_eigenscore": 1.5604006900161462,
+    "fc_mean_eigenscore": 0.7147256852219313,
+    "mean_delta_eigenscore": -0.8456750047942149,
+    "mean_delta_unique_generations": -2.0,
+    "mean_fc_clip_fraction": 0.007759537067819149,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The year appears on the bottles of Kronenbourg 1664.",
+        "is_correct": true,
+        "eigenscore": 2.154177015588843
+      },
+      {
+        "seed": 42,
+        "answer": "The year of production appears on the bottle.",
+        "is_correct": false,
+        "eigenscore": 0.849445293953018
+      },
+      {
+        "seed": 43,
+        "answer": "The year appears on the neck of the bottle.",
+        "is_correct": false,
+        "eigenscore": 1.6775797605065776
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The year of production.",
+        "is_correct": false,
+        "eigenscore": 1.2351797992487845
+      },
+      {
+        "seed": 42,
+        "answer": "The year of production appears on the bottle.",
+        "is_correct": false,
+        "eigenscore": 0.11937167239572224
+      },
+      {
+        "seed": 43,
+        "answer": "The year appears on the neck of the bottle.",
+        "is_correct": false,
+        "eigenscore": 0.7896255840212871
+      }
+    ]
+  },
+  {
+    "id": "sfq_17511",
+    "question": "For which TV show does the Dave Arch orchestra regularly provide the musical accompaniment?",
+    "gold_answer": "STRICTLY COME DANCING",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 14.333333333333334,
+    "fc_mean_unique_generations": 12.333333333333334,
+    "baseline_mean_eigenscore": 0.03708902161485116,
+    "fc_mean_eigenscore": -0.6758857102248398,
+    "mean_delta_eigenscore": -0.712974731839691,
+    "mean_delta_unique_generations": -2.0,
+    "mean_fc_clip_fraction": 0.0076623518035589065,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Dave Arch Orchestra provides the musical accompaniment for the TV show \"The Price is Right\".",
+        "is_correct": false,
+        "eigenscore": 0.8356739864684481
+      },
+      {
+        "seed": 42,
+        "answer": "The Dave Arch Orchestra provides the musical accompaniment for the TV show \"The Price is Right.\"",
+        "is_correct": false,
+        "eigenscore": 0.0528283988682575
+      },
+      {
+        "seed": 43,
+        "answer": "The A-Team.",
+        "is_correct": false,
+        "eigenscore": -0.7772353204921522
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Dave Arch Orchestra provides the musical accompaniment for the TV show \"The Price is Right\".",
+        "is_correct": false,
+        "eigenscore": 0.18255579445876455
+      },
+      {
+        "seed": 42,
+        "answer": "The A-Team.",
+        "is_correct": false,
+        "eigenscore": -1.2645476830171067
+      },
+      {
+        "seed": 43,
+        "answer": "The A-Team.",
+        "is_correct": false,
+        "eigenscore": -0.9456652421161772
+      }
+    ]
+  },
+  {
+    "id": "qz_3863",
+    "question": "Who lives in the Hundred Acre Wood?",
+    "gold_answer": "Winnie-the-Pooh",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 0.5476190476190477,
+    "fc_mean_correctness_score_vs_gold": 0.5476190476190477,
+    "baseline_mean_unique_generations": 11.666666666666666,
+    "fc_mean_unique_generations": 10.0,
+    "baseline_mean_eigenscore": -1.835809795456522,
+    "fc_mean_eigenscore": -2.483280142616388,
+    "mean_delta_eigenscore": -0.6474703471598661,
+    "mean_delta_unique_generations": -1.6666666666666667,
+    "mean_fc_clip_fraction": 0.009396888511727012,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Winnie the Pooh and his animal friends.",
+        "is_correct": true,
+        "eigenscore": -1.5058290579849438
+      },
+      {
+        "seed": 42,
+        "answer": "Winnie the Pooh and his friends.",
+        "is_correct": true,
+        "eigenscore": -2.8616022533649903
+      },
+      {
+        "seed": 43,
+        "answer": "Winnie the Pooh and his friends.",
+        "is_correct": true,
+        "eigenscore": -1.1399980750196317
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Winnie the Pooh and his animal friends.",
+        "is_correct": true,
+        "eigenscore": -2.794992935234455
+      },
+      {
+        "seed": 42,
+        "answer": "Winnie the Pooh and his friends.",
+        "is_correct": true,
+        "eigenscore": -3.5172361966877963
+      },
+      {
+        "seed": 43,
+        "answer": "Winnie the Pooh and his friends.",
+        "is_correct": true,
+        "eigenscore": -1.137611295926913
+      }
+    ]
+  },
+  {
+    "id": "sfq_4599",
+    "question": "Which sportsman's autobiography is called Blessed?",
+    "gold_answer": "George Best",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 7.666666666666667,
+    "fc_mean_unique_generations": 6.333333333333333,
+    "baseline_mean_eigenscore": -2.77791940364209,
+    "fc_mean_eigenscore": -3.416843816340235,
+    "mean_delta_eigenscore": -0.6389244126981451,
+    "mean_delta_unique_generations": -1.3333333333333333,
+    "mean_fc_clip_fraction": 0.005005885926938559,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Mo Farah.",
+        "is_correct": false,
+        "eigenscore": -4.059063797180128
+      },
+      {
+        "seed": 42,
+        "answer": "Mo Farah.",
+        "is_correct": false,
+        "eigenscore": -2.551782451053803
+      },
+      {
+        "seed": 43,
+        "answer": "Mo Farah.",
+        "is_correct": false,
+        "eigenscore": -1.7229119626923386
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Mo Farah.",
+        "is_correct": false,
+        "eigenscore": -4.059063797180128
+      },
+      {
+        "seed": 42,
+        "answer": "Mo Farah.",
+        "is_correct": false,
+        "eigenscore": -3.0629130842785774
+      },
+      {
+        "seed": 43,
+        "answer": "Mo Farah.",
+        "is_correct": false,
+        "eigenscore": -3.1285545675619995
+      }
+    ]
+  },
+  {
+    "id": "qw_9997",
+    "question": "On 31 May 2010, the President of which country announced his resignation after local politicians criticised comments he made in relation to overseas military deployments?",
+    "gold_answer": "Germany",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 12.0,
+    "fc_mean_unique_generations": 10.666666666666666,
+    "baseline_mean_eigenscore": -0.6111758456705739,
+    "fc_mean_eigenscore": -1.19034177973319,
+    "mean_delta_eigenscore": -0.5791659340626162,
+    "mean_delta_unique_generations": -1.3333333333333333,
+    "mean_fc_clip_fraction": 0.007881150966545479,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The President of Ireland.",
+        "is_correct": false,
+        "eigenscore": -1.1323832628526742
+      },
+      {
+        "seed": 42,
+        "answer": "The President of Iceland.",
+        "is_correct": false,
+        "eigenscore": -1.0257612660232356
+      },
+      {
+        "seed": 43,
+        "answer": "The President of Iceland.",
+        "is_correct": false,
+        "eigenscore": 0.3246169918641881
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The President of Ireland.",
+        "is_correct": false,
+        "eigenscore": -1.1644127369111374
+      },
+      {
+        "seed": 42,
+        "answer": "The President of Iceland.",
+        "is_correct": false,
+        "eigenscore": -1.4902245447296116
+      },
+      {
+        "seed": 43,
+        "answer": "The President of Ireland.",
+        "is_correct": false,
+        "eigenscore": -0.916388057558821
+      }
+    ]
+  },
+  {
+    "id": "sfq_12189",
+    "question": "Who was the first overseas manager to win the Premier League title?",
+    "gold_answer": "Arsene Wenger",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 14.666666666666666,
+    "fc_mean_unique_generations": 13.333333333333334,
+    "baseline_mean_eigenscore": 0.40363990621465723,
+    "fc_mean_eigenscore": -0.1687492275092967,
+    "mean_delta_eigenscore": -0.572389133723954,
+    "mean_delta_unique_generations": -1.3333333333333333,
+    "mean_fc_clip_fraction": 0.006946891684401135,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Graham Taylor.",
+        "is_correct": false,
+        "eigenscore": 1.3278595475995882
+      },
+      {
+        "seed": 42,
+        "answer": "Graham Taylor of Aston Villa.",
+        "is_correct": false,
+        "eigenscore": -1.1364581451164573
+      },
+      {
+        "seed": 43,
+        "answer": "Graham Souness.",
+        "is_correct": false,
+        "eigenscore": 1.0195183161608408
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Graham Taylor.",
+        "is_correct": false,
+        "eigenscore": 0.6103902919091425
+      },
+      {
+        "seed": 42,
+        "answer": "Graham Taylor of Aston Villa.",
+        "is_correct": false,
+        "eigenscore": -1.6381872315831107
+      },
+      {
+        "seed": 43,
+        "answer": "Graham Taylor.",
+        "is_correct": false,
+        "eigenscore": 0.5215492571460781
+      }
+    ]
+  },
+  {
+    "id": "odql_14908",
+    "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+    "gold_answer": "Byker Grove",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 11.333333333333334,
+    "fc_mean_unique_generations": 10.333333333333334,
+    "baseline_mean_eigenscore": -0.7074186328234096,
+    "fc_mean_eigenscore": -1.2551490210265164,
+    "mean_delta_eigenscore": -0.5477303882031069,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.0078955728967936,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Noel's House Party.",
+        "is_correct": false,
+        "eigenscore": -0.8936777383335283
+      },
+      {
+        "seed": 42,
+        "answer": "Noel's House Party.",
+        "is_correct": false,
+        "eigenscore": -0.305549761194882
+      },
+      {
+        "seed": 43,
+        "answer": "Crackdown.",
+        "is_correct": false,
+        "eigenscore": -0.9230283989418184
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Noel's House Party.",
+        "is_correct": false,
+        "eigenscore": -1.3672773583524909
+      },
+      {
+        "seed": 42,
+        "answer": "Noel's House Party.",
+        "is_correct": false,
+        "eigenscore": -1.9346484143550053
+      },
+      {
+        "seed": 43,
+        "answer": "Noel's House Party.",
+        "is_correct": false,
+        "eigenscore": -0.46352129037205325
+      }
+    ]
+  },
+  {
+    "id": "bb_3546",
+    "question": "(When discovered Jan 2013) the largest known structure in the universe - a large quasar group named 'Huge-LQG' - would take how many years to cross if travelling at the speed of light?",
+    "gold_answer": "4 billion",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.6666666666666666,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 0.7777777777777778,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 14.0,
+    "fc_mean_unique_generations": 11.333333333333334,
+    "baseline_mean_eigenscore": -2.2913798657707747,
+    "fc_mean_eigenscore": -2.8365191101877296,
+    "mean_delta_eigenscore": -0.545139244416955,
+    "mean_delta_unique_generations": -2.6666666666666665,
+    "mean_fc_clip_fraction": 0.010040607013263264,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Approximately 13.4 billion years.",
+        "is_correct": true,
+        "eigenscore": -2.597320299869154
+      },
+      {
+        "seed": 42,
+        "answer": "Approximately 13.4 billion years.",
+        "is_correct": true,
+        "eigenscore": -2.597296373569333
+      },
+      {
+        "seed": 43,
+        "answer": "About 2.5 billion years.",
+        "is_correct": false,
+        "eigenscore": -1.679522923873837
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Approximately 13.4 billion years.",
+        "is_correct": true,
+        "eigenscore": -3.3529825544761573
+      },
+      {
+        "seed": 42,
+        "answer": "Approximately 13.4 billion years.",
+        "is_correct": true,
+        "eigenscore": -2.9462256915614278
+      },
+      {
+        "seed": 43,
+        "answer": "Approximately 13.4 billion years.",
+        "is_correct": true,
+        "eigenscore": -2.2103490845256037
+      }
+    ]
+  },
+  {
+    "id": "dpql_702",
+    "question": "Who made the first telephone call to the Moon?",
+    "gold_answer": "Richard Nixon",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 9.666666666666666,
+    "fc_mean_unique_generations": 8.666666666666666,
+    "baseline_mean_eigenscore": -2.351238147861785,
+    "fc_mean_eigenscore": -2.869562397435322,
+    "mean_delta_eigenscore": -0.5183242495735373,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.00649628153696685,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "No one has made a telephone call to the Moon.",
+        "is_correct": false,
+        "eigenscore": -2.0286131364014897
+      },
+      {
+        "seed": 42,
+        "answer": "I couldn't find any information about a telephone call to the Moon.",
+        "is_correct": false,
+        "eigenscore": -2.3956507301281182
+      },
+      {
+        "seed": 43,
+        "answer": "There is no recorded instance of a telephone call to the Moon.",
+        "is_correct": false,
+        "eigenscore": -2.6294505770557466
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "No one has made a telephone call to the Moon.",
+        "is_correct": false,
+        "eigenscore": -2.366610501755114
+      },
+      {
+        "seed": 42,
+        "answer": "I couldn't find any information about a telephone call to the Moon.",
+        "is_correct": false,
+        "eigenscore": -3.2420397020636686
+      },
+      {
+        "seed": 43,
+        "answer": "No one has made a telephone call to the Moon.",
+        "is_correct": false,
+        "eigenscore": -3.000036988487184
+      }
+    ]
+  },
+  {
+    "id": "sfq_15658",
+    "question": "Which National Trust property in Wiltshire was once owned by William Henry Fox-Talbot the pioneer of photography?",
+    "gold_answer": "Lacock Abbey",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 5.0,
+    "fc_mean_unique_generations": 4.0,
+    "baseline_mean_eigenscore": -4.142270577299549,
+    "fc_mean_eigenscore": -4.6322197932704245,
+    "mean_delta_eigenscore": -0.48994921597087515,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.008802237325512064,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Lacock Abbey.",
+        "is_correct": true,
+        "eigenscore": -4.092308385530701
+      },
+      {
+        "seed": 42,
+        "answer": "Lacock Abbey.",
+        "is_correct": true,
+        "eigenscore": -3.6606496296509583
+      },
+      {
+        "seed": 43,
+        "answer": "Lacock Abbey.",
+        "is_correct": true,
+        "eigenscore": -4.673853716716988
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Lacock Abbey.",
+        "is_correct": true,
+        "eigenscore": -5.088242452030328
+      },
+      {
+        "seed": 42,
+        "answer": "Lacock Abbey.",
+        "is_correct": true,
+        "eigenscore": -4.1345632110639565
+      },
+      {
+        "seed": 43,
+        "answer": "Lacock Abbey.",
+        "is_correct": true,
+        "eigenscore": -4.673853716716988
+      }
+    ]
+  },
+  {
+    "id": "wh_860",
+    "question": "What was the name of the British teacher jailed in Sudan in 2007 for allowing a teddy bear to be called Mohammed?",
+    "gold_answer": "GILLIAN GIBBONS",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 6.0,
+    "fc_mean_unique_generations": 5.0,
+    "baseline_mean_eigenscore": -3.8431299016392773,
+    "fc_mean_eigenscore": -4.321570572359571,
+    "mean_delta_eigenscore": -0.47844067072029334,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.007934267697945887,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Gillian Gibbons.",
+        "is_correct": true,
+        "eigenscore": -4.766717833740327
+      },
+      {
+        "seed": 42,
+        "answer": "Gillian Gibbons.",
+        "is_correct": true,
+        "eigenscore": -3.788994374165013
+      },
+      {
+        "seed": 43,
+        "answer": "Gillian Gibbons.",
+        "is_correct": true,
+        "eigenscore": -2.973677497012491
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Gillian Gibbons.",
+        "is_correct": true,
+        "eigenscore": -4.489725972357377
+      },
+      {
+        "seed": 42,
+        "answer": "Gillian Gibbons.",
+        "is_correct": true,
+        "eigenscore": -4.393024602840588
+      },
+      {
+        "seed": 43,
+        "answer": "Gillian Gibbons.",
+        "is_correct": true,
+        "eigenscore": -4.081961141880747
+      }
+    ]
+  },
+  {
+    "id": "wh_1148",
+    "question": "What was the name of the USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II ?",
+    "gold_answer": "MEMPHIS BELLE",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 17.666666666666668,
+    "fc_mean_unique_generations": 17.0,
+    "baseline_mean_eigenscore": 1.266224328779025,
+    "fc_mean_eigenscore": 0.8012451394952957,
+    "mean_delta_eigenscore": -0.46497918928372933,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.011253899509718194,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II was \"Hell's Angels\".",
+        "is_correct": false,
+        "eigenscore": 1.3485246444748828
+      },
+      {
+        "seed": 42,
+        "answer": "The \"Hell's Angels\"",
+        "is_correct": false,
+        "eigenscore": 1.084481893076051
+      },
+      {
+        "seed": 43,
+        "answer": "The USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II was the \"Hell's Angels\".",
+        "is_correct": false,
+        "eigenscore": 1.3656664487861412
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The crew of the USAAF B-17 Flying Fortress named \"Hell's Angels\"",
+        "is_correct": false,
+        "eigenscore": 1.2258801000032786
+      },
+      {
+        "seed": 42,
+        "answer": "The crew of the B-17 Flying Fortress \"Hell's Angels\"",
+        "is_correct": false,
+        "eigenscore": -0.45365867336689825
+      },
+      {
+        "seed": 43,
+        "answer": "The crew of the B-17 Flying Fortress \"Hell's Angels\"",
+        "is_correct": false,
+        "eigenscore": 1.6315139918495067
+      }
+    ]
+  },
+  {
+    "id": "sfq_7738",
+    "question": "Which American state borders on only one other state?",
+    "gold_answer": "MAINE",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 7.666666666666667,
+    "fc_mean_unique_generations": 6.666666666666667,
+    "baseline_mean_eigenscore": -2.8989475198464807,
+    "fc_mean_eigenscore": -3.3567495848809985,
+    "mean_delta_eigenscore": -0.45780206503451754,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.006007781195569047,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Maine.",
+        "is_correct": true,
+        "eigenscore": -3.618932477207135
+      },
+      {
+        "seed": 42,
+        "answer": "Maine.",
+        "is_correct": true,
+        "eigenscore": -1.8979445119776126
+      },
+      {
+        "seed": 43,
+        "answer": "Maine.",
+        "is_correct": true,
+        "eigenscore": -3.1799655703546947
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Maine.",
+        "is_correct": true,
+        "eigenscore": -4.059085718896645
+      },
+      {
+        "seed": 42,
+        "answer": "Maine.",
+        "is_correct": true,
+        "eigenscore": -2.785707976455046
+      },
+      {
+        "seed": 43,
+        "answer": "Maine.",
+        "is_correct": true,
+        "eigenscore": -3.225455059291304
+      }
+    ]
+  },
+  {
+    "id": "qg_1341",
+    "question": "Whom was Ronald Reagan referring to when he uttered the famous phrase \"evil empire\" in a 1983 speech?",
+    "gold_answer": "Soviet Union",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 4.666666666666667,
+    "fc_mean_unique_generations": 3.6666666666666665,
+    "baseline_mean_eigenscore": -4.496543710382624,
+    "fc_mean_eigenscore": -4.948488253855918,
+    "mean_delta_eigenscore": -0.4519445434732943,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.007220819745791898,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Soviet Union.",
+        "is_correct": true,
+        "eigenscore": -4.772827615062873
+      },
+      {
+        "seed": 42,
+        "answer": "He was referring to the Soviet Union.",
+        "is_correct": true,
+        "eigenscore": -4.336300636990224
+      },
+      {
+        "seed": 43,
+        "answer": "He was referring to the Soviet Union.",
+        "is_correct": true,
+        "eigenscore": -4.380502879094774
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Soviet Union.",
+        "is_correct": true,
+        "eigenscore": -5.246827372742699
+      },
+      {
+        "seed": 42,
+        "answer": "Soviet Union.",
+        "is_correct": true,
+        "eigenscore": -5.19464596139135
+      },
+      {
+        "seed": 43,
+        "answer": "He was referring to the Soviet Union.",
+        "is_correct": true,
+        "eigenscore": -4.403991427433705
+      }
+    ]
+  },
+  {
+    "id": "sfq_5888",
+    "question": "Give a year in the reign of King Stephen.",
+    "gold_answer": "1135-1154",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.3333333333333333,
+    "fc_correct_rate": 0.3333333333333333,
+    "baseline_mean_correctness_score_vs_gold": 0.3333333333333333,
+    "fc_mean_correctness_score_vs_gold": 0.3333333333333333,
+    "baseline_mean_unique_generations": 10.333333333333334,
+    "fc_mean_unique_generations": 9.333333333333334,
+    "baseline_mean_eigenscore": -2.0901956110194697,
+    "fc_mean_eigenscore": -2.54124842470231,
+    "mean_delta_eigenscore": -0.45105281368284017,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.0034458933312908496,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "1135.",
+        "is_correct": true,
+        "eigenscore": -1.802467573322458
+      },
+      {
+        "seed": 42,
+        "answer": "1076.",
+        "is_correct": false,
+        "eigenscore": -2.19078476202811
+      },
+      {
+        "seed": 43,
+        "answer": "1078.",
+        "is_correct": false,
+        "eigenscore": -2.277334497707842
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "1135.",
+        "is_correct": true,
+        "eigenscore": -2.2389470278356085
+      },
+      {
+        "seed": 42,
+        "answer": "1078",
+        "is_correct": false,
+        "eigenscore": -3.0121169838826
+      },
+      {
+        "seed": 43,
+        "answer": "1078.",
+        "is_correct": false,
+        "eigenscore": -2.3726812623887215
+      }
+    ]
+  },
+  {
+    "id": "qw_6504",
+    "question": "What is the name of the tool used to sharpen a knife?",
+    "gold_answer": "Steel",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 3.6666666666666665,
+    "fc_mean_unique_generations": 2.6666666666666665,
+    "baseline_mean_eigenscore": -4.952904838527084,
+    "fc_mean_eigenscore": -5.387448893998836,
+    "mean_delta_eigenscore": -0.43454405547175146,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.004936250219433982,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Whetstone.",
+        "is_correct": false,
+        "eigenscore": -4.84103386420973
+      },
+      {
+        "seed": 42,
+        "answer": "Whetstone.",
+        "is_correct": false,
+        "eigenscore": -5.225678638790663
+      },
+      {
+        "seed": 43,
+        "answer": "Whetstone.",
+        "is_correct": false,
+        "eigenscore": -4.792002012580861
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Whetstone.",
+        "is_correct": false,
+        "eigenscore": -5.274715395413809
+      },
+      {
+        "seed": 42,
+        "answer": "Whetstone.",
+        "is_correct": false,
+        "eigenscore": -5.663261954585678
+      },
+      {
+        "seed": 43,
+        "answer": "Whetstone.",
+        "is_correct": false,
+        "eigenscore": -5.224369331997021
+      }
+    ]
+  },
+  {
+    "id": "bb_2852",
+    "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+    "gold_answer": "Airport",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 10.333333333333334,
+    "fc_mean_unique_generations": 9.333333333333334,
+    "baseline_mean_eigenscore": -1.3876449186143067,
+    "fc_mean_eigenscore": -1.7681600019189263,
+    "mean_delta_eigenscore": -0.38051508330461953,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.0075120446112943995,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "lighthouse.",
+        "is_correct": false,
+        "eigenscore": -1.1535171779060578
+      },
+      {
+        "seed": 42,
+        "answer": "Puffin colony.",
+        "is_correct": false,
+        "eigenscore": -1.1113526368628055
+      },
+      {
+        "seed": 43,
+        "answer": "Puffin colony.",
+        "is_correct": false,
+        "eigenscore": -1.898064941074057
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Puffin colony.",
+        "is_correct": false,
+        "eigenscore": -2.458750795620592
+      },
+      {
+        "seed": 42,
+        "answer": "Puffin colony.",
+        "is_correct": false,
+        "eigenscore": -1.949476538692863
+      },
+      {
+        "seed": 43,
+        "answer": "Puffin colony.",
+        "is_correct": false,
+        "eigenscore": -0.8962526714433242
+      }
+    ]
+  },
+  {
+    "id": "sfq_25127",
+    "question": "What is the five-letter name for Norway as used on its stamps?",
+    "gold_answer": "NORGE",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 5.666666666666667,
+    "fc_mean_unique_generations": 5.0,
+    "baseline_mean_eigenscore": -3.683600444070404,
+    "fc_mean_eigenscore": -4.042255407127281,
+    "mean_delta_eigenscore": -0.35865496305687666,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.005388198301016566,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "NORWAY.",
+        "is_correct": false,
+        "eigenscore": -3.5320352726337445
+      },
+      {
+        "seed": 42,
+        "answer": "NORWAY.",
+        "is_correct": false,
+        "eigenscore": -3.957713388448533
+      },
+      {
+        "seed": 43,
+        "answer": "NORWAY",
+        "is_correct": false,
+        "eigenscore": -3.561052671128935
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "NORWAY.",
+        "is_correct": false,
+        "eigenscore": -4.01048646431824
+      },
+      {
+        "seed": 42,
+        "answer": "NORWAY.",
+        "is_correct": false,
+        "eigenscore": -4.508148221440219
+      },
+      {
+        "seed": 43,
+        "answer": "NORWAY.",
+        "is_correct": false,
+        "eigenscore": -3.608131535623383
+      }
+    ]
+  },
+  {
+    "id": "sfq_8650",
+    "question": "When Alexander the Great had an Empire to which Asian Country did it stretch?",
+    "gold_answer": "INDIA",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 10.333333333333334,
+    "fc_mean_unique_generations": 9.333333333333334,
+    "baseline_mean_eigenscore": -2.285827894178694,
+    "fc_mean_eigenscore": -2.635339155515761,
+    "mean_delta_eigenscore": -0.3495112613370668,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.005985668024736705,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "From Greece to modern-day Pakistan.",
+        "is_correct": false,
+        "eigenscore": -2.759868139412358
+      },
+      {
+        "seed": 42,
+        "answer": "From Greece to present-day Pakistan.",
+        "is_correct": false,
+        "eigenscore": -2.2920704576285607
+      },
+      {
+        "seed": 43,
+        "answer": "From Greece to present-day Pakistan.",
+        "is_correct": false,
+        "eigenscore": -1.805545085495163
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "From Greece to modern-day Pakistan.",
+        "is_correct": false,
+        "eigenscore": -2.5542055316036865
+      },
+      {
+        "seed": 42,
+        "answer": "From Greece to modern-day Pakistan.",
+        "is_correct": false,
+        "eigenscore": -2.5879797945560346
+      },
+      {
+        "seed": 43,
+        "answer": "From Greece to modern-day Pakistan.",
+        "is_correct": false,
+        "eigenscore": -2.763832140387561
+      }
+    ]
+  },
+  {
+    "id": "odql_1436",
+    "question": "In 1942, which town was destroyed by Nazis in reprisal for the assassination of Reinhard Heydrick?",
+    "gold_answer": "LIDICE",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 8.0,
+    "fc_mean_unique_generations": 7.333333333333333,
+    "baseline_mean_eigenscore": -2.5883620340371865,
+    "fc_mean_eigenscore": -2.9318540503422086,
+    "mean_delta_eigenscore": -0.3434920163050222,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.008193660783179011,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Leningrad.",
+        "is_correct": false,
+        "eigenscore": -3.1222705589812056
+      },
+      {
+        "seed": 42,
+        "answer": "Lublin.",
+        "is_correct": false,
+        "eigenscore": -1.5988461747978888
+      },
+      {
+        "seed": 43,
+        "answer": "Jassy, Romania.",
+        "is_correct": false,
+        "eigenscore": -3.0439693683324642
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Leningrad.",
+        "is_correct": false,
+        "eigenscore": -3.630105204634868
+      },
+      {
+        "seed": 42,
+        "answer": "Lublin.",
+        "is_correct": false,
+        "eigenscore": -2.157028738260791
+      },
+      {
+        "seed": 43,
+        "answer": "Jassy.",
+        "is_correct": false,
+        "eigenscore": -3.008428208130966
+      }
+    ]
+  },
+  {
+    "id": "sfq_25839",
+    "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+    "gold_answer": "The Flying Pickets",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 12.666666666666666,
+    "fc_mean_unique_generations": 11.666666666666666,
+    "baseline_mean_eigenscore": -0.8116942353004133,
+    "fc_mean_eigenscore": -1.1455312667043571,
+    "mean_delta_eigenscore": -0.333837031403944,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.007662922670041537,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Fixx.",
+        "is_correct": false,
+        "eigenscore": -0.585141469780665
+      },
+      {
+        "seed": 42,
+        "answer": "Tears for Fears.",
+        "is_correct": false,
+        "eigenscore": -1.4087223549124643
+      },
+      {
+        "seed": 43,
+        "answer": "The Four Tops.",
+        "is_correct": false,
+        "eigenscore": -0.4412188812081104
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Bangles.",
+        "is_correct": false,
+        "eigenscore": -0.972475402821888
+      },
+      {
+        "seed": 42,
+        "answer": "Tears for Fears.",
+        "is_correct": false,
+        "eigenscore": -1.3703998692034112
+      },
+      {
+        "seed": 43,
+        "answer": "The Fixx.",
+        "is_correct": false,
+        "eigenscore": -1.0937185280877724
+      }
+    ]
+  },
+  {
+    "id": "jp_1522",
+    "question": "\"Who said \"\"we're more popular than Jesus now\"\", in 1966?\"",
+    "gold_answer": "John Lennon",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 10.666666666666666,
+    "fc_mean_unique_generations": 10.0,
+    "baseline_mean_eigenscore": -1.49899878523647,
+    "fc_mean_eigenscore": -1.8281943295194816,
+    "mean_delta_eigenscore": -0.3291955442830116,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.006222276848593562,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Beatles.",
+        "is_correct": false,
+        "eigenscore": -1.8293180466114698
+      },
+      {
+        "seed": 42,
+        "answer": "The Beatles.",
+        "is_correct": false,
+        "eigenscore": -0.582101297656472
+      },
+      {
+        "seed": 43,
+        "answer": "The Beatles.",
+        "is_correct": false,
+        "eigenscore": -2.085577011441468
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Paul McCartney of The Beatles.",
+        "is_correct": false,
+        "eigenscore": -1.7879962683762431
+      },
+      {
+        "seed": 42,
+        "answer": "The Beatles.",
+        "is_correct": false,
+        "eigenscore": -0.5940335978390358
+      },
+      {
+        "seed": 43,
+        "answer": "Paul McCartney of The Beatles.",
+        "is_correct": false,
+        "eigenscore": -3.1025531223431657
+      }
+    ]
+  },
+  {
+    "id": "qz_4175",
+    "question": "In Risk, what colour is Europe?",
+    "gold_answer": "Blue",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.3333333333333333,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.3333333333333333,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 8.0,
+    "fc_mean_unique_generations": 7.333333333333333,
+    "baseline_mean_eigenscore": -2.952980571202205,
+    "fc_mean_eigenscore": -3.2794226942081477,
+    "mean_delta_eigenscore": -0.32644212300594305,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.0048553461151117396,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Red.",
+        "is_correct": false,
+        "eigenscore": -3.321359653093924
+      },
+      {
+        "seed": 42,
+        "answer": "Red.",
+        "is_correct": false,
+        "eigenscore": -3.391333262726323
+      },
+      {
+        "seed": 43,
+        "answer": "Blue.",
+        "is_correct": true,
+        "eigenscore": -2.1462487977863676
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Red.",
+        "is_correct": false,
+        "eigenscore": -3.8552244689361066
+      },
+      {
+        "seed": 42,
+        "answer": "Red.",
+        "is_correct": false,
+        "eigenscore": -3.400567989891595
+      },
+      {
+        "seed": 43,
+        "answer": "Brown.",
+        "is_correct": false,
+        "eigenscore": -2.582475623796742
+      }
+    ]
+  },
+  {
+    "id": "tc_1179",
+    "question": "Which Joan's career revived in Whatever Happened to Baby Jane?",
+    "gold_answer": "Crawford",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 4.666666666666667,
+    "fc_mean_unique_generations": 4.0,
+    "baseline_mean_eigenscore": -4.268707835488149,
+    "fc_mean_eigenscore": -4.586461582522645,
+    "mean_delta_eigenscore": -0.31775374703449594,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.006044643276088588,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Bette Davis.",
+        "is_correct": false,
+        "eigenscore": -3.6542851070915994
+      },
+      {
+        "seed": 42,
+        "answer": "Bette Davis.",
+        "is_correct": false,
+        "eigenscore": -4.5844416338609495
+      },
+      {
+        "seed": 43,
+        "answer": "Bette Davis.",
+        "is_correct": false,
+        "eigenscore": -4.567396765511899
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Bette Davis.",
+        "is_correct": false,
+        "eigenscore": -4.607545334703962
+      },
+      {
+        "seed": 42,
+        "answer": "Bette Davis.",
+        "is_correct": false,
+        "eigenscore": -4.584442647352074
+      },
+      {
+        "seed": 43,
+        "answer": "Bette Davis.",
+        "is_correct": false,
+        "eigenscore": -4.567396765511899
+      }
+    ]
+  },
+  {
+    "id": "qf_1612",
+    "question": "In which Beatles song released in 1966 would you find Father McKenzie darning his socks?",
+    "gold_answer": "Eleanor Rigby",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 7.0,
+    "fc_mean_unique_generations": 6.333333333333333,
+    "baseline_mean_eigenscore": -3.190552493894647,
+    "fc_mean_eigenscore": -3.4794375439502008,
+    "mean_delta_eigenscore": -0.2888850500555537,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.006732052147633745,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Eleanor Rigby.",
+        "is_correct": true,
+        "eigenscore": -2.567378931822785
+      },
+      {
+        "seed": 42,
+        "answer": "Eleanor Rigby.",
+        "is_correct": true,
+        "eigenscore": -4.16658959268148
+      },
+      {
+        "seed": 43,
+        "answer": "Eleanor Rigby.",
+        "is_correct": true,
+        "eigenscore": -2.837688957179676
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Eleanor Rigby.",
+        "is_correct": true,
+        "eigenscore": -3.1330962723093823
+      },
+      {
+        "seed": 42,
+        "answer": "Eleanor Rigby.",
+        "is_correct": true,
+        "eigenscore": -4.16658959268148
+      },
+      {
+        "seed": 43,
+        "answer": "Eleanor Rigby.",
+        "is_correct": true,
+        "eigenscore": -3.1386267668597396
+      }
+    ]
+  },
+  {
+    "id": "qz_6687",
+    "question": "What song was a hit for Tom Jones and Cerys Matthews in 1999?",
+    "gold_answer": "Baby it's cold outside",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 8.0,
+    "fc_mean_unique_generations": 7.333333333333333,
+    "baseline_mean_eigenscore": -2.6832464762898947,
+    "fc_mean_eigenscore": -2.9714003041579953,
+    "mean_delta_eigenscore": -0.28815382786810045,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.007663457358677176,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "\"Baby, It's Cold Outside\".",
+        "is_correct": true,
+        "eigenscore": -2.235232952895218
+      },
+      {
+        "seed": 42,
+        "answer": "\"Baby, It's Cold Outside.\"",
+        "is_correct": true,
+        "eigenscore": -2.0571098728297836
+      },
+      {
+        "seed": 43,
+        "answer": "\"Baby, It's Cold Outside.\"",
+        "is_correct": true,
+        "eigenscore": -3.757396603144682
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "\"Baby, It's Cold Outside\".",
+        "is_correct": true,
+        "eigenscore": -3.1421962096766562
+      },
+      {
+        "seed": 42,
+        "answer": "\"Baby, It's Cold Outside\"",
+        "is_correct": true,
+        "eigenscore": -2.064803583197699
+      },
+      {
+        "seed": 43,
+        "answer": "\"Baby, It's Cold Outside.\"",
+        "is_correct": true,
+        "eigenscore": -3.70720111959963
+      }
+    ]
+  },
+  {
+    "id": "sfq_20297",
+    "question": "Who was the original drummer/singer with the Monkees pop group?",
+    "gold_answer": "Mickey Dolenz",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 7.0,
+    "fc_mean_unique_generations": 6.333333333333333,
+    "baseline_mean_eigenscore": -3.2512338444941453,
+    "fc_mean_eigenscore": -3.5209263488973432,
+    "mean_delta_eigenscore": -0.2696925044031979,
+    "mean_delta_unique_generations": -0.6666666666666666,
+    "mean_fc_clip_fraction": 0.006278778564010946,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Michael Nesmith.",
+        "is_correct": false,
+        "eigenscore": -2.829225482575321
+      },
+      {
+        "seed": 42,
+        "answer": "Michael Nesmith.",
+        "is_correct": false,
+        "eigenscore": -3.6971169662045007
+      },
+      {
+        "seed": 43,
+        "answer": "Michael Nesmith.",
+        "is_correct": false,
+        "eigenscore": -3.227359084702614
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Michael Nesmith.",
+        "is_correct": false,
+        "eigenscore": -3.1947031381591313
+      },
+      {
+        "seed": 42,
+        "answer": "Michael Nesmith.",
+        "is_correct": false,
+        "eigenscore": -4.140716823830284
+      },
+      {
+        "seed": 43,
+        "answer": "Michael Nesmith.",
+        "is_correct": false,
+        "eigenscore": -3.227359084702614
+      }
+    ]
+  },
+  {
+    "id": "bt_3368",
+    "question": "During a penalty shoot out in soccer where should the non participating players be",
+    "gold_answer": "In the centre circle",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 19.0,
+    "fc_mean_unique_generations": 18.0,
+    "baseline_mean_eigenscore": 1.5382447386163545,
+    "fc_mean_eigenscore": 1.2792437294580217,
+    "mean_delta_eigenscore": -0.2590010091583329,
+    "mean_delta_unique_generations": -1.0,
+    "mean_fc_clip_fraction": 0.008730907044904807,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Away from the penalty area.",
+        "is_correct": false,
+        "eigenscore": 2.053966285176101
+      },
+      {
+        "seed": 42,
+        "answer": "Behind the goal, out of the playing area.",
+        "is_correct": false,
+        "eigenscore": 1.005592829520621
+      },
+      {
+        "seed": 43,
+        "answer": "Behind their team's goal.",
+        "is_correct": false,
+        "eigenscore": 1.5551751011523416
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Behind the goal, out of the playing area.",
+        "is_correct": false,
+        "eigenscore": 1.9399468204220718
+      },
+      {
+        "seed": 42,
+        "answer": "Behind the goal, out of the playing area.",
+        "is_correct": false,
+        "eigenscore": 0.7203409483306663
+      },
+      {
+        "seed": 43,
+        "answer": "Outside the penalty area.",
+        "is_correct": false,
+        "eigenscore": 1.1774434196213266
+      }
+    ]
+  }
+]

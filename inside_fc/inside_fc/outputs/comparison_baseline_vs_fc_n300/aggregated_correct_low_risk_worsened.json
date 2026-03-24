@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "low_risk_quantile": 0.25,
+    "baseline_incorrect_low_risk_threshold": -4.7970443248305905,
+    "baseline_correct_low_risk_threshold": -6.175988032644215,
+    "num_aggregated_rows": 300,
+    "num_incorrect_low_risk_helped": 15,
+    "num_correct_low_risk_worsened": 4
+  },
+  "rows": [
+    {
+      "id": "qw_6822",
+      "question": "Formula 1 driver Ayrton Senna died while leading the 1994 San Marino Grand Prix at which motor racing circuit?",
+      "gold_answer": "Imola",
+      "n_seeds": 3,
+      "baseline_correct_rate": 1.0,
+      "fc_correct_rate": 1.0,
+      "baseline_mean_correctness_score_vs_gold": 1.0,
+      "fc_mean_correctness_score_vs_gold": 1.0,
+      "baseline_mean_unique_generations": 1.0,
+      "fc_mean_unique_generations": 1.6666666666666667,
+      "baseline_mean_eigenscore": -6.180369547879222,
+      "fc_mean_eigenscore": -5.85408296517558,
+      "mean_delta_eigenscore": 0.3262865827036417,
+      "mean_delta_unique_generations": 0.6666666666666666,
+      "mean_fc_clip_fraction": 0.00980117122232665,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Imola.",
+          "is_correct": true,
+          "eigenscore": -6.180369547879222
+        },
+        {
+          "seed": 42,
+          "answer": "Imola.",
+          "is_correct": true,
+          "eigenscore": -6.180369547879222
+        },
+        {
+          "seed": 43,
+          "answer": "Imola.",
+          "is_correct": true,
+          "eigenscore": -6.180369547879222
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Imola.",
+          "is_correct": true,
+          "eigenscore": -5.201509799768297
+        },
+        {
+          "seed": 42,
+          "answer": "Imola.",
+          "is_correct": true,
+          "eigenscore": -6.180369547879222
+        },
+        {
+          "seed": 43,
+          "answer": "Imola.",
+          "is_correct": true,
+          "eigenscore": -6.180369547879222
+        }
+      ]
+    },
+    {
+      "id": "tc_69",
+      "question": "Rita Coolidge sang the title song for which Bond film?",
+      "gold_answer": "Octopussy",
+      "n_seeds": 3,
+      "baseline_correct_rate": 1.0,
+      "fc_correct_rate": 1.0,
+      "baseline_mean_correctness_score_vs_gold": 1.0,
+      "fc_mean_correctness_score_vs_gold": 1.0,
+      "baseline_mean_unique_generations": 1.0,
+      "fc_mean_unique_generations": 1.3333333333333333,
+      "baseline_mean_eigenscore": -6.183495226720531,
+      "fc_mean_eigenscore": -6.005718474728704,
+      "mean_delta_eigenscore": 0.17777675199182644,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.005822482638888889,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Octopussy.",
+          "is_correct": true,
+          "eigenscore": -6.183495226720531
+        },
+        {
+          "seed": 42,
+          "answer": "Octopussy.",
+          "is_correct": true,
+          "eigenscore": -6.183495226720531
+        },
+        {
+          "seed": 43,
+          "answer": "Octopussy.",
+          "is_correct": true,
+          "eigenscore": -6.183495226720531
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Octopussy.",
+          "is_correct": true,
+          "eigenscore": -6.183495226720531
+        },
+        {
+          "seed": 42,
+          "answer": "Octopussy.",
+          "is_correct": true,
+          "eigenscore": -6.183495226720531
+        },
+        {
+          "seed": 43,
+          "answer": "Octopussy.",
+          "is_correct": true,
+          "eigenscore": -5.650164970745052
+        }
+      ]
+    },
+    {
+      "id": "qz_755",
+      "question": "Which serial killer is the subject of the films A Study In Terror, Murder By Decree and From Hell?",
+      "gold_answer": "Jack The Ripper",
+      "n_seeds": 3,
+      "baseline_correct_rate": 1.0,
+      "fc_correct_rate": 1.0,
+      "baseline_mean_correctness_score_vs_gold": 1.0,
+      "fc_mean_correctness_score_vs_gold": 1.0,
+      "baseline_mean_unique_generations": 1.0,
+      "fc_mean_unique_generations": 1.3333333333333333,
+      "baseline_mean_eigenscore": -6.179326441241223,
+      "fc_mean_eigenscore": -6.003531434971594,
+      "mean_delta_eigenscore": 0.17579500626962918,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.007822556741192411,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Jack the Ripper.",
+          "is_correct": true,
+          "eigenscore": -6.179326441241223
+        },
+        {
+          "seed": 42,
+          "answer": "Jack the Ripper.",
+          "is_correct": true,
+          "eigenscore": -6.179326441241223
+        },
+        {
+          "seed": 43,
+          "answer": "Jack the Ripper.",
+          "is_correct": true,
+          "eigenscore": -6.179326441241223
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "Jack the Ripper.",
+          "is_correct": true,
+          "eigenscore": -6.179326441241223
+        },
+        {
+          "seed": 42,
+          "answer": "Jack the Ripper.",
+          "is_correct": true,
+          "eigenscore": -5.651941422432335
+        },
+        {
+          "seed": 43,
+          "answer": "Jack the Ripper.",
+          "is_correct": true,
+          "eigenscore": -6.179326441241223
+        }
+      ]
+    },
+    {
+      "id": "odql_7776",
+      "question": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+      "gold_answer": "New Guinea",
+      "n_seeds": 3,
+      "baseline_correct_rate": 1.0,
+      "fc_correct_rate": 1.0,
+      "baseline_mean_correctness_score_vs_gold": 1.0,
+      "fc_mean_correctness_score_vs_gold": 1.0,
+      "baseline_mean_unique_generations": 1.0,
+      "fc_mean_unique_generations": 1.3333333333333333,
+      "baseline_mean_eigenscore": -6.180810538114715,
+      "fc_mean_eigenscore": -6.018126397220604,
+      "mean_delta_eigenscore": 0.1626841408941108,
+      "mean_delta_unique_generations": 0.3333333333333333,
+      "mean_fc_clip_fraction": 0.006858359739219114,
+      "baseline_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "New Guinea.",
+          "is_correct": true,
+          "eigenscore": -6.180810538114715
+        },
+        {
+          "seed": 42,
+          "answer": "New Guinea.",
+          "is_correct": true,
+          "eigenscore": -6.180810538114715
+        },
+        {
+          "seed": 43,
+          "answer": "New Guinea.",
+          "is_correct": true,
+          "eigenscore": -6.180810538114715
+        }
+      ],
+      "fc_answers_by_seed": [
+        {
+          "seed": 41,
+          "answer": "New Guinea.",
+          "is_correct": true,
+          "eigenscore": -5.692758115432382
+        },
+        {
+          "seed": 42,
+          "answer": "New Guinea.",
+          "is_correct": true,
+          "eigenscore": -6.180810538114715
+        },
+        {
+          "seed": 43,
+          "answer": "New Guinea.",
+          "is_correct": true,
+          "eigenscore": -6.180810538114715
+        }
+      ]
+    }
+  ]
+}

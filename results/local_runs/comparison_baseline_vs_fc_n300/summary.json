@@ -1,0 +1,16 @@
+{
+  "n_seed_rows": 900,
+  "n_aggregated_ids": 300,
+  "mean_delta_eigenscore_seed_level": 0.03929802527017003,
+  "mean_delta_eigenscore_aggregated": 0.03929802527017002,
+  "mean_baseline_eigenscore_seed_level": -4.356065744983999,
+  "mean_fc_eigenscore_seed_level": -4.316767719713829,
+  "mean_baseline_unique_generations_seed_level": 4.848888888888889,
+  "mean_fc_unique_generations_seed_level": 4.923333333333333,
+  "mean_fc_clip_fraction_seed_level": 0.006506728685554855,
+  "seed_level_correctness_flips": {
+    "correct_to_incorrect": 10,
+    "incorrect_to_correct": 9,
+    "same": 881
+  }
+}

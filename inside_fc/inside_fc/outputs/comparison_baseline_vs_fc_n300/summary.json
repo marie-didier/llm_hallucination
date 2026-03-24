@@ -1,0 +1,25 @@
+{
+  "baseline_experiment": "baseline03_n300_s41_42_43",
+  "fc_experiment": "fc03_n300_s41_42_43",
+  "seeds": [
+    41,
+    42,
+    43
+  ],
+  "num_seed_level_rows": 900,
+  "num_unique_questions": 300,
+  "low_risk_quantile": 0.25,
+  "top_k": 30,
+  "seed_level_correctness_flips": {
+    "same": 876,
+    "incorrect_to_correct": 11,
+    "correct_to_incorrect": 13
+  },
+  "mean_delta_eigenscore_seed_level": 0.03539748132686583,
+  "mean_delta_eigenscore_aggregated": 0.03539748132686583,
+  "mean_baseline_eigenscore_seed_level": -4.399108309013727,
+  "mean_fc_eigenscore_seed_level": -4.3637108276868615,
+  "mean_baseline_unique_generations_seed_level": 4.763333333333334,
+  "mean_fc_unique_generations_seed_level": 4.832222222222223,
+  "mean_fc_clip_fraction_seed_level": 0.0067577629290658334
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 20,
+    "mean_auroc": 0.8552678756586674,
+    "std_auroc": 0.018022210798965235,
+    "mean_aurc": 0.16696236562274921,
+    "std_aurc": 0.00249517948257865,
+    "mean_pcc": -0.5736212548676374,
+    "std_pcc": 0.04555898714595148,
+    "mean_num_correct": 59.333333333333336,
+    "mean_num_incorrect": 40.666666666666664,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  },
+  {
+    "dataset": "qa820",
+    "n_samples": 300.0,
+    "k": 20,
+    "mean_auroc": 0.8094281309215624,
+    "std_auroc": 0.014864209347521785,
+    "mean_aurc": 0.19251808263777326,
+    "std_aurc": 0.0066875710223793785,
+    "mean_pcc": -0.5032344811684754,
+    "std_pcc": 0.030015282461806077,
+    "mean_num_correct": 180.33333333333334,
+    "mean_num_incorrect": 119.66666666666667,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  },
+  {
+    "dataset": "qa820",
+    "n_samples": 500.0,
+    "k": 20,
+    "mean_auroc": 0.8041355618927576,
+    "std_auroc": 0.005526555682750323,
+    "mean_aurc": 0.20016615542424446,
+    "std_aurc": 0.002800618506357523,
+    "mean_pcc": -0.4875695660690536,
+    "std_pcc": 0.01732252229692686,
+    "mean_num_correct": 293.0,
+    "mean_num_incorrect": 207.0,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  },
+  {
+    "dataset": "qa820",
+    "n_samples": 820.0,
+    "k": 20,
+    "mean_auroc": 0.7865702643613105,
+    "std_auroc": 0.006113615489666773,
+    "mean_aurc": 0.22873036929524673,
+    "std_aurc": 0.005324124505301982,
+    "mean_pcc": -0.4590196832137307,
+    "std_pcc": 0.01464621716108724,
+    "mean_num_correct": 464.0,
+    "mean_num_incorrect": 356.0,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  }
+]

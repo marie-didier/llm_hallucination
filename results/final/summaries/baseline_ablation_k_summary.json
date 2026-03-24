@@ -1,0 +1,35 @@
+[
+  {
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 5,
+    "generation_seed": 42.0,
+    "auroc": 0.8452380952380952,
+    "aurc": 0.1806607459851206,
+    "pcc": -0.6040010347262385,
+    "num_correct": 58.0,
+    "num_incorrect": 42.0
+  },
+  {
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 10,
+    "generation_seed": 42.0,
+    "auroc": 0.8590326581231914,
+    "aurc": 0.16541622396501135,
+    "pcc": -0.5823365838336726,
+    "num_correct": 59.0,
+    "num_incorrect": 41.0
+  },
+  {
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 20,
+    "generation_seed": 42.0,
+    "auroc": 0.874384236453202,
+    "aurc": 0.16566488620296074,
+    "pcc": -0.6216062252408828,
+    "num_correct": 58.0,
+    "num_incorrect": 42.0
+  }
+]

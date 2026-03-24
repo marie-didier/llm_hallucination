@@ -1,0 +1,50 @@
+[
+  {
+    "method_label": "baseline",
+    "family": "baseline",
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 20,
+    "generation_seed": 42.0,
+    "auroc": 0.874384236453202,
+    "aurc": 0.16566488620296074,
+    "pcc": -0.6216062252408828,
+    "mean_clip_fraction": NaN
+  },
+  {
+    "method_label": "fc_0.1_99.9",
+    "family": "fc",
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 20,
+    "generation_seed": 42.0,
+    "auroc": 0.8727422003284072,
+    "aurc": 0.16745783515533233,
+    "pcc": -0.6258863180859501,
+    "mean_clip_fraction": 0.0018643808180958507
+  },
+  {
+    "method_label": "fc_0.2_99.8",
+    "family": "fc",
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 20,
+    "generation_seed": 42.0,
+    "auroc": 0.8598594460520875,
+    "aurc": 0.16630326860858172,
+    "pcc": -0.5892328949142225,
+    "mean_clip_fraction": 0.0033581369896054426
+  },
+  {
+    "method_label": "fc_0.5_99.5",
+    "family": "fc",
+    "dataset": "qa820",
+    "n_samples": 100.0,
+    "k": 20,
+    "generation_seed": 42.0,
+    "auroc": 0.8764367816091954,
+    "aurc": 0.16755207472823275,
+    "pcc": -0.6239583493019736,
+    "mean_clip_fraction": 0.006814258630514905
+  }
+]

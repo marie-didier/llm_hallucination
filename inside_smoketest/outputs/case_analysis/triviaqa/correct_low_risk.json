@@ -1,0 +1,647 @@
+[
+  {
+    "id": "tb_1360",
+    "question": "Which country is currently ruled by the Chakri dynasty that has been in power since 1782?",
+    "gold_answer": "Thailand",
+    "mean_eigenscore": -6.186438405222513,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.186438405222512,
+    "max_eigenscore": -6.186438405222512,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.186438405222512,
+      -6.186438405222512,
+      -6.186438405222512
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Thailand.",
+      "Thailand.",
+      "Thailand."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Thailand.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_17574",
+    "question": "What is the name of the alternative medicine that uses essential oils?",
+    "gold_answer": "Aromatherapy",
+    "mean_eigenscore": -6.184948113247718,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.184948113247719,
+    "max_eigenscore": -6.184948113247719,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.184948113247719,
+      -6.184948113247719,
+      -6.184948113247719
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Aromatherapy.",
+      "Aromatherapy.",
+      "Aromatherapy."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Aromatherapy.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_7271",
+    "question": "Thomas the Tank Engine lives on which fictional island?",
+    "gold_answer": "Sodor",
+    "mean_eigenscore": -6.18471940831859,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.18471940831859,
+    "max_eigenscore": -6.18471940831859,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.18471940831859,
+      -6.18471940831859,
+      -6.18471940831859
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Sodor.",
+      "Sodor.",
+      "Sodor."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Sodor.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_19994",
+    "question": "Which villain, played by Richard Kiel, appeared in two James Bond movies, 'The Spy Who Loved Me' and 'Moonraker'?",
+    "gold_answer": "Jaws",
+    "mean_eigenscore": -6.183139225759578,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.183139225759577,
+    "max_eigenscore": -6.183139225759577,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.183139225759577,
+      -6.183139225759577,
+      -6.183139225759577
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Jaws.",
+      "Jaws.",
+      "Jaws."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Jaws.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_1461",
+    "question": "Named from the Gaelic for elbow, what is the name of the Irish bagpipes played by squeezing air with the arm?",
+    "gold_answer": "Uillean pipes",
+    "mean_eigenscore": -6.182050393240392,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.182050393240392,
+    "max_eigenscore": -6.182050393240392,
+    "mean_correctness_score_vs_gold": 0.5,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.182050393240392,
+      -6.182050393240392,
+      -6.182050393240392
+    ],
+    "seed_level_correctness_scores": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Uilleann pipes.",
+      "Uilleann pipes.",
+      "Uilleann pipes."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Uilleann pipes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_3015",
+    "question": "Harvard University is situated in which American State?",
+    "gold_answer": "MASSACHUSETTS",
+    "mean_eigenscore": -6.182005278085303,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.182005278085304,
+    "max_eigenscore": -6.182005278085304,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.182005278085304,
+      -6.182005278085304,
+      -6.182005278085304
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Massachusetts.",
+      "Massachusetts.",
+      "Massachusetts."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Massachusetts.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_19",
+    "question": "On which island is the city of Knossos, once the capital of the ancient Minoan civilisation?",
+    "gold_answer": "CRETE",
+    "mean_eigenscore": -6.181427002478119,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.181427002478119,
+    "max_eigenscore": -6.181427002478119,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.181427002478119,
+      -6.181427002478119,
+      -6.181427002478119
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Crete.",
+      "Crete.",
+      "Crete."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Crete.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_1158",
+    "question": "Which film starring Steve McQueen featured a car chase through the streets of San Francisco?",
+    "gold_answer": "Bullitt",
+    "mean_eigenscore": -6.18076243316715,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.18076243316715,
+    "max_eigenscore": -6.18076243316715,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.18076243316715,
+      -6.18076243316715,
+      -6.18076243316715
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Bullitt.",
+      "Bullitt.",
+      "Bullitt."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Bullitt.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_11867",
+    "question": "Who was the Romanian gymnast who scored the first ever perfect ten at the Olympic Games of 1976?",
+    "gold_answer": "NADIA COMANECI",
+    "mean_eigenscore": -6.178982734186824,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.178982734186824,
+    "max_eigenscore": -6.178982734186824,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.178982734186824,
+      -6.178982734186824,
+      -6.178982734186824
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Nadia Comăneci.",
+      "Nadia Comăneci.",
+      "Nadia Comăneci."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Nadia Comăneci.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "dpql_6276",
+    "question": "Sanskrit is an ancient language of which modern day country?",
+    "gold_answer": "India",
+    "mean_eigenscore": -6.178492586702897,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.178492586702896,
+    "max_eigenscore": -6.178492586702896,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.178492586702896,
+      -6.178492586702896,
+      -6.178492586702896
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "India.",
+      "India.",
+      "India."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "India.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_15794",
+    "question": "What is Canada's most populous province?",
+    "gold_answer": "Ontario",
+    "mean_eigenscore": -6.176098290574589,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.176098290574588,
+    "max_eigenscore": -6.176098290574588,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.176098290574588,
+      -6.176098290574588,
+      -6.176098290574588
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Ontario.",
+      "Ontario.",
+      "Ontario."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Ontario.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qf_861",
+    "question": "Who was the star of the 1940 satirical film 'The Great Dictator'?",
+    "gold_answer": "Charlie Chaplin",
+    "mean_eigenscore": -6.175295145551215,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.175295145551215,
+    "max_eigenscore": -6.175295145551215,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.175295145551215,
+      -6.175295145551215,
+      -6.175295145551215
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Charlie Chaplin.",
+      "Charlie Chaplin.",
+      "Charlie Chaplin."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Charlie Chaplin.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_9244",
+    "question": "In the 18th Century, Russia led a coalition that defeated which country in the Great Northern War?",
+    "gold_answer": "Sweden",
+    "mean_eigenscore": -6.174164612856269,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.174164612856269,
+    "max_eigenscore": -6.174164612856269,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.174164612856269,
+      -6.174164612856269,
+      -6.174164612856269
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Sweden.",
+      "Sweden.",
+      "Sweden."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Sweden.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qz_340",
+    "question": "Who wrote The Importance Of Being Earnest?",
+    "gold_answer": "Oscar Wilde",
+    "mean_eigenscore": -6.173747308207411,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.173747308207411,
+    "max_eigenscore": -6.173747308207411,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.173747308207411,
+      -6.173747308207411,
+      -6.173747308207411
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Oscar Wilde.",
+      "Oscar Wilde.",
+      "Oscar Wilde."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Oscar Wilde.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_24087",
+    "question": "Who wrote the book Don Quixote?",
+    "gold_answer": "(Miguel de) Cervantes",
+    "mean_eigenscore": -6.171121230191879,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.171121230191879,
+    "max_eigenscore": -6.171121230191879,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.171121230191879,
+      -6.171121230191879,
+      -6.171121230191879
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Miguel de Cervantes.",
+      "Miguel de Cervantes.",
+      "Miguel de Cervantes."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Miguel de Cervantes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  }
+]

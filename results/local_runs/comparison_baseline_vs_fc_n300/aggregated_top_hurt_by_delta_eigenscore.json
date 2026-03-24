@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "qg_2310",
+    "question": "For a point each, name the animals mentioned in the opening verse of that classic 1876 song Home on the Range",
+    "gold_candidates": [
+      "Buffalo, Deer, Antelope"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.5374932441627382,
+    "mean_fc_eigenscore": -2.3934669486198272,
+    "mean_delta_eigenscore": -0.8559737044570889,
+    "mean_baseline_unique_generations": 11.333333333333334,
+    "mean_fc_unique_generations": 9.333333333333334,
+    "mean_fc_clip_fraction": 0.007011214880082643,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qg_2310",
+        "generation_seed": 41,
+        "question": "For a point each, name the animals mentioned in the opening verse of that classic 1876 song Home on the Range",
+        "gold_candidates": [
+          "Buffalo, Deer, Antelope"
+        ],
+        "baseline_eigenscore": -1.1722401683005605,
+        "fc_eigenscore": -2.8468316749294384,
+        "delta_eigenscore": -1.674591506628878,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The animals mentioned in the opening verse of \"Home on the Range\" are cattle, horses, and sheep.",
+        "fc_majority_answer": "The animals mentioned in the opening verse of \"Home on the Range\" are cattle, horses, and sheep.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006957694811698718,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2310",
+        "generation_seed": 42,
+        "question": "For a point each, name the animals mentioned in the opening verse of that classic 1876 song Home on the Range",
+        "gold_candidates": [
+          "Buffalo, Deer, Antelope"
+        ],
+        "baseline_eigenscore": -1.2718592200816965,
+        "fc_eigenscore": -2.1089526470844877,
+        "delta_eigenscore": -0.8370934270027912,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The animals mentioned in the opening verse of \"Home on the Range\" are cattle, horses, and sheep.",
+        "fc_majority_answer": "The animals mentioned in the opening verse of \"Home on the Range\" are cattle, horses, and sheep.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007006357230392157,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2310",
+        "generation_seed": 43,
+        "question": "For a point each, name the animals mentioned in the opening verse of that classic 1876 song Home on the Range",
+        "gold_candidates": [
+          "Buffalo, Deer, Antelope"
+        ],
+        "baseline_eigenscore": -2.168380344105958,
+        "fc_eigenscore": -2.2246165238455555,
+        "delta_eigenscore": -0.0562361797395976,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The animals mentioned in the opening verse of \"Home on the Range\" are cattle, horses, and sheep.",
+        "fc_majority_answer": "The animals mentioned in the opening verse of \"Home on the Range\" are cattle, horses, and sheep.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007069592598157051,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qz_3863",
+    "question": "Who lives in the Hundred Acre Wood?",
+    "gold_candidates": [
+      "Winnie-the-Pooh"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.538601470290349,
+    "mean_fc_eigenscore": -2.364259977427509,
+    "mean_delta_eigenscore": -0.82565850713716,
+    "mean_baseline_unique_generations": 13.0,
+    "mean_fc_unique_generations": 10.333333333333334,
+    "mean_fc_clip_fraction": 0.008963552453906757,
+    "baseline_correct_fraction": 0.6666666666666666,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qz_3863",
+        "generation_seed": 41,
+        "question": "Who lives in the Hundred Acre Wood?",
+        "gold_candidates": [
+          "Winnie-the-Pooh"
+        ],
+        "baseline_eigenscore": -1.7913090907596558,
+        "fc_eigenscore": -2.435019001373327,
+        "delta_eigenscore": -0.643709910613671,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Winnie the Pooh and his friends.",
+        "fc_majority_answer": "Winnie the Pooh and his friends.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.008877467105263158,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_3863",
+        "generation_seed": 42,
+        "question": "Who lives in the Hundred Acre Wood?",
+        "gold_candidates": [
+          "Winnie-the-Pooh"
+        ],
+        "baseline_eigenscore": -0.6975686766340566,
+        "fc_eigenscore": -2.4692367967942577,
+        "delta_eigenscore": -1.771668120160201,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Winnie the Pooh and his animal friends.",
+        "fc_majority_answer": "Winnie the Pooh and his animal friends.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.009066611842105263,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_3863",
+        "generation_seed": 43,
+        "question": "Who lives in the Hundred Acre Wood?",
+        "gold_candidates": [
+          "Winnie-the-Pooh"
+        ],
+        "baseline_eigenscore": -2.1269266434773346,
+        "fc_eigenscore": -2.188524134114943,
+        "delta_eigenscore": -0.06159749063760822,
+        "baseline_is_correct": false,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Winnie the Pooh and his friends reside in the Hundred Acre Wood.",
+        "fc_majority_answer": "Winnie the Pooh and his animal friends.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.008946578414351852,
+        "correctness_flip": "incorrect_to_correct"
+      }
+    ]
+  },
+  {
+    "id": "jp_1522",
+    "question": "\"Who said \"\"we're more popular than Jesus now\"\", in 1966?\"",
+    "gold_candidates": [
+      "John Lennon"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.1546816717556467,
+    "mean_fc_eigenscore": -2.949902455003659,
+    "mean_delta_eigenscore": -0.7952207832480122,
+    "mean_baseline_unique_generations": 9.0,
+    "mean_fc_unique_generations": 7.333333333333333,
+    "mean_fc_clip_fraction": 0.00565383919159607,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "jp_1522",
+        "generation_seed": 41,
+        "question": "\"Who said \"\"we're more popular than Jesus now\"\", in 1966?\"",
+        "gold_candidates": [
+          "John Lennon"
+        ],
+        "baseline_eigenscore": -0.32240314046728197,
+        "fc_eigenscore": -2.187547399096051,
+        "delta_eigenscore": -1.8651442586287688,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Beatles.",
+        "fc_majority_answer": "The Beatles.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.0058351378509963765,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_1522",
+        "generation_seed": 42,
+        "question": "\"Who said \"\"we're more popular than Jesus now\"\", in 1966?\"",
+        "gold_candidates": [
+          "John Lennon"
+        ],
+        "baseline_eigenscore": -3.0674765332092937,
+        "fc_eigenscore": -3.587994624324561,
+        "delta_eigenscore": -0.5205180911152674,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Beatles.",
+        "fc_majority_answer": "The Beatles.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005576064560439561,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_1522",
+        "generation_seed": 43,
+        "question": "\"Who said \"\"we're more popular than Jesus now\"\", in 1966?\"",
+        "gold_candidates": [
+          "John Lennon"
+        ],
+        "baseline_eigenscore": -3.0741653415903643,
+        "fc_eigenscore": -3.0741653415903643,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Beatles.",
+        "fc_majority_answer": "The Beatles.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.005550315163352273,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_860",
+    "question": "What was the name of the British teacher jailed in Sudan in 2007 for allowing a teddy bear to be called Mohammed?",
+    "gold_candidates": [
+      "GILLIAN GIBBONS"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.157089388750041,
+    "mean_fc_eigenscore": -2.6803352229147066,
+    "mean_delta_eigenscore": -0.5232458341646654,
+    "mean_baseline_unique_generations": 9.333333333333334,
+    "mean_fc_unique_generations": 8.333333333333334,
+    "mean_fc_clip_fraction": 0.007636895620294058,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "wh_860",
+        "generation_seed": 41,
+        "question": "What was the name of the British teacher jailed in Sudan in 2007 for allowing a teddy bear to be called Mohammed?",
+        "gold_candidates": [
+          "GILLIAN GIBBONS"
+        ],
+        "baseline_eigenscore": -1.7424126843200216,
+        "fc_eigenscore": -2.0199216535351394,
+        "delta_eigenscore": -0.2775089692151178,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Gillian Gibbons.",
+        "fc_majority_answer": "Gillian Gibbons.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.008113606770833334,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_860",
+        "generation_seed": 42,
+        "question": "What was the name of the British teacher jailed in Sudan in 2007 for allowing a teddy bear to be called Mohammed?",
+        "gold_candidates": [
+          "GILLIAN GIBBONS"
+        ],
+        "baseline_eigenscore": -2.3795546848171845,
+        "fc_eigenscore": -3.2003776459052204,
+        "delta_eigenscore": -0.820822961088036,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Gillian Gibbons.",
+        "fc_majority_answer": "Gillian Gibbons.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.007643849206349206,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_860",
+        "generation_seed": 43,
+        "question": "What was the name of the British teacher jailed in Sudan in 2007 for allowing a teddy bear to be called Mohammed?",
+        "gold_candidates": [
+          "GILLIAN GIBBONS"
+        ],
+        "baseline_eigenscore": -2.349300797112917,
+        "fc_eigenscore": -2.8207063693037595,
+        "delta_eigenscore": -0.47140557219084256,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Gillian Gibbons.",
+        "fc_majority_answer": "Gillian Gibbons.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.0071532308836996334,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_14908",
+    "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+    "gold_candidates": [
+      "Byker Grove"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.521749004584812,
+    "mean_fc_eigenscore": -0.0011710055022768524,
+    "mean_delta_eigenscore": -0.5229200100870889,
+    "mean_baseline_unique_generations": 14.0,
+    "mean_fc_unique_generations": 13.0,
+    "mean_fc_clip_fraction": 0.007175546739159198,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_14908",
+        "generation_seed": 41,
+        "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+        "gold_candidates": [
+          "Byker Grove"
+        ],
+        "baseline_eigenscore": -0.9663854705210395,
+        "fc_eigenscore": -0.9393388753330238,
+        "delta_eigenscore": 0.027046595188015665,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Crackdown.",
+        "fc_majority_answer": "Crackdown.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007023194181397306,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_14908",
+        "generation_seed": 42,
+        "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+        "gold_candidates": [
+          "Byker Grove"
+        ],
+        "baseline_eigenscore": 1.0497535018920505,
+        "fc_eigenscore": 0.029496435559630284,
+        "delta_eigenscore": -1.0202570663324202,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Noel's House Party.",
+        "fc_majority_answer": "Noel's House Party.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.00710962783171521,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_14908",
+        "generation_seed": 43,
+        "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+        "gold_candidates": [
+          "Byker Grove"
+        ],
+        "baseline_eigenscore": 1.4818789823834249,
+        "fc_eigenscore": 0.906329423266563,
+        "delta_eigenscore": -0.5755495591168619,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Noel's House Party.",
+        "fc_majority_answer": "Noel's House Party.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.0073938182043650795,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qf_3096",
+    "question": "Who did Joe Louis beat to take the world heavyweight boxing title in 1937?",
+    "gold_candidates": [
+      "James Braddock"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.233906275569389,
+    "mean_fc_eigenscore": -4.722332870289034,
+    "mean_delta_eigenscore": -0.48842659471964583,
+    "mean_baseline_unique_generations": 5.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.006999326628232878,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qf_3096",
+        "generation_seed": 41,
+        "question": "Who did Joe Louis beat to take the world heavyweight boxing title in 1937?",
+        "gold_candidates": [
+          "James Braddock"
+        ],
+        "baseline_eigenscore": -4.126514527992611,
+        "fc_eigenscore": -4.175246564041769,
+        "delta_eigenscore": -0.048732036049158545,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Max Schmeling.",
+        "fc_majority_answer": "Max Schmeling.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0072287087912087915,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_3096",
+        "generation_seed": 42,
+        "question": "Who did Joe Louis beat to take the world heavyweight boxing title in 1937?",
+        "gold_candidates": [
+          "James Braddock"
+        ],
+        "baseline_eigenscore": -4.235479609298376,
+        "fc_eigenscore": -5.186994141073642,
+        "delta_eigenscore": -0.951514531775266,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Max Schmeling.",
+        "fc_majority_answer": "Max Schmeling.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006815645292207792,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_3096",
+        "generation_seed": 43,
+        "question": "Who did Joe Louis beat to take the world heavyweight boxing title in 1937?",
+        "gold_candidates": [
+          "James Braddock"
+        ],
+        "baseline_eigenscore": -4.339724689417179,
+        "fc_eigenscore": -4.804757905751692,
+        "delta_eigenscore": -0.465033216334513,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Max Schmeling.",
+        "fc_majority_answer": "Max Schmeling.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006953625801282051,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_18011",
+    "question": "Dave and Ansell Collins had a U.K No 1 hit with which song?",
+    "gold_candidates": [
+      "DOUBLE BARREL"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.0209721979807336,
+    "mean_fc_eigenscore": -2.5020859509924573,
+    "mean_delta_eigenscore": -0.4811137530117238,
+    "mean_baseline_unique_generations": 9.333333333333334,
+    "mean_fc_unique_generations": 8.333333333333334,
+    "mean_fc_clip_fraction": 0.006193357288327993,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_18011",
+        "generation_seed": 41,
+        "question": "Dave and Ansell Collins had a U.K No 1 hit with which song?",
+        "gold_candidates": [
+          "DOUBLE BARREL"
+        ],
+        "baseline_eigenscore": -3.1636975313169597,
+        "fc_eigenscore": -3.609277881424979,
+        "delta_eigenscore": -0.4455803501080191,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Two of a Kind\"",
+        "fc_majority_answer": "\"Two of a Kind\"",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006200963207799145,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_18011",
+        "generation_seed": 42,
+        "question": "Dave and Ansell Collins had a U.K No 1 hit with which song?",
+        "gold_candidates": [
+          "DOUBLE BARREL"
+        ],
+        "baseline_eigenscore": -1.6169870034666836,
+        "fc_eigenscore": -2.1353483395005854,
+        "delta_eigenscore": -0.5183613360339019,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Two of a Kind\"",
+        "fc_majority_answer": "\"Two of a Kind\"",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.006142536391559829,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_18011",
+        "generation_seed": 43,
+        "question": "Dave and Ansell Collins had a U.K No 1 hit with which song?",
+        "gold_candidates": [
+          "DOUBLE BARREL"
+        ],
+        "baseline_eigenscore": -1.2822320591585576,
+        "fc_eigenscore": -1.7616316320518082,
+        "delta_eigenscore": -0.4793995728932505,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Two of a Kind\"",
+        "fc_majority_answer": "\"Two of a Kind\"",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.006236572265625,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_2151",
+    "question": "What colour are the flowers of a hawkbit plant?",
+    "gold_candidates": [
+      "Yellow"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.0169585477234708,
+    "mean_fc_eigenscore": -1.4719973465687008,
+    "mean_delta_eigenscore": -0.45503879884522996,
+    "mean_baseline_unique_generations": 13.333333333333334,
+    "mean_fc_unique_generations": 12.0,
+    "mean_fc_clip_fraction": 0.006990266620141014,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qb_2151",
+        "generation_seed": 41,
+        "question": "What colour are the flowers of a hawkbit plant?",
+        "gold_candidates": [
+          "Yellow"
+        ],
+        "baseline_eigenscore": -1.2295604364171482,
+        "fc_eigenscore": -1.624552918593023,
+        "delta_eigenscore": -0.3949924821758748,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+        "fc_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.006779165116567461,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_2151",
+        "generation_seed": 42,
+        "question": "What colour are the flowers of a hawkbit plant?",
+        "gold_candidates": [
+          "Yellow"
+        ],
+        "baseline_eigenscore": -0.2074111147513448,
+        "fc_eigenscore": -1.1735080867651768,
+        "delta_eigenscore": -0.966096972013832,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+        "fc_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.007180914750957854,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_2151",
+        "generation_seed": 43,
+        "question": "What colour are the flowers of a hawkbit plant?",
+        "gold_candidates": [
+          "Yellow"
+        ],
+        "baseline_eigenscore": -1.6139040920019194,
+        "fc_eigenscore": -1.6179310343479023,
+        "delta_eigenscore": -0.004026942345982887,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+        "fc_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007010719992897727,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bt_2137",
+    "question": "In which county is Wentworth golf course",
+    "gold_candidates": [
+      "Surrey"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.716967988208785,
+    "mean_fc_eigenscore": 0.26779061509429775,
+    "mean_delta_eigenscore": -0.4491773731144874,
+    "mean_baseline_unique_generations": 18.0,
+    "mean_fc_unique_generations": 17.0,
+    "mean_fc_clip_fraction": 0.0066849771315156915,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.3333333333333333,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bt_2137",
+        "generation_seed": 41,
+        "question": "In which county is Wentworth golf course",
+        "gold_candidates": [
+          "Surrey"
+        ],
+        "baseline_eigenscore": 0.14319247260686854,
+        "fc_eigenscore": -0.7469089116492531,
+        "delta_eigenscore": -0.8901013842561216,
+        "baseline_is_correct": false,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "I'm not aware of a specific Wentworth golf course.",
+        "fc_majority_answer": "Wentworth Golf Club is located in Surrey, England.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.006429225714631783,
+        "correctness_flip": "incorrect_to_correct"
+      },
+      {
+        "id": "bt_2137",
+        "generation_seed": 42,
+        "question": "In which county is Wentworth golf course",
+        "gold_candidates": [
+          "Surrey"
+        ],
+        "baseline_eigenscore": 0.732042163964979,
+        "fc_eigenscore": 0.273561329485626,
+        "delta_eigenscore": -0.458480834479353,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I couldn't find information about a specific Wentworth golf course.",
+        "fc_majority_answer": "I couldn't find specific information on a well-known golf course named \"Wentworth\".",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 17,
+        "fc_clip_fraction": 0.006902253712322695,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_2137",
+        "generation_seed": 43,
+        "question": "In which county is Wentworth golf course",
+        "gold_candidates": [
+          "Surrey"
+        ],
+        "baseline_eigenscore": 1.275669328054508,
+        "fc_eigenscore": 1.2767194274465203,
+        "delta_eigenscore": 0.0010500993920123936,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I couldn't find a specific information about a notable golf course named \"Wentworth.\"",
+        "fc_majority_answer": "I couldn't find specific information on a well-known golf course named \"Wentworth\".",
+        "baseline_unique_generations": 20,
+        "fc_unique_generations": 20,
+        "fc_clip_fraction": 0.006723451967592593,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_1148",
+    "question": "What was the name of the USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II ?",
+    "gold_candidates": [
+      "MEMPHIS BELLE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 1.2768821999789224,
+    "mean_fc_eigenscore": 0.8657399057224756,
+    "mean_delta_eigenscore": -0.4111422942564469,
+    "mean_baseline_unique_generations": 17.666666666666668,
+    "mean_fc_unique_generations": 16.666666666666668,
+    "mean_fc_clip_fraction": 0.011043873901946819,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "wh_1148",
+        "generation_seed": 41,
+        "question": "What was the name of the USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II ?",
+        "gold_candidates": [
+          "MEMPHIS BELLE"
+        ],
+        "baseline_eigenscore": 1.5965480805764294,
+        "fc_eigenscore": 1.2211156391386653,
+        "delta_eigenscore": -0.3754324414377641,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The crew of the USAAF B-17 Flying Fortress \"Ye Olde Pub\"",
+        "fc_majority_answer": "The crew of the USAAF B-17 Flying Fortress \"Ye Olde Pub\"",
+        "baseline_unique_generations": 19,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.011130864939458689,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_1148",
+        "generation_seed": 42,
+        "question": "What was the name of the USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II ?",
+        "gold_candidates": [
+          "MEMPHIS BELLE"
+        ],
+        "baseline_eigenscore": 0.6344705993381006,
+        "fc_eigenscore": -0.10339715113812527,
+        "delta_eigenscore": -0.7378677504762259,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The crew of the USAAF B-17 Flying Fortress, \"Hell's Angels,\" achieved this feat.",
+        "fc_majority_answer": "The crew of the USAAF B-17 Flying Fortress, \"Hell's Angels,\" achieved this feat.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.010945985799501425,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_1148",
+        "generation_seed": 43,
+        "question": "What was the name of the USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II ?",
+        "gold_candidates": [
+          "MEMPHIS BELLE"
+        ],
+        "baseline_eigenscore": 1.5996279200222374,
+        "fc_eigenscore": 1.4795012291668868,
+        "delta_eigenscore": -0.12012669085535066,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II was the \"Hell's Angels\".",
+        "fc_majority_answer": "The crew of the B-17 Flying Fortress \"Hell's Angels\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.011054770966880342,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_2368",
+    "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+    "gold_candidates": [
+      "ASTON VILLA"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 1.1051802991860658,
+    "mean_fc_eigenscore": 0.7140595574456485,
+    "mean_delta_eigenscore": -0.39112074174041717,
+    "mean_baseline_unique_generations": 17.0,
+    "mean_fc_unique_generations": 16.666666666666668,
+    "mean_fc_clip_fraction": 0.008312690769635,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "wh_2368",
+        "generation_seed": 41,
+        "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+        "gold_candidates": [
+          "ASTON VILLA"
+        ],
+        "baseline_eigenscore": 1.598200705537842,
+        "fc_eigenscore": 0.5971938672714607,
+        "delta_eigenscore": -1.0010068382663813,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I'm not aware of the current information.",
+        "fc_majority_answer": "I'm not aware of the latest information.",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.0082216796875,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_2368",
+        "generation_seed": 42,
+        "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+        "gold_candidates": [
+          "ASTON VILLA"
+        ],
+        "baseline_eigenscore": 1.0765382237976986,
+        "fc_eigenscore": 1.446859553844676,
+        "delta_eigenscore": 0.3703213300469774,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I'm not aware of any recent information about the Capital One Cup.",
+        "fc_majority_answer": "I'm not aware of the current information.",
+        "baseline_unique_generations": 17,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.008548144853547854,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_2368",
+        "generation_seed": 43,
+        "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+        "gold_candidates": [
+          "ASTON VILLA"
+        ],
+        "baseline_eigenscore": 0.6408019682226568,
+        "fc_eigenscore": 0.09812525122080902,
+        "delta_eigenscore": -0.5426767170018477,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I'm not aware of the latest information.",
+        "fc_majority_answer": "I'm not aware of the latest information.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.008168247767857142,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_702",
+    "question": "Who made the first telephone call to the Moon?",
+    "gold_candidates": [
+      "Richard Nixon"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.3173502553530674,
+    "mean_fc_eigenscore": -2.6757381709670174,
+    "mean_delta_eigenscore": -0.35838791561395017,
+    "mean_baseline_unique_generations": 10.0,
+    "mean_fc_unique_generations": 9.0,
+    "mean_fc_clip_fraction": 0.006233506221658305,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "dpql_702",
+        "generation_seed": 41,
+        "question": "Who made the first telephone call to the Moon?",
+        "gold_candidates": [
+          "Richard Nixon"
+        ],
+        "baseline_eigenscore": -1.511273253878759,
+        "fc_eigenscore": -2.1931625107069124,
+        "delta_eigenscore": -0.6818892568281534,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "There is no recorded instance of a telephone call to the Moon.",
+        "fc_majority_answer": "There is no recorded instance of a telephone call to the Moon.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.006263224283854166,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_702",
+        "generation_seed": 42,
+        "question": "Who made the first telephone call to the Moon?",
+        "gold_candidates": [
+          "Richard Nixon"
+        ],
+        "baseline_eigenscore": -2.446387104010894,
+        "fc_eigenscore": -2.934041236173161,
+        "delta_eigenscore": -0.48765413216226694,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "There is no recorded instance of a telephone call to the Moon.",
+        "fc_majority_answer": "There is no recorded instance of a telephone call to the Moon.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006208794831223629,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_702",
+        "generation_seed": 43,
+        "question": "Who made the first telephone call to the Moon?",
+        "gold_candidates": [
+          "Richard Nixon"
+        ],
+        "baseline_eigenscore": -2.9943904081695485,
+        "fc_eigenscore": -2.9000107660209786,
+        "delta_eigenscore": 0.09437964214856986,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "There is no recorded instance of a telephone call to the Moon.",
+        "fc_majority_answer": "There is no recorded instance of a telephone call to the Moon.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006228499549897119,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_6246",
+    "question": "Which duo created the “Dagenham dialogues”?",
+    "gold_candidates": [
+      "Peter Cook and Dudley Moore"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.4398501248328914,
+    "mean_fc_eigenscore": 0.09763095379552374,
+    "mean_delta_eigenscore": -0.3422191710373676,
+    "mean_baseline_unique_generations": 16.333333333333332,
+    "mean_fc_unique_generations": 15.0,
+    "mean_fc_clip_fraction": 0.0064981329545670445,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "dpql_6246",
+        "generation_seed": 41,
+        "question": "Which duo created the “Dagenham dialogues”?",
+        "gold_candidates": [
+          "Peter Cook and Dudley Moore"
+        ],
+        "baseline_eigenscore": 0.145166321842023,
+        "fc_eigenscore": -0.8712563304376554,
+        "delta_eigenscore": -1.0164226522796784,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The \"Dagenham dialogues\" were created by John Cleese and Graham Chapman.",
+        "fc_majority_answer": "The \"Dagenham Dialogues\" were created by Alan Bleasdale.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.006510608149509804,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_6246",
+        "generation_seed": 42,
+        "question": "Which duo created the “Dagenham dialogues”?",
+        "gold_candidates": [
+          "Peter Cook and Dudley Moore"
+        ],
+        "baseline_eigenscore": -0.17003686344929383,
+        "fc_eigenscore": 0.7853877855496767,
+        "delta_eigenscore": 0.9554246489989705,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The \"Dagenham dialogues\" were created by John Cleese and Graham Chapman.",
+        "fc_majority_answer": "The \"Dagenham dialogues\" were created by John Cleese and Graham Chapman.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 17,
+        "fc_clip_fraction": 0.00652447324810606,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_6246",
+        "generation_seed": 43,
+        "question": "Which duo created the “Dagenham dialogues”?",
+        "gold_candidates": [
+          "Peter Cook and Dudley Moore"
+        ],
+        "baseline_eigenscore": 1.3444209161059448,
+        "fc_eigenscore": 0.3787614062745499,
+        "delta_eigenscore": -0.9656595098313949,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Dagenham Dialogues were created by Alan Bleasdale.",
+        "fc_majority_answer": "The Dagenham Dialogues were created by Alan Bleasdale.",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.006459317466085271,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_21",
+    "question": "Whose gang travel around in the Mystery Machine?",
+    "gold_candidates": [
+      "Scooby-Doo’s"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.818835277119011,
+    "mean_fc_eigenscore": -4.153953436480958,
+    "mean_delta_eigenscore": -0.3351181593619466,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 4.666666666666667,
+    "mean_fc_clip_fraction": 0.005943961933797076,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "dpql_21",
+        "generation_seed": 41,
+        "question": "Whose gang travel around in the Mystery Machine?",
+        "gold_candidates": [
+          "Scooby-Doo’s"
+        ],
+        "baseline_eigenscore": -5.034329722069911,
+        "fc_eigenscore": -4.518764416370699,
+        "delta_eigenscore": 0.5155653056992122,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Scooby-Doo gang.",
+        "fc_majority_answer": "The Scooby-Doo gang.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005825063344594594,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_21",
+        "generation_seed": 42,
+        "question": "Whose gang travel around in the Mystery Machine?",
+        "gold_candidates": [
+          "Scooby-Doo’s"
+        ],
+        "baseline_eigenscore": -4.46219151744346,
+        "fc_eigenscore": -4.993018231554553,
+        "delta_eigenscore": -0.5308267141110923,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Scooby-Doo gang.",
+        "fc_majority_answer": "The Scooby-Doo gang.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0060120884773662555,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_21",
+        "generation_seed": 43,
+        "question": "Whose gang travel around in the Mystery Machine?",
+        "gold_candidates": [
+          "Scooby-Doo’s"
+        ],
+        "baseline_eigenscore": -1.959984591843662,
+        "fc_eigenscore": -2.950077661517622,
+        "delta_eigenscore": -0.9900930696739598,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Scooby-Doo gang.",
+        "fc_majority_answer": "The Scooby-Doo gang.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.00599473397943038,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_2594",
+    "question": "Which film director visited the deepest point on Earth in 2012 ?",
+    "gold_candidates": [
+      "JAMES CAMERON"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.6906929601767855,
+    "mean_fc_eigenscore": -6.003676329711143,
+    "mean_delta_eigenscore": -0.3129833695343587,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.004472068504050926,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "wh_2594",
+        "generation_seed": 41,
+        "question": "Which film director visited the deepest point on Earth in 2012 ?",
+        "gold_candidates": [
+          "JAMES CAMERON"
+        ],
+        "baseline_eigenscore": -5.219314232819832,
+        "fc_eigenscore": -5.669299422136012,
+        "delta_eigenscore": -0.44998518931618037,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "James Cameron.",
+        "fc_majority_answer": "James Cameron.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.004681396484375,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_2594",
+        "generation_seed": 42,
+        "question": "Which film director visited the deepest point on Earth in 2012 ?",
+        "gold_candidates": [
+          "JAMES CAMERON"
+        ],
+        "baseline_eigenscore": -6.170864783498709,
+        "fc_eigenscore": -6.170864783498709,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "James Cameron.",
+        "fc_majority_answer": "James Cameron.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.004367404513888889,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_2594",
+        "generation_seed": 43,
+        "question": "Which film director visited the deepest point on Earth in 2012 ?",
+        "gold_candidates": [
+          "JAMES CAMERON"
+        ],
+        "baseline_eigenscore": -5.681899864211814,
+        "fc_eigenscore": -6.170864783498709,
+        "delta_eigenscore": -0.48896491928689567,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "James Cameron.",
+        "fc_majority_answer": "James Cameron.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.004367404513888889,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_15658",
+    "question": "Which National Trust property in Wiltshire was once owned by William Henry Fox-Talbot the pioneer of photography?",
+    "gold_candidates": [
+      "Lacock Abbey"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.050184511785077,
+    "mean_fc_eigenscore": -4.361674529248982,
+    "mean_delta_eigenscore": -0.3114900174639052,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 4.666666666666667,
+    "mean_fc_clip_fraction": 0.008045200814569303,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_15658",
+        "generation_seed": 41,
+        "question": "Which National Trust property in Wiltshire was once owned by William Henry Fox-Talbot the pioneer of photography?",
+        "gold_candidates": [
+          "Lacock Abbey"
+        ],
+        "baseline_eigenscore": -4.259121201073098,
+        "fc_eigenscore": -4.259121201073098,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Lacock Abbey.",
+        "fc_majority_answer": "Lacock Abbey.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.00806884765625,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_15658",
+        "generation_seed": 42,
+        "question": "Which National Trust property in Wiltshire was once owned by William Henry Fox-Talbot the pioneer of photography?",
+        "gold_candidates": [
+          "Lacock Abbey"
+        ],
+        "baseline_eigenscore": -3.710086473234108,
+        "fc_eigenscore": -4.183233134329005,
+        "delta_eigenscore": -0.47314666109489734,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Lacock Abbey.",
+        "fc_majority_answer": "Lacock Abbey.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.00804135101010101,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_15658",
+        "generation_seed": 43,
+        "question": "Which National Trust property in Wiltshire was once owned by William Henry Fox-Talbot the pioneer of photography?",
+        "gold_candidates": [
+          "Lacock Abbey"
+        ],
+        "baseline_eigenscore": -4.181345861048024,
+        "fc_eigenscore": -4.6426692523448425,
+        "delta_eigenscore": -0.4613233912968182,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Lacock Abbey.",
+        "fc_majority_answer": "Lacock Abbey.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.008025403777356903,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qz_3760",
+    "question": "Which Eastenders character had a dog called Willy?",
+    "gold_candidates": [
+      "Ethel Skinner"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.444043945878626,
+    "mean_fc_eigenscore": -1.7323010844487499,
+    "mean_delta_eigenscore": -0.2882571385701238,
+    "mean_baseline_unique_generations": 12.666666666666666,
+    "mean_fc_unique_generations": 12.0,
+    "mean_fc_clip_fraction": 0.006549646558393095,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qz_3760",
+        "generation_seed": 41,
+        "question": "Which Eastenders character had a dog called Willy?",
+        "gold_candidates": [
+          "Ethel Skinner"
+        ],
+        "baseline_eigenscore": -1.627943163465624,
+        "fc_eigenscore": -1.9321336974951304,
+        "delta_eigenscore": -0.30419053402950635,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Den Watts had a dog called Willy.",
+        "fc_majority_answer": "Den Watts had a dog called Willy.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.006970508483676976,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_3760",
+        "generation_seed": 42,
+        "question": "Which Eastenders character had a dog called Willy?",
+        "gold_candidates": [
+          "Ethel Skinner"
+        ],
+        "baseline_eigenscore": -1.2697504787721283,
+        "fc_eigenscore": -1.8524511909966512,
+        "delta_eigenscore": -0.5827007122245229,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Phil Mitchell's dog was named Willy.",
+        "fc_majority_answer": "Phil Mitchell's dog was named Willy.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.006298024369855967,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_3760",
+        "generation_seed": 43,
+        "question": "Which Eastenders character had a dog called Willy?",
+        "gold_candidates": [
+          "Ethel Skinner"
+        ],
+        "baseline_eigenscore": -1.4344381953981262,
+        "fc_eigenscore": -1.4123183648544684,
+        "delta_eigenscore": 0.022119830543657848,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Phil Mitchell's dog was named Willy.",
+        "fc_majority_answer": "Phil Mitchell's dog was named Willy.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.006380406821646341,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_12189",
+    "question": "Who was the first overseas manager to win the Premier League title?",
+    "gold_candidates": [
+      "Arsene Wenger"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.7385714037921008,
+    "mean_fc_eigenscore": 0.45970526026729813,
+    "mean_delta_eigenscore": -0.2788661435248027,
+    "mean_baseline_unique_generations": 15.0,
+    "mean_fc_unique_generations": 14.333333333333334,
+    "mean_fc_clip_fraction": 0.006781009353674004,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_12189",
+        "generation_seed": 41,
+        "question": "Who was the first overseas manager to win the Premier League title?",
+        "gold_candidates": [
+          "Arsene Wenger"
+        ],
+        "baseline_eigenscore": 0.13123692440929785,
+        "fc_eigenscore": 0.27498837084009836,
+        "delta_eigenscore": 0.1437514464308005,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Graham Taylor was the first overseas manager to win the Premier League title.",
+        "fc_majority_answer": "Graham Taylor was the first overseas manager to win the Premier League title.",
+        "baseline_unique_generations": 14,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.006730580757168459,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_12189",
+        "generation_seed": 42,
+        "question": "Who was the first overseas manager to win the Premier League title?",
+        "gold_candidates": [
+          "Arsene Wenger"
+        ],
+        "baseline_eigenscore": 0.7289606095680513,
+        "fc_eigenscore": 0.259045048544427,
+        "delta_eigenscore": -0.4699155610236243,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Graham Taylor.",
+        "fc_majority_answer": "Graham Taylor.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.006609146062271062,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_12189",
+        "generation_seed": 43,
+        "question": "Who was the first overseas manager to win the Premier League title?",
+        "gold_candidates": [
+          "Arsene Wenger"
+        ],
+        "baseline_eigenscore": 1.3555166773989533,
+        "fc_eigenscore": 0.8450823614173689,
+        "delta_eigenscore": -0.5104343159815844,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ralf Rangnick.",
+        "fc_majority_answer": "Ralph Rimmer was the first overseas manager to win the Premier League title.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.007003301241582492,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_19469",
+    "question": "Which edifice in London was immortalised in poetry by Wordsworth in 1802 and in a painting by Canaletto in 1746?",
+    "gold_candidates": [
+      "Westminster Bridge"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.7468536613830686,
+    "mean_fc_eigenscore": -1.0220399682263608,
+    "mean_delta_eigenscore": -0.275186306843292,
+    "mean_baseline_unique_generations": 12.0,
+    "mean_fc_unique_generations": 11.333333333333334,
+    "mean_fc_clip_fraction": 0.007467774670533459,
+    "baseline_correct_fraction": 0.6666666666666666,
+    "fc_correct_fraction": 0.6666666666666666,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_19469",
+        "generation_seed": 41,
+        "question": "Which edifice in London was immortalised in poetry by Wordsworth in 1802 and in a painting by Canaletto in 1746?",
+        "gold_candidates": [
+          "Westminster Bridge"
+        ],
+        "baseline_eigenscore": -1.179652867914084,
+        "fc_eigenscore": -1.1275487044127004,
+        "delta_eigenscore": 0.05210416350138369,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The London Bridge.",
+        "fc_majority_answer": "The London Bridge.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007341152409511785,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_19469",
+        "generation_seed": 42,
+        "question": "Which edifice in London was immortalised in poetry by Wordsworth in 1802 and in a painting by Canaletto in 1746?",
+        "gold_candidates": [
+          "Westminster Bridge"
+        ],
+        "baseline_eigenscore": -0.7703271904104915,
+        "fc_eigenscore": -1.213790214829915,
+        "delta_eigenscore": -0.4434630244194234,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The London Bridge.",
+        "fc_majority_answer": "The London Bridge.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007544284396701389,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_19469",
+        "generation_seed": 43,
+        "question": "Which edifice in London was immortalised in poetry by Wordsworth in 1802 and in a painting by Canaletto in 1746?",
+        "gold_candidates": [
+          "Westminster Bridge"
+        ],
+        "baseline_eigenscore": -0.29058092582463074,
+        "fc_eigenscore": -0.724780985436467,
+        "delta_eigenscore": -0.4342000596118362,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Royal Exchange.",
+        "fc_majority_answer": "The Royal Exchange.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.0075178872053872055,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tc_2218",
+    "question": "Which was the longest moon landing?",
+    "gold_candidates": [
+      "Apollo 17"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.5069439013132042,
+    "mean_fc_eigenscore": -0.7803460169871919,
+    "mean_delta_eigenscore": -0.2734021156739877,
+    "mean_baseline_unique_generations": 13.333333333333334,
+    "mean_fc_unique_generations": 12.666666666666666,
+    "mean_fc_clip_fraction": 0.007887307009870852,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tc_2218",
+        "generation_seed": 41,
+        "question": "Which was the longest moon landing?",
+        "gold_candidates": [
+          "Apollo 17"
+        ],
+        "baseline_eigenscore": -1.0205604883834885,
+        "fc_eigenscore": -1.0205604883834885,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+        "fc_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007570891203703704,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_2218",
+        "generation_seed": 42,
+        "question": "Which was the longest moon landing?",
+        "gold_candidates": [
+          "Apollo 17"
+        ],
+        "baseline_eigenscore": -0.0378019594807812,
+        "fc_eigenscore": -0.028840993346381925,
+        "delta_eigenscore": 0.008960966134399277,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+        "fc_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.008242652529761904,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_2218",
+        "generation_seed": 43,
+        "question": "Which was the longest moon landing?",
+        "gold_candidates": [
+          "Apollo 17"
+        ],
+        "baseline_eigenscore": -0.4624692560753429,
+        "fc_eigenscore": -1.2916365692317053,
+        "delta_eigenscore": -0.8291673131563624,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The longest moon landing was Apollo 17, which lasted 75 hours and 48 minutes.",
+        "fc_majority_answer": "The longest moon landing was Apollo 17, which lasted 75 hours and 48 minutes.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007848377296146953,
+        "correctness_flip": "same"
+      }
+    ]
+  }
+]

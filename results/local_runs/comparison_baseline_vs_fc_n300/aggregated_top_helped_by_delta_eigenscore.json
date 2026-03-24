@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "qw_1527",
+    "question": "In a film script, what do the letters ECU mean?",
+    "gold_candidates": [
+      "Extreme Close Up"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.1059891621435505,
+    "mean_fc_eigenscore": 0.6814008136279841,
+    "mean_delta_eigenscore": 1.7873899757715346,
+    "mean_baseline_unique_generations": 10.666666666666666,
+    "mean_fc_unique_generations": 14.333333333333334,
+    "mean_fc_clip_fraction": 0.006056598701862374,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_1527",
+        "generation_seed": 41,
+        "question": "In a film script, what do the letters ECU mean?",
+        "gold_candidates": [
+          "Extreme Close Up"
+        ],
+        "baseline_eigenscore": -0.5053076439695842,
+        "fc_eigenscore": 1.398680037857752,
+        "delta_eigenscore": 1.9039876818273362,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Electronic Control Unit.",
+        "fc_majority_answer": "Electronic Control Unit.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.006483783143939394,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_1527",
+        "generation_seed": 42,
+        "question": "In a film script, what do the letters ECU mean?",
+        "gold_candidates": [
+          "Extreme Close Up"
+        ],
+        "baseline_eigenscore": -2.32842073920171,
+        "fc_eigenscore": -0.2056075232866265,
+        "delta_eigenscore": 2.1228132159150834,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Electronic Control Unit.",
+        "fc_majority_answer": "Electronic Control Unit.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.006288470643939394,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_1527",
+        "generation_seed": 43,
+        "question": "In a film script, what do the letters ECU mean?",
+        "gold_candidates": [
+          "Extreme Close Up"
+        ],
+        "baseline_eigenscore": -0.4842391032593573,
+        "fc_eigenscore": 0.8511299263128269,
+        "delta_eigenscore": 1.3353690295721843,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Electronic Control Unit.",
+        "fc_majority_answer": "Electronic Control Unit.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.0053975423177083336,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tb_1946",
+    "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+    "gold_candidates": [
+      "Mitochondrial Eve"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.524453267876616,
+    "mean_fc_eigenscore": -3.616162544384119,
+    "mean_delta_eigenscore": 0.9082907234924967,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 6.333333333333333,
+    "mean_fc_clip_fraction": 0.009411569365991019,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tb_1946",
+        "generation_seed": 41,
+        "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+        "gold_candidates": [
+          "Mitochondrial Eve"
+        ],
+        "baseline_eigenscore": -5.685858917491731,
+        "fc_eigenscore": -3.4347907212031457,
+        "delta_eigenscore": 2.2510681962885855,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mitochondrial Eve.",
+        "fc_majority_answer": "Mitochondrial Eve.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.009455438619146005,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1946",
+        "generation_seed": 42,
+        "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+        "gold_candidates": [
+          "Mitochondrial Eve"
+        ],
+        "baseline_eigenscore": -3.629110088834893,
+        "fc_eigenscore": -3.669617791397279,
+        "delta_eigenscore": -0.040507702562385894,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mitochondrial Eve.",
+        "fc_majority_answer": "Mitochondrial Eve.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.00945907046315427,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1946",
+        "generation_seed": 43,
+        "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+        "gold_candidates": [
+          "Mitochondrial Eve"
+        ],
+        "baseline_eigenscore": -4.258390797303224,
+        "fc_eigenscore": -3.744079120551933,
+        "delta_eigenscore": 0.5143116767512907,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mitochondrial Eve.",
+        "fc_majority_answer": "Mitochondrial Eve.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.009320199015672782,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_20461",
+    "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+    "gold_candidates": [
+      "Greg Rusedski"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.2417242017757437,
+    "mean_fc_eigenscore": -2.3351647018904136,
+    "mean_delta_eigenscore": 0.9065594998853294,
+    "mean_baseline_unique_generations": 7.0,
+    "mean_fc_unique_generations": 9.0,
+    "mean_fc_clip_fraction": 0.00729833505656952,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_20461",
+        "generation_seed": 41,
+        "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+        "gold_candidates": [
+          "Greg Rusedski"
+        ],
+        "baseline_eigenscore": -3.2660810991354543,
+        "fc_eigenscore": -2.371642473609488,
+        "delta_eigenscore": 0.8944386255259662,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Virginia Wade.",
+        "fc_majority_answer": "Virginia Wade.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007206859923245614,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_20461",
+        "generation_seed": 42,
+        "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+        "gold_candidates": [
+          "Greg Rusedski"
+        ],
+        "baseline_eigenscore": -3.2876550264544235,
+        "fc_eigenscore": -2.734907747673128,
+        "delta_eigenscore": 0.5527472787812955,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Virginia Wade.",
+        "fc_majority_answer": "Virginia Wade.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.007161804632092199,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_20461",
+        "generation_seed": 43,
+        "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+        "gold_candidates": [
+          "Greg Rusedski"
+        ],
+        "baseline_eigenscore": -3.1714364797373524,
+        "fc_eigenscore": -1.898943884388626,
+        "delta_eigenscore": 1.2724925953487265,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Virginia Wade.",
+        "fc_majority_answer": "Virginia Wade.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007526340614370748,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_6358",
+    "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+    "gold_candidates": [
+      "Clinical lycanthropy"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.4364053172576026,
+    "mean_fc_eigenscore": -1.53392778567418,
+    "mean_delta_eigenscore": 0.9024775315834227,
+    "mean_baseline_unique_generations": 8.666666666666666,
+    "mean_fc_unique_generations": 10.333333333333334,
+    "mean_fc_clip_fraction": 0.007219092899708522,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_6358",
+        "generation_seed": 41,
+        "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+        "gold_candidates": [
+          "Clinical lycanthropy"
+        ],
+        "baseline_eigenscore": -1.7033274187163765,
+        "fc_eigenscore": -0.7485725644849612,
+        "delta_eigenscore": 0.9547548542314153,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Zoanthropy.",
+        "fc_majority_answer": "Zoanthropy.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007230845668859649,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_6358",
+        "generation_seed": 42,
+        "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+        "gold_candidates": [
+          "Clinical lycanthropy"
+        ],
+        "baseline_eigenscore": -2.77552094891726,
+        "fc_eigenscore": -2.162646427991567,
+        "delta_eigenscore": 0.612874520925693,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Zoanthropy.",
+        "fc_majority_answer": "Zoanthropy.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.0071986837355610565,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_6358",
+        "generation_seed": 43,
+        "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+        "gold_candidates": [
+          "Clinical lycanthropy"
+        ],
+        "baseline_eigenscore": -2.830367584139171,
+        "fc_eigenscore": -1.6905643645460113,
+        "delta_eigenscore": 1.1398032195931598,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Zoanthropy.",
+        "fc_majority_answer": "Zoanthropy.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.0072277492947048615,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_7738",
+    "question": "Which American state borders on only one other state?",
+    "gold_candidates": [
+      "MAINE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.5464735507775185,
+    "mean_fc_eigenscore": -2.744246223932384,
+    "mean_delta_eigenscore": 0.8022273268451343,
+    "mean_baseline_unique_generations": 6.333333333333333,
+    "mean_fc_unique_generations": 8.0,
+    "mean_fc_clip_fraction": 0.005533479375429206,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_7738",
+        "generation_seed": 41,
+        "question": "Which American state borders on only one other state?",
+        "gold_candidates": [
+          "MAINE"
+        ],
+        "baseline_eigenscore": -4.568427962300975,
+        "fc_eigenscore": -3.1409584059644353,
+        "delta_eigenscore": 1.4274695563365394,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Maine.",
+        "fc_majority_answer": "Maine and New Hampshire.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.00524025128517316,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7738",
+        "generation_seed": 42,
+        "question": "Which American state borders on only one other state?",
+        "gold_candidates": [
+          "MAINE"
+        ],
+        "baseline_eigenscore": -3.6541118147247564,
+        "fc_eigenscore": -2.7962613273516514,
+        "delta_eigenscore": 0.857850487373105,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Maine.",
+        "fc_majority_answer": "Maine.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.005525716145833333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7738",
+        "generation_seed": 43,
+        "question": "Which American state borders on only one other state?",
+        "gold_candidates": [
+          "MAINE"
+        ],
+        "baseline_eigenscore": -2.4168808753068247,
+        "fc_eigenscore": -2.295518938481066,
+        "delta_eigenscore": 0.12136193682575858,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Maine.",
+        "fc_majority_answer": "Maine.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.005834470695281125,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_25839",
+    "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+    "gold_candidates": [
+      "The Flying Pickets"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.8685066968552054,
+    "mean_fc_eigenscore": -0.14480974865355692,
+    "mean_delta_eigenscore": 0.7236969482016485,
+    "mean_baseline_unique_generations": 12.666666666666666,
+    "mean_fc_unique_generations": 14.333333333333334,
+    "mean_fc_clip_fraction": 0.007170939286026256,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_25839",
+        "generation_seed": 41,
+        "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+        "gold_candidates": [
+          "The Flying Pickets"
+        ],
+        "baseline_eigenscore": -1.659497218052676,
+        "fc_eigenscore": -0.7618804487521168,
+        "delta_eigenscore": 0.8976167693005591,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Righteous Brothers.",
+        "fc_majority_answer": "The Righteous Brothers.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.00710022941468254,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_25839",
+        "generation_seed": 42,
+        "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+        "gold_candidates": [
+          "The Flying Pickets"
+        ],
+        "baseline_eigenscore": 0.503641295585869,
+        "fc_eigenscore": 0.5246443812246638,
+        "delta_eigenscore": 0.021003085638794827,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Righteous Brothers had a UK No.1 hit in 1983 with a cover version of Yazoo's \"Only You\".",
+        "fc_majority_answer": "The Righteous Brothers had a UK No.1 hit in 1983 with a cover version of Yazoo's \"Only You\".",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.00726494939072327,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_25839",
+        "generation_seed": 43,
+        "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+        "gold_candidates": [
+          "The Flying Pickets"
+        ],
+        "baseline_eigenscore": -1.4496641680988094,
+        "fc_eigenscore": -0.19719317843321785,
+        "delta_eigenscore": 1.2524709896655914,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Four Tops.",
+        "fc_majority_answer": "The Four Tops.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.007147639052672956,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "jp_321",
+    "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+    "gold_candidates": [
+      "AOL"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.459937630108711,
+    "mean_fc_eigenscore": -1.7590413860255267,
+    "mean_delta_eigenscore": 0.7008962440831841,
+    "mean_baseline_unique_generations": 9.0,
+    "mean_fc_unique_generations": 10.666666666666666,
+    "mean_fc_clip_fraction": 0.007908769772376542,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "jp_321",
+        "generation_seed": 41,
+        "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+        "gold_candidates": [
+          "AOL"
+        ],
+        "baseline_eigenscore": -1.9241644046742195,
+        "fc_eigenscore": -1.4318419885853126,
+        "delta_eigenscore": 0.4923224160889068,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "fc_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007846860532407407,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_321",
+        "generation_seed": 42,
+        "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+        "gold_candidates": [
+          "AOL"
+        ],
+        "baseline_eigenscore": -2.578367337059972,
+        "fc_eigenscore": -1.8421607743270427,
+        "delta_eigenscore": 0.7362065627329293,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "fc_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007904007523148147,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_321",
+        "generation_seed": 43,
+        "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+        "gold_candidates": [
+          "AOL"
+        ],
+        "baseline_eigenscore": -2.8772811485919414,
+        "fc_eigenscore": -2.003121395164225,
+        "delta_eigenscore": 0.8741597534277163,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "fc_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007975441261574075,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_13114",
+    "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+    "gold_candidates": [
+      "'MONOPOLY'"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.426364027527772,
+    "mean_fc_eigenscore": -4.7459629471294,
+    "mean_delta_eigenscore": 0.6804010803983718,
+    "mean_baseline_unique_generations": 2.6666666666666665,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.006435441938214381,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "odql_13114",
+        "generation_seed": 41,
+        "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+        "gold_candidates": [
+          "'MONOPOLY'"
+        ],
+        "baseline_eigenscore": -5.337968304944936,
+        "fc_eigenscore": -5.337968304944936,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Monopoly board game.",
+        "fc_majority_answer": "The Monopoly board game.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0063920802696078435,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_13114",
+        "generation_seed": 42,
+        "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+        "gold_candidates": [
+          "'MONOPOLY'"
+        ],
+        "baseline_eigenscore": -5.337968304945905,
+        "fc_eigenscore": -3.736815704183664,
+        "delta_eigenscore": 1.6011526007622412,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Monopoly board game.",
+        "fc_majority_answer": "The Monopoly board game.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006435071395131086,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_13114",
+        "generation_seed": 43,
+        "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+        "gold_candidates": [
+          "'MONOPOLY'"
+        ],
+        "baseline_eigenscore": -5.6031554726924755,
+        "fc_eigenscore": -5.163104832259601,
+        "delta_eigenscore": 0.4400506404328741,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Monopoly board game.",
+        "fc_majority_answer": "The Monopoly board game.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006479174149904215,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_8251",
+    "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+    "gold_candidates": [
+      "Whistle Down the Wind"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.185611914347352,
+    "mean_fc_eigenscore": -4.532931908138425,
+    "mean_delta_eigenscore": 0.6526800062089274,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 4.333333333333333,
+    "mean_fc_clip_fraction": 0.006925849628454497,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_8251",
+        "generation_seed": 41,
+        "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+        "gold_candidates": [
+          "Whistle Down the Wind"
+        ],
+        "baseline_eigenscore": -5.651814915495656,
+        "fc_eigenscore": -5.068831232803125,
+        "delta_eigenscore": 0.5829836826925314,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King of Kings.",
+        "fc_majority_answer": "King of Kings.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006966335089631783,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_8251",
+        "generation_seed": 42,
+        "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+        "gold_candidates": [
+          "Whistle Down the Wind"
+        ],
+        "baseline_eigenscore": -4.680403423348138,
+        "fc_eigenscore": -3.6866582628521156,
+        "delta_eigenscore": 0.9937451604960224,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King of Kings.",
+        "fc_majority_answer": "King of Kings.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0069234708460365856,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_8251",
+        "generation_seed": 43,
+        "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+        "gold_candidates": [
+          "Whistle Down the Wind"
+        ],
+        "baseline_eigenscore": -5.224617404198264,
+        "fc_eigenscore": -4.843306228760035,
+        "delta_eigenscore": 0.38131117543822857,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King of Kings.",
+        "fc_majority_answer": "King of Kings.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006887742949695122,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_9111",
+    "question": "Which film star is the title of a 1984 hit single by Madness?",
+    "gold_candidates": [
+      "Michael Caine"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.763386202392894,
+    "mean_fc_eigenscore": -3.1158141709519094,
+    "mean_delta_eigenscore": 0.6475720314409839,
+    "mean_baseline_unique_generations": 6.0,
+    "mean_fc_unique_generations": 7.333333333333333,
+    "mean_fc_clip_fraction": 0.006046077709842996,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qb_9111",
+        "generation_seed": 41,
+        "question": "Which film star is the title of a 1984 hit single by Madness?",
+        "gold_candidates": [
+          "Michael Caine"
+        ],
+        "baseline_eigenscore": -3.2254709826601853,
+        "fc_eigenscore": -2.649024524129331,
+        "delta_eigenscore": 0.5764464585308544,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The film star is Michael Caine.",
+        "fc_majority_answer": "The film star is Michael Caine.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006037349977355073,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9111",
+        "generation_seed": 42,
+        "question": "Which film star is the title of a 1984 hit single by Madness?",
+        "gold_candidates": [
+          "Michael Caine"
+        ],
+        "baseline_eigenscore": -4.678134703968924,
+        "fc_eigenscore": -4.366603137804265,
+        "delta_eigenscore": 0.3115315661646587,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The film star is Michael Caine.",
+        "fc_majority_answer": "The film star is Michael Caine.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006141728940217392,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9111",
+        "generation_seed": 43,
+        "question": "Which film star is the title of a 1984 hit single by Madness?",
+        "gold_candidates": [
+          "Michael Caine"
+        ],
+        "baseline_eigenscore": -3.3865529205495717,
+        "fc_eigenscore": -2.3318148509221333,
+        "delta_eigenscore": 1.0547380696274384,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The film star is Michael Caine.",
+        "fc_majority_answer": "The film star is Michael Caine.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.005959154211956522,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_1002",
+    "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+    "gold_candidates": [
+      "RAWALPINDI"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.640249747392277,
+    "mean_fc_eigenscore": -4.023472694211986,
+    "mean_delta_eigenscore": 0.6167770531802906,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 5.333333333333333,
+    "mean_fc_clip_fraction": 0.005314237451622436,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_1002",
+        "generation_seed": 41,
+        "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+        "gold_candidates": [
+          "RAWALPINDI"
+        ],
+        "baseline_eigenscore": -4.70020243927723,
+        "fc_eigenscore": -4.180306022186821,
+        "delta_eigenscore": 0.5198964170904086,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Karachi.",
+        "fc_majority_answer": "Karachi.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005239310315860215,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_1002",
+        "generation_seed": 42,
+        "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+        "gold_candidates": [
+          "RAWALPINDI"
+        ],
+        "baseline_eigenscore": -4.1149709218225965,
+        "fc_eigenscore": -4.137284128729197,
+        "delta_eigenscore": -0.02231320690660077,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Karachi.",
+        "fc_majority_answer": "Karachi.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005395161513741135,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_1002",
+        "generation_seed": 43,
+        "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+        "gold_candidates": [
+          "RAWALPINDI"
+        ],
+        "baseline_eigenscore": -5.105575881077003,
+        "fc_eigenscore": -3.7528279317199393,
+        "delta_eigenscore": 1.352747949357064,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Karachi.",
+        "fc_majority_answer": "Karachi.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005308240525265957,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_14910",
+    "question": "'Paralympics' is a combination of Olympics and what other word?",
+    "gold_candidates": [
+      "Parallel"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.7571508017204045,
+    "mean_fc_eigenscore": -2.152484357533328,
+    "mean_delta_eigenscore": 0.6046664441870755,
+    "mean_baseline_unique_generations": 7.333333333333333,
+    "mean_fc_unique_generations": 8.666666666666666,
+    "mean_fc_clip_fraction": 0.007483278194510331,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_14910",
+        "generation_seed": 41,
+        "question": "'Paralympics' is a combination of Olympics and what other word?",
+        "gold_candidates": [
+          "Parallel"
+        ],
+        "baseline_eigenscore": -3.4642069533109505,
+        "fc_eigenscore": -3.0561620043731312,
+        "delta_eigenscore": 0.4080449489378193,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paralympics.",
+        "fc_majority_answer": "Paralympics.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006997647849462366,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_14910",
+        "generation_seed": 42,
+        "question": "'Paralympics' is a combination of Olympics and what other word?",
+        "gold_candidates": [
+          "Parallel"
+        ],
+        "baseline_eigenscore": -2.3585024851834966,
+        "fc_eigenscore": -1.9101614230828925,
+        "delta_eigenscore": 0.4483410621006041,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paralympics.",
+        "fc_majority_answer": "Paralympics",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007665696486928104,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_14910",
+        "generation_seed": 43,
+        "question": "'Paralympics' is a combination of Olympics and what other word?",
+        "gold_candidates": [
+          "Parallel"
+        ],
+        "baseline_eigenscore": -2.4487429666667646,
+        "fc_eigenscore": -1.4911296451439615,
+        "delta_eigenscore": 0.9576133215228031,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paralympics",
+        "fc_majority_answer": "Paralympics",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.0077864902471405225,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_9518",
+    "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+    "gold_candidates": [
+      "Robert the Robot"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.5493494815818183,
+    "mean_fc_eigenscore": -0.9906977663408906,
+    "mean_delta_eigenscore": 0.5586517152409277,
+    "mean_baseline_unique_generations": 11.0,
+    "mean_fc_unique_generations": 12.333333333333334,
+    "mean_fc_clip_fraction": 0.008250033560288259,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_9518",
+        "generation_seed": 41,
+        "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+        "gold_candidates": [
+          "Robert the Robot"
+        ],
+        "baseline_eigenscore": -1.0880307798566973,
+        "fc_eigenscore": -0.7323449552895245,
+        "delta_eigenscore": 0.3556858245671728,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Major Zero.",
+        "fc_majority_answer": "Major Zero.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.008321569461633663,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9518",
+        "generation_seed": 42,
+        "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+        "gold_candidates": [
+          "Robert the Robot"
+        ],
+        "baseline_eigenscore": -2.51734972914211,
+        "fc_eigenscore": -1.2461305185589144,
+        "delta_eigenscore": 1.2712192105831956,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Major Zero.",
+        "fc_majority_answer": "Major Zero.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008220257675438597,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9518",
+        "generation_seed": 43,
+        "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+        "gold_candidates": [
+          "Robert the Robot"
+        ],
+        "baseline_eigenscore": -1.0426679357466473,
+        "fc_eigenscore": -0.9936178251742325,
+        "delta_eigenscore": 0.04905011057241482,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Major Zero",
+        "fc_majority_answer": "Major Zero",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008208273543792517,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_11069",
+    "question": "What does a querulous person do?",
+    "gold_candidates": [
+      "Complain"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.9755780633761376,
+    "mean_fc_eigenscore": -0.41946340603691884,
+    "mean_delta_eigenscore": 0.5561146573392187,
+    "mean_baseline_unique_generations": 14.333333333333334,
+    "mean_fc_unique_generations": 15.666666666666666,
+    "mean_fc_clip_fraction": 0.007580593760941878,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qw_11069",
+        "generation_seed": 41,
+        "question": "What does a querulous person do?",
+        "gold_candidates": [
+          "Complain"
+        ],
+        "baseline_eigenscore": -0.48367273529447335,
+        "fc_eigenscore": -0.3411761376957399,
+        "delta_eigenscore": 0.14249659759873345,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A querulous person is one who complains frequently or persistently about something.",
+        "fc_majority_answer": "A querulous person is one who is constantly complaining or finding fault.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.007632300967261905,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11069",
+        "generation_seed": 42,
+        "question": "What does a querulous person do?",
+        "gold_candidates": [
+          "Complain"
+        ],
+        "baseline_eigenscore": -1.7939311508310891,
+        "fc_eigenscore": -1.504897322918928,
+        "delta_eigenscore": 0.28903382791216115,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A querulous person is one who complains frequently and persistently about something.",
+        "fc_majority_answer": "A querulous person is one who complains frequently and persistently about something.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.007398274739583334,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11069",
+        "generation_seed": 43,
+        "question": "What does a querulous person do?",
+        "gold_candidates": [
+          "Complain"
+        ],
+        "baseline_eigenscore": -0.6491303040028503,
+        "fc_eigenscore": 0.5876832425039114,
+        "delta_eigenscore": 1.2368135465067618,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A querulous person is one who complains frequently or persistently about something.",
+        "fc_majority_answer": "A querulous person is one who is constantly complaining or finding fault.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.007711205575980392,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tb_2135",
+    "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+    "gold_candidates": [
+      "Oleic acid"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.998898645968488,
+    "mean_fc_eigenscore": -5.46745714555919,
+    "mean_delta_eigenscore": 0.5314415004092972,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 2.3333333333333335,
+    "mean_fc_clip_fraction": 0.008488212654933687,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tb_2135",
+        "generation_seed": 41,
+        "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+        "gold_candidates": [
+          "Oleic acid"
+        ],
+        "baseline_eigenscore": -6.171695337005517,
+        "fc_eigenscore": -5.1139397935942394,
+        "delta_eigenscore": 1.057755543411278,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Propionic acid.",
+        "fc_majority_answer": "Propionic acid.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.008609759221311476,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_2135",
+        "generation_seed": 42,
+        "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+        "gold_candidates": [
+          "Oleic acid"
+        ],
+        "baseline_eigenscore": -6.171695337005517,
+        "fc_eigenscore": -5.635126379188904,
+        "delta_eigenscore": 0.5365689578166135,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Propionic acid.",
+        "fc_majority_answer": "Propionic acid.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.008420308430989584,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_2135",
+        "generation_seed": 43,
+        "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+        "gold_candidates": [
+          "Oleic acid"
+        ],
+        "baseline_eigenscore": -5.653305263894428,
+        "fc_eigenscore": -5.653305263894428,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Propionic acid.",
+        "fc_majority_answer": "Propionic acid.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.0084345703125,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_2678",
+    "question": "What is Kenny's last name on the animated TV series South Park?",
+    "gold_candidates": [
+      "McCormick"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.27801073422887,
+    "mean_fc_eigenscore": -3.7815522272168685,
+    "mean_delta_eigenscore": 0.4964585070120015,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 5.333333333333333,
+    "mean_fc_clip_fraction": 0.0052276754669332804,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qg_2678",
+        "generation_seed": 41,
+        "question": "What is Kenny's last name on the animated TV series South Park?",
+        "gold_candidates": [
+          "McCormick"
+        ],
+        "baseline_eigenscore": -4.989649840144768,
+        "fc_eigenscore": -4.454209369406873,
+        "delta_eigenscore": 0.5354404707378952,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cartman.",
+        "fc_majority_answer": "Cartman.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.00518018018018018,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2678",
+        "generation_seed": 42,
+        "question": "What is Kenny's last name on the animated TV series South Park?",
+        "gold_candidates": [
+          "McCormick"
+        ],
+        "baseline_eigenscore": -3.9257193541889244,
+        "fc_eigenscore": -3.444981950886227,
+        "delta_eigenscore": 0.48073740330269743,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cartman.",
+        "fc_majority_answer": "Cartman.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005159505208333333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2678",
+        "generation_seed": 43,
+        "question": "What is Kenny's last name on the animated TV series South Park?",
+        "gold_candidates": [
+          "McCormick"
+        ],
+        "baseline_eigenscore": -3.9186630083529166,
+        "fc_eigenscore": -3.445465361357505,
+        "delta_eigenscore": 0.4731976469954118,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cartman.",
+        "fc_majority_answer": "Cartman.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0053433410122863245,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_5942",
+    "question": "What is the name for the act of murdering of one's own sister?",
+    "gold_candidates": [
+      "Sororicide"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.257098818512821,
+    "mean_fc_eigenscore": -3.768252825393596,
+    "mean_delta_eigenscore": 0.4888459931192248,
+    "mean_baseline_unique_generations": 5.0,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.004814631187678062,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qw_5942",
+        "generation_seed": 41,
+        "question": "What is the name for the act of murdering of one's own sister?",
+        "gold_candidates": [
+          "Sororicide"
+        ],
+        "baseline_eigenscore": -5.174133520930782,
+        "fc_eigenscore": -4.1845837159286665,
+        "delta_eigenscore": 0.9895498050021159,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sororicide.",
+        "fc_majority_answer": "Sororicide.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.004739366319444444,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_5942",
+        "generation_seed": 42,
+        "question": "What is the name for the act of murdering of one's own sister?",
+        "gold_candidates": [
+          "Sororicide"
+        ],
+        "baseline_eigenscore": -4.21995678851478,
+        "fc_eigenscore": -3.742968614159222,
+        "delta_eigenscore": 0.4769881743555584,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sororicide.",
+        "fc_majority_answer": "Sororicide.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0047157118055555555,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_5942",
+        "generation_seed": 43,
+        "question": "What is the name for the act of murdering of one's own sister?",
+        "gold_candidates": [
+          "Sororicide"
+        ],
+        "baseline_eigenscore": -3.377206146092901,
+        "fc_eigenscore": -3.377206146092901,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sororicide.",
+        "fc_majority_answer": "Sororicide.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.004988815438034188,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_172",
+    "question": "What would a person normally do with perique?",
+    "gold_candidates": [
+      "Smoke it"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 1.2070566656465462,
+    "mean_fc_eigenscore": 1.6312036457919703,
+    "mean_delta_eigenscore": 0.42414698014542423,
+    "mean_baseline_unique_generations": 16.666666666666668,
+    "mean_fc_unique_generations": 17.666666666666668,
+    "mean_fc_clip_fraction": 0.007491347937206336,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_172",
+        "generation_seed": 41,
+        "question": "What would a person normally do with perique?",
+        "gold_candidates": [
+          "Smoke it"
+        ],
+        "baseline_eigenscore": 0.9231824319818595,
+        "fc_eigenscore": 1.739376281901451,
+        "delta_eigenscore": 0.8161938499195917,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Perique is a type of tobacco often used in cigars.",
+        "fc_majority_answer": "Use as a flavoring in cigars.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.007711476293103448,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_172",
+        "generation_seed": 42,
+        "question": "What would a person normally do with perique?",
+        "gold_candidates": [
+          "Smoke it"
+        ],
+        "baseline_eigenscore": 0.7982965047171687,
+        "fc_eigenscore": 0.9535416308640603,
+        "delta_eigenscore": 0.15524512614689157,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Use as a flavoring in cigars.",
+        "fc_majority_answer": "Use as a flavoring in cigars.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.007089652267156863,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_172",
+        "generation_seed": 43,
+        "question": "What would a person normally do with perique?",
+        "gold_candidates": [
+          "Smoke it"
+        ],
+        "baseline_eigenscore": 1.8996910602406103,
+        "fc_eigenscore": 2.2006930246103997,
+        "delta_eigenscore": 0.30100196436978943,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cuban cigar.",
+        "fc_majority_answer": "Cuban cigar.",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.007672915251358696,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_7994",
+    "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+    "gold_candidates": [
+      "Aida"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 2.1853474745170978,
+    "mean_fc_eigenscore": 2.5934253283285877,
+    "mean_delta_eigenscore": 0.4080778538114898,
+    "mean_baseline_unique_generations": 18.0,
+    "mean_fc_unique_generations": 19.0,
+    "mean_fc_clip_fraction": 0.008167742781654531,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_7994",
+        "generation_seed": 41,
+        "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+        "gold_candidates": [
+          "Aida"
+        ],
+        "baseline_eigenscore": 1.889143649452182,
+        "fc_eigenscore": 2.4908646991642707,
+        "delta_eigenscore": 0.6017210497120886,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Veni, Vidi, Vici.",
+        "fc_majority_answer": "\"Verdi\" sounds like \"very desired.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.007927897135416667,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_7994",
+        "generation_seed": 42,
+        "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+        "gold_candidates": [
+          "Aida"
+        ],
+        "baseline_eigenscore": 2.293010528441125,
+        "fc_eigenscore": 2.563018613268367,
+        "delta_eigenscore": 0.27000808482724237,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "fc_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.008436678296925567,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_7994",
+        "generation_seed": 43,
+        "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+        "gold_candidates": [
+          "Aida"
+        ],
+        "baseline_eigenscore": 2.3738882456579864,
+        "fc_eigenscore": 2.726392672553125,
+        "delta_eigenscore": 0.3525044268951385,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "fc_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.008138652912621358,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_1556",
+    "question": "Astrakhan is the curly hair of which young animal?",
+    "gold_candidates": [
+      "Lamb"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.4192614494604956,
+    "mean_fc_eigenscore": -2.017337909572683,
+    "mean_delta_eigenscore": 0.4019235398878125,
+    "mean_baseline_unique_generations": 9.0,
+    "mean_fc_unique_generations": 10.0,
+    "mean_fc_clip_fraction": 0.006554038108037307,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.3333333333333333,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_1556",
+        "generation_seed": 41,
+        "question": "Astrakhan is the curly hair of which young animal?",
+        "gold_candidates": [
+          "Lamb"
+        ],
+        "baseline_eigenscore": -3.2069485918506886,
+        "fc_eigenscore": -2.80546505624949,
+        "delta_eigenscore": 0.40148353560119876,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A lamb.",
+        "fc_majority_answer": "A lamb.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006198230421686747,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_1556",
+        "generation_seed": 42,
+        "question": "Astrakhan is the curly hair of which young animal?",
+        "gold_candidates": [
+          "Lamb"
+        ],
+        "baseline_eigenscore": -2.5285203234642983,
+        "fc_eigenscore": -2.5285203234642983,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Bactrian camel.",
+        "fc_majority_answer": "The Bactrian camel.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.006308044678714859,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_1556",
+        "generation_seed": 43,
+        "question": "Astrakhan is the curly hair of which young animal?",
+        "gold_candidates": [
+          "Lamb"
+        ],
+        "baseline_eigenscore": -1.5223154330664994,
+        "fc_eigenscore": -0.7180283490042607,
+        "delta_eigenscore": 0.8042870840622387,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Camel.",
+        "fc_majority_answer": "Camel.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.007155839223710317,
+        "correctness_flip": "same"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "n_samples": 50,
+  "num_correct": 28,
+  "num_incorrect": 22,
+  "auroc_incorrect_vs_eigenscore": 0.827922077922078
+}

@@ -1,0 +1,16 @@
+{
+  "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+  "n_samples": 100,
+  "seed": 42,
+  "k": 10,
+  "temperature": 0.5,
+  "top_p": 0.99,
+  "top_k": 5,
+  "max_new_tokens": 32,
+  "alpha": 0.001,
+  "num_correct": 57,
+  "num_incorrect": 43,
+  "mean_eigenscore_correct": -3.990530201153006,
+  "mean_eigenscore_incorrect": -1.2178093210020742,
+  "auroc_incorrect_vs_eigenscore": 0.8478172174622604
+}

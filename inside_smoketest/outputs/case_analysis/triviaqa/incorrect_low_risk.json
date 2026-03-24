@@ -1,0 +1,647 @@
+[
+  {
+    "id": "sfq_14710",
+    "question": "Which UK city is traditionally associated with jute, jam and journalism?",
+    "gold_answer": "Dundee",
+    "mean_eigenscore": -6.176358297987364,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.176358297987364,
+    "max_eigenscore": -6.176358297987364,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.176358297987364,
+      -6.176358297987364,
+      -6.176358297987364
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Glasgow.",
+      "Glasgow.",
+      "Glasgow."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Glasgow.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_16585",
+    "question": "In which Verdi opera do the gypsies sing the 'Anvil Chorus'?",
+    "gold_answer": "Il Trovatore",
+    "mean_eigenscore": -6.174038299888667,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.174038299888667,
+    "max_eigenscore": -6.174038299888667,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.174038299888667,
+      -6.174038299888667,
+      -6.174038299888667
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Nabucco.",
+      "Nabucco.",
+      "Nabucco."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Nabucco.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tc_1859",
+    "question": "What is the largest city in Ohio?",
+    "gold_answer": "Cleveland",
+    "mean_eigenscore": -5.8499292047619695,
+    "std_eigenscore": 0.23369284268649618,
+    "min_eigenscore": -6.180420792318734,
+    "max_eigenscore": -5.684683410976004,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.684683410976004,
+      -5.684683410991169,
+      -6.180420792318734
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Columbus.",
+      "Columbus.",
+      "Columbus."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Columbus.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tb_889",
+    "question": "The organization Medecins Sans Frontieres (Doctors without Borders) was created in 1971 as an aftermath of what humanitarian crisis in Africa?",
+    "gold_answer": "Biafra secession",
+    "mean_eigenscore": -5.817053655869628,
+    "std_eigenscore": 1.546307773429216e-11,
+    "min_eigenscore": -5.817053655891495,
+    "max_eigenscore": -5.817053655858528,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.817053655858528,
+      -5.817053655891495,
+      -5.817053655858861
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "The Biafran War.",
+      "The Biafran War.",
+      "The Biafran War."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "The Biafran War.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_23794",
+    "question": "With which sport do you associate the Coventry bees?",
+    "gold_answer": "SPEEDWAY",
+    "mean_eigenscore": -5.774012718057747,
+    "std_eigenscore": 0.27583404127986766,
+    "min_eigenscore": -6.1637472064165975,
+    "max_eigenscore": -5.564761492130403,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.1637472064165975,
+      -5.593529455626241,
+      -5.564761492130403
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Cricket.",
+      "Cricket.",
+      "Cricket."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Cricket.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tc_2116",
+    "question": "Throughout the 80s and 90s Phil Collins recorded on which record label?",
+    "gold_answer": "Atlantic",
+    "mean_eigenscore": -5.68468377908275,
+    "std_eigenscore": 0.0064092361207570055,
+    "min_eigenscore": -5.693747807729176,
+    "max_eigenscore": -5.680151764718781,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.680151764800293,
+      -5.680151764718781,
+      -5.693747807729176
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Virgin Records.",
+      "Virgin Records.",
+      "Virgin Records."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "Virgin Records.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tb_1398",
+    "question": "After a short war with Norway during the Napoleonic wars of 1814, what country remained uninvolved in any conflict ever since and is now the oldest neutral country in the world?",
+    "gold_answer": "Sweden",
+    "mean_eigenscore": -5.675240259546754,
+    "std_eigenscore": 0.023271947485481413,
+    "min_eigenscore": -5.691696011442477,
+    "max_eigenscore": -5.642328755789952,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.642328755789952,
+      -5.691696011442477,
+      -5.691696011407835
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Switzerland.",
+      "Switzerland.",
+      "Switzerland."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "Switzerland.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_8611",
+    "question": "What is the next in the series: Nigeria, Sierra Leone, Tanganyika, Uganda, Zanzibar, Kenya, Malawi, Zambia, Gambia, Botswana, Lesotho, Mauritius",
+    "gold_answer": "Swaziland",
+    "mean_eigenscore": -5.577582980135337,
+    "std_eigenscore": 0.2109188153816246,
+    "min_eigenscore": -5.764488054201051,
+    "max_eigenscore": -5.282809828188485,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.764488054201051,
+      -5.282809828188485,
+      -5.685451058016477
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Tanzania.",
+      "Tanzania.",
+      "Tanzania."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Tanzania.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_25900",
+    "question": "What is the surname of Mary, still alive aged 99, the longest lived Prime Minister’s spouse?",
+    "gold_answer": "WILSON",
+    "mean_eigenscore": -5.535493022591264,
+    "std_eigenscore": 0.24862693090291427,
+    "min_eigenscore": -5.726841855210216,
+    "max_eigenscore": -5.18435384482372,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.726841855210216,
+      -5.695283367739853,
+      -5.18435384482372
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Thatcher.",
+      "Thatcher.",
+      "Thatcher."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Thatcher.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qg_4244",
+    "question": "Who, along with the March Hare, throws a perpetual tea party in Lewis Caroll's Alice's Adventures in Wonderland?",
+    "gold_answer": "Mad Hatter",
+    "mean_eigenscore": -5.466741399797807,
+    "std_eigenscore": 0.22713051607286783,
+    "min_eigenscore": -5.643058560728235,
+    "max_eigenscore": -5.146060560036055,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.611105078629128,
+      -5.146060560036055,
+      -5.643058560728235
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "The Cheshire Cat.",
+      "The Cheshire Cat.",
+      "The Cheshire Cat."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "The Cheshire Cat.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_18968",
+    "question": "Which European country has Switzerland to the west Austria to the east?",
+    "gold_answer": "Lichtenstein",
+    "mean_eigenscore": -5.266333826008668,
+    "std_eigenscore": 0.024339163945952227,
+    "min_eigenscore": -5.295664609214505,
+    "max_eigenscore": -5.236068074801527,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.236068074801527,
+      -5.267268794009973,
+      -5.295664609214505
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Germany.",
+      "Germany.",
+      "Germany."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "Germany.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "odql_6788",
+    "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+    "gold_answer": "GERMANY",
+    "mean_eigenscore": -5.207560357291619,
+    "std_eigenscore": 0.3387164034081276,
+    "min_eigenscore": -5.652467889725871,
+    "max_eigenscore": -4.831366002438783,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.831366002438783,
+      -5.138847179710203,
+      -5.652467889725871
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "France.",
+      "France.",
+      "France."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "France.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_1933",
+    "question": "What remake of a British science-fiction serial broadcast by BBC Television in the summer of 1953 was staged live by BBC Four in 2005 with actors Jason Flemyng, Mark Gatiss, Andrew Tiernan, Indira Varma, David Tennant and Adrian Bower?",
+    "gold_answer": "The Quatermass Experiment",
+    "mean_eigenscore": -5.072662850893743,
+    "std_eigenscore": 0.013088528933948787,
+    "min_eigenscore": -5.087382899175071,
+    "max_eigenscore": -5.055584055306608,
+    "mean_correctness_score_vs_gold": 0.4000000000000001,
+    "std_correctness_score_vs_gold": 5.551115123125783e-17,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.075021598199553,
+      -5.087382899175071,
+      -5.055584055306608
+    ],
+    "seed_level_correctness_scores": [
+      0.4,
+      0.4,
+      0.4
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "The Quatermass and the Pit.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "odql_559",
+    "question": "Which premiership manager upset Louis Van Gaal in February 2015, when he described his team as long ball united?",
+    "gold_answer": "Sam Allardyce",
+    "mean_eigenscore": -4.835351286662532,
+    "std_eigenscore": 0.38290469500920066,
+    "min_eigenscore": -5.3084554551180965,
+    "max_eigenscore": -4.370647186154792,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.370647186154792,
+      -4.826951218714706,
+      -5.3084554551180965
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      4,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "David Moyes.",
+      "David Moyes.",
+      "David Moyes."
+    ],
+    "mean_unique_generations": 4.0,
+    "most_common_majority_answer": "David Moyes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_6318",
+    "question": "In the Hans Christian Andersen story, who slept in a walnut shell for a cradle?",
+    "gold_answer": "Thumbelina",
+    "mean_eigenscore": -4.765680320069868,
+    "std_eigenscore": 0.24375888744179572,
+    "min_eigenscore": -5.10782752559305,
+    "max_eigenscore": -4.5581504404166235,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.6310629941999295,
+      -4.5581504404166235,
+      -5.10782752559305
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      4,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "The Little Match Girl.",
+      "The Little Match Girl.",
+      "The Little Match Girl."
+    ],
+    "mean_unique_generations": 3.6666666666666665,
+    "most_common_majority_answer": "The Little Match Girl.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  }
+]

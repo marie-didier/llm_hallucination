@@ -1,0 +1,112 @@
+[
+  {
+    "id": "qw_6358",
+    "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+    "gold_answer": "Clinical lycanthropy",
+    "majority_answer": "Zoanthropy.",
+    "correctness_score_vs_gold": 0.0,
+    "majority_is_correct": false,
+    "unique_generations": 10,
+    "eigenscore": -1.635604157200739,
+    "clip_fraction": 0.0054015929992492495
+  },
+  {
+    "id": "dpql_2858",
+    "question": "Which 'Regal' male singer provided the half-time entertainment for the 2007 Superbowl?",
+    "gold_answer": "Prince",
+    "majority_answer": "Prince.",
+    "correctness_score_vs_gold": 1.0,
+    "majority_is_correct": true,
+    "unique_generations": 4,
+    "eigenscore": -4.612717206087924,
+    "clip_fraction": 0.0035371907552083333
+  },
+  {
+    "id": "sfq_7154",
+    "question": "Which foreign car manufacture has a rams head on its badge?",
+    "gold_answer": "DODGE",
+    "majority_answer": "Ram Trucks.",
+    "correctness_score_vs_gold": 0.0,
+    "majority_is_correct": false,
+    "unique_generations": 7,
+    "eigenscore": -3.0158823013277334,
+    "clip_fraction": 0.004833326757154882
+  },
+  {
+    "id": "tc_1179",
+    "question": "Which Joan's career revived in Whatever Happened to Baby Jane?",
+    "gold_answer": "Crawford",
+    "majority_answer": "Bette Davis.",
+    "correctness_score_vs_gold": 0.0,
+    "majority_is_correct": false,
+    "unique_generations": 4,
+    "eigenscore": -4.5530128678756965,
+    "clip_fraction": 0.0035319010416666667
+  },
+  {
+    "id": "bb_172",
+    "question": "What would a person normally do with perique?",
+    "gold_answer": "Smoke it",
+    "majority_answer": "Use it as a flavoring in cigars.",
+    "correctness_score_vs_gold": 0.25,
+    "majority_is_correct": false,
+    "unique_generations": 19,
+    "eigenscore": 2.19579412084986,
+    "clip_fraction": 0.004502144607843137
+  },
+  {
+    "id": "odql_14908",
+    "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+    "gold_answer": "Byker Grove",
+    "majority_answer": "Noel's House Party.",
+    "correctness_score_vs_gold": 0.0,
+    "majority_is_correct": false,
+    "unique_generations": 11,
+    "eigenscore": -0.8802205653216791,
+    "clip_fraction": 0.004976128472222222
+  },
+  {
+    "id": "bb_2852",
+    "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+    "gold_answer": "Airport",
+    "majority_answer": "Puffin colony.",
+    "correctness_score_vs_gold": 0.0,
+    "majority_is_correct": false,
+    "unique_generations": 9,
+    "eigenscore": -2.036872863041185,
+    "clip_fraction": 0.004426721643518519
+  },
+  {
+    "id": "wh_2368",
+    "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+    "gold_answer": "ASTON VILLA",
+    "majority_answer": "I'm not aware of the latest information, but I can suggest checking the latest sports news for the most up-to-date information.",
+    "correctness_score_vs_gold": 0.0,
+    "majority_is_correct": false,
+    "unique_generations": 18,
+    "eigenscore": 0.8528862887634696,
+    "clip_fraction": 0.005448279102233677
+  },
+  {
+    "id": "sfq_7267",
+    "question": "In which classic book does a boy hide in a ship's barrel of apples?",
+    "gold_answer": "Treasure Island",
+    "majority_answer": "Treasure Island.",
+    "correctness_score_vs_gold": 1.0,
+    "majority_is_correct": true,
+    "unique_generations": 2,
+    "eigenscore": -5.632589227169161,
+    "clip_fraction": 0.004010759320175438
+  },
+  {
+    "id": "odql_8712",
+    "question": "What name is given to the temperature of -273.15 degrees Celsius?",
+    "gold_answer": "ABSOLUTE ZERO",
+    "majority_answer": "Absolute zero.",
+    "correctness_score_vs_gold": 1.0,
+    "majority_is_correct": true,
+    "unique_generations": 1,
+    "eigenscore": -6.180909208128716,
+    "clip_fraction": 0.0024793093607305937
+  }
+]

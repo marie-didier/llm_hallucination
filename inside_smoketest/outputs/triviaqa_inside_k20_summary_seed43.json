@@ -1,0 +1,20 @@
+{
+  "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+  "input_json": "triviaqa_annotated.json",
+  "seed_dataset": 42,
+  "generation_seed": 43,
+  "n_samples": 100,
+  "k": 20,
+  "temperature": 0.5,
+  "top_p": 0.99,
+  "top_k": 5,
+  "max_new_tokens": 32,
+  "alpha": 0.001,
+  "num_correct": 54,
+  "num_incorrect": 46,
+  "mean_eigenscore_correct": -5.010182096561328,
+  "mean_eigenscore_incorrect": -3.6279770682056114,
+  "auroc_incorrect_vs_eigenscore": 0.7258454106280192,
+  "aurc_incorrect_vs_eigenscore": 0.27522177260517744,
+  "pcc_correctness_vs_eigenscore": -0.3703639345908691
+}

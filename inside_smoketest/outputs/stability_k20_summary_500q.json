@@ -1,0 +1,66 @@
+{
+  "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+  "seed_dataset": 42,
+  "generation_seeds": [
+    41,
+    42,
+    43
+  ],
+  "k": 20,
+  "n_samples": 500,
+  "mean_auroc_incorrect_vs_eigenscore": 0.7957857035226502,
+  "std_auroc_incorrect_vs_eigenscore": 0.005614036977367139,
+  "runs": [
+    {
+      "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+      "seed_dataset": 42,
+      "generation_seed": 41,
+      "n_samples": 500,
+      "k": 20,
+      "temperature": 0.5,
+      "top_p": 0.99,
+      "top_k": 5,
+      "max_new_tokens": 32,
+      "alpha": 0.001,
+      "num_correct": 291,
+      "num_incorrect": 209,
+      "mean_eigenscore_correct": -5.246438491141027,
+      "mean_eigenscore_incorrect": -3.421250174690383,
+      "auroc_incorrect_vs_eigenscore": 0.7943899110475345
+    },
+    {
+      "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+      "seed_dataset": 42,
+      "generation_seed": 42,
+      "n_samples": 500,
+      "k": 20,
+      "temperature": 0.5,
+      "top_p": 0.99,
+      "top_k": 5,
+      "max_new_tokens": 32,
+      "alpha": 0.001,
+      "num_correct": 293,
+      "num_incorrect": 207,
+      "mean_eigenscore_correct": -5.1900252059582455,
+      "mean_eigenscore_incorrect": -3.4118595595890486,
+      "auroc_incorrect_vs_eigenscore": 0.7897149263820876
+    },
+    {
+      "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+      "seed_dataset": 42,
+      "generation_seed": 43,
+      "n_samples": 500,
+      "k": 20,
+      "temperature": 0.5,
+      "top_p": 0.99,
+      "top_k": 5,
+      "max_new_tokens": 32,
+      "alpha": 0.001,
+      "num_correct": 291,
+      "num_incorrect": 209,
+      "mean_eigenscore_correct": -5.2403397216660235,
+      "mean_eigenscore_incorrect": -3.3934173443215454,
+      "auroc_incorrect_vs_eigenscore": 0.8032522731383285
+    }
+  ]
+}

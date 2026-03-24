@@ -1,0 +1,647 @@
+[
+  {
+    "id": "sfq_11567",
+    "question": "Which actress is the mother of actress Carrie Fisher?",
+    "gold_answer": "DEBBIE REYNOLDS",
+    "mean_eigenscore": -6.193001718315496,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.193001718315495,
+    "max_eigenscore": -6.193001718315495,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.193001718315495,
+      -6.193001718315495,
+      -6.193001718315495
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Debbie Reynolds.",
+      "Debbie Reynolds.",
+      "Debbie Reynolds."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Debbie Reynolds.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_4528",
+    "question": "In which country was the 2006 FIFA World Cup held?",
+    "gold_answer": "Germany",
+    "mean_eigenscore": -6.192621208304831,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.192621208304831,
+    "max_eigenscore": -6.192621208304831,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.192621208304831,
+      -6.192621208304831,
+      -6.192621208304831
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Germany.",
+      "Germany.",
+      "Germany."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Germany.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qg_348",
+    "question": "What Canadian province lies between British Columbia and Saskatchewan?",
+    "gold_answer": "Alberta",
+    "mean_eigenscore": -6.1919046916557745,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.191904691655774,
+    "max_eigenscore": -6.191904691655774,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.191904691655774,
+      -6.191904691655774,
+      -6.191904691655774
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Alberta.",
+      "Alberta.",
+      "Alberta."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Alberta.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_2718",
+    "question": "What electrical property, the reciprocal of resistivity, has the SI units Siemens per metre?",
+    "gold_answer": "Conductivity",
+    "mean_eigenscore": -6.19110619757226,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.19110619757226,
+    "max_eigenscore": -6.19110619757226,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.19110619757226,
+      -6.19110619757226,
+      -6.19110619757226
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Conductivity.",
+      "Conductivity.",
+      "Conductivity."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Conductivity.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_5951",
+    "question": "In the TV series 'Friends', what is 'rachel's' surname?",
+    "gold_answer": "'GREEN'",
+    "mean_eigenscore": -6.19022707953859,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.19022707953859,
+    "max_eigenscore": -6.19022707953859,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.19022707953859,
+      -6.19022707953859,
+      -6.19022707953859
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Green.",
+      "Green.",
+      "Green."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Green.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_24290",
+    "question": "Who played Bond villain Scaramanga in The Man with the Golden Gun?",
+    "gold_answer": "CHRISTOPHER LEE",
+    "mean_eigenscore": -6.190114659512676,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.190114659512675,
+    "max_eigenscore": -6.190114659512675,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.190114659512675,
+      -6.190114659512675,
+      -6.190114659512675
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Christopher Lee.",
+      "Christopher Lee.",
+      "Christopher Lee."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Christopher Lee.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_3858",
+    "question": "Which Indian born author who lived from 1903 to 1950 had the real name Eric Arthur Blair ?",
+    "gold_answer": "GEORGE ORWELL",
+    "mean_eigenscore": -6.189481660369576,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.189481660369575,
+    "max_eigenscore": -6.189481660369575,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.189481660369575,
+      -6.189481660369575,
+      -6.189481660369575
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "George Orwell.",
+      "George Orwell.",
+      "George Orwell."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "George Orwell.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_355",
+    "question": "Which British singer played Jareth the Goblin King in the 1986 film ‘Labyrinth’?",
+    "gold_answer": "David Bowie",
+    "mean_eigenscore": -6.189408517259499,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.1894085172594995,
+    "max_eigenscore": -6.1894085172594995,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.1894085172594995,
+      -6.1894085172594995,
+      -6.1894085172594995
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "David Bowie.",
+      "David Bowie.",
+      "David Bowie."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "David Bowie.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qz_603",
+    "question": "In which city would you find O'Hare International Airport?",
+    "gold_answer": "Chicago",
+    "mean_eigenscore": -6.189179682303572,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.189179682303573,
+    "max_eigenscore": -6.189179682303573,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.189179682303573,
+      -6.189179682303573,
+      -6.189179682303573
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Chicago.",
+      "Chicago.",
+      "Chicago."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Chicago.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_4336",
+    "question": "What TV show takes place at the fictional Seattle Grace Hospital?",
+    "gold_answer": "Grey's Anatomy",
+    "mean_eigenscore": -6.189033901193416,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.189033901193417,
+    "max_eigenscore": -6.189033901193417,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.189033901193417,
+      -6.189033901193417,
+      -6.189033901193417
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Grey's Anatomy.",
+      "Grey's Anatomy.",
+      "Grey's Anatomy."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Grey's Anatomy.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_3414",
+    "question": "Name the town in the vicinity of Versailles famous for its hard-paste porcelain.",
+    "gold_answer": "SEVRES",
+    "mean_eigenscore": -6.189010869951988,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.1890108699519875,
+    "max_eigenscore": -6.1890108699519875,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.1890108699519875,
+      -6.1890108699519875,
+      -6.1890108699519875
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Sèvres.",
+      "Sèvres.",
+      "Sèvres."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Sèvres.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_1674",
+    "question": "Which Pacific nation consists of over 800 islands and islets, the largest being Viti Levu?",
+    "gold_answer": "FIJI",
+    "mean_eigenscore": -6.188481312240058,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.188481312240058,
+    "max_eigenscore": -6.188481312240058,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.188481312240058,
+      -6.188481312240058,
+      -6.188481312240058
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Fiji.",
+      "Fiji.",
+      "Fiji."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Fiji.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_12235",
+    "question": "In which US state was singer Bruno Mars born?",
+    "gold_answer": "Hawaii",
+    "mean_eigenscore": -6.1882910753386975,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.1882910753386975,
+    "max_eigenscore": -6.1882910753386975,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.1882910753386975,
+      -6.1882910753386975,
+      -6.1882910753386975
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Hawaii.",
+      "Hawaii.",
+      "Hawaii."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Hawaii.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_11522",
+    "question": "Which mischievous fairy, also called Robin Goodfellow, appears in Shakespeare's 'A Midsummer Night's Dream'?",
+    "gold_answer": "PUCK",
+    "mean_eigenscore": -6.188127754769606,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.188127754769606,
+    "max_eigenscore": -6.188127754769606,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.188127754769606,
+      -6.188127754769606,
+      -6.188127754769606
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Puck.",
+      "Puck.",
+      "Puck."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Puck.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_2521",
+    "question": "In which African country is Mount Kilimanjaro?",
+    "gold_answer": "Tanzania",
+    "mean_eigenscore": -6.1880657947310835,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.188065794731083,
+    "max_eigenscore": -6.188065794731083,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.188065794731083,
+      -6.188065794731083,
+      -6.188065794731083
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Tanzania.",
+      "Tanzania.",
+      "Tanzania."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Tanzania.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  }
+]

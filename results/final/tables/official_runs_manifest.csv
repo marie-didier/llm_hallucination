@@ -1,0 +1,16 @@
+config_name,exists_in_configs,official_status
+baseline_smoke.yaml,True,official
+baseline_ablation_k_k5.yaml,True,official
+baseline_ablation_k_k10.yaml,True,official
+baseline_ablation_k_k20.yaml,True,official
+baseline_qa820_n100.yaml,True,official
+baseline_qa820_n300.yaml,True,official
+baseline_qa820_n500.yaml,True,official
+baseline_qa820_n820.yaml,True,official
+baseline_triviaqa_n100.yaml,True,official
+fc_qa820_n100_p01.yaml,True,official
+fc_qa820_n100_p02.yaml,True,official
+fc_qa820_n100_p05.yaml,True,official
+fc_qa820_n300_p05.yaml,True,official
+fc_qa820_nall_p05.yaml,True,official
+fc_triviaqa_nall_p05.yaml,True,official

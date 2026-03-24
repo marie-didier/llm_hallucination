@@ -1,0 +1,4302 @@
+[
+  {
+    "id": "tc_1128",
+    "question": "Which film director guested as the FBI Director in The Silence of the Lambs?",
+    "gold_answer": "Roger Corman",
+    "mean_eigenscore": -4.371889239156391,
+    "std_eigenscore": 0.49609372302096,
+    "min_eigenscore": -4.801166046489878,
+    "max_eigenscore": -3.676673536769273,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.676673536769273,
+      -4.637828134210021,
+      -4.801166046489878
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      6,
+      4,
+      4
+    ],
+    "seed_level_majority_answers": [
+      "Ted Tally.",
+      "Ted Tally.",
+      "Ted Kotcheff."
+    ],
+    "mean_unique_generations": 4.666666666666667,
+    "most_common_majority_answer": "Ted Tally.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bt_2428",
+    "question": "At which British golf course could you find yourself in Hell Bunker",
+    "gold_answer": "Saint Andrews",
+    "mean_eigenscore": -1.9367168344582177,
+    "std_eigenscore": 0.9586007427494944,
+    "min_eigenscore": -3.1830520777064306,
+    "max_eigenscore": -0.8516407564513699,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -1.7754576692168524,
+      -0.8516407564513699,
+      -3.1830520777064306
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      11,
+      13,
+      7
+    ],
+    "seed_level_majority_answers": [
+      "Royal Birkdale Golf Club.",
+      "Royal Birkdale Golf Club.",
+      "Royal Birkdale Golf Club."
+    ],
+    "mean_unique_generations": 10.333333333333334,
+    "most_common_majority_answer": "Royal Birkdale Golf Club.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qg_3780",
+    "question": "What can be a river, a sportswear company, or a university?",
+    "gold_answer": "Columbia",
+    "mean_eigenscore": -4.372879017487104,
+    "std_eigenscore": 0.5781987102967961,
+    "min_eigenscore": -5.165676308117819,
+    "max_eigenscore": -3.803059021526083,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.165676308117819,
+      -3.803059021526083,
+      -4.149901722817411
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Adidas.",
+      "Adidas.",
+      "Adidas."
+    ],
+    "mean_unique_generations": 4.666666666666667,
+    "most_common_majority_answer": "Adidas.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_23895",
+    "question": "What name was collectively given to the sons of Poseidon, who dwelt with him at the bottom of the sea?",
+    "gold_answer": "Tritons",
+    "mean_eigenscore": -1.8542020683813771,
+    "std_eigenscore": 0.5769155316358269,
+    "min_eigenscore": -2.590313249771369,
+    "max_eigenscore": -1.1814293261532816,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -1.1814293261532816,
+      -2.590313249771369,
+      -1.7908636292194813
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      11,
+      8,
+      10
+    ],
+    "seed_level_majority_answers": [
+      "The Erinyes.",
+      "The Erinyes.",
+      "The Eel-Men."
+    ],
+    "mean_unique_generations": 9.666666666666666,
+    "most_common_majority_answer": "The Erinyes.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "jp_4364",
+    "question": "What Detroit-area stadium was sold in 2009 for just $583,000?",
+    "gold_answer": "The Silverdome",
+    "mean_eigenscore": -3.3800736469941,
+    "std_eigenscore": 0.5817458147545806,
+    "min_eigenscore": -4.012945745679216,
+    "max_eigenscore": -2.608393740464947,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -2.608393740464947,
+      -3.518881454838135,
+      -4.012945745679216
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      8,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "The Pontiac Silverdome.",
+      "The Pontiac Silverdome.",
+      "The Pontiac Silverdome."
+    ],
+    "mean_unique_generations": 6.333333333333333,
+    "most_common_majority_answer": "The Pontiac Silverdome.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_8650",
+    "question": "When Alexander the Great had an Empire to which Asian Country did it stretch?",
+    "gold_answer": "INDIA",
+    "mean_eigenscore": -2.5869160313223074,
+    "std_eigenscore": 0.15222596182492856,
+    "min_eigenscore": -2.7863439234175518,
+    "max_eigenscore": -2.4169845513453128,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -2.4169845513453128,
+      -2.7863439234175518,
+      -2.5574196192040572
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      10,
+      9,
+      10
+    ],
+    "seed_level_majority_answers": [
+      "From Greece to modern-day Pakistan.",
+      "From Greece to modern-day Pakistan.",
+      "From Greece to modern-day Pakistan."
+    ],
+    "mean_unique_generations": 9.666666666666666,
+    "most_common_majority_answer": "From Greece to modern-day Pakistan.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_1537",
+    "question": "Cassiterite is a principal ore of which metal?",
+    "gold_answer": "Tin",
+    "mean_eigenscore": -5.4878698636173056,
+    "std_eigenscore": 0.49366891472124336,
+    "min_eigenscore": -6.185781712875892,
+    "max_eigenscore": -5.123014755316504,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.185781712875892,
+      -5.123014755316504,
+      -5.154813122659521
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Tin.",
+      "Tin.",
+      "Tin."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Tin.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_1476",
+    "question": "\"What movie featured the song \"\"Moon River\"\"?\"",
+    "gold_answer": "Breakfast at Tiffany's",
+    "mean_eigenscore": -4.2337068332872585,
+    "std_eigenscore": 0.39152957629750296,
+    "min_eigenscore": -4.559642341800256,
+    "max_eigenscore": -3.6830953677554015,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -3.6830953677554015,
+      -4.559642341800256,
+      -4.4583827903061195
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      7,
+      5,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Breakfast at Tiffany's.",
+      "Breakfast at Tiffany's.",
+      "Breakfast at Tiffany's."
+    ],
+    "mean_unique_generations": 5.666666666666667,
+    "most_common_majority_answer": "Breakfast at Tiffany's.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_3544",
+    "question": "The Nag's Head was the local pub in which TV comedy series?",
+    "gold_answer": "ONLY FOOLS AND HORSES",
+    "mean_eigenscore": -3.809489648169803,
+    "std_eigenscore": 0.5932299763249919,
+    "min_eigenscore": -4.460495253378407,
+    "max_eigenscore": -3.0257003808885914,
+    "mean_correctness_score_vs_gold": 0.3333333333333333,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 1,
+    "incorrect_count": 2,
+    "correct_rate": 0.3333333333333333,
+    "seed_level_majority_is_correct": [
+      true,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.942273310242409,
+      -3.0257003808885914,
+      -4.460495253378407
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      7,
+      4
+    ],
+    "seed_level_majority_answers": [
+      "Only Fools and Horses.",
+      "The Inbetweeners.",
+      "The Inbetweeners."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "The Inbetweeners.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "jp_2243",
+    "question": "Which record label recorded The Supremes and The Jackson 5?",
+    "gold_answer": "Motown",
+    "mean_eigenscore": -6.026406001252944,
+    "std_eigenscore": 0.22450341351620667,
+    "min_eigenscore": -6.185153887349781,
+    "max_eigenscore": -5.708910229059269,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.185153887349781,
+      -6.185153887349781,
+      -5.708910229059269
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Motown Records.",
+      "Motown Records.",
+      "Motown Records."
+    ],
+    "mean_unique_generations": 1.3333333333333333,
+    "most_common_majority_answer": "Motown Records.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_6788",
+    "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+    "gold_answer": "GERMANY",
+    "mean_eigenscore": -5.207560357291619,
+    "std_eigenscore": 0.3387164034081276,
+    "min_eigenscore": -5.652467889725871,
+    "max_eigenscore": -4.831366002438783,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.831366002438783,
+      -5.138847179710203,
+      -5.652467889725871
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "France.",
+      "France.",
+      "France."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "France.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tb_1400",
+    "question": "The Battle of Asculum took place in 279 BC between the Romans and the Greeks in which the Romans lost 6,000 men, while the Greeks lost 3,500, including many of their officers. Who commanded the 'victorious' Greeks?",
+    "gold_answer": "King Pyrrhus of Epirus",
+    "mean_eigenscore": -1.688481559451083,
+    "std_eigenscore": 0.6762703886843826,
+    "min_eigenscore": -2.641398407387259,
+    "max_eigenscore": -1.1414925137182208,
+    "mean_correctness_score_vs_gold": 0.5151515151515151,
+    "std_correctness_score_vs_gold": 0.021427478217774146,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.1414925137182208,
+      -1.2825537572477685,
+      -2.641398407387259
+    ],
+    "seed_level_correctness_scores": [
+      0.5454545454545454,
+      0.5,
+      0.5
+    ],
+    "seed_level_unique_generations": [
+      12,
+      11,
+      9
+    ],
+    "seed_level_majority_answers": [
+      "The Greeks were led by Pyrrhus of Epirus.",
+      "The victorious Greeks were led by Pyrrhus of Epirus.",
+      "The 'victorious' Greeks were led by Pyrrhus of Epirus."
+    ],
+    "mean_unique_generations": 10.666666666666666,
+    "most_common_majority_answer": "The Greeks were led by Pyrrhus of Epirus.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qg_4244",
+    "question": "Who, along with the March Hare, throws a perpetual tea party in Lewis Caroll's Alice's Adventures in Wonderland?",
+    "gold_answer": "Mad Hatter",
+    "mean_eigenscore": -5.466741399797807,
+    "std_eigenscore": 0.22713051607286783,
+    "min_eigenscore": -5.643058560728235,
+    "max_eigenscore": -5.146060560036055,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.611105078629128,
+      -5.146060560036055,
+      -5.643058560728235
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "The Cheshire Cat.",
+      "The Cheshire Cat.",
+      "The Cheshire Cat."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "The Cheshire Cat.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tc_1484",
+    "question": "\"Which boxer famously said,\"\" If I can't beat this bum take my name off the record books?\"\"\"",
+    "gold_answer": "Rocky Marciano",
+    "mean_eigenscore": -4.215590063583311,
+    "std_eigenscore": 1.3908605631573494,
+    "min_eigenscore": -5.642100229870264,
+    "max_eigenscore": -2.329500286917535,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.675169673962133,
+      -2.329500286917535,
+      -5.642100229870264
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      9,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Muhammad Ali.",
+      "Muhammad Ali.",
+      "Muhammad Ali."
+    ],
+    "mean_unique_generations": 5.0,
+    "most_common_majority_answer": "Muhammad Ali.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qb_3821",
+    "question": "Which tennis player was dubbed ‘Superbrat’ by the British press?",
+    "gold_answer": "John McEnroe",
+    "mean_eigenscore": -3.8415047911712734,
+    "std_eigenscore": 0.25401014481866596,
+    "min_eigenscore": -4.036602512252829,
+    "max_eigenscore": -3.48273879886501,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.005173062395982,
+      -3.48273879886501,
+      -4.036602512252829
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "John McEnroe.",
+      "John McEnroe.",
+      "John McEnroe."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "John McEnroe.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_5285",
+    "question": "Which motorcycle company introduced the Jet Ski in 1972?",
+    "gold_answer": "Kawasaki",
+    "mean_eigenscore": -5.25159245116133,
+    "std_eigenscore": 0.4543356550732374,
+    "min_eigenscore": -5.5938057386583715,
+    "max_eigenscore": -4.609530522272498,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.5938057386583715,
+      -4.609530522272498,
+      -5.55144109255312
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      4,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Kawasaki.",
+      "Kawasaki.",
+      "Kawasaki."
+    ],
+    "mean_unique_generations": 2.6666666666666665,
+    "most_common_majority_answer": "Kawasaki.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "bb_2017",
+    "question": "In geology, Greywacke is classed as what form of sedimentary rock?",
+    "gold_answer": "Deep Ocean",
+    "mean_eigenscore": -1.5345157790804151,
+    "std_eigenscore": 0.5191824620215725,
+    "min_eigenscore": -2.2195483015511774,
+    "max_eigenscore": -0.9631469983610204,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -0.9631469983610204,
+      -2.2195483015511774,
+      -1.4208520373290479
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      12,
+      9,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "A conglomerate.",
+      "Cross-bedded sedimentary rock.",
+      "A conglomerate."
+    ],
+    "mean_unique_generations": 10.666666666666666,
+    "most_common_majority_answer": "A conglomerate.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qz_340",
+    "question": "Who wrote The Importance Of Being Earnest?",
+    "gold_answer": "Oscar Wilde",
+    "mean_eigenscore": -6.173747308207411,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.173747308207411,
+    "max_eigenscore": -6.173747308207411,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.173747308207411,
+      -6.173747308207411,
+      -6.173747308207411
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Oscar Wilde.",
+      "Oscar Wilde.",
+      "Oscar Wilde."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Oscar Wilde.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_17574",
+    "question": "What is the name of the alternative medicine that uses essential oils?",
+    "gold_answer": "Aromatherapy",
+    "mean_eigenscore": -6.184948113247718,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.184948113247719,
+    "max_eigenscore": -6.184948113247719,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.184948113247719,
+      -6.184948113247719,
+      -6.184948113247719
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Aromatherapy.",
+      "Aromatherapy.",
+      "Aromatherapy."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Aromatherapy.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_25900",
+    "question": "What is the surname of Mary, still alive aged 99, the longest lived Prime Minister’s spouse?",
+    "gold_answer": "WILSON",
+    "mean_eigenscore": -5.535493022591264,
+    "std_eigenscore": 0.24862693090291427,
+    "min_eigenscore": -5.726841855210216,
+    "max_eigenscore": -5.18435384482372,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.726841855210216,
+      -5.695283367739853,
+      -5.18435384482372
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Thatcher.",
+      "Thatcher.",
+      "Thatcher."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Thatcher.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_7353",
+    "question": "\"\"\"Aimee Anne\"\" are the first names of which currently successful British female singer?\"",
+    "gold_answer": "Duffy",
+    "mean_eigenscore": -4.013149707456393,
+    "std_eigenscore": 0.6740619614664817,
+    "min_eigenscore": -4.525674412387703,
+    "max_eigenscore": -3.060806819441607,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.060806819441607,
+      -4.525674412387703,
+      -4.452967890539871
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      7,
+      4,
+      4
+    ],
+    "seed_level_majority_answers": [
+      "Adele.",
+      "Adele.",
+      "Adele."
+    ],
+    "mean_unique_generations": 5.0,
+    "most_common_majority_answer": "Adele.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_19",
+    "question": "On which island is the city of Knossos, once the capital of the ancient Minoan civilisation?",
+    "gold_answer": "CRETE",
+    "mean_eigenscore": -6.181427002478119,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.181427002478119,
+    "max_eigenscore": -6.181427002478119,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.181427002478119,
+      -6.181427002478119,
+      -6.181427002478119
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Crete.",
+      "Crete.",
+      "Crete."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Crete.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tb_1398",
+    "question": "After a short war with Norway during the Napoleonic wars of 1814, what country remained uninvolved in any conflict ever since and is now the oldest neutral country in the world?",
+    "gold_answer": "Sweden",
+    "mean_eigenscore": -5.675240259546754,
+    "std_eigenscore": 0.023271947485481413,
+    "min_eigenscore": -5.691696011442477,
+    "max_eigenscore": -5.642328755789952,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.642328755789952,
+      -5.691696011442477,
+      -5.691696011407835
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Switzerland.",
+      "Switzerland.",
+      "Switzerland."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "Switzerland.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qb_9244",
+    "question": "In the 18th Century, Russia led a coalition that defeated which country in the Great Northern War?",
+    "gold_answer": "Sweden",
+    "mean_eigenscore": -6.174164612856269,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.174164612856269,
+    "max_eigenscore": -6.174164612856269,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.174164612856269,
+      -6.174164612856269,
+      -6.174164612856269
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Sweden.",
+      "Sweden.",
+      "Sweden."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Sweden.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_6825",
+    "question": "In which novel does Michael Henchard sell his wife and child for 5 guineas?",
+    "gold_answer": "The Mayor of Casterbridge",
+    "mean_eigenscore": -3.842870472180491,
+    "std_eigenscore": 0.45826289350979105,
+    "min_eigenscore": -4.490566493454843,
+    "max_eigenscore": -3.49966484363769,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.490566493454843,
+      -3.49966484363769,
+      -3.5383800794489404
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      6,
+      6
+    ],
+    "seed_level_majority_answers": [
+      "Jude the Obscure by Thomas Hardy.",
+      "Great Expectations.",
+      "Great Expectations."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "Great Expectations.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "odql_3849",
+    "question": "What breed of dog is Marmaduke in the newspaper cartoon strip of that name?",
+    "gold_answer": "GREAT DANE",
+    "mean_eigenscore": -4.237864729049176,
+    "std_eigenscore": 0.15421781214053729,
+    "min_eigenscore": -4.400167989426493,
+    "max_eigenscore": -4.0305467835252005,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.282879414195834,
+      -4.0305467835252005,
+      -4.400167989426493
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "The Great Dane.",
+      "Marmaduke is a Great Dane.",
+      "A Great Dane."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "The Great Dane.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_559",
+    "question": "Which premiership manager upset Louis Van Gaal in February 2015, when he described his team as long ball united?",
+    "gold_answer": "Sam Allardyce",
+    "mean_eigenscore": -4.835351286662532,
+    "std_eigenscore": 0.38290469500920066,
+    "min_eigenscore": -5.3084554551180965,
+    "max_eigenscore": -4.370647186154792,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.370647186154792,
+      -4.826951218714706,
+      -5.3084554551180965
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      4,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "David Moyes.",
+      "David Moyes.",
+      "David Moyes."
+    ],
+    "mean_unique_generations": 4.0,
+    "most_common_majority_answer": "David Moyes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_24050",
+    "question": "Who is associated with the words ‘Live long and prosper’?",
+    "gold_answer": "Mr. Spock",
+    "mean_eigenscore": -5.080644511323228,
+    "std_eigenscore": 0.29502960663789213,
+    "min_eigenscore": -5.424239736136857,
+    "max_eigenscore": -4.703858010672885,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.424239736136857,
+      -5.113835787159941,
+      -4.703858010672885
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      4,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Mr. Spock from Star Trek.",
+      "Mr. Spock from Star Trek.",
+      "Mr. Spock from Star Trek."
+    ],
+    "mean_unique_generations": 4.0,
+    "most_common_majority_answer": "Mr. Spock from Star Trek.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_7271",
+    "question": "Thomas the Tank Engine lives on which fictional island?",
+    "gold_answer": "Sodor",
+    "mean_eigenscore": -6.18471940831859,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.18471940831859,
+    "max_eigenscore": -6.18471940831859,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.18471940831859,
+      -6.18471940831859,
+      -6.18471940831859
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Sodor.",
+      "Sodor.",
+      "Sodor."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Sodor.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qg_736",
+    "question": "Who famously described England as “a nation of shopkeepers”?",
+    "gold_answer": "Adam Smith",
+    "mean_eigenscore": -4.924124168653995,
+    "std_eigenscore": 0.2128911674101196,
+    "min_eigenscore": -5.0862968445016055,
+    "max_eigenscore": -4.623358539152251,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.062717122308127,
+      -4.623358539152251,
+      -5.0862968445016055
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      4,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Adam Smith.",
+      "Adam Smith.",
+      "Adam Smith."
+    ],
+    "mean_unique_generations": 3.3333333333333335,
+    "most_common_majority_answer": "Adam Smith.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qf_1975",
+    "question": "Where would you find 'Harris'; 'Lewis' and 'Benbecular'?",
+    "gold_answer": "The Outer Hebrides",
+    "mean_eigenscore": 1.1245129920074957,
+    "std_eigenscore": 0.731235249724092,
+    "min_eigenscore": 0.1279857015617171,
+    "max_eigenscore": 1.8620620425650585,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.8620620425650585,
+      1.3834912318957113,
+      0.1279857015617171
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      18,
+      17,
+      14
+    ],
+    "seed_level_majority_answers": [
+      "These surnames are of Scottish origin.",
+      "These surnames are of Scottish origin, commonly found in the Highlands.",
+      "These are surnames of Scottish origin, commonly found in Scotland."
+    ],
+    "mean_unique_generations": 16.333333333333332,
+    "most_common_majority_answer": "These surnames are of Scottish origin.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tc_2218",
+    "question": "Which was the longest moon landing?",
+    "gold_answer": "Apollo 17",
+    "mean_eigenscore": -0.7665536577511888,
+    "std_eigenscore": 0.896851151135928,
+    "min_eigenscore": -1.6970186440532262,
+    "max_eigenscore": 0.44512988060656056,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.44512988060656056,
+      -1.047772209806901,
+      -1.6970186440532262
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      16,
+      12,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes."
+    ],
+    "mean_unique_generations": 13.0,
+    "most_common_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_2359",
+    "question": "The ‘La Scala Opera House’ is in which European city?",
+    "gold_answer": "Milan",
+    "mean_eigenscore": -5.848618453001111,
+    "std_eigenscore": 0.23282198945863855,
+    "min_eigenscore": -6.177361271661118,
+    "max_eigenscore": -5.668270888069001,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.177361271661118,
+      -5.700223199273212,
+      -5.668270888069001
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Milan.",
+      "Milan.",
+      "Milan."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Milan.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_19994",
+    "question": "Which villain, played by Richard Kiel, appeared in two James Bond movies, 'The Spy Who Loved Me' and 'Moonraker'?",
+    "gold_answer": "Jaws",
+    "mean_eigenscore": -6.183139225759578,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.183139225759577,
+    "max_eigenscore": -6.183139225759577,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.183139225759577,
+      -6.183139225759577,
+      -6.183139225759577
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Jaws.",
+      "Jaws.",
+      "Jaws."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Jaws.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_12076",
+    "question": "Who is the current Wimbledon Ladies Singles champion?",
+    "gold_answer": "Petra Kvitova",
+    "mean_eigenscore": -4.452442372738743,
+    "std_eigenscore": 0.5764640601986359,
+    "min_eigenscore": -4.872253343800222,
+    "max_eigenscore": -3.6373218175977384,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.872253343800222,
+      -4.84775195681827,
+      -3.6373218175977384
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      4,
+      7
+    ],
+    "seed_level_majority_answers": [
+      "I don't have real-time information.",
+      "I don't have real-time information.",
+      "I don't have real-time information."
+    ],
+    "mean_unique_generations": 5.0,
+    "most_common_majority_answer": "I don't have real-time information.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_18968",
+    "question": "Which European country has Switzerland to the west Austria to the east?",
+    "gold_answer": "Lichtenstein",
+    "mean_eigenscore": -5.266333826008668,
+    "std_eigenscore": 0.024339163945952227,
+    "min_eigenscore": -5.295664609214505,
+    "max_eigenscore": -5.236068074801527,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.236068074801527,
+      -5.267268794009973,
+      -5.295664609214505
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Germany.",
+      "Germany.",
+      "Germany."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "Germany.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_1933",
+    "question": "What remake of a British science-fiction serial broadcast by BBC Television in the summer of 1953 was staged live by BBC Four in 2005 with actors Jason Flemyng, Mark Gatiss, Andrew Tiernan, Indira Varma, David Tennant and Adrian Bower?",
+    "gold_answer": "The Quatermass Experiment",
+    "mean_eigenscore": -5.072662850893743,
+    "std_eigenscore": 0.013088528933948787,
+    "min_eigenscore": -5.087382899175071,
+    "max_eigenscore": -5.055584055306608,
+    "mean_correctness_score_vs_gold": 0.4000000000000001,
+    "std_correctness_score_vs_gold": 5.551115123125783e-17,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.075021598199553,
+      -5.087382899175071,
+      -5.055584055306608
+    ],
+    "seed_level_correctness_scores": [
+      0.4,
+      0.4,
+      0.4
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "The Quatermass and the Pit.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_24087",
+    "question": "Who wrote the book Don Quixote?",
+    "gold_answer": "(Miguel de) Cervantes",
+    "mean_eigenscore": -6.171121230191879,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.171121230191879,
+    "max_eigenscore": -6.171121230191879,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.171121230191879,
+      -6.171121230191879,
+      -6.171121230191879
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Miguel de Cervantes.",
+      "Miguel de Cervantes.",
+      "Miguel de Cervantes."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Miguel de Cervantes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tb_1360",
+    "question": "Which country is currently ruled by the Chakri dynasty that has been in power since 1782?",
+    "gold_answer": "Thailand",
+    "mean_eigenscore": -6.186438405222513,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.186438405222512,
+    "max_eigenscore": -6.186438405222512,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.186438405222512,
+      -6.186438405222512,
+      -6.186438405222512
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Thailand.",
+      "Thailand.",
+      "Thailand."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Thailand.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "dpql_5194",
+    "question": "Who retired from the ‘Eggheads’ team in May 2014?",
+    "gold_answer": "DAPHNE Fowler",
+    "mean_eigenscore": -3.544403253468468,
+    "std_eigenscore": 0.20187799740763476,
+    "min_eigenscore": -3.720851260012961,
+    "max_eigenscore": -3.2618041887921634,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.720851260012961,
+      -3.2618041887921634,
+      -3.65055431160028
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      6,
+      7,
+      6
+    ],
+    "seed_level_majority_answers": [
+      "Paul Sinha.",
+      "Mark Labbett.",
+      "Paul Sinha."
+    ],
+    "mean_unique_generations": 6.333333333333333,
+    "most_common_majority_answer": "Paul Sinha.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bb_8203",
+    "question": "What royal house has ruled Monaco since the Middle Ages?",
+    "gold_answer": "Grimaldi",
+    "mean_eigenscore": -5.298404013815739,
+    "std_eigenscore": 0.029484286956172705,
+    "min_eigenscore": -5.324709539288305,
+    "max_eigenscore": -5.257233412776332,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.257233412776332,
+      -5.313269089382581,
+      -5.324709539288305
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "The House of Grimaldi.",
+      "The House of Grimaldi.",
+      "The House of Grimaldi."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "The House of Grimaldi.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_19847",
+    "question": "Green plover and peewit are alternative names for which British bird?",
+    "gold_answer": "Lapwing",
+    "mean_eigenscore": -3.4651982729719126,
+    "std_eigenscore": 0.548679301440283,
+    "min_eigenscore": -4.183478306773736,
+    "max_eigenscore": -2.8518362890328754,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -2.8518362890328754,
+      -3.360280223109126,
+      -4.183478306773736
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      8,
+      7,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "The Curlew.",
+      "The Common Snipe.",
+      "The Common Snipe."
+    ],
+    "mean_unique_generations": 6.666666666666667,
+    "most_common_majority_answer": "The Common Snipe.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qb_817",
+    "question": "What nationality was 19th Century author Hans Christian Anderson?",
+    "gold_answer": "Danish",
+    "mean_eigenscore": -6.022316204396947,
+    "std_eigenscore": 0.2283377209903454,
+    "min_eigenscore": -6.183775355309902,
+    "max_eigenscore": -5.699397902571037,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.699397902571037,
+      -6.183775355309902,
+      -6.183775355309902
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Danish.",
+      "Danish.",
+      "Danish."
+    ],
+    "mean_unique_generations": 1.3333333333333333,
+    "most_common_majority_answer": "Danish.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_3119",
+    "question": "From which areas of space can there be no escape?",
+    "gold_answer": "Black holes",
+    "mean_eigenscore": -5.028238658379754,
+    "std_eigenscore": 0.17292379187829268,
+    "min_eigenscore": -5.178979622025322,
+    "max_eigenscore": -4.786099390191671,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.786099390191671,
+      -5.11963696292227,
+      -5.178979622025322
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Black holes.",
+      "Black holes.",
+      "Black holes."
+    ],
+    "mean_unique_generations": 3.3333333333333335,
+    "most_common_majority_answer": "Black holes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qg_1497",
+    "question": "Electric, picket, and split rail are all types of what?",
+    "gold_answer": "Fences",
+    "mean_eigenscore": -5.114000170012986,
+    "std_eigenscore": 0.020119716054584062,
+    "min_eigenscore": -5.139935029237851,
+    "max_eigenscore": -5.090896578951787,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.139935029237851,
+      -5.11116890184932,
+      -5.090896578951787
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Fencing.",
+      "Fencing.",
+      "Fencing."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "Fencing.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_14348",
+    "question": "One of the largest countries in Africa derived its food wealth for thousands of years from the regular flooding of which river?",
+    "gold_answer": "Nile",
+    "mean_eigenscore": -5.669130606767347,
+    "std_eigenscore": 0.003966450769107414,
+    "min_eigenscore": -5.674242051720193,
+    "max_eigenscore": -5.664573898177492,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.664573898177492,
+      -5.674242051720193,
+      -5.668575870404354
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "The Nile River.",
+      "The Nile River.",
+      "The Nile River."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "The Nile River.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_2116",
+    "question": "Throughout the 80s and 90s Phil Collins recorded on which record label?",
+    "gold_answer": "Atlantic",
+    "mean_eigenscore": -5.68468377908275,
+    "std_eigenscore": 0.0064092361207570055,
+    "min_eigenscore": -5.693747807729176,
+    "max_eigenscore": -5.680151764718781,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.680151764800293,
+      -5.680151764718781,
+      -5.693747807729176
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Virgin Records.",
+      "Virgin Records.",
+      "Virgin Records."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "Virgin Records.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_1158",
+    "question": "Which film starring Steve McQueen featured a car chase through the streets of San Francisco?",
+    "gold_answer": "Bullitt",
+    "mean_eigenscore": -6.18076243316715,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.18076243316715,
+    "max_eigenscore": -6.18076243316715,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.18076243316715,
+      -6.18076243316715,
+      -6.18076243316715
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Bullitt.",
+      "Bullitt.",
+      "Bullitt."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Bullitt.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_2040",
+    "question": "\"AWFUL JOKES - Which four words comlete this awful joke? A man walks into a bar with a slab of asphalt under his arm and says \"\"A beer please and ................................................\"\"\"",
+    "gold_answer": "ONE FOR THE ROAD",
+    "mean_eigenscore": 0.5305622691750483,
+    "std_eigenscore": 0.35789371418582117,
+    "min_eigenscore": 0.23301972156561113,
+    "max_eigenscore": 1.0339223051425683,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.23301972156561113,
+      1.0339223051425683,
+      0.32474478081696556
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      17,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "\"...one for the road.\"",
+      "\"one for the road.\"",
+      "\"one for the road.\""
+    ],
+    "mean_unique_generations": 15.666666666666666,
+    "most_common_majority_answer": "\"one for the road.\"",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_2368",
+    "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+    "gold_answer": "ASTON VILLA",
+    "mean_eigenscore": 0.3653441809752997,
+    "std_eigenscore": 0.6251287395320435,
+    "min_eigenscore": -0.24878502401270763,
+    "max_eigenscore": 1.2231472887229136,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -0.24878502401270763,
+      1.2231472887229136,
+      0.12167027821569298
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      14,
+      18,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "I'm not aware of the current season's information.",
+      "I'm not aware of the current season's information.",
+      "I'm not aware of the current season's information."
+    ],
+    "mean_unique_generations": 15.666666666666666,
+    "most_common_majority_answer": "I'm not aware of the current season's information.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qz_6079",
+    "question": "Which method of painting consists of applying pigment to wet plaster?",
+    "gold_answer": "Fresco.",
+    "mean_eigenscore": -5.473410231776735,
+    "std_eigenscore": 0.2929114997647727,
+    "min_eigenscore": -5.7539793816989775,
+    "max_eigenscore": -5.06920060282186,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.597050710809365,
+      -5.7539793816989775,
+      -5.06920060282186
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Fresco.",
+      "Fresco.",
+      "Fresco."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Fresco.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_3015",
+    "question": "Harvard University is situated in which American State?",
+    "gold_answer": "MASSACHUSETTS",
+    "mean_eigenscore": -6.182005278085303,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.182005278085304,
+    "max_eigenscore": -6.182005278085304,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.182005278085304,
+      -6.182005278085304,
+      -6.182005278085304
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Massachusetts.",
+      "Massachusetts.",
+      "Massachusetts."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Massachusetts.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_1544",
+    "question": "What was the name of the letters that in 1566 implicated Mary Queen of Scots in the murder of her second husband, Lord Darnley?",
+    "gold_answer": "CASKET LETTERS",
+    "mean_eigenscore": -2.27030157486382,
+    "std_eigenscore": 0.584430917796848,
+    "min_eigenscore": -3.089881939357567,
+    "max_eigenscore": -1.7680167110535083,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.7680167110535083,
+      -3.089881939357567,
+      -1.9530060741803852
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      11,
+      8,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "The letters were known as the \"Casket Letters\".",
+      "The letters were known as the \"Casket Letters\".",
+      "The letters were known as the \"Casket Letters\"."
+    ],
+    "mean_unique_generations": 10.0,
+    "most_common_majority_answer": "The letters were known as the \"Casket Letters\".",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_2086",
+    "question": "The male of which species of white whale develops a long twisted tusk that projects through its upper lip ?",
+    "gold_answer": "NARWHAL",
+    "mean_eigenscore": -3.504361864374397,
+    "std_eigenscore": 0.6801737245954855,
+    "min_eigenscore": -4.278912013059918,
+    "max_eigenscore": -2.6231146310757176,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 2,
+    "incorrect_count": 1,
+    "correct_rate": 0.6666666666666666,
+    "seed_level_majority_is_correct": [
+      true,
+      false,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.278912013059918,
+      -3.6110589489875538,
+      -2.6231146310757176
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      8
+    ],
+    "seed_level_majority_answers": [
+      "The narwhal.",
+      "The sperm whale.",
+      "The narwhal."
+    ],
+    "mean_unique_generations": 6.333333333333333,
+    "most_common_majority_answer": "The narwhal.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_23794",
+    "question": "With which sport do you associate the Coventry bees?",
+    "gold_answer": "SPEEDWAY",
+    "mean_eigenscore": -5.774012718057747,
+    "std_eigenscore": 0.27583404127986766,
+    "min_eigenscore": -6.1637472064165975,
+    "max_eigenscore": -5.564761492130403,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.1637472064165975,
+      -5.593529455626241,
+      -5.564761492130403
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Cricket.",
+      "Cricket.",
+      "Cricket."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Cricket.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bb_7756",
+    "question": "By how many years to the day did OJ Simpson's conviction for robbery and kidnapping follow his acquittal of murder?",
+    "gold_answer": "Thirteen",
+    "mean_eigenscore": -3.048266744934164,
+    "std_eigenscore": 0.24977115088445836,
+    "min_eigenscore": -3.3325467681941605,
+    "max_eigenscore": -2.724558308178286,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.3325467681941605,
+      -2.724558308178286,
+      -3.087695158430045
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      10,
+      11,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "Four years.",
+      "Four years.",
+      "Five years."
+    ],
+    "mean_unique_generations": 10.666666666666666,
+    "most_common_majority_answer": "Four years.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_8611",
+    "question": "What is the next in the series: Nigeria, Sierra Leone, Tanganyika, Uganda, Zanzibar, Kenya, Malawi, Zambia, Gambia, Botswana, Lesotho, Mauritius",
+    "gold_answer": "Swaziland",
+    "mean_eigenscore": -5.577582980135337,
+    "std_eigenscore": 0.2109188153816246,
+    "min_eigenscore": -5.764488054201051,
+    "max_eigenscore": -5.282809828188485,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.764488054201051,
+      -5.282809828188485,
+      -5.685451058016477
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Tanzania.",
+      "Tanzania.",
+      "Tanzania."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Tanzania.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qz_5301",
+    "question": "What was the capital of the United States between 1785 and 1790??",
+    "gold_answer": "New York",
+    "mean_eigenscore": -4.731298250750394,
+    "std_eigenscore": 0.3416250584508994,
+    "min_eigenscore": -5.213754038490075,
+    "max_eigenscore": -4.467960845358737,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.213754038490075,
+      -4.512179868402368,
+      -4.467960845358737
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      5,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "New York City.",
+      "New York City.",
+      "New York City."
+    ],
+    "mean_unique_generations": 4.333333333333333,
+    "most_common_majority_answer": "New York City.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_2085",
+    "question": "Which sauce is made from mayonnaise, chopped capers and onions?",
+    "gold_answer": "Tartare",
+    "mean_eigenscore": -5.549938294430825,
+    "std_eigenscore": 0.5834430475562218,
+    "min_eigenscore": -6.192274269678997,
+    "max_eigenscore": -4.780259375179624,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.780259375179624,
+      -5.677281238433854,
+      -6.192274269678997
+    ],
+    "seed_level_correctness_scores": [
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666
+    ],
+    "seed_level_unique_generations": [
+      4,
+      2,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Tartar sauce.",
+      "Tartar sauce.",
+      "Tartar sauce."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Tartar sauce.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_1784",
+    "question": "Which football manager as the nickname the bald eagle?",
+    "gold_answer": "JIM SMITH",
+    "mean_eigenscore": -1.2282137182626,
+    "std_eigenscore": 0.3151651202349752,
+    "min_eigenscore": -1.656956434648594,
+    "max_eigenscore": -0.9083514036867978,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -1.656956434648594,
+      -0.9083514036867978,
+      -1.1193333164524084
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      10,
+      11,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "Vic Mancini.",
+      "Vic Bubas.",
+      "Vic Mancini."
+    ],
+    "mean_unique_generations": 10.666666666666666,
+    "most_common_majority_answer": "Vic Mancini.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qf_441",
+    "question": "Christopher Cockerill invented what in 1955?",
+    "gold_answer": "Hovercraft",
+    "mean_eigenscore": -0.5935810074817599,
+    "std_eigenscore": 0.9313863003341581,
+    "min_eigenscore": -1.6075576705242418,
+    "max_eigenscore": 0.6414932776048213,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      0.6414932776048213,
+      -0.814678629525859,
+      -1.6075576705242418
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      12,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "The first practical jet-powered aircraft.",
+      "The first practical jet-powered aircraft.",
+      "The first practical jet-powered helicopter."
+    ],
+    "mean_unique_generations": 12.666666666666666,
+    "most_common_majority_answer": "The first practical jet-powered aircraft.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_21879",
+    "question": "The Elgin Marbles were originally part of which building?",
+    "gold_answer": "Parthenon",
+    "mean_eigenscore": -5.073413300376405,
+    "std_eigenscore": 0.16512753094558974,
+    "min_eigenscore": -5.200164776698135,
+    "max_eigenscore": -4.8401811532932495,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.179893971137831,
+      -5.200164776698135,
+      -4.8401811532932495
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      4
+    ],
+    "seed_level_majority_answers": [
+      "The Parthenon.",
+      "The Parthenon.",
+      "The Parthenon."
+    ],
+    "mean_unique_generations": 3.3333333333333335,
+    "most_common_majority_answer": "The Parthenon.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_3718",
+    "question": "Which singer made the news in September 2009 when Muslim groups protested that her first concert in Malaysia should be cancelled for a second time?",
+    "gold_answer": "Beyonc",
+    "mean_eigenscore": -4.644039966054517,
+    "std_eigenscore": 0.005768443653637326,
+    "min_eigenscore": -4.649573788158263,
+    "max_eigenscore": -4.63608219544272,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.63608219544272,
+      -4.649573788158263,
+      -4.646463914562566
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      4,
+      4
+    ],
+    "seed_level_majority_answers": [
+      "Katy Perry.",
+      "Katy Perry.",
+      "Katy Perry."
+    ],
+    "mean_unique_generations": 4.0,
+    "most_common_majority_answer": "Katy Perry.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "jp_755",
+    "question": "\"\"\"Torchwood\"\" was a spin-off of what popular TV show?\"",
+    "gold_answer": "Doctor Who",
+    "mean_eigenscore": -6.032087605560224,
+    "std_eigenscore": 0.2095407408957838,
+    "min_eigenscore": -6.180255284382486,
+    "max_eigenscore": -5.7357522479157,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.180255284382486,
+      -6.180255284382486,
+      -5.7357522479157
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Doctor Who.",
+      "Doctor Who.",
+      "Doctor Who."
+    ],
+    "mean_unique_generations": 1.3333333333333333,
+    "most_common_majority_answer": "Doctor Who.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_16585",
+    "question": "In which Verdi opera do the gypsies sing the 'Anvil Chorus'?",
+    "gold_answer": "Il Trovatore",
+    "mean_eigenscore": -6.174038299888667,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.174038299888667,
+    "max_eigenscore": -6.174038299888667,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.174038299888667,
+      -6.174038299888667,
+      -6.174038299888667
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Nabucco.",
+      "Nabucco.",
+      "Nabucco."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Nabucco.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_14052",
+    "question": "Name the year; Baring's Bank collapsed, Blackburn Rovers won the Premier League and Cliff Richard was knighted?",
+    "gold_answer": "1995",
+    "mean_eigenscore": -3.8116786505636866,
+    "std_eigenscore": 0.30288249411930956,
+    "min_eigenscore": -4.221718702653517,
+    "max_eigenscore": -3.499387591021712,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.221718702653517,
+      -3.499387591021712,
+      -3.7139296580158296
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      6,
+      8,
+      7
+    ],
+    "seed_level_majority_answers": [
+      "1998",
+      "1998.",
+      "1998."
+    ],
+    "mean_unique_generations": 7.0,
+    "most_common_majority_answer": "1998.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_8485",
+    "question": "What are the tetrahedron, cube, octahedron, dodecahedron and icosahedron known as?",
+    "gold_answer": "Platonic solids",
+    "mean_eigenscore": -3.7130546685938675,
+    "std_eigenscore": 0.36906746196238693,
+    "min_eigenscore": -4.192291421227045,
+    "max_eigenscore": -3.2943684603999657,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.192291421227045,
+      -3.2943684603999657,
+      -3.6525041241545906
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      7,
+      6
+    ],
+    "seed_level_majority_answers": [
+      "Platonic solids.",
+      "Platonic solids.",
+      "Platonic solids."
+    ],
+    "mean_unique_generations": 6.0,
+    "most_common_majority_answer": "Platonic solids.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_23674",
+    "question": "To which family of birds do Linnets belong?",
+    "gold_answer": "Finches",
+    "mean_eigenscore": -5.828322441924012,
+    "std_eigenscore": 0.4994381453875029,
+    "min_eigenscore": -6.1814785413107485,
+    "max_eigenscore": -5.12201024315054,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.1814785413107485,
+      -5.12201024315054,
+      -6.1814785413107485
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      3,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Finches.",
+      "Finches.",
+      "Finches."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Finches.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "dpql_5096",
+    "question": "The disease blossom end rot is most frequently found in which greenhouse crop?",
+    "gold_answer": "Tomatoes",
+    "mean_eigenscore": -6.1675094569054965,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.167509456905497,
+    "max_eigenscore": -6.167509456905497,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.167509456905497,
+      -6.167509456905497,
+      -6.167509456905497
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Tomatoes.",
+      "Tomatoes.",
+      "Tomatoes."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Tomatoes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_10602",
+    "question": "Where in the human body can you find the 'Olfactory Bulb'?",
+    "gold_answer": "NOSE",
+    "mean_eigenscore": -1.5535800935104536,
+    "std_eigenscore": 0.8500862289892457,
+    "min_eigenscore": -2.4989483140715207,
+    "max_eigenscore": -0.4377170884108847,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -2.4989483140715207,
+      -1.724074878048955,
+      -0.4377170884108847
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      10,
+      13,
+      16
+    ],
+    "seed_level_majority_answers": [
+      "The olfactory bulb is located in the forebrain.",
+      "The olfactory bulb is located in the forebrain.",
+      "The olfactory bulb is located in the forebrain."
+    ],
+    "mean_unique_generations": 13.0,
+    "most_common_majority_answer": "The olfactory bulb is located in the forebrain.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_7181",
+    "question": "Who designed the British World War II fighter plane, the Spitfire?",
+    "gold_answer": "Reginald Mitchell",
+    "mean_eigenscore": -2.834450875282189,
+    "std_eigenscore": 0.3767682726837008,
+    "min_eigenscore": -3.3185396749401606,
+    "max_eigenscore": -2.3995982222951304,
+    "mean_correctness_score_vs_gold": 0.22222222222222224,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -2.3995982222951304,
+      -2.785214728611277,
+      -3.3185396749401606
+    ],
+    "seed_level_correctness_scores": [
+      0.22222222222222224,
+      0.22222222222222224,
+      0.22222222222222224
+    ],
+    "seed_level_unique_generations": [
+      9,
+      8,
+      7
+    ],
+    "seed_level_majority_answers": [
+      "The Supermarine Spitfire was designed by R.J. Mitchell.",
+      "The Supermarine Spitfire was designed by R.J. Mitchell.",
+      "The Supermarine Spitfire was designed by R.J. Mitchell."
+    ],
+    "mean_unique_generations": 8.0,
+    "most_common_majority_answer": "The Supermarine Spitfire was designed by R.J. Mitchell.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_21832",
+    "question": "Which European country's flag consists of three equal horizontal bands of white, green and red?",
+    "gold_answer": "BULGARIA",
+    "mean_eigenscore": -4.762074052427373,
+    "std_eigenscore": 0.4045601172538519,
+    "min_eigenscore": -5.272230685226515,
+    "max_eigenscore": -4.282700193903228,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.731291278152376,
+      -4.282700193903228,
+      -5.272230685226515
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      5,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Greece.",
+      "Ireland.",
+      "Greece."
+    ],
+    "mean_unique_generations": 4.0,
+    "most_common_majority_answer": "Greece.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_1461",
+    "question": "Named from the Gaelic for elbow, what is the name of the Irish bagpipes played by squeezing air with the arm?",
+    "gold_answer": "Uillean pipes",
+    "mean_eigenscore": -6.182050393240392,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.182050393240392,
+    "max_eigenscore": -6.182050393240392,
+    "mean_correctness_score_vs_gold": 0.5,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.182050393240392,
+      -6.182050393240392,
+      -6.182050393240392
+    ],
+    "seed_level_correctness_scores": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Uilleann pipes.",
+      "Uilleann pipes.",
+      "Uilleann pipes."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Uilleann pipes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_1408",
+    "question": "What country is the largest oil producer in Africa?",
+    "gold_answer": "Nigeria",
+    "mean_eigenscore": -5.862263006795753,
+    "std_eigenscore": 0.22220535379846315,
+    "min_eigenscore": -6.176508831769451,
+    "max_eigenscore": -5.7051400943080495,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.7051400943097565,
+      -6.176508831769451,
+      -5.7051400943080495
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      1,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Nigeria.",
+      "Nigeria.",
+      "Nigeria."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Nigeria.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_4426",
+    "question": "What city has a neighborhood called Little Havana?",
+    "gold_answer": "Miami",
+    "mean_eigenscore": -4.739928638720502,
+    "std_eigenscore": 0.23387853464688263,
+    "min_eigenscore": -5.070491904120288,
+    "max_eigenscore": -4.564915658270541,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.070491904120288,
+      -4.584378353770677,
+      -4.564915658270541
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      4,
+      4
+    ],
+    "seed_level_majority_answers": [
+      "Miami.",
+      "Miami.",
+      "Miami."
+    ],
+    "mean_unique_generations": 3.6666666666666665,
+    "most_common_majority_answer": "Miami.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_5487",
+    "question": "What is the least number of shots that a competitor can take to complete 18 holes of golf?",
+    "gold_answer": "18",
+    "mean_eigenscore": 0.8542155219163198,
+    "std_eigenscore": 0.2960215961026448,
+    "min_eigenscore": 0.4646908270186249,
+    "max_eigenscore": 1.1818163505646275,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      0.916139388165707,
+      1.1818163505646275,
+      0.4646908270186249
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      15,
+      14
+    ],
+    "seed_level_majority_answers": [
+      "Par.",
+      "Par.",
+      "Par."
+    ],
+    "mean_unique_generations": 14.666666666666666,
+    "most_common_majority_answer": "Par.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qf_861",
+    "question": "Who was the star of the 1940 satirical film 'The Great Dictator'?",
+    "gold_answer": "Charlie Chaplin",
+    "mean_eigenscore": -6.175295145551215,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.175295145551215,
+    "max_eigenscore": -6.175295145551215,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.175295145551215,
+      -6.175295145551215,
+      -6.175295145551215
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Charlie Chaplin.",
+      "Charlie Chaplin.",
+      "Charlie Chaplin."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Charlie Chaplin.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tb_889",
+    "question": "The organization Medecins Sans Frontieres (Doctors without Borders) was created in 1971 as an aftermath of what humanitarian crisis in Africa?",
+    "gold_answer": "Biafra secession",
+    "mean_eigenscore": -5.817053655869628,
+    "std_eigenscore": 1.546307773429216e-11,
+    "min_eigenscore": -5.817053655891495,
+    "max_eigenscore": -5.817053655858528,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.817053655858528,
+      -5.817053655891495,
+      -5.817053655858861
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "The Biafran War.",
+      "The Biafran War.",
+      "The Biafran War."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "The Biafran War.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qb_2869",
+    "question": "In the novel ‘Jane Eyre’ by Charlotte Bronte, what is the name of Mr Rochester’s first wife?",
+    "gold_answer": "Bertha Mason",
+    "mean_eigenscore": -5.518942928315756,
+    "std_eigenscore": 0.2056193051079219,
+    "min_eigenscore": -5.665357045304089,
+    "max_eigenscore": -5.228155705952058,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.228155705952058,
+      -5.665357045304089,
+      -5.66331603369112
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Bertha Mason.",
+      "Bertha Mason.",
+      "Bertha Antoinetta Mason."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "Bertha Mason.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_15794",
+    "question": "What is Canada's most populous province?",
+    "gold_answer": "Ontario",
+    "mean_eigenscore": -6.176098290574589,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.176098290574588,
+    "max_eigenscore": -6.176098290574588,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.176098290574588,
+      -6.176098290574588,
+      -6.176098290574588
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Ontario.",
+      "Ontario.",
+      "Ontario."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Ontario.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_1777",
+    "question": "Luke, who is your father?",
+    "gold_answer": "Darth Vader",
+    "mean_eigenscore": -0.21408335104059492,
+    "std_eigenscore": 0.8120763157043873,
+    "min_eigenscore": -1.1558487279335008,
+    "max_eigenscore": 0.8260184472013213,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -0.3124197723896052,
+      -1.1558487279335008,
+      0.8260184472013213
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      13,
+      11,
+      16
+    ],
+    "seed_level_majority_answers": [
+      "No one.",
+      "I don't know.",
+      "No one."
+    ],
+    "mean_unique_generations": 13.333333333333334,
+    "most_common_majority_answer": "No one.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "odql_10682",
+    "question": "Which Latin word is used for a recess in a church wall containing a basin for washing holy vessels?",
+    "gold_answer": "PISCINA",
+    "mean_eigenscore": -2.918697117764978,
+    "std_eigenscore": 0.2528069779958883,
+    "min_eigenscore": -3.2757415240353636,
+    "max_eigenscore": -2.724158637022569,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -2.724158637022569,
+      -2.7561911922370026,
+      -3.2757415240353636
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      8,
+      8,
+      7
+    ],
+    "seed_level_majority_answers": [
+      "Retuaria.",
+      "Sacristy.",
+      "Sacristy."
+    ],
+    "mean_unique_generations": 7.666666666666667,
+    "most_common_majority_answer": "Sacristy.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bb_2489",
+    "question": "Michael Morpurgo, author of the children's book War Horse, on which the 2012 Spielberg film (of the same name) is based, held what UK position from 2003-5?",
+    "gold_answer": "Children's Laureate",
+    "mean_eigenscore": -4.511680775210187,
+    "std_eigenscore": 0.5493119909669729,
+    "min_eigenscore": -5.090507115645364,
+    "max_eigenscore": -3.773563308329456,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.670971901655739,
+      -3.773563308329456,
+      -5.090507115645364
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      6,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Children's Laureate.",
+      "Children's Laureate.",
+      "Children's Laureate."
+    ],
+    "mean_unique_generations": 4.333333333333333,
+    "most_common_majority_answer": "Children's Laureate.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_1989",
+    "question": "What is the main attraction at both Altamira and Lascaux?",
+    "gold_answer": "Cave paintings",
+    "mean_eigenscore": -4.294929671423891,
+    "std_eigenscore": 0.18048967753459746,
+    "min_eigenscore": -4.470136064945768,
+    "max_eigenscore": -4.046572546883233,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.368080402442674,
+      -4.046572546883233,
+      -4.470136064945768
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Prehistoric cave paintings.",
+      "Prehistoric cave paintings.",
+      "Prehistoric cave paintings."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "Prehistoric cave paintings.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "bb_3376",
+    "question": "In 2012 which vast multinational supermarket corporation recorded its first fall in profits since 1994?",
+    "gold_answer": "Tesco",
+    "mean_eigenscore": -5.305017299652076,
+    "std_eigenscore": 0.22435713856137265,
+    "min_eigenscore": -5.619075168081554,
+    "max_eigenscore": -5.108874047172535,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.108874047172535,
+      -5.18710268370214,
+      -5.619075168081554
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Tesco.",
+      "Tesco.",
+      "Tesco."
+    ],
+    "mean_unique_generations": 2.6666666666666665,
+    "most_common_majority_answer": "Tesco.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_11867",
+    "question": "Who was the Romanian gymnast who scored the first ever perfect ten at the Olympic Games of 1976?",
+    "gold_answer": "NADIA COMANECI",
+    "mean_eigenscore": -6.178982734186824,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.178982734186824,
+    "max_eigenscore": -6.178982734186824,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.178982734186824,
+      -6.178982734186824,
+      -6.178982734186824
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Nadia Comăneci.",
+      "Nadia Comăneci.",
+      "Nadia Comăneci."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Nadia Comăneci.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_3503",
+    "question": "Which star in the constellation of Ophiuchus, is just under six light years away and the fifth closest star to Earth?",
+    "gold_answer": "BARNARD'S STAR",
+    "mean_eigenscore": -2.3818790801899734,
+    "std_eigenscore": 0.20425567354019786,
+    "min_eigenscore": -2.6335795594893794,
+    "max_eigenscore": -2.133286338527411,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -2.6335795594893794,
+      -2.3787713425531303,
+      -2.133286338527411
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      8,
+      9,
+      9
+    ],
+    "seed_level_majority_answers": [
+      "Sirius B.",
+      "Sirius B.",
+      "Sirius B."
+    ],
+    "mean_unique_generations": 8.666666666666666,
+    "most_common_majority_answer": "Sirius B.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "odql_12228",
+    "question": "Matt Busby played for Manchester City from 1928 to 1936. Which club did he play for from 1936 to 1941?",
+    "gold_answer": "Liverpool",
+    "mean_eigenscore": -3.196635041558265,
+    "std_eigenscore": 0.19541874346754018,
+    "min_eigenscore": -3.3484195398686474,
+    "max_eigenscore": -2.9207332238765966,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.320752360929551,
+      -3.3484195398686474,
+      -2.9207332238765966
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      7,
+      7,
+      8
+    ],
+    "seed_level_majority_answers": [
+      "He played for Manchester United.",
+      "He played for Manchester United.",
+      "He played for Manchester United."
+    ],
+    "mean_unique_generations": 7.333333333333333,
+    "most_common_majority_answer": "He played for Manchester United.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_14710",
+    "question": "Which UK city is traditionally associated with jute, jam and journalism?",
+    "gold_answer": "Dundee",
+    "mean_eigenscore": -6.176358297987364,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.176358297987364,
+    "max_eigenscore": -6.176358297987364,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.176358297987364,
+      -6.176358297987364,
+      -6.176358297987364
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Glasgow.",
+      "Glasgow.",
+      "Glasgow."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Glasgow.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bt_3302",
+    "question": "What type of food in the United States are Brown Bobbies",
+    "gold_answer": "Doughnuts",
+    "mean_eigenscore": -3.594897169691509,
+    "std_eigenscore": 0.5409094766073848,
+    "min_eigenscore": -4.310614876109117,
+    "max_eigenscore": -3.003188543410864,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -3.470888089554547,
+      -4.310614876109117,
+      -3.003188543410864
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      7,
+      5,
+      8
+    ],
+    "seed_level_majority_answers": [
+      "Brownies are a popular dessert in the United States.",
+      "Brownies are a popular dessert in the United States.",
+      "Brownies are a popular dessert in the United States."
+    ],
+    "mean_unique_generations": 6.666666666666667,
+    "most_common_majority_answer": "Brownies are a popular dessert in the United States.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "jp_981",
+    "question": "What city do Brummies come from?",
+    "gold_answer": "Birmingham",
+    "mean_eigenscore": -5.631842712631415,
+    "std_eigenscore": 0.01738603816719108,
+    "min_eigenscore": -5.651769098078214,
+    "max_eigenscore": -5.609404911417336,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.651769098078214,
+      -5.609404911417336,
+      -5.634354128398696
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      2
+    ],
+    "seed_level_majority_answers": [
+      "Birmingham.",
+      "Birmingham.",
+      "Birmingham."
+    ],
+    "mean_unique_generations": 2.0,
+    "most_common_majority_answer": "Birmingham.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_1791",
+    "question": "Which saint was known as “The Apostle of the Indies”?",
+    "gold_answer": "St Francis Xavier",
+    "mean_eigenscore": -3.1860976959155276,
+    "std_eigenscore": 0.6433682948272711,
+    "min_eigenscore": -4.0246281319904655,
+    "max_eigenscore": -2.460998903829351,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.0246281319904655,
+      -3.072666051926766,
+      -2.460998903829351
+    ],
+    "seed_level_correctness_scores": [
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666
+    ],
+    "seed_level_unique_generations": [
+      5,
+      7,
+      8
+    ],
+    "seed_level_majority_answers": [
+      "Saint Francis Xavier.",
+      "Saint Francis Xavier.",
+      "Saint Francis Xavier."
+    ],
+    "mean_unique_generations": 6.666666666666667,
+    "most_common_majority_answer": "Saint Francis Xavier.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "dpql_6276",
+    "question": "Sanskrit is an ancient language of which modern day country?",
+    "gold_answer": "India",
+    "mean_eigenscore": -6.178492586702897,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.178492586702896,
+    "max_eigenscore": -6.178492586702896,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -6.178492586702896,
+      -6.178492586702896,
+      -6.178492586702896
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "India.",
+      "India.",
+      "India."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "India.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_10656",
+    "question": "`Sufferin' succotash' is a catchphrase of which cartoon cat?",
+    "gold_answer": "SYLVESTER",
+    "mean_eigenscore": -3.8213172116058494,
+    "std_eigenscore": 0.4083117669327552,
+    "min_eigenscore": -4.147067192612243,
+    "max_eigenscore": -3.245534288350842,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.071350153854462,
+      -3.245534288350842,
+      -4.147067192612243
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      7,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Tom.",
+      "Tom.",
+      "Tom."
+    ],
+    "mean_unique_generations": 5.666666666666667,
+    "most_common_majority_answer": "Tom.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qf_3240",
+    "question": "Name the British heavyweight Boxing champion who held the title between 1959 and 1969?",
+    "gold_answer": "Henry Cooper",
+    "mean_eigenscore": -4.987700615732299,
+    "std_eigenscore": 0.022656688459978917,
+    "min_eigenscore": -5.016147130513724,
+    "max_eigenscore": -4.960706878884987,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.016147130513724,
+      -4.986247837798186,
+      -4.960706878884987
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      3,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Henry Cooper.",
+      "Henry Cooper.",
+      "Henry Cooper."
+    ],
+    "mean_unique_generations": 3.0,
+    "most_common_majority_answer": "Henry Cooper.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_1859",
+    "question": "What is the largest city in Ohio?",
+    "gold_answer": "Cleveland",
+    "mean_eigenscore": -5.8499292047619695,
+    "std_eigenscore": 0.23369284268649618,
+    "min_eigenscore": -6.180420792318734,
+    "max_eigenscore": -5.684683410976004,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -5.684683410976004,
+      -5.684683410991169,
+      -6.180420792318734
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Columbus.",
+      "Columbus.",
+      "Columbus."
+    ],
+    "mean_unique_generations": 1.6666666666666667,
+    "most_common_majority_answer": "Columbus.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_14039",
+    "question": "Which car manufacturer has its headquarters at Martorell near Barcelona?",
+    "gold_answer": "SEAT",
+    "mean_eigenscore": -5.56528074828121,
+    "std_eigenscore": 0.22080161433546458,
+    "min_eigenscore": -5.721411067098209,
+    "max_eigenscore": -5.253020110694122,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.721411067098209,
+      -5.721411067051298,
+      -5.253020110694122
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      2,
+      2,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "SEAT.",
+      "Seat.",
+      "SEAT."
+    ],
+    "mean_unique_generations": 2.3333333333333335,
+    "most_common_majority_answer": "SEAT.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_604",
+    "question": "In Greek mythology, who were Arges, Brontes and Steropes?",
+    "gold_answer": "Cyclopes",
+    "mean_eigenscore": -0.4040595978328525,
+    "std_eigenscore": 0.6518182504371364,
+    "min_eigenscore": -1.3089904812929973,
+    "max_eigenscore": 0.2004769441247959,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.2004769441247959,
+      -0.10366525633035599,
+      -1.3089904812929973
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      18,
+      18,
+      13
+    ],
+    "seed_level_majority_answers": [
+      "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+      "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+      "They were three Cyclopes, sons of the Titan Uranus."
+    ],
+    "mean_unique_generations": 16.333333333333332,
+    "most_common_majority_answer": "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_6318",
+    "question": "In the Hans Christian Andersen story, who slept in a walnut shell for a cradle?",
+    "gold_answer": "Thumbelina",
+    "mean_eigenscore": -4.765680320069868,
+    "std_eigenscore": 0.24375888744179572,
+    "min_eigenscore": -5.10782752559305,
+    "max_eigenscore": -4.5581504404166235,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -4.6310629941999295,
+      -4.5581504404166235,
+      -5.10782752559305
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      4,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "The Little Match Girl.",
+      "The Little Match Girl.",
+      "The Little Match Girl."
+    ],
+    "mean_unique_generations": 3.6666666666666665,
+    "most_common_majority_answer": "The Little Match Girl.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qz_5728",
+    "question": "England won the 1966 World Cup beating Germany 4-2. Hurst scored 3 of England's goals who scored the other?",
+    "gold_answer": "Martin Peters",
+    "mean_eigenscore": 0.8698404608857957,
+    "std_eigenscore": 0.8183277771492957,
+    "min_eigenscore": -0.019811016898538945,
+    "max_eigenscore": 1.9556659753928016,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -0.019811016898538945,
+      0.6736664241631246,
+      1.9556659753928016
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      14,
+      15,
+      18
+    ],
+    "seed_level_majority_answers": [
+      "Geoff Hurst scored the other goal.",
+      "Geoff Hurst scored the other goal.",
+      "Geoff Hurst scored the other goal."
+    ],
+    "mean_unique_generations": 15.666666666666666,
+    "most_common_majority_answer": "Geoff Hurst scored the other goal.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  }
+]

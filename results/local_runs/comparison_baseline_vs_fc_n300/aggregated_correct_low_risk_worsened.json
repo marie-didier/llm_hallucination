@@ -1,0 +1,4160 @@
+[
+  {
+    "id": "tb_1946",
+    "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+    "gold_candidates": [
+      "Mitochondrial Eve"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.524453267876616,
+    "mean_fc_eigenscore": -3.616162544384119,
+    "mean_delta_eigenscore": 0.9082907234924967,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 6.333333333333333,
+    "mean_fc_clip_fraction": 0.009411569365991019,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tb_1946",
+        "generation_seed": 41,
+        "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+        "gold_candidates": [
+          "Mitochondrial Eve"
+        ],
+        "baseline_eigenscore": -5.685858917491731,
+        "fc_eigenscore": -3.4347907212031457,
+        "delta_eigenscore": 2.2510681962885855,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mitochondrial Eve.",
+        "fc_majority_answer": "Mitochondrial Eve.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.009455438619146005,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1946",
+        "generation_seed": 42,
+        "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+        "gold_candidates": [
+          "Mitochondrial Eve"
+        ],
+        "baseline_eigenscore": -3.629110088834893,
+        "fc_eigenscore": -3.669617791397279,
+        "delta_eigenscore": -0.040507702562385894,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mitochondrial Eve.",
+        "fc_majority_answer": "Mitochondrial Eve.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.00945907046315427,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1946",
+        "generation_seed": 43,
+        "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+        "gold_candidates": [
+          "Mitochondrial Eve"
+        ],
+        "baseline_eigenscore": -4.258390797303224,
+        "fc_eigenscore": -3.744079120551933,
+        "delta_eigenscore": 0.5143116767512907,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mitochondrial Eve.",
+        "fc_majority_answer": "Mitochondrial Eve.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.009320199015672782,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_7738",
+    "question": "Which American state borders on only one other state?",
+    "gold_candidates": [
+      "MAINE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.5464735507775185,
+    "mean_fc_eigenscore": -2.744246223932384,
+    "mean_delta_eigenscore": 0.8022273268451343,
+    "mean_baseline_unique_generations": 6.333333333333333,
+    "mean_fc_unique_generations": 8.0,
+    "mean_fc_clip_fraction": 0.005533479375429206,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_7738",
+        "generation_seed": 41,
+        "question": "Which American state borders on only one other state?",
+        "gold_candidates": [
+          "MAINE"
+        ],
+        "baseline_eigenscore": -4.568427962300975,
+        "fc_eigenscore": -3.1409584059644353,
+        "delta_eigenscore": 1.4274695563365394,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Maine.",
+        "fc_majority_answer": "Maine and New Hampshire.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.00524025128517316,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7738",
+        "generation_seed": 42,
+        "question": "Which American state borders on only one other state?",
+        "gold_candidates": [
+          "MAINE"
+        ],
+        "baseline_eigenscore": -3.6541118147247564,
+        "fc_eigenscore": -2.7962613273516514,
+        "delta_eigenscore": 0.857850487373105,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Maine.",
+        "fc_majority_answer": "Maine.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.005525716145833333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7738",
+        "generation_seed": 43,
+        "question": "Which American state borders on only one other state?",
+        "gold_candidates": [
+          "MAINE"
+        ],
+        "baseline_eigenscore": -2.4168808753068247,
+        "fc_eigenscore": -2.295518938481066,
+        "delta_eigenscore": 0.12136193682575858,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Maine.",
+        "fc_majority_answer": "Maine.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.005834470695281125,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_13114",
+    "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+    "gold_candidates": [
+      "'MONOPOLY'"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.426364027527772,
+    "mean_fc_eigenscore": -4.7459629471294,
+    "mean_delta_eigenscore": 0.6804010803983718,
+    "mean_baseline_unique_generations": 2.6666666666666665,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.006435441938214381,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "odql_13114",
+        "generation_seed": 41,
+        "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+        "gold_candidates": [
+          "'MONOPOLY'"
+        ],
+        "baseline_eigenscore": -5.337968304944936,
+        "fc_eigenscore": -5.337968304944936,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Monopoly board game.",
+        "fc_majority_answer": "The Monopoly board game.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0063920802696078435,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_13114",
+        "generation_seed": 42,
+        "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+        "gold_candidates": [
+          "'MONOPOLY'"
+        ],
+        "baseline_eigenscore": -5.337968304945905,
+        "fc_eigenscore": -3.736815704183664,
+        "delta_eigenscore": 1.6011526007622412,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Monopoly board game.",
+        "fc_majority_answer": "The Monopoly board game.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006435071395131086,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_13114",
+        "generation_seed": 43,
+        "question": "What did Charles D. Barrow of Pennsylvania devise in 1934 and then sell to the Parker Bros. organisation?",
+        "gold_candidates": [
+          "'MONOPOLY'"
+        ],
+        "baseline_eigenscore": -5.6031554726924755,
+        "fc_eigenscore": -5.163104832259601,
+        "delta_eigenscore": 0.4400506404328741,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Monopoly board game.",
+        "fc_majority_answer": "The Monopoly board game.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006479174149904215,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_9111",
+    "question": "Which film star is the title of a 1984 hit single by Madness?",
+    "gold_candidates": [
+      "Michael Caine"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.763386202392894,
+    "mean_fc_eigenscore": -3.1158141709519094,
+    "mean_delta_eigenscore": 0.6475720314409839,
+    "mean_baseline_unique_generations": 6.0,
+    "mean_fc_unique_generations": 7.333333333333333,
+    "mean_fc_clip_fraction": 0.006046077709842996,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qb_9111",
+        "generation_seed": 41,
+        "question": "Which film star is the title of a 1984 hit single by Madness?",
+        "gold_candidates": [
+          "Michael Caine"
+        ],
+        "baseline_eigenscore": -3.2254709826601853,
+        "fc_eigenscore": -2.649024524129331,
+        "delta_eigenscore": 0.5764464585308544,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The film star is Michael Caine.",
+        "fc_majority_answer": "The film star is Michael Caine.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006037349977355073,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9111",
+        "generation_seed": 42,
+        "question": "Which film star is the title of a 1984 hit single by Madness?",
+        "gold_candidates": [
+          "Michael Caine"
+        ],
+        "baseline_eigenscore": -4.678134703968924,
+        "fc_eigenscore": -4.366603137804265,
+        "delta_eigenscore": 0.3115315661646587,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The film star is Michael Caine.",
+        "fc_majority_answer": "The film star is Michael Caine.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006141728940217392,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9111",
+        "generation_seed": 43,
+        "question": "Which film star is the title of a 1984 hit single by Madness?",
+        "gold_candidates": [
+          "Michael Caine"
+        ],
+        "baseline_eigenscore": -3.3865529205495717,
+        "fc_eigenscore": -2.3318148509221333,
+        "delta_eigenscore": 1.0547380696274384,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The film star is Michael Caine.",
+        "fc_majority_answer": "The film star is Michael Caine.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.005959154211956522,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_11069",
+    "question": "What does a querulous person do?",
+    "gold_candidates": [
+      "Complain"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.9755780633761376,
+    "mean_fc_eigenscore": -0.41946340603691884,
+    "mean_delta_eigenscore": 0.5561146573392187,
+    "mean_baseline_unique_generations": 14.333333333333334,
+    "mean_fc_unique_generations": 15.666666666666666,
+    "mean_fc_clip_fraction": 0.007580593760941878,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qw_11069",
+        "generation_seed": 41,
+        "question": "What does a querulous person do?",
+        "gold_candidates": [
+          "Complain"
+        ],
+        "baseline_eigenscore": -0.48367273529447335,
+        "fc_eigenscore": -0.3411761376957399,
+        "delta_eigenscore": 0.14249659759873345,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A querulous person is one who complains frequently or persistently about something.",
+        "fc_majority_answer": "A querulous person is one who is constantly complaining or finding fault.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.007632300967261905,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11069",
+        "generation_seed": 42,
+        "question": "What does a querulous person do?",
+        "gold_candidates": [
+          "Complain"
+        ],
+        "baseline_eigenscore": -1.7939311508310891,
+        "fc_eigenscore": -1.504897322918928,
+        "delta_eigenscore": 0.28903382791216115,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A querulous person is one who complains frequently and persistently about something.",
+        "fc_majority_answer": "A querulous person is one who complains frequently and persistently about something.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.007398274739583334,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11069",
+        "generation_seed": 43,
+        "question": "What does a querulous person do?",
+        "gold_candidates": [
+          "Complain"
+        ],
+        "baseline_eigenscore": -0.6491303040028503,
+        "fc_eigenscore": 0.5876832425039114,
+        "delta_eigenscore": 1.2368135465067618,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A querulous person is one who complains frequently or persistently about something.",
+        "fc_majority_answer": "A querulous person is one who is constantly complaining or finding fault.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.007711205575980392,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tb_2135",
+    "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+    "gold_candidates": [
+      "Oleic acid"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.998898645968488,
+    "mean_fc_eigenscore": -5.46745714555919,
+    "mean_delta_eigenscore": 0.5314415004092972,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 2.3333333333333335,
+    "mean_fc_clip_fraction": 0.008488212654933687,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tb_2135",
+        "generation_seed": 41,
+        "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+        "gold_candidates": [
+          "Oleic acid"
+        ],
+        "baseline_eigenscore": -6.171695337005517,
+        "fc_eigenscore": -5.1139397935942394,
+        "delta_eigenscore": 1.057755543411278,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Propionic acid.",
+        "fc_majority_answer": "Propionic acid.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.008609759221311476,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_2135",
+        "generation_seed": 42,
+        "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+        "gold_candidates": [
+          "Oleic acid"
+        ],
+        "baseline_eigenscore": -6.171695337005517,
+        "fc_eigenscore": -5.635126379188904,
+        "delta_eigenscore": 0.5365689578166135,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Propionic acid.",
+        "fc_majority_answer": "Propionic acid.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.008420308430989584,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_2135",
+        "generation_seed": 43,
+        "question": "Which acid that makes up 55-80% of olive oil is also emitted by decaying bee corpses thus triggering the instincts of living bees to remove dead bees from their hives?",
+        "gold_candidates": [
+          "Oleic acid"
+        ],
+        "baseline_eigenscore": -5.653305263894428,
+        "fc_eigenscore": -5.653305263894428,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Propionic acid.",
+        "fc_majority_answer": "Propionic acid.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.0084345703125,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_5942",
+    "question": "What is the name for the act of murdering of one's own sister?",
+    "gold_candidates": [
+      "Sororicide"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.257098818512821,
+    "mean_fc_eigenscore": -3.768252825393596,
+    "mean_delta_eigenscore": 0.4888459931192248,
+    "mean_baseline_unique_generations": 5.0,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.004814631187678062,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qw_5942",
+        "generation_seed": 41,
+        "question": "What is the name for the act of murdering of one's own sister?",
+        "gold_candidates": [
+          "Sororicide"
+        ],
+        "baseline_eigenscore": -5.174133520930782,
+        "fc_eigenscore": -4.1845837159286665,
+        "delta_eigenscore": 0.9895498050021159,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sororicide.",
+        "fc_majority_answer": "Sororicide.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.004739366319444444,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_5942",
+        "generation_seed": 42,
+        "question": "What is the name for the act of murdering of one's own sister?",
+        "gold_candidates": [
+          "Sororicide"
+        ],
+        "baseline_eigenscore": -4.21995678851478,
+        "fc_eigenscore": -3.742968614159222,
+        "delta_eigenscore": 0.4769881743555584,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sororicide.",
+        "fc_majority_answer": "Sororicide.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0047157118055555555,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_5942",
+        "generation_seed": 43,
+        "question": "What is the name for the act of murdering of one's own sister?",
+        "gold_candidates": [
+          "Sororicide"
+        ],
+        "baseline_eigenscore": -3.377206146092901,
+        "fc_eigenscore": -3.377206146092901,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sororicide.",
+        "fc_majority_answer": "Sororicide.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.004988815438034188,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "jp_1391",
+    "question": "What are the only two types of mammal that can lay eggs?",
+    "gold_candidates": [
+      "Platypus"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.6507763962115962,
+    "mean_fc_eigenscore": -1.2799400958264124,
+    "mean_delta_eigenscore": 0.370836300385184,
+    "mean_baseline_unique_generations": 11.333333333333334,
+    "mean_fc_unique_generations": 12.0,
+    "mean_fc_clip_fraction": 0.007659643308080808,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "jp_1391",
+        "generation_seed": 41,
+        "question": "What are the only two types of mammal that can lay eggs?",
+        "gold_candidates": [
+          "Platypus"
+        ],
+        "baseline_eigenscore": -1.213422920425661,
+        "fc_eigenscore": -0.8142950276087143,
+        "delta_eigenscore": 0.3991278928169467,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Monotremes, specifically platypus and echidnas.",
+        "fc_majority_answer": "Monotremes, specifically platypus and echidnas.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.0077976888020833334,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_1391",
+        "generation_seed": 42,
+        "question": "What are the only two types of mammal that can lay eggs?",
+        "gold_candidates": [
+          "Platypus"
+        ],
+        "baseline_eigenscore": -1.8402028193037363,
+        "fc_eigenscore": -1.589876187541158,
+        "delta_eigenscore": 0.2503266317625783,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Monotremes, specifically platypus and echidnas.",
+        "fc_majority_answer": "Monotremes, specifically platypus and echidnas.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007609789299242424,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_1391",
+        "generation_seed": 43,
+        "question": "What are the only two types of mammal that can lay eggs?",
+        "gold_candidates": [
+          "Platypus"
+        ],
+        "baseline_eigenscore": -1.8987034489053916,
+        "fc_eigenscore": -1.4356490723293647,
+        "delta_eigenscore": 0.4630543765760269,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Monotremes, specifically platypus and echidnas.",
+        "fc_majority_answer": "Monotremes, specifically platypus and echidnas.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007571451822916667,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_879",
+    "question": "What type of creature is a Meadow Brown?",
+    "gold_candidates": [
+      "Butterfly"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.582287965140019,
+    "mean_fc_eigenscore": -5.215464650681763,
+    "mean_delta_eigenscore": 0.3668233144582563,
+    "mean_baseline_unique_generations": 2.3333333333333335,
+    "mean_fc_unique_generations": 3.3333333333333335,
+    "mean_fc_clip_fraction": 0.005328976705194063,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "bb_879",
+        "generation_seed": 41,
+        "question": "What type of creature is a Meadow Brown?",
+        "gold_candidates": [
+          "Butterfly"
+        ],
+        "baseline_eigenscore": -5.676229011814928,
+        "fc_eigenscore": -4.848829213859998,
+        "delta_eigenscore": 0.8273997979549295,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A Meadow Brown is a type of butterfly.",
+        "fc_majority_answer": "A Meadow Brown is a type of butterfly.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005535481770833333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_879",
+        "generation_seed": 42,
+        "question": "What type of creature is a Meadow Brown?",
+        "gold_candidates": [
+          "Butterfly"
+        ],
+        "baseline_eigenscore": -5.36545635747761,
+        "fc_eigenscore": -5.39878236917056,
+        "delta_eigenscore": -0.033326011692949464,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A Meadow Brown is a type of butterfly.",
+        "fc_majority_answer": "A Meadow Brown is a type of butterfly.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005225724172374429,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_879",
+        "generation_seed": 43,
+        "question": "What type of creature is a Meadow Brown?",
+        "gold_candidates": [
+          "Butterfly"
+        ],
+        "baseline_eigenscore": -5.705178526127517,
+        "fc_eigenscore": -5.398782369014728,
+        "delta_eigenscore": 0.3063961571127889,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A Meadow Brown is a type of butterfly.",
+        "fc_majority_answer": "A Meadow Brown is a type of butterfly.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005225724172374429,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qz_2532",
+    "question": "What is the name of the London Underground station in EastEnders?",
+    "gold_candidates": [
+      "Walford East"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.176397971668737,
+    "mean_fc_eigenscore": -5.865040088368095,
+    "mean_delta_eigenscore": 0.31135788330064074,
+    "mean_baseline_unique_generations": 1.0,
+    "mean_fc_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.005765091263138139,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qz_2532",
+        "generation_seed": 41,
+        "question": "What is the name of the London Underground station in EastEnders?",
+        "gold_candidates": [
+          "Walford East"
+        ],
+        "baseline_eigenscore": -6.176397971668736,
+        "fc_eigenscore": -5.709361146717775,
+        "delta_eigenscore": 0.4670368249509611,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Walford East.",
+        "fc_majority_answer": "Walford East.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005764138161599099,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_2532",
+        "generation_seed": 42,
+        "question": "What is the name of the London Underground station in EastEnders?",
+        "gold_candidates": [
+          "Walford East"
+        ],
+        "baseline_eigenscore": -6.176397971668736,
+        "fc_eigenscore": -6.176397971668736,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Walford East.",
+        "fc_majority_answer": "Walford East.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.005766997466216216,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_2532",
+        "generation_seed": 43,
+        "question": "What is the name of the London Underground station in EastEnders?",
+        "gold_candidates": [
+          "Walford East"
+        ],
+        "baseline_eigenscore": -6.176397971668736,
+        "fc_eigenscore": -5.709361146717775,
+        "delta_eigenscore": 0.4670368249509611,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Walford East.",
+        "fc_majority_answer": "Walford East.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005764138161599099,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_2900",
+    "question": "The Art Nouveau designer Rene Lalique most famously worked in which material?",
+    "gold_candidates": [
+      "Glass"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.013280897791539,
+    "mean_fc_eigenscore": -5.702849407145632,
+    "mean_delta_eigenscore": 0.31043149064590647,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.005992371358989198,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "dpql_2900",
+        "generation_seed": 41,
+        "question": "The Art Nouveau designer Rene Lalique most famously worked in which material?",
+        "gold_candidates": [
+          "Glass"
+        ],
+        "baseline_eigenscore": -6.1738218204498185,
+        "fc_eigenscore": -5.692199052209633,
+        "delta_eigenscore": 0.4816227682401859,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Glass.",
+        "fc_majority_answer": "Glass.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005992748119212963,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_2900",
+        "generation_seed": 42,
+        "question": "The Art Nouveau designer Rene Lalique most famously worked in which material?",
+        "gold_candidates": [
+          "Glass"
+        ],
+        "baseline_eigenscore": -6.1738218204498185,
+        "fc_eigenscore": -5.724150116752285,
+        "delta_eigenscore": 0.4496717036975335,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Glass.",
+        "fc_majority_answer": "Glass.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005991617838541667,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_2900",
+        "generation_seed": 43,
+        "question": "The Art Nouveau designer Rene Lalique most famously worked in which material?",
+        "gold_candidates": [
+          "Glass"
+        ],
+        "baseline_eigenscore": -5.692199052474981,
+        "fc_eigenscore": -5.692199052474981,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Glass.",
+        "fc_majority_answer": "Glass.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005992748119212963,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_736",
+    "question": "Who famously described England as “a nation of shopkeepers”?",
+    "gold_candidates": [
+      "Adam Smith"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.939177431690115,
+    "mean_fc_eigenscore": -4.6311385838793155,
+    "mean_delta_eigenscore": 0.3080388478107989,
+    "mean_baseline_unique_generations": 3.3333333333333335,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.005288567341549296,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 0.6666666666666666,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qg_736",
+        "generation_seed": 41,
+        "question": "Who famously described England as “a nation of shopkeepers”?",
+        "gold_candidates": [
+          "Adam Smith"
+        ],
+        "baseline_eigenscore": -5.067861222524262,
+        "fc_eigenscore": -4.616679776841613,
+        "delta_eigenscore": 0.45118144568264906,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Adam Smith.",
+        "fc_majority_answer": "Adam Smith.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005292922901995305,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_736",
+        "generation_seed": 42,
+        "question": "Who famously described England as “a nation of shopkeepers”?",
+        "gold_candidates": [
+          "Adam Smith"
+        ],
+        "baseline_eigenscore": -4.6223531131343885,
+        "fc_eigenscore": -4.151620723974666,
+        "delta_eigenscore": 0.47073238915972215,
+        "baseline_is_correct": true,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Adam Smith.",
+        "fc_majority_answer": "David Ricardo.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005286274941314554,
+        "correctness_flip": "correct_to_incorrect"
+      },
+      {
+        "id": "qg_736",
+        "generation_seed": 43,
+        "question": "Who famously described England as “a nation of shopkeepers”?",
+        "gold_candidates": [
+          "Adam Smith"
+        ],
+        "baseline_eigenscore": -5.127317959411693,
+        "fc_eigenscore": -5.1251152508216675,
+        "delta_eigenscore": 0.0022027085900253596,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Adam Smith.",
+        "fc_majority_answer": "Adam Smith.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005286504181338028,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bt_3734",
+    "question": "In America what name was given to the granite boulder onto which the Plymouth fathers (allegedly) stepped ashore",
+    "gold_candidates": [
+      "Plymouth Rock"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.332476778002151,
+    "mean_fc_eigenscore": -3.0246690135432632,
+    "mean_delta_eigenscore": 0.3078077644588877,
+    "mean_baseline_unique_generations": 6.666666666666667,
+    "mean_fc_unique_generations": 7.333333333333333,
+    "mean_fc_clip_fraction": 0.006729308530568545,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "bt_3734",
+        "generation_seed": 41,
+        "question": "In America what name was given to the granite boulder onto which the Plymouth fathers (allegedly) stepped ashore",
+        "gold_candidates": [
+          "Plymouth Rock"
+        ],
+        "baseline_eigenscore": -2.7145938242386065,
+        "fc_eigenscore": -2.2569650038099054,
+        "delta_eigenscore": 0.4576288204287011,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Plymouth Rock.",
+        "fc_majority_answer": "The Plymouth Rock.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.006715457375478927,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_3734",
+        "generation_seed": 42,
+        "question": "In America what name was given to the granite boulder onto which the Plymouth fathers (allegedly) stepped ashore",
+        "gold_candidates": [
+          "Plymouth Rock"
+        ],
+        "baseline_eigenscore": -3.1560011853059793,
+        "fc_eigenscore": -3.1560011853059793,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Plymouth Rock.",
+        "fc_majority_answer": "Plymouth Rock.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006826030344202898,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_3734",
+        "generation_seed": 43,
+        "question": "In America what name was given to the granite boulder onto which the Plymouth fathers (allegedly) stepped ashore",
+        "gold_candidates": [
+          "Plymouth Rock"
+        ],
+        "baseline_eigenscore": -4.126835324461866,
+        "fc_eigenscore": -3.661040851513904,
+        "delta_eigenscore": 0.46579447294796195,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Plymouth Rock.",
+        "fc_majority_answer": "Plymouth Rock.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.00664643787202381,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qf_1612",
+    "question": "In which Beatles song released in 1966 would you find Father McKenzie darning his socks?",
+    "gold_candidates": [
+      "Eleanor Rigby"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.090994928135635,
+    "mean_fc_eigenscore": -2.788245976184484,
+    "mean_delta_eigenscore": 0.3027489519511506,
+    "mean_baseline_unique_generations": 7.0,
+    "mean_fc_unique_generations": 7.666666666666667,
+    "mean_fc_clip_fraction": 0.006453350051440329,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qf_1612",
+        "generation_seed": 41,
+        "question": "In which Beatles song released in 1966 would you find Father McKenzie darning his socks?",
+        "gold_candidates": [
+          "Eleanor Rigby"
+        ],
+        "baseline_eigenscore": -3.477746074709116,
+        "fc_eigenscore": -2.5799080671451255,
+        "delta_eigenscore": 0.8978380075639905,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Eleanor Rigby.",
+        "fc_majority_answer": "Eleanor Rigby.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006428031764403292,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_1612",
+        "generation_seed": 42,
+        "question": "In which Beatles song released in 1966 would you find Father McKenzie darning his socks?",
+        "gold_candidates": [
+          "Eleanor Rigby"
+        ],
+        "baseline_eigenscore": -2.7425004104421835,
+        "fc_eigenscore": -2.732091562152722,
+        "delta_eigenscore": 0.010408848289461314,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Eleanor Rigby.",
+        "fc_majority_answer": "Eleanor Rigby.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006470429848251029,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_1612",
+        "generation_seed": 43,
+        "question": "In which Beatles song released in 1966 would you find Father McKenzie darning his socks?",
+        "gold_candidates": [
+          "Eleanor Rigby"
+        ],
+        "baseline_eigenscore": -3.052738299255605,
+        "fc_eigenscore": -3.052738299255605,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Eleanor Rigby.",
+        "fc_majority_answer": "Eleanor Rigby.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006461588541666666,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_11128",
+    "question": "'The Playboy Riots' occurred during and following the opening in 1907 of 'The Playboy Of The Western World' by J.M. Synge, at which Dublin theatre?",
+    "gold_candidates": [
+      "ABBEY THEATRE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.031053784154868,
+    "mean_fc_eigenscore": -5.746843090001075,
+    "mean_delta_eigenscore": 0.2842106941537936,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.00880508743291959,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "odql_11128",
+        "generation_seed": 41,
+        "question": "'The Playboy Riots' occurred during and following the opening in 1907 of 'The Playboy Of The Western World' by J.M. Synge, at which Dublin theatre?",
+        "gold_candidates": [
+          "ABBEY THEATRE"
+        ],
+        "baseline_eigenscore": -6.181751121567476,
+        "fc_eigenscore": -5.7316135141527,
+        "delta_eigenscore": 0.45013760741477604,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Abbey Theatre.",
+        "fc_majority_answer": "The Abbey Theatre.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.008861381819158076,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_11128",
+        "generation_seed": 42,
+        "question": "'The Playboy Riots' occurred during and following the opening in 1907 of 'The Playboy Of The Western World' by J.M. Synge, at which Dublin theatre?",
+        "gold_candidates": [
+          "ABBEY THEATRE"
+        ],
+        "baseline_eigenscore": -5.729659109329654,
+        "fc_eigenscore": -5.327164634283049,
+        "delta_eigenscore": 0.4024944750466046,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Abbey Theatre.",
+        "fc_majority_answer": "The Abbey Theatre.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.00877838134765625,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_11128",
+        "generation_seed": 43,
+        "question": "'The Playboy Riots' occurred during and following the opening in 1907 of 'The Playboy Of The Western World' by J.M. Synge, at which Dublin theatre?",
+        "gold_candidates": [
+          "ABBEY THEATRE"
+        ],
+        "baseline_eigenscore": -6.181751121567476,
+        "fc_eigenscore": -6.181751121567476,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Abbey Theatre.",
+        "fc_majority_answer": "The Abbey Theatre.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.008775499131944444,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_10716",
+    "question": "Which of the United States of America is known as the Old Colony State?",
+    "gold_candidates": [
+      "MASSACHUSETTS"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.835789904697678,
+    "mean_fc_eigenscore": -5.555873705072276,
+    "mean_delta_eigenscore": 0.2799161996254022,
+    "mean_baseline_unique_generations": 1.6666666666666667,
+    "mean_fc_unique_generations": 2.3333333333333335,
+    "mean_fc_clip_fraction": 0.004253995901729594,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_10716",
+        "generation_seed": 41,
+        "question": "Which of the United States of America is known as the Old Colony State?",
+        "gold_candidates": [
+          "MASSACHUSETTS"
+        ],
+        "baseline_eigenscore": -6.1704097497303945,
+        "fc_eigenscore": -5.330661150854188,
+        "delta_eigenscore": 0.8397485988762066,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Massachusetts.",
+        "fc_majority_answer": "Massachusetts.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.004410204475308642,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_10716",
+        "generation_seed": 42,
+        "question": "Which of the United States of America is known as the Old Colony State?",
+        "gold_candidates": [
+          "MASSACHUSETTS"
+        ],
+        "baseline_eigenscore": -6.1704097497303945,
+        "fc_eigenscore": -6.1704097497303945,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Massachusetts.",
+        "fc_majority_answer": "Massachusetts.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.00397759703196347,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_10716",
+        "generation_seed": 43,
+        "question": "Which of the United States of America is known as the Old Colony State?",
+        "gold_candidates": [
+          "MASSACHUSETTS"
+        ],
+        "baseline_eigenscore": -5.166550214632246,
+        "fc_eigenscore": -5.166550214632246,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Massachusetts.",
+        "fc_majority_answer": "Massachusetts.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.004374186197916667,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_15048",
+    "question": "Which car company has owned the Lagonda name since 1947?",
+    "gold_candidates": [
+      "Aston Martin"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.2595393918047244,
+    "mean_fc_eigenscore": -2.9815997320012375,
+    "mean_delta_eigenscore": 0.27793965980348706,
+    "mean_baseline_unique_generations": 6.666666666666667,
+    "mean_fc_unique_generations": 7.333333333333333,
+    "mean_fc_clip_fraction": 0.005703622855392156,
+    "baseline_correct_fraction": 0.6666666666666666,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_15048",
+        "generation_seed": 41,
+        "question": "Which car company has owned the Lagonda name since 1947?",
+        "gold_candidates": [
+          "Aston Martin"
+        ],
+        "baseline_eigenscore": -2.671448800176198,
+        "fc_eigenscore": -2.6525811831163315,
+        "delta_eigenscore": 0.018867617059866504,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Aston Martin.",
+        "fc_majority_answer": "Aston Martin.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006296061197916667,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_15048",
+        "generation_seed": 42,
+        "question": "Which car company has owned the Lagonda name since 1947?",
+        "gold_candidates": [
+          "Aston Martin"
+        ],
+        "baseline_eigenscore": -4.027220841686021,
+        "fc_eigenscore": -4.038377180381524,
+        "delta_eigenscore": -0.011156338695502477,
+        "baseline_is_correct": false,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Rover Group.",
+        "fc_majority_answer": "Aston Martin.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005293160232843137,
+        "correctness_flip": "incorrect_to_correct"
+      },
+      {
+        "id": "sfq_15048",
+        "generation_seed": 43,
+        "question": "Which car company has owned the Lagonda name since 1947?",
+        "gold_candidates": [
+          "Aston Martin"
+        ],
+        "baseline_eigenscore": -3.079948533551955,
+        "fc_eigenscore": -2.253840832505858,
+        "delta_eigenscore": 0.8261077010460971,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Aston Martin.",
+        "fc_majority_answer": "Aston Martin.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.005521647135416667,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_21789",
+    "question": "From 1791 to 1803, Toussaint L’Ouverture led a revolt against France on which island?",
+    "gold_candidates": [
+      "Haiti"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.5025395924775475,
+    "mean_fc_eigenscore": -5.235215152005165,
+    "mean_delta_eigenscore": 0.26732444047238274,
+    "mean_baseline_unique_generations": 2.3333333333333335,
+    "mean_fc_unique_generations": 3.0,
+    "mean_fc_clip_fraction": 0.007950786072530865,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_21789",
+        "generation_seed": 41,
+        "question": "From 1791 to 1803, Toussaint L’Ouverture led a revolt against France on which island?",
+        "gold_candidates": [
+          "Haiti"
+        ],
+        "baseline_eigenscore": -5.6354737794842835,
+        "fc_eigenscore": -5.631260862030273,
+        "delta_eigenscore": 0.004212917454010423,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Haiti.",
+        "fc_majority_answer": "Saint-Domingue (present-day Haiti).",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.008000217013888889,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_21789",
+        "generation_seed": 42,
+        "question": "From 1791 to 1803, Toussaint L’Ouverture led a revolt against France on which island?",
+        "gold_candidates": [
+          "Haiti"
+        ],
+        "baseline_eigenscore": -5.236671218371174,
+        "fc_eigenscore": -5.229517219581721,
+        "delta_eigenscore": 0.007153998789452665,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Haiti.",
+        "fc_majority_answer": "Haiti.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007991536458333334,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_21789",
+        "generation_seed": 43,
+        "question": "From 1791 to 1803, Toussaint L’Ouverture led a revolt against France on which island?",
+        "gold_candidates": [
+          "Haiti"
+        ],
+        "baseline_eigenscore": -5.635473779577187,
+        "fc_eigenscore": -4.844867374403502,
+        "delta_eigenscore": 0.7906064051736852,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Haiti.",
+        "fc_majority_answer": "Haiti.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.00786060474537037,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_10351",
+    "question": "What name is given to the contents of an estate were no Will has been left?",
+    "gold_candidates": [
+      "INTESTATE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.689400404327363,
+    "mean_fc_eigenscore": -5.42561737188591,
+    "mean_delta_eigenscore": 0.26378303244145346,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.6666666666666665,
+    "mean_fc_clip_fraction": 0.00502501370614035,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "odql_10351",
+        "generation_seed": 41,
+        "question": "What name is given to the contents of an estate were no Will has been left?",
+        "gold_candidates": [
+          "INTESTATE"
+        ],
+        "baseline_eigenscore": -5.716506369497455,
+        "fc_eigenscore": -5.296071076445164,
+        "delta_eigenscore": 0.4204352930522903,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Intestate.",
+        "fc_majority_answer": "Intestate.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005026298656798245,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_10351",
+        "generation_seed": 42,
+        "question": "What name is given to the contents of an estate were no Will has been left?",
+        "gold_candidates": [
+          "INTESTATE"
+        ],
+        "baseline_eigenscore": -5.667140138308794,
+        "fc_eigenscore": -5.716506369467941,
+        "delta_eigenscore": -0.049366231159147844,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Intestate.",
+        "fc_majority_answer": "Intestate.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005025442023026316,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_10351",
+        "generation_seed": 43,
+        "question": "What name is given to the contents of an estate were no Will has been left?",
+        "gold_candidates": [
+          "INTESTATE"
+        ],
+        "baseline_eigenscore": -5.6845547051758425,
+        "fc_eigenscore": -5.2642746697446245,
+        "delta_eigenscore": 0.42028003543121795,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Intestate.",
+        "fc_majority_answer": "Intestate.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005023300438596491,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_3814",
+    "question": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+    "gold_candidates": [
+      "3000 metres"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.288816418919248,
+    "mean_fc_eigenscore": -2.056063598809823,
+    "mean_delta_eigenscore": 0.2327528201094252,
+    "mean_baseline_unique_generations": 11.666666666666666,
+    "mean_fc_unique_generations": 12.333333333333334,
+    "mean_fc_clip_fraction": 0.008193065411385474,
+    "baseline_correct_fraction": 0.6666666666666666,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "odql_3814",
+        "generation_seed": 41,
+        "question": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+        "gold_candidates": [
+          "3000 metres"
+        ],
+        "baseline_eigenscore": -2.1626359349961874,
+        "fc_eigenscore": -1.7824518019840867,
+        "delta_eigenscore": 0.38018413301210074,
+        "baseline_is_correct": false,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The 3000m event.",
+        "fc_majority_answer": "The 3000 meters.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.008270848299808429,
+        "correctness_flip": "incorrect_to_correct"
+      },
+      {
+        "id": "odql_3814",
+        "generation_seed": 42,
+        "question": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+        "gold_candidates": [
+          "3000 metres"
+        ],
+        "baseline_eigenscore": -2.6256054321504396,
+        "fc_eigenscore": -2.2802737095210004,
+        "delta_eigenscore": 0.34533172262943923,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The 3000 meters.",
+        "fc_majority_answer": "The 3000 meters.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008126608896072796,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_3814",
+        "generation_seed": 43,
+        "question": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+        "gold_candidates": [
+          "3000 metres"
+        ],
+        "baseline_eigenscore": -2.078207889611117,
+        "fc_eigenscore": -2.1054652849243816,
+        "delta_eigenscore": -0.027257395313264432,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The 3000 meters.",
+        "fc_majority_answer": "The 3000 meters.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008181739038275194,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "jp_683",
+    "question": "What Biblical character built a temple, had 700 wives, and suggested cutting a baby in half?",
+    "gold_candidates": [
+      "Solomon"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.7862574184500435,
+    "mean_fc_eigenscore": -4.58907504466895,
+    "mean_delta_eigenscore": 0.19718237378109382,
+    "mean_baseline_unique_generations": 3.6666666666666665,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.007158994073056573,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "jp_683",
+        "generation_seed": 41,
+        "question": "What Biblical character built a temple, had 700 wives, and suggested cutting a baby in half?",
+        "gold_candidates": [
+          "Solomon"
+        ],
+        "baseline_eigenscore": -4.567373410398564,
+        "fc_eigenscore": -4.550550575647646,
+        "delta_eigenscore": 0.016822834750917615,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "King Solomon.",
+        "fc_majority_answer": "King Solomon.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.007135881696428571,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_683",
+        "generation_seed": 42,
+        "question": "What Biblical character built a temple, had 700 wives, and suggested cutting a baby in half?",
+        "gold_candidates": [
+          "Solomon"
+        ],
+        "baseline_eigenscore": -5.651288034994337,
+        "fc_eigenscore": -5.114693350342113,
+        "delta_eigenscore": 0.5365946846522247,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "King Solomon.",
+        "fc_majority_answer": "King Solomon.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007072327628968254,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_683",
+        "generation_seed": 43,
+        "question": "What Biblical character built a temple, had 700 wives, and suggested cutting a baby in half?",
+        "gold_candidates": [
+          "Solomon"
+        ],
+        "baseline_eigenscore": -4.14011080995723,
+        "fc_eigenscore": -4.101981208017091,
+        "delta_eigenscore": 0.038129601940139146,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "King Solomon.",
+        "fc_majority_answer": "King Solomon.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.007268772893772894,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qz_6079",
+    "question": "Which method of painting consists of applying pigment to wet plaster?",
+    "gold_candidates": [
+      "Fresco."
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.439143582181387,
+    "mean_fc_eigenscore": -5.254820123070659,
+    "mean_delta_eigenscore": 0.18432345911072812,
+    "mean_baseline_unique_generations": 2.3333333333333335,
+    "mean_fc_unique_generations": 2.6666666666666665,
+    "mean_fc_clip_fraction": 0.0051531900318554855,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qz_6079",
+        "generation_seed": 41,
+        "question": "Which method of painting consists of applying pigment to wet plaster?",
+        "gold_candidates": [
+          "Fresco."
+        ],
+        "baseline_eigenscore": -5.614816371415534,
+        "fc_eigenscore": -5.614816371415534,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Fresco.",
+        "fc_majority_answer": "Fresco.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005062517836757991,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_6079",
+        "generation_seed": 42,
+        "question": "Which method of painting consists of applying pigment to wet plaster?",
+        "gold_candidates": [
+          "Fresco."
+        ],
+        "baseline_eigenscore": -5.0558445582723355,
+        "fc_eigenscore": -4.552242779711207,
+        "delta_eigenscore": 0.5036017785611282,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Fresco.",
+        "fc_majority_answer": "Fresco.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005289273648648648,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_6079",
+        "generation_seed": 43,
+        "question": "Which method of painting consists of applying pigment to wet plaster?",
+        "gold_candidates": [
+          "Fresco."
+        ],
+        "baseline_eigenscore": -5.646769816856292,
+        "fc_eigenscore": -5.597401218085236,
+        "delta_eigenscore": 0.04936859877105615,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Fresco.",
+        "fc_majority_answer": "Fresco.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005107778610159817,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_3384",
+    "question": "In Norse mythology, what group of female figures decides who lives and dies during battle, and then transports half of the dead to Valhalla?",
+    "gold_candidates": [
+      "Valkyries"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.575128067982836,
+    "mean_fc_eigenscore": -5.391189533328389,
+    "mean_delta_eigenscore": 0.18393853465444643,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.3333333333333335,
+    "mean_fc_clip_fraction": 0.009348584271907073,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qg_3384",
+        "generation_seed": 41,
+        "question": "In Norse mythology, what group of female figures decides who lives and dies during battle, and then transports half of the dead to Valhalla?",
+        "gold_candidates": [
+          "Valkyries"
+        ],
+        "baseline_eigenscore": -5.57512806798838,
+        "fc_eigenscore": -5.02331246402504,
+        "delta_eigenscore": 0.5518156039633393,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Valkyries.",
+        "fc_majority_answer": "The Valkyries.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.009441688560103245,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_3384",
+        "generation_seed": 42,
+        "question": "In Norse mythology, what group of female figures decides who lives and dies during battle, and then transports half of the dead to Valhalla?",
+        "gold_candidates": [
+          "Valkyries"
+        ],
+        "baseline_eigenscore": -5.5751280679697945,
+        "fc_eigenscore": -5.5751280679697945,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Valkyries.",
+        "fc_majority_answer": "The Valkyries.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.009302032127808989,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_3384",
+        "generation_seed": 43,
+        "question": "In Norse mythology, what group of female figures decides who lives and dies during battle, and then transports half of the dead to Valhalla?",
+        "gold_candidates": [
+          "Valkyries"
+        ],
+        "baseline_eigenscore": -5.575128067990333,
+        "fc_eigenscore": -5.575128067990333,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Valkyries.",
+        "fc_majority_answer": "The Valkyries.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.009302032127808989,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_1575",
+    "question": "What ancient African nation is (at 2011) the most populated landlocked country of the world?",
+    "gold_candidates": [
+      "Ethiopia"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.931445638762803,
+    "mean_fc_eigenscore": -4.751695197227574,
+    "mean_delta_eigenscore": 0.17975044153522943,
+    "mean_baseline_unique_generations": 3.6666666666666665,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.005850751639369979,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "bb_1575",
+        "generation_seed": 41,
+        "question": "What ancient African nation is (at 2011) the most populated landlocked country of the world?",
+        "gold_candidates": [
+          "Ethiopia"
+        ],
+        "baseline_eigenscore": -4.306122047177121,
+        "fc_eigenscore": -4.289299391794157,
+        "delta_eigenscore": 0.016822655382964236,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Ethiopia.",
+        "fc_majority_answer": "Ethiopia.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005843491152108434,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_1575",
+        "generation_seed": 42,
+        "question": "What ancient African nation is (at 2011) the most populated landlocked country of the world?",
+        "gold_candidates": [
+          "Ethiopia"
+        ],
+        "baseline_eigenscore": -5.695751119076901,
+        "fc_eigenscore": -5.273843771184874,
+        "delta_eigenscore": 0.4219073478920272,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Ethiopia.",
+        "fc_majority_answer": "Ethiopia.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0058109537760416665,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_1575",
+        "generation_seed": 43,
+        "question": "What ancient African nation is (at 2011) the most populated landlocked country of the world?",
+        "gold_candidates": [
+          "Ethiopia"
+        ],
+        "baseline_eigenscore": -4.792463750034386,
+        "fc_eigenscore": -4.6919424287036895,
+        "delta_eigenscore": 0.1005213213306968,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Ethiopia.",
+        "fc_majority_answer": "Ethiopia.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005897809989959839,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qz_755",
+    "question": "Which serial killer is the subject of the films A Study In Terror, Murder By Decree and From Hell?",
+    "gold_candidates": [
+      "Jack The Ripper"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.003531434960922,
+    "mean_fc_eigenscore": -5.827736428680622,
+    "mean_delta_eigenscore": 0.17579500628030034,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.007659267022357724,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qz_755",
+        "generation_seed": 41,
+        "question": "Which serial killer is the subject of the films A Study In Terror, Murder By Decree and From Hell?",
+        "gold_candidates": [
+          "Jack The Ripper"
+        ],
+        "baseline_eigenscore": -5.651941422400322,
+        "fc_eigenscore": -5.651941422400322,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Jack the Ripper.",
+        "fc_majority_answer": "Jack the Ripper.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.007660060975609756,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_755",
+        "generation_seed": 42,
+        "question": "Which serial killer is the subject of the films A Study In Terror, Murder By Decree and From Hell?",
+        "gold_candidates": [
+          "Jack The Ripper"
+        ],
+        "baseline_eigenscore": -6.179326441241223,
+        "fc_eigenscore": -6.179326441241223,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Jack the Ripper.",
+        "fc_majority_answer": "Jack the Ripper.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.007657679115853659,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_755",
+        "generation_seed": 43,
+        "question": "Which serial killer is the subject of the films A Study In Terror, Murder By Decree and From Hell?",
+        "gold_candidates": [
+          "Jack The Ripper"
+        ],
+        "baseline_eigenscore": -6.179326441241223,
+        "fc_eigenscore": -5.651941422400322,
+        "delta_eigenscore": 0.527385018840901,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Jack the Ripper.",
+        "fc_majority_answer": "Jack the Ripper.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.007660060975609756,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_9980",
+    "question": "Which country scored the first goal in the 2010 World Cup tournament?",
+    "gold_candidates": [
+      "South Africa"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.015113096592041,
+    "mean_fc_eigenscore": -3.840718623309156,
+    "mean_delta_eigenscore": 0.17439447328288513,
+    "mean_baseline_unique_generations": 5.666666666666667,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.00716254230090477,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_9980",
+        "generation_seed": 41,
+        "question": "Which country scored the first goal in the 2010 World Cup tournament?",
+        "gold_candidates": [
+          "South Africa"
+        ],
+        "baseline_eigenscore": -3.4296456094588015,
+        "fc_eigenscore": -3.4120833007337708,
+        "delta_eigenscore": 0.01756230872503073,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "South Africa scored the first goal in the 2010 World Cup.",
+        "fc_majority_answer": "South Africa scored the first goal in the 2010 World Cup.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.007123480902777778,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_9980",
+        "generation_seed": 42,
+        "question": "Which country scored the first goal in the 2010 World Cup tournament?",
+        "gold_candidates": [
+          "South Africa"
+        ],
+        "baseline_eigenscore": -4.810692673160791,
+        "fc_eigenscore": -4.364648309279921,
+        "delta_eigenscore": 0.44604436388087,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "South Africa scored the first goal in the 2010 World Cup.",
+        "fc_majority_answer": "South Africa scored the first goal in the 2010 World Cup.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.007102614182692308,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_9980",
+        "generation_seed": 43,
+        "question": "Which country scored the first goal in the 2010 World Cup tournament?",
+        "gold_candidates": [
+          "South Africa"
+        ],
+        "baseline_eigenscore": -3.8050010071565317,
+        "fc_eigenscore": -3.745424259913777,
+        "delta_eigenscore": 0.059576747242754635,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "South Africa scored the first goal in the 2010 World Cup.",
+        "fc_majority_answer": "South Africa scored the first goal in the 2010 World Cup.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0072615318172442244,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_7776",
+    "question": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+    "gold_candidates": [
+      "New Guinea"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.018126397219894,
+    "mean_fc_eigenscore": -5.844791379588305,
+    "mean_delta_eigenscore": 0.17333501763158873,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.006809780930874681,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "odql_7776",
+        "generation_seed": 41,
+        "question": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+        "gold_candidates": [
+          "New Guinea"
+        ],
+        "baseline_eigenscore": -5.692758115430252,
+        "fc_eigenscore": -5.660805485226289,
+        "delta_eigenscore": 0.03195263020396233,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "New Guinea.",
+        "fc_majority_answer": "New Guinea.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.00687099358974359,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_7776",
+        "generation_seed": 42,
+        "question": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+        "gold_candidates": [
+          "New Guinea"
+        ],
+        "baseline_eigenscore": -6.180810538114715,
+        "fc_eigenscore": -6.180810538114715,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "New Guinea.",
+        "fc_majority_answer": "New Guinea.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.006704883658008658,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_7776",
+        "generation_seed": 43,
+        "question": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+        "gold_candidates": [
+          "New Guinea"
+        ],
+        "baseline_eigenscore": -6.180810538114715,
+        "fc_eigenscore": -5.692758115423911,
+        "delta_eigenscore": 0.48805242269080384,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "New Guinea.",
+        "fc_majority_answer": "New Guinea.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.006853465544871795,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_2173",
+    "question": "\"From which sport do we get the expression \"\"par for the course\"\"?\"",
+    "gold_candidates": [
+      "Golf"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.323718102326649,
+    "mean_fc_eigenscore": -4.161903467827343,
+    "mean_delta_eigenscore": 0.16181463449930655,
+    "mean_baseline_unique_generations": 5.0,
+    "mean_fc_unique_generations": 5.333333333333333,
+    "mean_fc_clip_fraction": 0.005443050986842105,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qw_2173",
+        "generation_seed": 41,
+        "question": "\"From which sport do we get the expression \"\"par for the course\"\"?\"",
+        "gold_candidates": [
+          "Golf"
+        ],
+        "baseline_eigenscore": -4.822512538860218,
+        "fc_eigenscore": -4.822512538860218,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Golf.",
+        "fc_majority_answer": "Golf.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005387369791666667,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_2173",
+        "generation_seed": 42,
+        "question": "\"From which sport do we get the expression \"\"par for the course\"\"?\"",
+        "gold_candidates": [
+          "Golf"
+        ],
+        "baseline_eigenscore": -4.301983599866968,
+        "fc_eigenscore": -4.286478580672864,
+        "delta_eigenscore": 0.015505019194104186,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Golf.",
+        "fc_majority_answer": "Golf.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.00546618009868421,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_2173",
+        "generation_seed": 43,
+        "question": "\"From which sport do we get the expression \"\"par for the course\"\"?\"",
+        "gold_candidates": [
+          "Golf"
+        ],
+        "baseline_eigenscore": -3.8466581682527616,
+        "fc_eigenscore": -3.376719283948946,
+        "delta_eigenscore": 0.4699388843038155,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Golf.",
+        "fc_majority_answer": "Golf.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.005475603070175438,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qz_3041",
+    "question": "Who killed Robert F Kennedy?",
+    "gold_candidates": [
+      "Sirhan Sirhan"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.061649662578298,
+    "mean_fc_eigenscore": -4.902505317853584,
+    "mean_delta_eigenscore": 0.15914434472471375,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 3.3333333333333335,
+    "mean_fc_clip_fraction": 0.0051646718661261205,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qz_3041",
+        "generation_seed": 41,
+        "question": "Who killed Robert F Kennedy?",
+        "gold_candidates": [
+          "Sirhan Sirhan"
+        ],
+        "baseline_eigenscore": -5.065514287228734,
+        "fc_eigenscore": -4.580722207864161,
+        "delta_eigenscore": 0.48479207936457325,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sirhan Sirhan.",
+        "fc_majority_answer": "Sirhan Sirhan.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005185546875,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_3041",
+        "generation_seed": 42,
+        "question": "Who killed Robert F Kennedy?",
+        "gold_candidates": [
+          "Sirhan Sirhan"
+        ],
+        "baseline_eigenscore": -5.568872795060424,
+        "fc_eigenscore": -5.572874910245632,
+        "delta_eigenscore": -0.004002115185207877,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sirhan Sirhan.",
+        "fc_majority_answer": "Sirhan Sirhan.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.004630287247474748,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qz_3041",
+        "generation_seed": 43,
+        "question": "Who killed Robert F Kennedy?",
+        "gold_candidates": [
+          "Sirhan Sirhan"
+        ],
+        "baseline_eigenscore": -4.5505619054457345,
+        "fc_eigenscore": -4.5539188354509585,
+        "delta_eigenscore": -0.003356930005224079,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sirhan Sirhan.",
+        "fc_majority_answer": "Sirhan Sirhan.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005678181475903614,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_11998",
+    "question": "Who directed the 2011 Palme d'Or winning film 'The Tree Of Life'?",
+    "gold_candidates": [
+      "Terence Malick"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.186457437552345,
+    "mean_fc_eigenscore": -5.027428253186597,
+    "mean_delta_eigenscore": 0.15902918436574787,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 3.3333333333333335,
+    "mean_fc_clip_fraction": 0.007817077636718751,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_11998",
+        "generation_seed": 41,
+        "question": "Who directed the 2011 Palme d'Or winning film 'The Tree Of Life'?",
+        "gold_candidates": [
+          "Terence Malick"
+        ],
+        "baseline_eigenscore": -5.610379289521166,
+        "fc_eigenscore": -5.1742538583669715,
+        "delta_eigenscore": 0.43612543115419466,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Terrence Malick.",
+        "fc_majority_answer": "Terrence Malick.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007715521918402778,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11998",
+        "generation_seed": 42,
+        "question": "Who directed the 2011 Palme d'Or winning film 'The Tree Of Life'?",
+        "gold_candidates": [
+          "Terence Malick"
+        ],
+        "baseline_eigenscore": -5.2026510214701105,
+        "fc_eigenscore": -5.174253858353303,
+        "delta_eigenscore": 0.028397163116807178,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Terrence Malick.",
+        "fc_majority_answer": "Terrence Malick.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007715521918402778,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11998",
+        "generation_seed": 43,
+        "question": "Who directed the 2011 Palme d'Or winning film 'The Tree Of Life'?",
+        "gold_candidates": [
+          "Terence Malick"
+        ],
+        "baseline_eigenscore": -4.746342001665759,
+        "fc_eigenscore": -4.733777042839518,
+        "delta_eigenscore": 0.012564958826241757,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Terrence Malick.",
+        "fc_majority_answer": "Terrence Malick.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.008020189073350694,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tc_2914",
+    "question": "How many chambers has the heart?",
+    "gold_candidates": [
+      "Four"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.043648834952262,
+    "mean_fc_eigenscore": -5.8931018620460405,
+    "mean_delta_eigenscore": 0.15054697290622224,
+    "mean_baseline_unique_generations": 1.3333333333333333,
+    "mean_fc_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.004346532091097308,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tc_2914",
+        "generation_seed": 41,
+        "question": "How many chambers has the heart?",
+        "gold_candidates": [
+          "Four"
+        ],
+        "baseline_eigenscore": -6.174204909446933,
+        "fc_eigenscore": -5.722563990728267,
+        "delta_eigenscore": 0.45164091871866674,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The human heart has four chambers.",
+        "fc_majority_answer": "The human heart has four chambers.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.00428413722826087,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_2914",
+        "generation_seed": 42,
+        "question": "How many chambers has the heart?",
+        "gold_candidates": [
+          "Four"
+        ],
+        "baseline_eigenscore": -6.174204909446933,
+        "fc_eigenscore": -6.174204909446933,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The human heart has four chambers.",
+        "fc_majority_answer": "The human heart has four chambers.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.004288383152173913,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_2914",
+        "generation_seed": 43,
+        "question": "How many chambers has the heart?",
+        "gold_candidates": [
+          "Four"
+        ],
+        "baseline_eigenscore": -5.78253668596292,
+        "fc_eigenscore": -5.78253668596292,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The human heart has four chambers.",
+        "fc_majority_answer": "The human heart has four chambers.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.004467075892857142,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_8203",
+    "question": "What royal house has ruled Monaco since the Middle Ages?",
+    "gold_candidates": [
+      "Grimaldi"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.158537598465071,
+    "mean_fc_eigenscore": -5.024499149909263,
+    "mean_delta_eigenscore": 0.13403844855580793,
+    "mean_baseline_unique_generations": 3.3333333333333335,
+    "mean_fc_unique_generations": 3.6666666666666665,
+    "mean_fc_clip_fraction": 0.005941498406582952,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "bb_8203",
+        "generation_seed": 41,
+        "question": "What royal house has ruled Monaco since the Middle Ages?",
+        "gold_candidates": [
+          "Grimaldi"
+        ],
+        "baseline_eigenscore": -5.271902806050141,
+        "fc_eigenscore": -5.271902806050141,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The House of Grimaldi.",
+        "fc_majority_answer": "The House of Grimaldi.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0059374108162100455,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_8203",
+        "generation_seed": 42,
+        "question": "What royal house has ruled Monaco since the Middle Ages?",
+        "gold_candidates": [
+          "Grimaldi"
+        ],
+        "baseline_eigenscore": -4.872129156134395,
+        "fc_eigenscore": -4.477720137606477,
+        "delta_eigenscore": 0.3944090185279183,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The House of Grimaldi.",
+        "fc_majority_answer": "The Grimaldi family.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0058861301369863015,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_8203",
+        "generation_seed": 43,
+        "question": "What royal house has ruled Monaco since the Middle Ages?",
+        "gold_candidates": [
+          "Grimaldi"
+        ],
+        "baseline_eigenscore": -5.331580833210678,
+        "fc_eigenscore": -5.3238745060711725,
+        "delta_eigenscore": 0.0077063271395054755,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The House of Grimaldi.",
+        "fc_majority_answer": "The House of Grimaldi.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006000954266552511,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_306",
+    "question": "Antigonus is a character in which Shakespeare play?",
+    "gold_candidates": [
+      "The Winter’s Tale"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.918959302590796,
+    "mean_fc_eigenscore": -3.8128955568974803,
+    "mean_delta_eigenscore": 0.10606374569331505,
+    "mean_baseline_unique_generations": 5.666666666666667,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.0073405960778840035,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qb_306",
+        "generation_seed": 41,
+        "question": "Antigonus is a character in which Shakespeare play?",
+        "gold_candidates": [
+          "The Winter’s Tale"
+        ],
+        "baseline_eigenscore": -3.7936235720047713,
+        "fc_eigenscore": -3.873854360541368,
+        "delta_eigenscore": -0.08023078853659671,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "fc_majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007328438464506173,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_306",
+        "generation_seed": 42,
+        "question": "Antigonus is a character in which Shakespeare play?",
+        "gold_candidates": [
+          "The Winter’s Tale"
+        ],
+        "baseline_eigenscore": -4.2745577309009715,
+        "fc_eigenscore": -4.2745577309009715,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "fc_majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.007462366615853659,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_306",
+        "generation_seed": 43,
+        "question": "Antigonus is a character in which Shakespeare play?",
+        "gold_candidates": [
+          "The Winter’s Tale"
+        ],
+        "baseline_eigenscore": -3.688696604866645,
+        "fc_eigenscore": -3.290274579250103,
+        "delta_eigenscore": 0.39842202561654183,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "fc_majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.007230983153292181,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_9823",
+    "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+    "gold_candidates": [
+      "Third"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.645581687017372,
+    "mean_fc_eigenscore": -4.566610940470796,
+    "mean_delta_eigenscore": 0.07897074654657595,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 5.0,
+    "mean_fc_clip_fraction": 0.005837580870132954,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qb_9823",
+        "generation_seed": 41,
+        "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+        "gold_candidates": [
+          "Third"
+        ],
+        "baseline_eigenscore": -4.48389651311057,
+        "fc_eigenscore": -4.170832880660751,
+        "delta_eigenscore": 0.3130636324498184,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The third month.",
+        "fc_majority_answer": "The third month.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005985966435185185,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9823",
+        "generation_seed": 42,
+        "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+        "gold_candidates": [
+          "Third"
+        ],
+        "baseline_eigenscore": -4.462876478201282,
+        "fc_eigenscore": -4.5076733311504125,
+        "delta_eigenscore": -0.04479685294913072,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The third month.",
+        "fc_majority_answer": "The third month.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005787802150106837,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9823",
+        "generation_seed": 43,
+        "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+        "gold_candidates": [
+          "Third"
+        ],
+        "baseline_eigenscore": -4.989972069740263,
+        "fc_eigenscore": -5.021326609601223,
+        "delta_eigenscore": -0.03135453986095982,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The third month.",
+        "fc_majority_answer": "The third month.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005738974025106838,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_3376",
+    "question": "In 2012 which vast multinational supermarket corporation recorded its first fall in profits since 1994?",
+    "gold_candidates": [
+      "Tesco"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.7247028674945595,
+    "mean_fc_eigenscore": -4.656167308842467,
+    "mean_delta_eigenscore": 0.0685355586520912,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.005279980350807669,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "bb_3376",
+        "generation_seed": 41,
+        "question": "In 2012 which vast multinational supermarket corporation recorded its first fall in profits since 1994?",
+        "gold_candidates": [
+          "Tesco"
+        ],
+        "baseline_eigenscore": -4.224190506603618,
+        "fc_eigenscore": -4.636309484964302,
+        "delta_eigenscore": -0.41211897836068445,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Tesco.",
+        "fc_majority_answer": "Tesco.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005374455106431159,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_3376",
+        "generation_seed": 42,
+        "question": "In 2012 which vast multinational supermarket corporation recorded its first fall in profits since 1994?",
+        "gold_candidates": [
+          "Tesco"
+        ],
+        "baseline_eigenscore": -5.200058008952667,
+        "fc_eigenscore": -5.188901123841434,
+        "delta_eigenscore": 0.011156885111232917,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Tesco.",
+        "fc_majority_answer": "Tesco.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005101114908854167,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_3376",
+        "generation_seed": 43,
+        "question": "In 2012 which vast multinational supermarket corporation recorded its first fall in profits since 1994?",
+        "gold_candidates": [
+          "Tesco"
+        ],
+        "baseline_eigenscore": -4.7498600869273915,
+        "fc_eigenscore": -4.143291317721666,
+        "delta_eigenscore": 0.6065687692057251,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Tesco.",
+        "fc_majority_answer": "Tesco.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0053643710371376815,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_2629",
+    "question": "In the fairy tale Thumbelina, what creature wants the miniature girl to marry her son ?",
+    "gold_candidates": [
+      "TOAD"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.131334485213823,
+    "mean_fc_eigenscore": -4.0855934292967016,
+    "mean_delta_eigenscore": 0.04574105591712015,
+    "mean_baseline_unique_generations": 5.666666666666667,
+    "mean_fc_unique_generations": 5.666666666666667,
+    "mean_fc_clip_fraction": 0.006968412117616033,
+    "baseline_correct_fraction": 0.6666666666666666,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "wh_2629",
+        "generation_seed": 41,
+        "question": "In the fairy tale Thumbelina, what creature wants the miniature girl to marry her son ?",
+        "gold_candidates": [
+          "TOAD"
+        ],
+        "baseline_eigenscore": -3.9632992739482917,
+        "fc_eigenscore": -3.911751809698292,
+        "delta_eigenscore": 0.051547464249999564,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The toad.",
+        "fc_majority_answer": "The toad.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006944513119725738,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_2629",
+        "generation_seed": 42,
+        "question": "In the fairy tale Thumbelina, what creature wants the miniature girl to marry her son ?",
+        "gold_candidates": [
+          "TOAD"
+        ],
+        "baseline_eigenscore": -4.046716795928478,
+        "fc_eigenscore": -3.9824130217876514,
+        "delta_eigenscore": 0.06430377414082633,
+        "baseline_is_correct": false,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The grasshopper.",
+        "fc_majority_answer": "The toad.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006993341244725738,
+        "correctness_flip": "incorrect_to_correct"
+      },
+      {
+        "id": "wh_2629",
+        "generation_seed": 43,
+        "question": "In the fairy tale Thumbelina, what creature wants the miniature girl to marry her son ?",
+        "gold_candidates": [
+          "TOAD"
+        ],
+        "baseline_eigenscore": -4.383987385764697,
+        "fc_eigenscore": -4.362615456404162,
+        "delta_eigenscore": 0.02137192936053456,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The toad.",
+        "fc_majority_answer": "The toad.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006967381988396625,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_3333",
+    "question": "Which French vessel was the first ocean-going liner to exceed 1,000 feet in length ?",
+    "gold_candidates": [
+      "NORMANDIE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.749167948083545,
+    "mean_fc_eigenscore": -5.705753934652731,
+    "mean_delta_eigenscore": 0.04341401343081319,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.006965551582774283,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "wh_3333",
+        "generation_seed": 41,
+        "question": "Which French vessel was the first ocean-going liner to exceed 1,000 feet in length ?",
+        "gold_candidates": [
+          "NORMANDIE"
+        ],
+        "baseline_eigenscore": -6.184672688948826,
+        "fc_eigenscore": -6.184672688948826,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Normandie.",
+        "fc_majority_answer": "The Normandie.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.006930709388185654,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_3333",
+        "generation_seed": 42,
+        "question": "Which French vessel was the first ocean-going liner to exceed 1,000 feet in length ?",
+        "gold_candidates": [
+          "NORMANDIE"
+        ],
+        "baseline_eigenscore": -5.304969411754685,
+        "fc_eigenscore": -5.304969411754685,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Normandie.",
+        "fc_majority_answer": "The Normandie.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006986897786458333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_3333",
+        "generation_seed": 43,
+        "question": "Which French vessel was the first ocean-going liner to exceed 1,000 feet in length ?",
+        "gold_candidates": [
+          "NORMANDIE"
+        ],
+        "baseline_eigenscore": -5.757861743547123,
+        "fc_eigenscore": -5.627619703254683,
+        "delta_eigenscore": 0.13024204029243958,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Normandie.",
+        "fc_majority_answer": "The Normandie.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.006979047573678862,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_3111",
+    "question": "What famous motorhome brand took its' name from a Midwestern Native American tribe?",
+    "gold_candidates": [
+      "Winnebago"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.141830407313816,
+    "mean_fc_eigenscore": -5.110598313249426,
+    "mean_delta_eigenscore": 0.0312320940643905,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 3.0,
+    "mean_fc_clip_fraction": 0.005889531475468976,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qg_3111",
+        "generation_seed": 41,
+        "question": "What famous motorhome brand took its' name from a Midwestern Native American tribe?",
+        "gold_candidates": [
+          "Winnebago"
+        ],
+        "baseline_eigenscore": -5.159187261572481,
+        "fc_eigenscore": -5.148030342571554,
+        "delta_eigenscore": 0.011156919000927523,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Winnebago.",
+        "fc_majority_answer": "Winnebago.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.00594625101461039,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_3111",
+        "generation_seed": 42,
+        "question": "What famous motorhome brand took its' name from a Midwestern Native American tribe?",
+        "gold_candidates": [
+          "Winnebago"
+        ],
+        "baseline_eigenscore": -5.176428754127915,
+        "fc_eigenscore": -5.110935372327186,
+        "delta_eigenscore": 0.06549338180072883,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Winnebago.",
+        "fc_majority_answer": "Winnebago.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005952380952380952,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_3111",
+        "generation_seed": 43,
+        "question": "What famous motorhome brand took its' name from a Midwestern Native American tribe?",
+        "gold_candidates": [
+          "Winnebago"
+        ],
+        "baseline_eigenscore": -5.089875206241055,
+        "fc_eigenscore": -5.0728292248495395,
+        "delta_eigenscore": 0.01704598139151514,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Winnebago.",
+        "fc_majority_answer": "Winnebago.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005769962459415585,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_4354",
+    "question": "When Jim Laker took 19 wickets in the Old Trafford Test Match in 1956, who was the Australian captain?",
+    "gold_candidates": [
+      "RICHIE BENAUD"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.644777411795047,
+    "mean_fc_eigenscore": -4.618932114109267,
+    "mean_delta_eigenscore": 0.02584529768578007,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 4.333333333333333,
+    "mean_fc_clip_fraction": 0.00858687819969244,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_4354",
+        "generation_seed": 41,
+        "question": "When Jim Laker took 19 wickets in the Old Trafford Test Match in 1956, who was the Australian captain?",
+        "gold_candidates": [
+          "RICHIE BENAUD"
+        ],
+        "baseline_eigenscore": -4.8087635821133805,
+        "fc_eigenscore": -4.792826304221795,
+        "delta_eigenscore": 0.01593727789158539,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Australian captain was Richie Benaud.",
+        "fc_majority_answer": "The Australian captain was Richie Benaud.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.008620701724910394,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_4354",
+        "generation_seed": 42,
+        "question": "When Jim Laker took 19 wickets in the Old Trafford Test Match in 1956, who was the Australian captain?",
+        "gold_candidates": [
+          "RICHIE BENAUD"
+        ],
+        "baseline_eigenscore": -4.3540678680975144,
+        "fc_eigenscore": -4.323415402429436,
+        "delta_eigenscore": 0.03065246566807822,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Australian captain was Richie Benaud.",
+        "fc_majority_answer": "The Australian captain was Richie Benaud.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.008574789250429553,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_4354",
+        "generation_seed": 43,
+        "question": "When Jim Laker took 19 wickets in the Old Trafford Test Match in 1956, who was the Australian captain?",
+        "gold_candidates": [
+          "RICHIE BENAUD"
+        ],
+        "baseline_eigenscore": -4.771500785174248,
+        "fc_eigenscore": -4.740554635676571,
+        "delta_eigenscore": 0.0309461494976766,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Australian captain was Richie Benaud.",
+        "fc_majority_answer": "The Australian captain was Richie Benaud.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.008565143623737373,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_3243",
+    "question": "Who played King Arthur in the 2004 film 'King Arthur'?",
+    "gold_candidates": [
+      "CLIVE OWEN"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.511432730485125,
+    "mean_fc_eigenscore": -5.488865875412017,
+    "mean_delta_eigenscore": 0.022566855073107146,
+    "mean_baseline_unique_generations": 2.3333333333333335,
+    "mean_fc_unique_generations": 2.3333333333333335,
+    "mean_fc_clip_fraction": 0.008322481154525763,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_3243",
+        "generation_seed": 41,
+        "question": "Who played King Arthur in the 2004 film 'King Arthur'?",
+        "gold_candidates": [
+          "CLIVE OWEN"
+        ],
+        "baseline_eigenscore": -5.2779848125222415,
+        "fc_eigenscore": -5.21028424730292,
+        "delta_eigenscore": 0.06770056521932144,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Clive Owen played King Arthur in the 2004 film 'King Arthur'.",
+        "fc_majority_answer": "Clive Owen played King Arthur in the 2004 film 'King Arthur'.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.008415092054263567,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_3243",
+        "generation_seed": 42,
+        "question": "Who played King Arthur in the 2004 film 'King Arthur'?",
+        "gold_candidates": [
+          "CLIVE OWEN"
+        ],
+        "baseline_eigenscore": -5.622480341652425,
+        "fc_eigenscore": -5.622480341652425,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Clive Owen played King Arthur in the 2004 film 'King Arthur'.",
+        "fc_majority_answer": "Clive Owen played King Arthur in the 2004 film 'King Arthur'.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.00822533700980392,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_3243",
+        "generation_seed": 43,
+        "question": "Who played King Arthur in the 2004 film 'King Arthur'?",
+        "gold_candidates": [
+          "CLIVE OWEN"
+        ],
+        "baseline_eigenscore": -5.6338330372807075,
+        "fc_eigenscore": -5.6338330372807075,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Clive Owen played King Arthur in the 2004 film 'King Arthur'.",
+        "fc_majority_answer": "Clive Owen played King Arthur in the 2004 film 'King Arthur'.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.008327014399509804,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_10250",
+    "question": "Which is the only mythical creature found in the Chinese zodiac?",
+    "gold_candidates": [
+      "DRAGON"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.5892861894205605,
+    "mean_fc_eigenscore": -4.573287129970823,
+    "mean_delta_eigenscore": 0.015999059449737747,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.005085818737348685,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_10250",
+        "generation_seed": 41,
+        "question": "Which is the only mythical creature found in the Chinese zodiac?",
+        "gold_candidates": [
+          "DRAGON"
+        ],
+        "baseline_eigenscore": -5.078830155726578,
+        "fc_eigenscore": -5.04740047063154,
+        "delta_eigenscore": 0.03142968509503863,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Dragon.",
+        "fc_majority_answer": "The Dragon.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005037660951967593,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_10250",
+        "generation_seed": 42,
+        "question": "Which is the only mythical creature found in the Chinese zodiac?",
+        "gold_candidates": [
+          "DRAGON"
+        ],
+        "baseline_eigenscore": -4.138804786764607,
+        "fc_eigenscore": -4.138804786764607,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Dragon.",
+        "fc_majority_answer": "The Dragon.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005172187838203463,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_10250",
+        "generation_seed": 43,
+        "question": "Which is the only mythical creature found in the Chinese zodiac?",
+        "gold_candidates": [
+          "DRAGON"
+        ],
+        "baseline_eigenscore": -4.5502236257704975,
+        "fc_eigenscore": -4.533656132516323,
+        "delta_eigenscore": 0.016567493254174614,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Dragon.",
+        "fc_majority_answer": "The Dragon.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005047607421875,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_11415",
+    "question": "2012 is the Chinese year of which creature?",
+    "gold_candidates": [
+      "DRAGON"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.129382444334444,
+    "mean_fc_eigenscore": -5.116098367159178,
+    "mean_delta_eigenscore": 0.013284077175266992,
+    "mean_baseline_unique_generations": 3.3333333333333335,
+    "mean_fc_unique_generations": 3.3333333333333335,
+    "mean_fc_clip_fraction": 0.004873141228864734,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_11415",
+        "generation_seed": 41,
+        "question": "2012 is the Chinese year of which creature?",
+        "gold_candidates": [
+          "DRAGON"
+        ],
+        "baseline_eigenscore": -5.242979306313006,
+        "fc_eigenscore": -5.225738532042187,
+        "delta_eigenscore": 0.01724077427081916,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Dragon.",
+        "fc_majority_answer": "The Dragon.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.004886350769927536,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11415",
+        "generation_seed": 42,
+        "question": "2012 is the Chinese year of which creature?",
+        "gold_candidates": [
+          "DRAGON"
+        ],
+        "baseline_eigenscore": -5.2970166868152635,
+        "fc_eigenscore": -4.911198356291935,
+        "delta_eigenscore": 0.38581833052332826,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Dragon.",
+        "fc_majority_answer": "Dragon.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.004847901570048309,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11415",
+        "generation_seed": 43,
+        "question": "2012 is the Chinese year of which creature?",
+        "gold_candidates": [
+          "DRAGON"
+        ],
+        "baseline_eigenscore": -4.848151339875064,
+        "fc_eigenscore": -5.21135821314341,
+        "delta_eigenscore": -0.36320687326834644,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Dragon.",
+        "fc_majority_answer": "The Dragon.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.004885171346618357,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_14348",
+    "question": "One of the largest countries in Africa derived its food wealth for thousands of years from the regular flooding of which river?",
+    "gold_candidates": [
+      "Nile"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.708115494395012,
+    "mean_fc_eigenscore": -5.697156172652292,
+    "mean_delta_eigenscore": 0.010959321742719593,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.005844289888211382,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qw_14348",
+        "generation_seed": 41,
+        "question": "One of the largest countries in Africa derived its food wealth for thousands of years from the regular flooding of which river?",
+        "gold_candidates": [
+          "Nile"
+        ],
+        "baseline_eigenscore": -5.744808377412618,
+        "fc_eigenscore": -5.744808377412618,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Nile River.",
+        "fc_majority_answer": "The Nile River.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005843694423272358,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_14348",
+        "generation_seed": 42,
+        "question": "One of the largest countries in Africa derived its food wealth for thousands of years from the regular flooding of which river?",
+        "gold_candidates": [
+          "Nile"
+        ],
+        "baseline_eigenscore": -5.695445122134236,
+        "fc_eigenscore": -5.670496985377036,
+        "delta_eigenscore": 0.024948136757200423,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Nile River.",
+        "fc_majority_answer": "The Nile River.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005844686864837399,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_14348",
+        "generation_seed": 43,
+        "question": "One of the largest countries in Africa derived its food wealth for thousands of years from the regular flooding of which river?",
+        "gold_candidates": [
+          "Nile"
+        ],
+        "baseline_eigenscore": -5.684092983638182,
+        "fc_eigenscore": -5.676163155167224,
+        "delta_eigenscore": 0.007929828470958356,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "The Nile River.",
+        "fc_majority_answer": "The Nile River.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.00584448837652439,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_12765",
+    "question": "Who was housekeeper to Sherlock Holmes?",
+    "gold_candidates": [
+      "Mrs Hudson"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.639517153738939,
+    "mean_fc_eigenscore": -5.628865901916136,
+    "mean_delta_eigenscore": 0.010651251822802207,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.004617843706579714,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_12765",
+        "generation_seed": 41,
+        "question": "Who was housekeeper to Sherlock Holmes?",
+        "gold_candidates": [
+          "Mrs Hudson"
+        ],
+        "baseline_eigenscore": -5.644579584192796,
+        "fc_eigenscore": -5.644579584192796,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mrs. Hudson.",
+        "fc_majority_answer": "Mrs. Hudson.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.00478955518018018,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_12765",
+        "generation_seed": 42,
+        "question": "Who was housekeeper to Sherlock Holmes?",
+        "gold_candidates": [
+          "Mrs Hudson"
+        ],
+        "baseline_eigenscore": -5.597439475161726,
+        "fc_eigenscore": -5.565485719693319,
+        "delta_eigenscore": 0.03195375546840662,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mrs. Hudson.",
+        "fc_majority_answer": "Mrs. Hudson.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.004324568563432836,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_12765",
+        "generation_seed": 43,
+        "question": "Who was housekeeper to Sherlock Holmes?",
+        "gold_candidates": [
+          "Mrs Hudson"
+        ],
+        "baseline_eigenscore": -5.676532401862294,
+        "fc_eigenscore": -5.676532401862294,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Mrs. Hudson.",
+        "fc_majority_answer": "Mrs. Hudson.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.004739407376126126,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_7632",
+    "question": "Nine of the ten tallest buildings in Germany are in which city?",
+    "gold_candidates": [
+      "Frankfurt"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.667118985689263,
+    "mean_fc_eigenscore": -5.656468028840337,
+    "mean_delta_eigenscore": 0.010650956848926363,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.005179449090375587,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_7632",
+        "generation_seed": 41,
+        "question": "Nine of the ten tallest buildings in Germany are in which city?",
+        "gold_candidates": [
+          "Frankfurt"
+        ],
+        "baseline_eigenscore": -5.634207095735057,
+        "fc_eigenscore": -5.634207095735057,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Frankfurt.",
+        "fc_majority_answer": "Frankfurt.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.0051650069688967135,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7632",
+        "generation_seed": 42,
+        "question": "Nine of the ten tallest buildings in Germany are in which city?",
+        "gold_candidates": [
+          "Frankfurt"
+        ],
+        "baseline_eigenscore": -5.683574930666451,
+        "fc_eigenscore": -5.683574930666451,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Frankfurt.",
+        "fc_majority_answer": "Frankfurt.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.00519389121185446,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7632",
+        "generation_seed": 43,
+        "question": "Nine of the ten tallest buildings in Germany are in which city?",
+        "gold_candidates": [
+          "Frankfurt"
+        ],
+        "baseline_eigenscore": -5.683574930666281,
+        "fc_eigenscore": -5.651622060119502,
+        "delta_eigenscore": 0.03195287054677909,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Frankfurt.",
+        "fc_majority_answer": "Frankfurt.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005179449090375587,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_11959",
+    "question": "In which city was Pablo Picasso born, in 1881?",
+    "gold_candidates": [
+      "Malaga"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.869735030395668,
+    "mean_fc_eigenscore": -5.859084312813486,
+    "mean_delta_eigenscore": 0.010650717582181871,
+    "mean_baseline_unique_generations": 1.6666666666666667,
+    "mean_fc_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.005045792863175675,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_11959",
+        "generation_seed": 41,
+        "question": "In which city was Pablo Picasso born, in 1881?",
+        "gold_candidates": [
+          "Malaga"
+        ],
+        "baseline_eigenscore": -5.712176641691578,
+        "fc_eigenscore": -5.680224488945032,
+        "delta_eigenscore": 0.031952152746545615,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Málaga, Spain.",
+        "fc_majority_answer": "Málaga, Spain.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005037214949324324,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11959",
+        "generation_seed": 42,
+        "question": "In which city was Pablo Picasso born, in 1881?",
+        "gold_candidates": [
+          "Malaga"
+        ],
+        "baseline_eigenscore": -6.184851807811536,
+        "fc_eigenscore": -6.184851807811536,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Málaga, Spain.",
+        "fc_majority_answer": "Málaga, Spain.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.005054370777027027,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11959",
+        "generation_seed": 43,
+        "question": "In which city was Pablo Picasso born, in 1881?",
+        "gold_candidates": [
+          "Malaga"
+        ],
+        "baseline_eigenscore": -5.7121766416838895,
+        "fc_eigenscore": -5.7121766416838895,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Málaga, Spain.",
+        "fc_majority_answer": "Málaga, Spain.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005045792863175675,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_51",
+    "question": "December 21, 1937 saw the premiere of what feature film, the first full length animated feature film?",
+    "gold_candidates": [
+      "Snow White and the Seven Dwarfs"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.836364148266175,
+    "mean_fc_eigenscore": -5.825764593892572,
+    "mean_delta_eigenscore": 0.010599554373603048,
+    "mean_baseline_unique_generations": 1.6666666666666667,
+    "mean_fc_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.0072474532048212,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "qg_51",
+        "generation_seed": 41,
+        "question": "December 21, 1937 saw the premiere of what feature film, the first full length animated feature film?",
+        "gold_candidates": [
+          "Snow White and the Seven Dwarfs"
+        ],
+        "baseline_eigenscore": -6.1822176211991,
+        "fc_eigenscore": -6.1822176211991,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Snow White and the Seven Dwarfs.",
+        "fc_majority_answer": "Snow White and the Seven Dwarfs.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.0072886733716475095,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_51",
+        "generation_seed": 42,
+        "question": "December 21, 1937 saw the premiere of what feature film, the first full length animated feature film?",
+        "gold_candidates": [
+          "Snow White and the Seven Dwarfs"
+        ],
+        "baseline_eigenscore": -5.1446572024003245,
+        "fc_eigenscore": -5.112858539279515,
+        "delta_eigenscore": 0.031798663120809145,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Snow White and the Seven Dwarfs.",
+        "fc_majority_answer": "Snow White and the Seven Dwarfs.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007165012871168583,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_51",
+        "generation_seed": 43,
+        "question": "December 21, 1937 saw the premiere of what feature film, the first full length animated feature film?",
+        "gold_candidates": [
+          "Snow White and the Seven Dwarfs"
+        ],
+        "baseline_eigenscore": -6.1822176211991,
+        "fc_eigenscore": -6.1822176211991,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Snow White and the Seven Dwarfs.",
+        "fc_majority_answer": "Snow White and the Seven Dwarfs.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.0072886733716475095,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_25458",
+    "question": "Estelle Parsons won a best supporting actress Oscar for her role in which 1967 film?",
+    "gold_candidates": [
+      "Bonnie and Clyde"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.715056914152275,
+    "mean_fc_eigenscore": -5.704457585032356,
+    "mean_delta_eigenscore": 0.010599329119920084,
+    "mean_baseline_unique_generations": 2.0,
+    "mean_fc_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.006540860501605579,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_25458",
+        "generation_seed": 41,
+        "question": "Estelle Parsons won a best supporting actress Oscar for her role in which 1967 film?",
+        "gold_candidates": [
+          "Bonnie and Clyde"
+        ],
+        "baseline_eigenscore": -5.243870096249962,
+        "fc_eigenscore": -5.212072108890202,
+        "delta_eigenscore": 0.03179798735976025,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Bonnie and Clyde.",
+        "fc_majority_answer": "Bonnie and Clyde.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006606308044678715,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_25458",
+        "generation_seed": 42,
+        "question": "Estelle Parsons won a best supporting actress Oscar for her role in which 1967 film?",
+        "gold_candidates": [
+          "Bonnie and Clyde"
+        ],
+        "baseline_eigenscore": -6.17682098122535,
+        "fc_eigenscore": -6.17682098122535,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Bonnie and Clyde.",
+        "fc_majority_answer": "Bonnie and Clyde.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.0064280063291139245,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_25458",
+        "generation_seed": 43,
+        "question": "Estelle Parsons won a best supporting actress Oscar for her role in which 1967 film?",
+        "gold_candidates": [
+          "Bonnie and Clyde"
+        ],
+        "baseline_eigenscore": -5.724479664981516,
+        "fc_eigenscore": -5.724479664981516,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Bonnie and Clyde.",
+        "fc_majority_answer": "Bonnie and Clyde.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.006588267131024096,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tc_888",
+    "question": "Who was the youngest brother in the Beach Boys?",
+    "gold_candidates": [
+      "Carl Wilson"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.798281433478912,
+    "mean_fc_eigenscore": -4.788739759737957,
+    "mean_delta_eigenscore": 0.009541673740954751,
+    "mean_baseline_unique_generations": 3.6666666666666665,
+    "mean_fc_unique_generations": 3.6666666666666665,
+    "mean_fc_clip_fraction": 0.0051726665164767765,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tc_888",
+        "generation_seed": 41,
+        "question": "Who was the youngest brother in the Beach Boys?",
+        "gold_candidates": [
+          "Carl Wilson"
+        ],
+        "baseline_eigenscore": -4.137449366245983,
+        "fc_eigenscore": -4.138185858956196,
+        "delta_eigenscore": -0.0007364927102129215,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Carl Wilson.",
+        "fc_majority_answer": "Carl Wilson.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005518513529693486,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_888",
+        "generation_seed": 42,
+        "question": "Who was the youngest brother in the Beach Boys?",
+        "gold_candidates": [
+          "Carl Wilson"
+        ],
+        "baseline_eigenscore": -5.126154206107779,
+        "fc_eigenscore": -5.126154206107779,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Carl Wilson.",
+        "fc_majority_answer": "Carl Wilson.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.004901444284539474,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_888",
+        "generation_seed": 43,
+        "question": "Who was the youngest brother in the Beach Boys?",
+        "gold_candidates": [
+          "Carl Wilson"
+        ],
+        "baseline_eigenscore": -5.131240728082972,
+        "fc_eigenscore": -5.1018792141498945,
+        "delta_eigenscore": 0.029361513933077177,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Carl Wilson.",
+        "fc_majority_answer": "Carl Wilson.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0050980417351973685,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_2645",
+    "question": "Which knight is with Arthur at the end and throws Excalibur into the lake?",
+    "gold_candidates": [
+      "Sir Bedevere"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.063930526036192,
+    "mean_fc_eigenscore": -5.05818378724435,
+    "mean_delta_eigenscore": 0.005746738791842769,
+    "mean_baseline_unique_generations": 3.3333333333333335,
+    "mean_fc_unique_generations": 3.3333333333333335,
+    "mean_fc_clip_fraction": 0.007124699220105668,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "dpql_2645",
+        "generation_seed": 41,
+        "question": "Which knight is with Arthur at the end and throws Excalibur into the lake?",
+        "gold_candidates": [
+          "Sir Bedevere"
+        ],
+        "baseline_eigenscore": -4.833803476750834,
+        "fc_eigenscore": -4.833803476750834,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sir Lancelot.",
+        "fc_majority_answer": "Sir Lancelot.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.0071997791402953586,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_2645",
+        "generation_seed": 42,
+        "question": "Which knight is with Arthur at the end and throws Excalibur into the lake?",
+        "gold_candidates": [
+          "Sir Bedevere"
+        ],
+        "baseline_eigenscore": -5.164792341476508,
+        "fc_eigenscore": -5.164792341476508,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sir Lancelot.",
+        "fc_majority_answer": "Sir Lancelot.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007087264948593073,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_2645",
+        "generation_seed": 43,
+        "question": "Which knight is with Arthur at the end and throws Excalibur into the lake?",
+        "gold_candidates": [
+          "Sir Bedevere"
+        ],
+        "baseline_eigenscore": -5.193195759881236,
+        "fc_eigenscore": -5.175955543505708,
+        "delta_eigenscore": 0.017240216375528306,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Sir Lancelot.",
+        "fc_majority_answer": "Sir Lancelot.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007087053571428571,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_8318",
+    "question": "Philopobia is the fear of what basic human emotion?",
+    "gold_candidates": [
+      "Love"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.2909571653326175,
+    "mean_fc_eigenscore": -5.285468292475319,
+    "mean_delta_eigenscore": 0.005488872857297859,
+    "mean_baseline_unique_generations": 2.6666666666666665,
+    "mean_fc_unique_generations": 2.6666666666666665,
+    "mean_fc_clip_fraction": 0.006465443393640351,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "bb_8318",
+        "generation_seed": 41,
+        "question": "Philopobia is the fear of what basic human emotion?",
+        "gold_candidates": [
+          "Love"
+        ],
+        "baseline_eigenscore": -4.602990583759381,
+        "fc_eigenscore": -4.597876737687957,
+        "delta_eigenscore": 0.005113846071424177,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Philopobia is the fear of love.",
+        "fc_majority_answer": "Philopobia is the fear of love.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006229869106359649,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_8318",
+        "generation_seed": 42,
+        "question": "Philopobia is the fear of what basic human emotion?",
+        "gold_candidates": [
+          "Love"
+        ],
+        "baseline_eigenscore": -5.610256204346067,
+        "fc_eigenscore": -5.5989034318455975,
+        "delta_eigenscore": 0.011352772500469399,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Philopobia is the fear of love.",
+        "fc_majority_answer": "Philopobia is the fear of love.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.006488144188596491,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_8318",
+        "generation_seed": 43,
+        "question": "Philopobia is the fear of what basic human emotion?",
+        "gold_candidates": [
+          "Love"
+        ],
+        "baseline_eigenscore": -5.659624707892406,
+        "fc_eigenscore": -5.659624707892406,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Philopobia is the fear of love.",
+        "fc_majority_answer": "Philopobia is the fear of love.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.006678316885964913,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tb_1129",
+    "question": "The flag of which country prominently features 'The Eagle of Saladin' holding a scroll bearing the name of the country in Arabic?",
+    "gold_candidates": [
+      "Egypt"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.579652295541708,
+    "mean_fc_eigenscore": -4.574435858875302,
+    "mean_delta_eigenscore": 0.005216436666406328,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 4.333333333333333,
+    "mean_fc_clip_fraction": 0.007541548066052972,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "tb_1129",
+        "generation_seed": 41,
+        "question": "The flag of which country prominently features 'The Eagle of Saladin' holding a scroll bearing the name of the country in Arabic?",
+        "gold_candidates": [
+          "Egypt"
+        ],
+        "baseline_eigenscore": -4.761341208428967,
+        "fc_eigenscore": -4.750959728533589,
+        "delta_eigenscore": 0.010381479895378298,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Egypt.",
+        "fc_majority_answer": "Egypt.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.007478273376937985,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1129",
+        "generation_seed": 42,
+        "question": "The flag of which country prominently features 'The Eagle of Saladin' holding a scroll bearing the name of the country in Arabic?",
+        "gold_candidates": [
+          "Egypt"
+        ],
+        "baseline_eigenscore": -4.697665743708011,
+        "fc_eigenscore": -4.692397913604171,
+        "delta_eigenscore": 0.005267830103840687,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Egypt.",
+        "fc_majority_answer": "Egypt.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.0075927734375,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1129",
+        "generation_seed": 43,
+        "question": "The flag of which country prominently features 'The Eagle of Saladin' holding a scroll bearing the name of the country in Arabic?",
+        "gold_candidates": [
+          "Egypt"
+        ],
+        "baseline_eigenscore": -4.279949934488146,
+        "fc_eigenscore": -4.279949934488146,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Egypt.",
+        "fc_majority_answer": "Egypt.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0075535973837209305,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_15725",
+    "question": "Which choral work by Handel, still used at coronations, was written originally for the Coronation of King George II in 1727?",
+    "gold_candidates": [
+      "Zadok the Priest"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.404999593294143,
+    "mean_fc_eigenscore": -4.40243187584251,
+    "mean_delta_eigenscore": 0.002567717451633792,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 4.666666666666667,
+    "mean_fc_clip_fraction": 0.010075636416817633,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "sfq_15725",
+        "generation_seed": 41,
+        "question": "Which choral work by Handel, still used at coronations, was written originally for the Coronation of King George II in 1727?",
+        "gold_candidates": [
+          "Zadok the Priest"
+        ],
+        "baseline_eigenscore": -4.230811037549352,
+        "fc_eigenscore": -4.223107885194451,
+        "delta_eigenscore": 0.007703152354901377,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "\"Zadok the Priest.\"",
+        "fc_majority_answer": "\"Zadok the Priest.\"",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.010078231148097826,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_15725",
+        "generation_seed": 42,
+        "question": "Which choral work by Handel, still used at coronations, was written originally for the Coronation of King George II in 1727?",
+        "gold_candidates": [
+          "Zadok the Priest"
+        ],
+        "baseline_eigenscore": -4.266767451087873,
+        "fc_eigenscore": -4.266767451087873,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Zadok the Priest.",
+        "fc_majority_answer": "Zadok the Priest.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.010080884850543478,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_15725",
+        "generation_seed": 43,
+        "question": "Which choral work by Handel, still used at coronations, was written originally for the Coronation of King George II in 1727?",
+        "gold_candidates": [
+          "Zadok the Priest"
+        ],
+        "baseline_eigenscore": -4.7174202912452055,
+        "fc_eigenscore": -4.7174202912452055,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Zadok the Priest.",
+        "fc_majority_answer": "Zadok the Priest.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.010067793251811594,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_2858",
+    "question": "Which 'Regal' male singer provided the half-time entertainment for the 2007 Superbowl?",
+    "gold_candidates": [
+      "Prince"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.587536150573746,
+    "mean_fc_eigenscore": -4.587135623404806,
+    "mean_delta_eigenscore": 0.0004005271689404566,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.0063855121903438295,
+    "baseline_correct_fraction": 1.0,
+    "fc_correct_fraction": 1.0,
+    "baseline_majority_correct": true,
+    "fc_majority_correct": true,
+    "seed_rows": [
+      {
+        "id": "dpql_2858",
+        "generation_seed": 41,
+        "question": "Which 'Regal' male singer provided the half-time entertainment for the 2007 Superbowl?",
+        "gold_candidates": [
+          "Prince"
+        ],
+        "baseline_eigenscore": -4.6677865999685135,
+        "fc_eigenscore": -4.6677865999685135,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Prince.",
+        "fc_majority_answer": "Prince.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005908764367816092,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_2858",
+        "generation_seed": 42,
+        "question": "Which 'Regal' male singer provided the half-time entertainment for the 2007 Superbowl?",
+        "gold_candidates": [
+          "Prince"
+        ],
+        "baseline_eigenscore": -4.512419486330178,
+        "fc_eigenscore": -4.516751143025285,
+        "delta_eigenscore": -0.0043316566951068225,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Prince.",
+        "fc_majority_answer": "Prince.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006664810893691589,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_2858",
+        "generation_seed": 43,
+        "question": "Which 'Regal' male singer provided the half-time entertainment for the 2007 Superbowl?",
+        "gold_candidates": [
+          "Prince"
+        ],
+        "baseline_eigenscore": -4.5824023654225465,
+        "fc_eigenscore": -4.576869127220618,
+        "delta_eigenscore": 0.005533238201928192,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Prince.",
+        "fc_majority_answer": "Prince.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006582961309523809,
+        "correctness_flip": "same"
+      }
+    ]
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "id": "wh_2040",
+    "question": "\"AWFUL JOKES - Which four words comlete this awful joke? A man walks into a bar with a slab of asphalt under his arm and says \"\"A beer please and ................................................\"\"\"",
+    "gold_answer": "ONE FOR THE ROAD",
+    "mean_eigenscore": 0.5305622691750483,
+    "std_eigenscore": 0.35789371418582117,
+    "min_eigenscore": 0.23301972156561113,
+    "max_eigenscore": 1.0339223051425683,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.23301972156561113,
+      1.0339223051425683,
+      0.32474478081696556
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      17,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "\"...one for the road.\"",
+      "\"one for the road.\"",
+      "\"one for the road.\""
+    ],
+    "mean_unique_generations": 15.666666666666666,
+    "most_common_majority_answer": "\"one for the road.\"",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_604",
+    "question": "In Greek mythology, who were Arges, Brontes and Steropes?",
+    "gold_answer": "Cyclopes",
+    "mean_eigenscore": -0.4040595978328525,
+    "std_eigenscore": 0.6518182504371364,
+    "min_eigenscore": -1.3089904812929973,
+    "max_eigenscore": 0.2004769441247959,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.2004769441247959,
+      -0.10366525633035599,
+      -1.3089904812929973
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      18,
+      18,
+      13
+    ],
+    "seed_level_majority_answers": [
+      "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+      "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+      "They were three Cyclopes, sons of the Titan Uranus."
+    ],
+    "mean_unique_generations": 16.333333333333332,
+    "most_common_majority_answer": "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_2218",
+    "question": "Which was the longest moon landing?",
+    "gold_answer": "Apollo 17",
+    "mean_eigenscore": -0.7665536577511888,
+    "std_eigenscore": 0.896851151135928,
+    "min_eigenscore": -1.6970186440532262,
+    "max_eigenscore": 0.44512988060656056,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.44512988060656056,
+      -1.047772209806901,
+      -1.6970186440532262
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      16,
+      12,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes."
+    ],
+    "mean_unique_generations": 13.0,
+    "most_common_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tb_1400",
+    "question": "The Battle of Asculum took place in 279 BC between the Romans and the Greeks in which the Romans lost 6,000 men, while the Greeks lost 3,500, including many of their officers. Who commanded the 'victorious' Greeks?",
+    "gold_answer": "King Pyrrhus of Epirus",
+    "mean_eigenscore": -1.688481559451083,
+    "std_eigenscore": 0.6762703886843826,
+    "min_eigenscore": -2.641398407387259,
+    "max_eigenscore": -1.1414925137182208,
+    "mean_correctness_score_vs_gold": 0.5151515151515151,
+    "std_correctness_score_vs_gold": 0.021427478217774146,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.1414925137182208,
+      -1.2825537572477685,
+      -2.641398407387259
+    ],
+    "seed_level_correctness_scores": [
+      0.5454545454545454,
+      0.5,
+      0.5
+    ],
+    "seed_level_unique_generations": [
+      12,
+      11,
+      9
+    ],
+    "seed_level_majority_answers": [
+      "The Greeks were led by Pyrrhus of Epirus.",
+      "The victorious Greeks were led by Pyrrhus of Epirus.",
+      "The 'victorious' Greeks were led by Pyrrhus of Epirus."
+    ],
+    "mean_unique_generations": 10.666666666666666,
+    "most_common_majority_answer": "The Greeks were led by Pyrrhus of Epirus.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_1544",
+    "question": "What was the name of the letters that in 1566 implicated Mary Queen of Scots in the murder of her second husband, Lord Darnley?",
+    "gold_answer": "CASKET LETTERS",
+    "mean_eigenscore": -2.27030157486382,
+    "std_eigenscore": 0.584430917796848,
+    "min_eigenscore": -3.089881939357567,
+    "max_eigenscore": -1.7680167110535083,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.7680167110535083,
+      -3.089881939357567,
+      -1.9530060741803852
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      11,
+      8,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "The letters were known as the \"Casket Letters\".",
+      "The letters were known as the \"Casket Letters\".",
+      "The letters were known as the \"Casket Letters\"."
+    ],
+    "mean_unique_generations": 10.0,
+    "most_common_majority_answer": "The letters were known as the \"Casket Letters\".",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_1791",
+    "question": "Which saint was known as “The Apostle of the Indies”?",
+    "gold_answer": "St Francis Xavier",
+    "mean_eigenscore": -3.1860976959155276,
+    "std_eigenscore": 0.6433682948272711,
+    "min_eigenscore": -4.0246281319904655,
+    "max_eigenscore": -2.460998903829351,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.0246281319904655,
+      -3.072666051926766,
+      -2.460998903829351
+    ],
+    "seed_level_correctness_scores": [
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666
+    ],
+    "seed_level_unique_generations": [
+      5,
+      7,
+      8
+    ],
+    "seed_level_majority_answers": [
+      "Saint Francis Xavier.",
+      "Saint Francis Xavier.",
+      "Saint Francis Xavier."
+    ],
+    "mean_unique_generations": 6.666666666666667,
+    "most_common_majority_answer": "Saint Francis Xavier.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_4364",
+    "question": "What Detroit-area stadium was sold in 2009 for just $583,000?",
+    "gold_answer": "The Silverdome",
+    "mean_eigenscore": -3.3800736469941,
+    "std_eigenscore": 0.5817458147545806,
+    "min_eigenscore": -4.012945745679216,
+    "max_eigenscore": -2.608393740464947,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -2.608393740464947,
+      -3.518881454838135,
+      -4.012945745679216
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      8,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "The Pontiac Silverdome.",
+      "The Pontiac Silverdome.",
+      "The Pontiac Silverdome."
+    ],
+    "mean_unique_generations": 6.333333333333333,
+    "most_common_majority_answer": "The Pontiac Silverdome.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_2086",
+    "question": "The male of which species of white whale develops a long twisted tusk that projects through its upper lip ?",
+    "gold_answer": "NARWHAL",
+    "mean_eigenscore": -3.504361864374397,
+    "std_eigenscore": 0.6801737245954855,
+    "min_eigenscore": -4.278912013059918,
+    "max_eigenscore": -2.6231146310757176,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 2,
+    "incorrect_count": 1,
+    "correct_rate": 0.6666666666666666,
+    "seed_level_majority_is_correct": [
+      true,
+      false,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.278912013059918,
+      -3.6110589489875538,
+      -2.6231146310757176
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      8
+    ],
+    "seed_level_majority_answers": [
+      "The narwhal.",
+      "The sperm whale.",
+      "The narwhal."
+    ],
+    "mean_unique_generations": 6.333333333333333,
+    "most_common_majority_answer": "The narwhal.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_8485",
+    "question": "What are the tetrahedron, cube, octahedron, dodecahedron and icosahedron known as?",
+    "gold_answer": "Platonic solids",
+    "mean_eigenscore": -3.7130546685938675,
+    "std_eigenscore": 0.36906746196238693,
+    "min_eigenscore": -4.192291421227045,
+    "max_eigenscore": -3.2943684603999657,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.192291421227045,
+      -3.2943684603999657,
+      -3.6525041241545906
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      7,
+      6
+    ],
+    "seed_level_majority_answers": [
+      "Platonic solids.",
+      "Platonic solids.",
+      "Platonic solids."
+    ],
+    "mean_unique_generations": 6.0,
+    "most_common_majority_answer": "Platonic solids.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_3821",
+    "question": "Which tennis player was dubbed ‘Superbrat’ by the British press?",
+    "gold_answer": "John McEnroe",
+    "mean_eigenscore": -3.8415047911712734,
+    "std_eigenscore": 0.25401014481866596,
+    "min_eigenscore": -4.036602512252829,
+    "max_eigenscore": -3.48273879886501,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.005173062395982,
+      -3.48273879886501,
+      -4.036602512252829
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "John McEnroe.",
+      "John McEnroe.",
+      "John McEnroe."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "John McEnroe.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_1476",
+    "question": "\"What movie featured the song \"\"Moon River\"\"?\"",
+    "gold_answer": "Breakfast at Tiffany's",
+    "mean_eigenscore": -4.2337068332872585,
+    "std_eigenscore": 0.39152957629750296,
+    "min_eigenscore": -4.559642341800256,
+    "max_eigenscore": -3.6830953677554015,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -3.6830953677554015,
+      -4.559642341800256,
+      -4.4583827903061195
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      7,
+      5,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Breakfast at Tiffany's.",
+      "Breakfast at Tiffany's.",
+      "Breakfast at Tiffany's."
+    ],
+    "mean_unique_generations": 5.666666666666667,
+    "most_common_majority_answer": "Breakfast at Tiffany's.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_3849",
+    "question": "What breed of dog is Marmaduke in the newspaper cartoon strip of that name?",
+    "gold_answer": "GREAT DANE",
+    "mean_eigenscore": -4.237864729049176,
+    "std_eigenscore": 0.15421781214053729,
+    "min_eigenscore": -4.400167989426493,
+    "max_eigenscore": -4.0305467835252005,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.282879414195834,
+      -4.0305467835252005,
+      -4.400167989426493
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "The Great Dane.",
+      "Marmaduke is a Great Dane.",
+      "A Great Dane."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "The Great Dane.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_1989",
+    "question": "What is the main attraction at both Altamira and Lascaux?",
+    "gold_answer": "Cave paintings",
+    "mean_eigenscore": -4.294929671423891,
+    "std_eigenscore": 0.18048967753459746,
+    "min_eigenscore": -4.470136064945768,
+    "max_eigenscore": -4.046572546883233,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.368080402442674,
+      -4.046572546883233,
+      -4.470136064945768
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      5,
+      6,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "Prehistoric cave paintings.",
+      "Prehistoric cave paintings.",
+      "Prehistoric cave paintings."
+    ],
+    "mean_unique_generations": 5.333333333333333,
+    "most_common_majority_answer": "Prehistoric cave paintings.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "bb_2489",
+    "question": "Michael Morpurgo, author of the children's book War Horse, on which the 2012 Spielberg film (of the same name) is based, held what UK position from 2003-5?",
+    "gold_answer": "Children's Laureate",
+    "mean_eigenscore": -4.511680775210187,
+    "std_eigenscore": 0.5493119909669729,
+    "min_eigenscore": -5.090507115645364,
+    "max_eigenscore": -3.773563308329456,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -4.670971901655739,
+      -3.773563308329456,
+      -5.090507115645364
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      4,
+      6,
+      3
+    ],
+    "seed_level_majority_answers": [
+      "Children's Laureate.",
+      "Children's Laureate.",
+      "Children's Laureate."
+    ],
+    "mean_unique_generations": 4.333333333333333,
+    "most_common_majority_answer": "Children's Laureate.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qz_5301",
+    "question": "What was the capital of the United States between 1785 and 1790??",
+    "gold_answer": "New York",
+    "mean_eigenscore": -4.731298250750394,
+    "std_eigenscore": 0.3416250584508994,
+    "min_eigenscore": -5.213754038490075,
+    "max_eigenscore": -4.467960845358737,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -5.213754038490075,
+      -4.512179868402368,
+      -4.467960845358737
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      3,
+      5,
+      5
+    ],
+    "seed_level_majority_answers": [
+      "New York City.",
+      "New York City.",
+      "New York City."
+    ],
+    "mean_unique_generations": 4.333333333333333,
+    "most_common_majority_answer": "New York City.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  }
+]

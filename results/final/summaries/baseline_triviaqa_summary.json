@@ -1,0 +1,32 @@
+[
+  {
+    "dataset": "qa820",
+    "n_samples": 820.0,
+    "k": 20,
+    "mean_auroc": 0.7865702643613105,
+    "std_auroc": 0.006113615489666773,
+    "mean_aurc": 0.22873036929524673,
+    "std_aurc": 0.005324124505301982,
+    "mean_pcc": -0.4590196832137307,
+    "std_pcc": 0.01464621716108724,
+    "mean_num_correct": 464.0,
+    "mean_num_incorrect": 356.0,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  },
+  {
+    "dataset": "triviaqa",
+    "n_samples": 100.0,
+    "k": 20,
+    "mean_auroc": 0.744050764050764,
+    "std_auroc": 0.03809670968075748,
+    "mean_aurc": 0.26468045069589136,
+    "std_aurc": 0.018092615015908493,
+    "mean_pcc": -0.3957059596394455,
+    "std_pcc": 0.05568339623229179,
+    "mean_num_correct": 54.0,
+    "mean_num_incorrect": 46.0,
+    "mean_clip_fraction": 0.0,
+    "n_runs": 4
+  }
+]

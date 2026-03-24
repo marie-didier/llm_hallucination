@@ -1,0 +1,4699 @@
+[
+  {
+    "id": "qw_1527",
+    "question": "In a film script, what do the letters ECU mean?",
+    "gold_candidates": [
+      "Extreme Close Up"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.1059891621435505,
+    "mean_fc_eigenscore": 0.6814008136279841,
+    "mean_delta_eigenscore": 1.7873899757715346,
+    "mean_baseline_unique_generations": 10.666666666666666,
+    "mean_fc_unique_generations": 14.333333333333334,
+    "mean_fc_clip_fraction": 0.006056598701862374,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_1527",
+        "generation_seed": 41,
+        "question": "In a film script, what do the letters ECU mean?",
+        "gold_candidates": [
+          "Extreme Close Up"
+        ],
+        "baseline_eigenscore": -0.5053076439695842,
+        "fc_eigenscore": 1.398680037857752,
+        "delta_eigenscore": 1.9039876818273362,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Electronic Control Unit.",
+        "fc_majority_answer": "Electronic Control Unit.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.006483783143939394,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_1527",
+        "generation_seed": 42,
+        "question": "In a film script, what do the letters ECU mean?",
+        "gold_candidates": [
+          "Extreme Close Up"
+        ],
+        "baseline_eigenscore": -2.32842073920171,
+        "fc_eigenscore": -0.2056075232866265,
+        "delta_eigenscore": 2.1228132159150834,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Electronic Control Unit.",
+        "fc_majority_answer": "Electronic Control Unit.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.006288470643939394,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_1527",
+        "generation_seed": 43,
+        "question": "In a film script, what do the letters ECU mean?",
+        "gold_candidates": [
+          "Extreme Close Up"
+        ],
+        "baseline_eigenscore": -0.4842391032593573,
+        "fc_eigenscore": 0.8511299263128269,
+        "delta_eigenscore": 1.3353690295721843,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Electronic Control Unit.",
+        "fc_majority_answer": "Electronic Control Unit.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.0053975423177083336,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_20461",
+    "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+    "gold_candidates": [
+      "Greg Rusedski"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.2417242017757437,
+    "mean_fc_eigenscore": -2.3351647018904136,
+    "mean_delta_eigenscore": 0.9065594998853294,
+    "mean_baseline_unique_generations": 7.0,
+    "mean_fc_unique_generations": 9.0,
+    "mean_fc_clip_fraction": 0.00729833505656952,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_20461",
+        "generation_seed": 41,
+        "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+        "gold_candidates": [
+          "Greg Rusedski"
+        ],
+        "baseline_eigenscore": -3.2660810991354543,
+        "fc_eigenscore": -2.371642473609488,
+        "delta_eigenscore": 0.8944386255259662,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Virginia Wade.",
+        "fc_majority_answer": "Virginia Wade.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007206859923245614,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_20461",
+        "generation_seed": 42,
+        "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+        "gold_candidates": [
+          "Greg Rusedski"
+        ],
+        "baseline_eigenscore": -3.2876550264544235,
+        "fc_eigenscore": -2.734907747673128,
+        "delta_eigenscore": 0.5527472787812955,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Virginia Wade.",
+        "fc_majority_answer": "Virginia Wade.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.007161804632092199,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_20461",
+        "generation_seed": 43,
+        "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+        "gold_candidates": [
+          "Greg Rusedski"
+        ],
+        "baseline_eigenscore": -3.1714364797373524,
+        "fc_eigenscore": -1.898943884388626,
+        "delta_eigenscore": 1.2724925953487265,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Virginia Wade.",
+        "fc_majority_answer": "Virginia Wade.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007526340614370748,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_6358",
+    "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+    "gold_candidates": [
+      "Clinical lycanthropy"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.4364053172576026,
+    "mean_fc_eigenscore": -1.53392778567418,
+    "mean_delta_eigenscore": 0.9024775315834227,
+    "mean_baseline_unique_generations": 8.666666666666666,
+    "mean_fc_unique_generations": 10.333333333333334,
+    "mean_fc_clip_fraction": 0.007219092899708522,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_6358",
+        "generation_seed": 41,
+        "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+        "gold_candidates": [
+          "Clinical lycanthropy"
+        ],
+        "baseline_eigenscore": -1.7033274187163765,
+        "fc_eigenscore": -0.7485725644849612,
+        "delta_eigenscore": 0.9547548542314153,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Zoanthropy.",
+        "fc_majority_answer": "Zoanthropy.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007230845668859649,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_6358",
+        "generation_seed": 42,
+        "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+        "gold_candidates": [
+          "Clinical lycanthropy"
+        ],
+        "baseline_eigenscore": -2.77552094891726,
+        "fc_eigenscore": -2.162646427991567,
+        "delta_eigenscore": 0.612874520925693,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Zoanthropy.",
+        "fc_majority_answer": "Zoanthropy.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.0071986837355610565,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_6358",
+        "generation_seed": 43,
+        "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+        "gold_candidates": [
+          "Clinical lycanthropy"
+        ],
+        "baseline_eigenscore": -2.830367584139171,
+        "fc_eigenscore": -1.6905643645460113,
+        "delta_eigenscore": 1.1398032195931598,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Zoanthropy.",
+        "fc_majority_answer": "Zoanthropy.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.0072277492947048615,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_25839",
+    "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+    "gold_candidates": [
+      "The Flying Pickets"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.8685066968552054,
+    "mean_fc_eigenscore": -0.14480974865355692,
+    "mean_delta_eigenscore": 0.7236969482016485,
+    "mean_baseline_unique_generations": 12.666666666666666,
+    "mean_fc_unique_generations": 14.333333333333334,
+    "mean_fc_clip_fraction": 0.007170939286026256,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_25839",
+        "generation_seed": 41,
+        "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+        "gold_candidates": [
+          "The Flying Pickets"
+        ],
+        "baseline_eigenscore": -1.659497218052676,
+        "fc_eigenscore": -0.7618804487521168,
+        "delta_eigenscore": 0.8976167693005591,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Righteous Brothers.",
+        "fc_majority_answer": "The Righteous Brothers.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.00710022941468254,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_25839",
+        "generation_seed": 42,
+        "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+        "gold_candidates": [
+          "The Flying Pickets"
+        ],
+        "baseline_eigenscore": 0.503641295585869,
+        "fc_eigenscore": 0.5246443812246638,
+        "delta_eigenscore": 0.021003085638794827,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Righteous Brothers had a UK No.1 hit in 1983 with a cover version of Yazoo's \"Only You\".",
+        "fc_majority_answer": "The Righteous Brothers had a UK No.1 hit in 1983 with a cover version of Yazoo's \"Only You\".",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.00726494939072327,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_25839",
+        "generation_seed": 43,
+        "question": "Which group had a UK No.1 hit in 1983 with a cover version of Yazoo's Only You?",
+        "gold_candidates": [
+          "The Flying Pickets"
+        ],
+        "baseline_eigenscore": -1.4496641680988094,
+        "fc_eigenscore": -0.19719317843321785,
+        "delta_eigenscore": 1.2524709896655914,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Four Tops.",
+        "fc_majority_answer": "The Four Tops.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.007147639052672956,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "jp_321",
+    "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+    "gold_candidates": [
+      "AOL"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.459937630108711,
+    "mean_fc_eigenscore": -1.7590413860255267,
+    "mean_delta_eigenscore": 0.7008962440831841,
+    "mean_baseline_unique_generations": 9.0,
+    "mean_fc_unique_generations": 10.666666666666666,
+    "mean_fc_clip_fraction": 0.007908769772376542,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "jp_321",
+        "generation_seed": 41,
+        "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+        "gold_candidates": [
+          "AOL"
+        ],
+        "baseline_eigenscore": -1.9241644046742195,
+        "fc_eigenscore": -1.4318419885853126,
+        "delta_eigenscore": 0.4923224160889068,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "fc_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007846860532407407,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_321",
+        "generation_seed": 42,
+        "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+        "gold_candidates": [
+          "AOL"
+        ],
+        "baseline_eigenscore": -2.578367337059972,
+        "fc_eigenscore": -1.8421607743270427,
+        "delta_eigenscore": 0.7362065627329293,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "fc_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.007904007523148147,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_321",
+        "generation_seed": 43,
+        "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+        "gold_candidates": [
+          "AOL"
+        ],
+        "baseline_eigenscore": -2.8772811485919414,
+        "fc_eigenscore": -2.003121395164225,
+        "delta_eigenscore": 0.8741597534277163,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "fc_majority_answer": "AT&T acquired Time Warner in 2018.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007975441261574075,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_8251",
+    "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+    "gold_candidates": [
+      "Whistle Down the Wind"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.185611914347352,
+    "mean_fc_eigenscore": -4.532931908138425,
+    "mean_delta_eigenscore": 0.6526800062089274,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 4.333333333333333,
+    "mean_fc_clip_fraction": 0.006925849628454497,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_8251",
+        "generation_seed": 41,
+        "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+        "gold_candidates": [
+          "Whistle Down the Wind"
+        ],
+        "baseline_eigenscore": -5.651814915495656,
+        "fc_eigenscore": -5.068831232803125,
+        "delta_eigenscore": 0.5829836826925314,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King of Kings.",
+        "fc_majority_answer": "King of Kings.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006966335089631783,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_8251",
+        "generation_seed": 42,
+        "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+        "gold_candidates": [
+          "Whistle Down the Wind"
+        ],
+        "baseline_eigenscore": -4.680403423348138,
+        "fc_eigenscore": -3.6866582628521156,
+        "delta_eigenscore": 0.9937451604960224,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King of Kings.",
+        "fc_majority_answer": "King of Kings.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0069234708460365856,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_8251",
+        "generation_seed": 43,
+        "question": "Alan Bates played an escaped convict who was mistaken for the son of God in which 1961 film?",
+        "gold_candidates": [
+          "Whistle Down the Wind"
+        ],
+        "baseline_eigenscore": -5.224617404198264,
+        "fc_eigenscore": -4.843306228760035,
+        "delta_eigenscore": 0.38131117543822857,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King of Kings.",
+        "fc_majority_answer": "King of Kings.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006887742949695122,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_1002",
+    "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+    "gold_candidates": [
+      "RAWALPINDI"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.640249747392277,
+    "mean_fc_eigenscore": -4.023472694211986,
+    "mean_delta_eigenscore": 0.6167770531802906,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 5.333333333333333,
+    "mean_fc_clip_fraction": 0.005314237451622436,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_1002",
+        "generation_seed": 41,
+        "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+        "gold_candidates": [
+          "RAWALPINDI"
+        ],
+        "baseline_eigenscore": -4.70020243927723,
+        "fc_eigenscore": -4.180306022186821,
+        "delta_eigenscore": 0.5198964170904086,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Karachi.",
+        "fc_majority_answer": "Karachi.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005239310315860215,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_1002",
+        "generation_seed": 42,
+        "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+        "gold_candidates": [
+          "RAWALPINDI"
+        ],
+        "baseline_eigenscore": -4.1149709218225965,
+        "fc_eigenscore": -4.137284128729197,
+        "delta_eigenscore": -0.02231320690660077,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Karachi.",
+        "fc_majority_answer": "Karachi.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005395161513741135,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_1002",
+        "generation_seed": 43,
+        "question": "Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?",
+        "gold_candidates": [
+          "RAWALPINDI"
+        ],
+        "baseline_eigenscore": -5.105575881077003,
+        "fc_eigenscore": -3.7528279317199393,
+        "delta_eigenscore": 1.352747949357064,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Karachi.",
+        "fc_majority_answer": "Karachi.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005308240525265957,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_14910",
+    "question": "'Paralympics' is a combination of Olympics and what other word?",
+    "gold_candidates": [
+      "Parallel"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.7571508017204045,
+    "mean_fc_eigenscore": -2.152484357533328,
+    "mean_delta_eigenscore": 0.6046664441870755,
+    "mean_baseline_unique_generations": 7.333333333333333,
+    "mean_fc_unique_generations": 8.666666666666666,
+    "mean_fc_clip_fraction": 0.007483278194510331,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_14910",
+        "generation_seed": 41,
+        "question": "'Paralympics' is a combination of Olympics and what other word?",
+        "gold_candidates": [
+          "Parallel"
+        ],
+        "baseline_eigenscore": -3.4642069533109505,
+        "fc_eigenscore": -3.0561620043731312,
+        "delta_eigenscore": 0.4080449489378193,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paralympics.",
+        "fc_majority_answer": "Paralympics.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006997647849462366,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_14910",
+        "generation_seed": 42,
+        "question": "'Paralympics' is a combination of Olympics and what other word?",
+        "gold_candidates": [
+          "Parallel"
+        ],
+        "baseline_eigenscore": -2.3585024851834966,
+        "fc_eigenscore": -1.9101614230828925,
+        "delta_eigenscore": 0.4483410621006041,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paralympics.",
+        "fc_majority_answer": "Paralympics",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007665696486928104,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_14910",
+        "generation_seed": 43,
+        "question": "'Paralympics' is a combination of Olympics and what other word?",
+        "gold_candidates": [
+          "Parallel"
+        ],
+        "baseline_eigenscore": -2.4487429666667646,
+        "fc_eigenscore": -1.4911296451439615,
+        "delta_eigenscore": 0.9576133215228031,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paralympics",
+        "fc_majority_answer": "Paralympics",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.0077864902471405225,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_9518",
+    "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+    "gold_candidates": [
+      "Robert the Robot"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.5493494815818183,
+    "mean_fc_eigenscore": -0.9906977663408906,
+    "mean_delta_eigenscore": 0.5586517152409277,
+    "mean_baseline_unique_generations": 11.0,
+    "mean_fc_unique_generations": 12.333333333333334,
+    "mean_fc_clip_fraction": 0.008250033560288259,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_9518",
+        "generation_seed": 41,
+        "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+        "gold_candidates": [
+          "Robert the Robot"
+        ],
+        "baseline_eigenscore": -1.0880307798566973,
+        "fc_eigenscore": -0.7323449552895245,
+        "delta_eigenscore": 0.3556858245671728,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Major Zero.",
+        "fc_majority_answer": "Major Zero.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.008321569461633663,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9518",
+        "generation_seed": 42,
+        "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+        "gold_candidates": [
+          "Robert the Robot"
+        ],
+        "baseline_eigenscore": -2.51734972914211,
+        "fc_eigenscore": -1.2461305185589144,
+        "delta_eigenscore": 1.2712192105831956,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Major Zero.",
+        "fc_majority_answer": "Major Zero.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008220257675438597,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_9518",
+        "generation_seed": 43,
+        "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+        "gold_candidates": [
+          "Robert the Robot"
+        ],
+        "baseline_eigenscore": -1.0426679357466473,
+        "fc_eigenscore": -0.9936178251742325,
+        "delta_eigenscore": 0.04905011057241482,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Major Zero",
+        "fc_majority_answer": "Major Zero",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008208273543792517,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_2678",
+    "question": "What is Kenny's last name on the animated TV series South Park?",
+    "gold_candidates": [
+      "McCormick"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.27801073422887,
+    "mean_fc_eigenscore": -3.7815522272168685,
+    "mean_delta_eigenscore": 0.4964585070120015,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 5.333333333333333,
+    "mean_fc_clip_fraction": 0.0052276754669332804,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qg_2678",
+        "generation_seed": 41,
+        "question": "What is Kenny's last name on the animated TV series South Park?",
+        "gold_candidates": [
+          "McCormick"
+        ],
+        "baseline_eigenscore": -4.989649840144768,
+        "fc_eigenscore": -4.454209369406873,
+        "delta_eigenscore": 0.5354404707378952,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cartman.",
+        "fc_majority_answer": "Cartman.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.00518018018018018,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2678",
+        "generation_seed": 42,
+        "question": "What is Kenny's last name on the animated TV series South Park?",
+        "gold_candidates": [
+          "McCormick"
+        ],
+        "baseline_eigenscore": -3.9257193541889244,
+        "fc_eigenscore": -3.444981950886227,
+        "delta_eigenscore": 0.48073740330269743,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cartman.",
+        "fc_majority_answer": "Cartman.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005159505208333333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2678",
+        "generation_seed": 43,
+        "question": "What is Kenny's last name on the animated TV series South Park?",
+        "gold_candidates": [
+          "McCormick"
+        ],
+        "baseline_eigenscore": -3.9186630083529166,
+        "fc_eigenscore": -3.445465361357505,
+        "delta_eigenscore": 0.4731976469954118,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cartman.",
+        "fc_majority_answer": "Cartman.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0053433410122863245,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_172",
+    "question": "What would a person normally do with perique?",
+    "gold_candidates": [
+      "Smoke it"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 1.2070566656465462,
+    "mean_fc_eigenscore": 1.6312036457919703,
+    "mean_delta_eigenscore": 0.42414698014542423,
+    "mean_baseline_unique_generations": 16.666666666666668,
+    "mean_fc_unique_generations": 17.666666666666668,
+    "mean_fc_clip_fraction": 0.007491347937206336,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_172",
+        "generation_seed": 41,
+        "question": "What would a person normally do with perique?",
+        "gold_candidates": [
+          "Smoke it"
+        ],
+        "baseline_eigenscore": 0.9231824319818595,
+        "fc_eigenscore": 1.739376281901451,
+        "delta_eigenscore": 0.8161938499195917,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Perique is a type of tobacco often used in cigars.",
+        "fc_majority_answer": "Use as a flavoring in cigars.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.007711476293103448,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_172",
+        "generation_seed": 42,
+        "question": "What would a person normally do with perique?",
+        "gold_candidates": [
+          "Smoke it"
+        ],
+        "baseline_eigenscore": 0.7982965047171687,
+        "fc_eigenscore": 0.9535416308640603,
+        "delta_eigenscore": 0.15524512614689157,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Use as a flavoring in cigars.",
+        "fc_majority_answer": "Use as a flavoring in cigars.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.007089652267156863,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_172",
+        "generation_seed": 43,
+        "question": "What would a person normally do with perique?",
+        "gold_candidates": [
+          "Smoke it"
+        ],
+        "baseline_eigenscore": 1.8996910602406103,
+        "fc_eigenscore": 2.2006930246103997,
+        "delta_eigenscore": 0.30100196436978943,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cuban cigar.",
+        "fc_majority_answer": "Cuban cigar.",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.007672915251358696,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_7994",
+    "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+    "gold_candidates": [
+      "Aida"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 2.1853474745170978,
+    "mean_fc_eigenscore": 2.5934253283285877,
+    "mean_delta_eigenscore": 0.4080778538114898,
+    "mean_baseline_unique_generations": 18.0,
+    "mean_fc_unique_generations": 19.0,
+    "mean_fc_clip_fraction": 0.008167742781654531,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_7994",
+        "generation_seed": 41,
+        "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+        "gold_candidates": [
+          "Aida"
+        ],
+        "baseline_eigenscore": 1.889143649452182,
+        "fc_eigenscore": 2.4908646991642707,
+        "delta_eigenscore": 0.6017210497120886,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Veni, Vidi, Vici.",
+        "fc_majority_answer": "\"Verdi\" sounds like \"very desired.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.007927897135416667,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_7994",
+        "generation_seed": 42,
+        "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+        "gold_candidates": [
+          "Aida"
+        ],
+        "baseline_eigenscore": 2.293010528441125,
+        "fc_eigenscore": 2.563018613268367,
+        "delta_eigenscore": 0.27000808482724237,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "fc_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.008436678296925567,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_7994",
+        "generation_seed": 43,
+        "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+        "gold_candidates": [
+          "Aida"
+        ],
+        "baseline_eigenscore": 2.3738882456579864,
+        "fc_eigenscore": 2.726392672553125,
+        "delta_eigenscore": 0.3525044268951385,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "fc_majority_answer": "\"Verdi\" sounds like \"very dear.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.008138652912621358,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_1556",
+    "question": "Astrakhan is the curly hair of which young animal?",
+    "gold_candidates": [
+      "Lamb"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.4192614494604956,
+    "mean_fc_eigenscore": -2.017337909572683,
+    "mean_delta_eigenscore": 0.4019235398878125,
+    "mean_baseline_unique_generations": 9.0,
+    "mean_fc_unique_generations": 10.0,
+    "mean_fc_clip_fraction": 0.006554038108037307,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.3333333333333333,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_1556",
+        "generation_seed": 41,
+        "question": "Astrakhan is the curly hair of which young animal?",
+        "gold_candidates": [
+          "Lamb"
+        ],
+        "baseline_eigenscore": -3.2069485918506886,
+        "fc_eigenscore": -2.80546505624949,
+        "delta_eigenscore": 0.40148353560119876,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "A lamb.",
+        "fc_majority_answer": "A lamb.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006198230421686747,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_1556",
+        "generation_seed": 42,
+        "question": "Astrakhan is the curly hair of which young animal?",
+        "gold_candidates": [
+          "Lamb"
+        ],
+        "baseline_eigenscore": -2.5285203234642983,
+        "fc_eigenscore": -2.5285203234642983,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Bactrian camel.",
+        "fc_majority_answer": "The Bactrian camel.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.006308044678714859,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_1556",
+        "generation_seed": 43,
+        "question": "Astrakhan is the curly hair of which young animal?",
+        "gold_candidates": [
+          "Lamb"
+        ],
+        "baseline_eigenscore": -1.5223154330664994,
+        "fc_eigenscore": -0.7180283490042607,
+        "delta_eigenscore": 0.8042870840622387,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Camel.",
+        "fc_majority_answer": "Camel.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.007155839223710317,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_7154",
+    "question": "Which foreign car manufacture has a rams head on its badge?",
+    "gold_candidates": [
+      "DODGE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.93244219933316,
+    "mean_fc_eigenscore": -1.5824896153576928,
+    "mean_delta_eigenscore": 0.3499525839754671,
+    "mean_baseline_unique_generations": 9.666666666666666,
+    "mean_fc_unique_generations": 10.333333333333334,
+    "mean_fc_clip_fraction": 0.006617327588419996,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_7154",
+        "generation_seed": 41,
+        "question": "Which foreign car manufacture has a rams head on its badge?",
+        "gold_candidates": [
+          "DODGE"
+        ],
+        "baseline_eigenscore": -3.6777924007306937,
+        "fc_eigenscore": -2.7292388925492417,
+        "delta_eigenscore": 0.948553508181452,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ram Trucks.",
+        "fc_majority_answer": "Ram Trucks.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006172311265034364,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7154",
+        "generation_seed": 42,
+        "question": "Which foreign car manufacture has a rams head on its badge?",
+        "gold_candidates": [
+          "DODGE"
+        ],
+        "baseline_eigenscore": -1.8040368831327531,
+        "fc_eigenscore": -2.153682873773902,
+        "delta_eigenscore": -0.3496459906411489,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ram Trucks.",
+        "fc_majority_answer": "Ram Trucks.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.006538270511168385,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_7154",
+        "generation_seed": 43,
+        "question": "Which foreign car manufacture has a rams head on its badge?",
+        "gold_candidates": [
+          "DODGE"
+        ],
+        "baseline_eigenscore": -0.31549731413603366,
+        "fc_eigenscore": 0.13545292025006442,
+        "delta_eigenscore": 0.45095023438609805,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ram Trucks.",
+        "fc_majority_answer": "Ram Trucks.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.007141400989057239,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_8140",
+    "question": "Which word derives from the Greek words for ‘star’ and ‘sailor’?",
+    "gold_candidates": [
+      "Astronaut"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.863804981448068,
+    "mean_fc_eigenscore": -3.5232755366286344,
+    "mean_delta_eigenscore": 0.34052944481943365,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.0071153624655976,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_8140",
+        "generation_seed": 41,
+        "question": "Which word derives from the Greek words for ‘star’ and ‘sailor’?",
+        "gold_candidates": [
+          "Astronaut"
+        ],
+        "baseline_eigenscore": -4.5172060823829225,
+        "fc_eigenscore": -3.535093320661433,
+        "delta_eigenscore": 0.9821127617214898,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Asterix.",
+        "fc_majority_answer": "Asterion.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006635408319978633,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_8140",
+        "generation_seed": 42,
+        "question": "Which word derives from the Greek words for ‘star’ and ‘sailor’?",
+        "gold_candidates": [
+          "Astronaut"
+        ],
+        "baseline_eigenscore": -3.5491746532553528,
+        "fc_eigenscore": -3.495784330773303,
+        "delta_eigenscore": 0.05339032248204978,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Asterion.",
+        "fc_majority_answer": "Asterion.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007391200921474359,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_8140",
+        "generation_seed": 43,
+        "question": "Which word derives from the Greek words for ‘star’ and ‘sailor’?",
+        "gold_candidates": [
+          "Astronaut"
+        ],
+        "baseline_eigenscore": -3.525034208705928,
+        "fc_eigenscore": -3.5389489584511664,
+        "delta_eigenscore": -0.013914749745238542,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Asterion.",
+        "fc_majority_answer": "Asterion.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007319478155339806,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_4713",
+    "question": "Which character did Felicity Kendall play in 'The Good Life'? (Christian name and surname required)",
+    "gold_candidates": [
+      "Barbara Good"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.856788491303226,
+    "mean_fc_eigenscore": -4.520114306963633,
+    "mean_delta_eigenscore": 0.33667418433959284,
+    "mean_baseline_unique_generations": 3.6666666666666665,
+    "mean_fc_unique_generations": 4.333333333333333,
+    "mean_fc_clip_fraction": 0.006358812989672364,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_4713",
+        "generation_seed": 41,
+        "question": "Which character did Felicity Kendall play in 'The Good Life'? (Christian name and surname required)",
+        "gold_candidates": [
+          "Barbara Good"
+        ],
+        "baseline_eigenscore": -5.6301774133784175,
+        "fc_eigenscore": -5.130460717712797,
+        "delta_eigenscore": 0.4997166956656205,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Pauline.",
+        "fc_majority_answer": "Pauline.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.0063324235443376065,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_4713",
+        "generation_seed": 42,
+        "question": "Which character did Felicity Kendall play in 'The Good Life'? (Christian name and surname required)",
+        "gold_candidates": [
+          "Barbara Good"
+        ],
+        "baseline_eigenscore": -4.252723720208236,
+        "fc_eigenscore": -4.245569029617518,
+        "delta_eigenscore": 0.007154690590717827,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Pauline.",
+        "fc_majority_answer": "Pauline.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006358924278846154,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_4713",
+        "generation_seed": 43,
+        "question": "Which character did Felicity Kendall play in 'The Good Life'? (Christian name and surname required)",
+        "gold_candidates": [
+          "Barbara Good"
+        ],
+        "baseline_eigenscore": -4.687464340323024,
+        "fc_eigenscore": -4.184313173560584,
+        "delta_eigenscore": 0.5031511667624402,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Pauline.",
+        "fc_majority_answer": "Pauline.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006385091145833333,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qf_3156",
+    "question": "What is the stage name of double act 'Ian and Janet Tough?",
+    "gold_candidates": [
+      "The Krankies"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.5028875718732325,
+    "mean_fc_eigenscore": -0.1787580004527823,
+    "mean_delta_eigenscore": 0.3241295714204502,
+    "mean_baseline_unique_generations": 13.333333333333334,
+    "mean_fc_unique_generations": 13.333333333333334,
+    "mean_fc_clip_fraction": 0.005779197338035229,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qf_3156",
+        "generation_seed": 41,
+        "question": "What is the stage name of double act 'Ian and Janet Tough?",
+        "gold_candidates": [
+          "The Krankies"
+        ],
+        "baseline_eigenscore": 0.06800710080915935,
+        "fc_eigenscore": -0.3627833445134777,
+        "delta_eigenscore": -0.43079044532263705,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Shadows.",
+        "fc_majority_answer": "The Shadows.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 13,
+        "fc_clip_fraction": 0.0057558164491758245,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_3156",
+        "generation_seed": 42,
+        "question": "What is the stage name of double act 'Ian and Janet Tough?",
+        "gold_candidates": [
+          "The Krankies"
+        ],
+        "baseline_eigenscore": -1.8890994613806555,
+        "fc_eigenscore": -1.0927046738331203,
+        "delta_eigenscore": 0.7963947875475352,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Shadows.",
+        "fc_majority_answer": "The Shadows.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.005664987275094697,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_3156",
+        "generation_seed": 43,
+        "question": "What is the stage name of double act 'Ian and Janet Tough?",
+        "gold_candidates": [
+          "The Krankies"
+        ],
+        "baseline_eigenscore": 0.3124296449517986,
+        "fc_eigenscore": 0.919214016988251,
+        "delta_eigenscore": 0.6067843720364524,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Double Act was Ian and Janet Tough.",
+        "fc_majority_answer": "The Shadows.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.005916788289835165,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_661",
+    "question": "Which 19th century king sired ten illegitimate children, by the Irish comedienne, Dorothea Jordan?",
+    "gold_candidates": [
+      "WILLIAM IV"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.4839007533231836,
+    "mean_fc_eigenscore": -3.1678950587265624,
+    "mean_delta_eigenscore": 0.3160056945966219,
+    "mean_baseline_unique_generations": 6.666666666666667,
+    "mean_fc_unique_generations": 7.333333333333333,
+    "mean_fc_clip_fraction": 0.007960129726080246,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_661",
+        "generation_seed": 41,
+        "question": "Which 19th century king sired ten illegitimate children, by the Irish comedienne, Dorothea Jordan?",
+        "gold_candidates": [
+          "WILLIAM IV"
+        ],
+        "baseline_eigenscore": -4.279607657965963,
+        "fc_eigenscore": -4.279607657965963,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King George IV of the United Kingdom.",
+        "fc_majority_answer": "King George IV of the United Kingdom.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.007971662554824562,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_661",
+        "generation_seed": 42,
+        "question": "Which 19th century king sired ten illegitimate children, by the Irish comedienne, Dorothea Jordan?",
+        "gold_candidates": [
+          "WILLIAM IV"
+        ],
+        "baseline_eigenscore": -2.8604031351158703,
+        "fc_eigenscore": -2.8604031351158703,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King George IV of the United Kingdom.",
+        "fc_majority_answer": "King George IV of the United Kingdom.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.008050311053240741,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_661",
+        "generation_seed": 43,
+        "question": "Which 19th century king sired ten illegitimate children, by the Irish comedienne, Dorothea Jordan?",
+        "gold_candidates": [
+          "WILLIAM IV"
+        ],
+        "baseline_eigenscore": -3.3116914668877184,
+        "fc_eigenscore": -2.3636743830978526,
+        "delta_eigenscore": 0.9480170837898658,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "King George IV of the United Kingdom.",
+        "fc_majority_answer": "King George IV of the United Kingdom.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007858415570175439,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_4604",
+    "question": "With a motto of Always Ready, Always There, what US military branch had it's founding on Dec 14, 1636?",
+    "gold_candidates": [
+      "National Guard"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.7285639411647544,
+    "mean_fc_eigenscore": -3.4164571441745983,
+    "mean_delta_eigenscore": 0.3121067969901561,
+    "mean_baseline_unique_generations": 6.333333333333333,
+    "mean_fc_unique_generations": 7.0,
+    "mean_fc_clip_fraction": 0.006795986124729037,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qg_4604",
+        "generation_seed": 41,
+        "question": "With a motto of Always Ready, Always There, what US military branch had it's founding on Dec 14, 1636?",
+        "gold_candidates": [
+          "National Guard"
+        ],
+        "baseline_eigenscore": -3.6849322874092723,
+        "fc_eigenscore": -3.62767679637371,
+        "delta_eigenscore": 0.057255491035562045,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The United States Marine Corps.",
+        "fc_majority_answer": "The United States Marine Corps.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006214118726325758,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_4604",
+        "generation_seed": 42,
+        "question": "With a motto of Always Ready, Always There, what US military branch had it's founding on Dec 14, 1636?",
+        "gold_candidates": [
+          "National Guard"
+        ],
+        "baseline_eigenscore": -3.670331763108566,
+        "fc_eigenscore": -2.7860079320859716,
+        "delta_eigenscore": 0.8843238310225945,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The United States Marine Corps.",
+        "fc_majority_answer": "The United States Marine Corps.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.00715684918879056,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_4604",
+        "generation_seed": 43,
+        "question": "With a motto of Always Ready, Always There, what US military branch had it's founding on Dec 14, 1636?",
+        "gold_candidates": [
+          "National Guard"
+        ],
+        "baseline_eigenscore": -3.8304277729764236,
+        "fc_eigenscore": -3.835686704064112,
+        "delta_eigenscore": -0.005258931087688268,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The United States Marine Corps.",
+        "fc_majority_answer": "The United States Marine Corps.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007016990459070797,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_1436",
+    "question": "In 1942, which town was destroyed by Nazis in reprisal for the assassination of Reinhard Heydrick?",
+    "gold_candidates": [
+      "LIDICE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.714327490764539,
+    "mean_fc_eigenscore": -2.406420895555432,
+    "mean_delta_eigenscore": 0.3079065952091066,
+    "mean_baseline_unique_generations": 7.666666666666667,
+    "mean_fc_unique_generations": 8.333333333333334,
+    "mean_fc_clip_fraction": 0.008032769097222224,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_1436",
+        "generation_seed": 41,
+        "question": "In 1942, which town was destroyed by Nazis in reprisal for the assassination of Reinhard Heydrick?",
+        "gold_candidates": [
+          "LIDICE"
+        ],
+        "baseline_eigenscore": -1.6208288271743048,
+        "fc_eigenscore": -1.6788736758130025,
+        "delta_eigenscore": -0.058044848638697744,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Lwów (now Lviv, Ukraine).",
+        "fc_majority_answer": "Jassy.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.008032769097222222,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_1436",
+        "generation_seed": 42,
+        "question": "In 1942, which town was destroyed by Nazis in reprisal for the assassination of Reinhard Heydrick?",
+        "gold_candidates": [
+          "LIDICE"
+        ],
+        "baseline_eigenscore": -2.5315695713620854,
+        "fc_eigenscore": -3.4913197811120265,
+        "delta_eigenscore": -0.9597502097499411,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Leningrad.",
+        "fc_majority_answer": "Leningrad.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007977068865740742,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_1436",
+        "generation_seed": 43,
+        "question": "In 1942, which town was destroyed by Nazis in reprisal for the assassination of Reinhard Heydrick?",
+        "gold_candidates": [
+          "LIDICE"
+        ],
+        "baseline_eigenscore": -3.9905840737572262,
+        "fc_eigenscore": -2.0490692297412676,
+        "delta_eigenscore": 1.9415148440159586,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Leningrad.",
+        "fc_majority_answer": "Jassy, Romania.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.008088469328703704,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_436",
+    "question": "\"Which British actress won this year's U.S. Emmy award for best actress for her role in the drama series \"\"Mildred Pierce\"\"?\"",
+    "gold_candidates": [
+      "KATE WINSLET"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.9064869739244023,
+    "mean_fc_eigenscore": 1.2086998022123938,
+    "mean_delta_eigenscore": 0.3022128282879915,
+    "mean_baseline_unique_generations": 16.666666666666668,
+    "mean_fc_unique_generations": 17.666666666666668,
+    "mean_fc_clip_fraction": 0.009851123450575972,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "wh_436",
+        "generation_seed": 41,
+        "question": "\"Which British actress won this year's U.S. Emmy award for best actress for her role in the drama series \"\"Mildred Pierce\"\"?\"",
+        "gold_candidates": [
+          "KATE WINSLET"
+        ],
+        "baseline_eigenscore": 1.1346981269295138,
+        "fc_eigenscore": 1.5872176944013425,
+        "delta_eigenscore": 0.45251956747182875,
+        "baseline_is_correct": true,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Merrill's replacement, Kate Winslet, won the award.",
+        "fc_majority_answer": "Joan Crawford won the 1952 Emmy for her role in \"Mildred Pierce.\"",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.010101248204022988,
+        "correctness_flip": "correct_to_incorrect"
+      },
+      {
+        "id": "wh_436",
+        "generation_seed": 42,
+        "question": "\"Which British actress won this year's U.S. Emmy award for best actress for her role in the drama series \"\"Mildred Pierce\"\"?\"",
+        "gold_candidates": [
+          "KATE WINSLET"
+        ],
+        "baseline_eigenscore": 0.868479784686486,
+        "fc_eigenscore": 0.8680642801507872,
+        "delta_eigenscore": -0.0004155045356988296,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Joan Crawford won the award.",
+        "fc_majority_answer": "Joan Crawford won the 1952 Emmy Award for Best Actress for her role in \"Mildred Pierce\".",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 17,
+        "fc_clip_fraction": 0.009865105289152298,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_436",
+        "generation_seed": 43,
+        "question": "\"Which British actress won this year's U.S. Emmy award for best actress for her role in the drama series \"\"Mildred Pierce\"\"?\"",
+        "gold_candidates": [
+          "KATE WINSLET"
+        ],
+        "baseline_eigenscore": 0.7162830101572071,
+        "fc_eigenscore": 1.1708174320850517,
+        "delta_eigenscore": 0.45453442192784466,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Sally Field won the award.",
+        "fc_majority_answer": "Sally Field won the award.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 17,
+        "fc_clip_fraction": 0.009587016858552632,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_16651",
+    "question": "Which Gilbert and Sullivan opera has the alternate title 'Bunthome's Bride'?",
+    "gold_candidates": [
+      "Patience"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.530754953563086,
+    "mean_fc_eigenscore": -4.229325635298971,
+    "mean_delta_eigenscore": 0.3014293182641146,
+    "mean_baseline_unique_generations": 4.333333333333333,
+    "mean_fc_unique_generations": 5.0,
+    "mean_fc_clip_fraction": 0.006914678623208481,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_16651",
+        "generation_seed": 41,
+        "question": "Which Gilbert and Sullivan opera has the alternate title 'Bunthome's Bride'?",
+        "gold_candidates": [
+          "Patience"
+        ],
+        "baseline_eigenscore": -4.152775764760141,
+        "fc_eigenscore": -4.740686109733289,
+        "delta_eigenscore": -0.5879103449731486,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Iolanthe.",
+        "fc_majority_answer": "Iolanthe.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.0066839599609375,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_16651",
+        "generation_seed": 42,
+        "question": "Which Gilbert and Sullivan opera has the alternate title 'Bunthome's Bride'?",
+        "gold_candidates": [
+          "Patience"
+        ],
+        "baseline_eigenscore": -4.74068610982007,
+        "fc_eigenscore": -4.218991083878972,
+        "delta_eigenscore": 0.5216950259410975,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Iolanthe.",
+        "fc_majority_answer": "Iolanthe.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006977573692375887,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_16651",
+        "generation_seed": 43,
+        "question": "Which Gilbert and Sullivan opera has the alternate title 'Bunthome's Bride'?",
+        "gold_candidates": [
+          "Patience"
+        ],
+        "baseline_eigenscore": -4.698802986109048,
+        "fc_eigenscore": -3.7282997122846533,
+        "delta_eigenscore": 0.970503273824395,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Iolanthe.",
+        "fc_majority_answer": "Iolanthe.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007082502216312057,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_2852",
+    "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+    "gold_candidates": [
+      "Airport"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.4241013710209507,
+    "mean_fc_eigenscore": -2.12534290434431,
+    "mean_delta_eigenscore": 0.2987584666766408,
+    "mean_baseline_unique_generations": 8.0,
+    "mean_fc_unique_generations": 8.666666666666666,
+    "mean_fc_clip_fraction": 0.007262865162517688,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_2852",
+        "generation_seed": 41,
+        "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+        "gold_candidates": [
+          "Airport"
+        ],
+        "baseline_eigenscore": -2.859180294846299,
+        "fc_eigenscore": -2.359773405653767,
+        "delta_eigenscore": 0.49940688919253207,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "lighthouse.",
+        "fc_majority_answer": "lighthouse.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.007275390625,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_2852",
+        "generation_seed": 42,
+        "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+        "gold_candidates": [
+          "Airport"
+        ],
+        "baseline_eigenscore": -2.4731506881976992,
+        "fc_eigenscore": -2.0661931073176443,
+        "delta_eigenscore": 0.40695758088005496,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Puffin colony.",
+        "fc_majority_answer": "Puffin colony.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007225994731104651,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_2852",
+        "generation_seed": 43,
+        "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+        "gold_candidates": [
+          "Airport"
+        ],
+        "baseline_eigenscore": -1.9399731300188534,
+        "fc_eigenscore": -1.950062200061518,
+        "delta_eigenscore": -0.010089070042664572,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "surfing school.",
+        "fc_majority_answer": "Puffin colony.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007287210131448413,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "jp_2655",
+    "question": "Who supposedly chopped down a cherry tree, but couldn't lie about it?",
+    "gold_candidates": [
+      "George Washington"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.397692904450355,
+    "mean_fc_eigenscore": -2.0992041693149033,
+    "mean_delta_eigenscore": 0.2984887351354524,
+    "mean_baseline_unique_generations": 8.666666666666666,
+    "mean_fc_unique_generations": 9.333333333333334,
+    "mean_fc_clip_fraction": 0.0070376903214258565,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "jp_2655",
+        "generation_seed": 41,
+        "question": "Who supposedly chopped down a cherry tree, but couldn't lie about it?",
+        "gold_candidates": [
+          "George Washington"
+        ],
+        "baseline_eigenscore": -1.4205461116151343,
+        "fc_eigenscore": -1.4232615876479167,
+        "delta_eigenscore": -0.002715476032782327,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cinderella.",
+        "fc_majority_answer": "Cinderella.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.00745716661509901,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_2655",
+        "generation_seed": 42,
+        "question": "Who supposedly chopped down a cherry tree, but couldn't lie about it?",
+        "gold_candidates": [
+          "George Washington"
+        ],
+        "baseline_eigenscore": -2.1392751855568024,
+        "fc_eigenscore": -2.1529635447330593,
+        "delta_eigenscore": -0.013688359176256881,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cinderella.",
+        "fc_majority_answer": "Cinderella.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007018118193655303,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "jp_2655",
+        "generation_seed": 43,
+        "question": "Who supposedly chopped down a cherry tree, but couldn't lie about it?",
+        "gold_candidates": [
+          "George Washington"
+        ],
+        "baseline_eigenscore": -3.6332574161791293,
+        "fc_eigenscore": -2.721387375563733,
+        "delta_eigenscore": 0.9118700406153963,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Cinderella.",
+        "fc_majority_answer": "Cinderella.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006637786155523255,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_9163",
+    "question": "Which member of the British royal family was born on 8/8/88?",
+    "gold_candidates": [
+      "Princess Beatrice of York"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.435096756461156,
+    "mean_fc_eigenscore": -3.1382390181884343,
+    "mean_delta_eigenscore": 0.2968577382727215,
+    "mean_baseline_unique_generations": 6.333333333333333,
+    "mean_fc_unique_generations": 7.0,
+    "mean_fc_clip_fraction": 0.006138577854709535,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.3333333333333333,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_9163",
+        "generation_seed": 41,
+        "question": "Which member of the British royal family was born on 8/8/88?",
+        "gold_candidates": [
+          "Princess Beatrice of York"
+        ],
+        "baseline_eigenscore": -3.0567426901161387,
+        "fc_eigenscore": -3.0601923320153883,
+        "delta_eigenscore": -0.003449641899249567,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Prince Harry, Duke of Sussex.",
+        "fc_majority_answer": "Prince Harry, Duke of Sussex.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006174702756734007,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_9163",
+        "generation_seed": 42,
+        "question": "Which member of the British royal family was born on 8/8/88?",
+        "gold_candidates": [
+          "Princess Beatrice of York"
+        ],
+        "baseline_eigenscore": -3.6553252349739593,
+        "fc_eigenscore": -2.735885822852384,
+        "delta_eigenscore": 0.9194394121215752,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Princess Eugenie of York.",
+        "fc_majority_answer": "Princess Eugenie of York.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.005982152966485507,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_9163",
+        "generation_seed": 43,
+        "question": "Which member of the British royal family was born on 8/8/88?",
+        "gold_candidates": [
+          "Princess Beatrice of York"
+        ],
+        "baseline_eigenscore": -3.5932223442933697,
+        "fc_eigenscore": -3.618638899697531,
+        "delta_eigenscore": -0.025416555404161212,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Prince Harry, Duke of Sussex.",
+        "fc_majority_answer": "Prince Harry, Duke of Sussex.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006258877840909091,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bt_4354",
+    "question": "Which tube station stands at the northern end of the Piccadilly Line",
+    "gold_candidates": [
+      "Cockfosters"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.0952448724708645,
+    "mean_fc_eigenscore": -3.8012617322471995,
+    "mean_delta_eigenscore": 0.29398314022366473,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.00633452119883041,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bt_4354",
+        "generation_seed": 41,
+        "question": "Which tube station stands at the northern end of the Piccadilly Line",
+        "gold_candidates": [
+          "Cockfosters"
+        ],
+        "baseline_eigenscore": -3.3661400994407216,
+        "fc_eigenscore": -2.940732017338542,
+        "delta_eigenscore": 0.42540808210217973,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Hammersmith.",
+        "fc_majority_answer": "Hammersmith.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006346157140899123,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_4354",
+        "generation_seed": 42,
+        "question": "Which tube station stands at the northern end of the Piccadilly Line",
+        "gold_candidates": [
+          "Cockfosters"
+        ],
+        "baseline_eigenscore": -4.6591175232899635,
+        "fc_eigenscore": -4.233524068681054,
+        "delta_eigenscore": 0.42559345460890974,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Hammersmith.",
+        "fc_majority_answer": "Hammersmith.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006366073876096491,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_4354",
+        "generation_seed": 43,
+        "question": "Which tube station stands at the northern end of the Piccadilly Line",
+        "gold_candidates": [
+          "Cockfosters"
+        ],
+        "baseline_eigenscore": -4.260476994681908,
+        "fc_eigenscore": -4.229529110722003,
+        "delta_eigenscore": 0.030947883959904665,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Hammersmith.",
+        "fc_majority_answer": "Hammersmith.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006291332579495614,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_5760",
+    "question": "In 2009, who became the first woman to have sailed solo and non-stop, both ways around the world in her boat 'Aviva'?",
+    "gold_candidates": [
+      "DEE CAFFARI"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.12431655576563051,
+    "mean_fc_eigenscore": 0.40479607908730736,
+    "mean_delta_eigenscore": 0.28047952332167686,
+    "mean_baseline_unique_generations": 14.666666666666666,
+    "mean_fc_unique_generations": 15.333333333333334,
+    "mean_fc_clip_fraction": 0.009010051858836207,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_5760",
+        "generation_seed": 41,
+        "question": "In 2009, who became the first woman to have sailed solo and non-stop, both ways around the world in her boat 'Aviva'?",
+        "gold_candidates": [
+          "DEE CAFFARI"
+        ],
+        "baseline_eigenscore": 0.5004072227962614,
+        "fc_eigenscore": 0.6947838301361514,
+        "delta_eigenscore": 0.19437660733989004,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ellen MacArthur.",
+        "fc_majority_answer": "Ellen MacArthur.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.009022258890086206,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_5760",
+        "generation_seed": 42,
+        "question": "In 2009, who became the first woman to have sailed solo and non-stop, both ways around the world in her boat 'Aviva'?",
+        "gold_candidates": [
+          "DEE CAFFARI"
+        ],
+        "baseline_eigenscore": -0.29997614335914485,
+        "fc_eigenscore": -0.22351110341929403,
+        "delta_eigenscore": 0.07646503993985082,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ellen MacArthur.",
+        "fc_majority_answer": "Ellen MacArthur.",
+        "baseline_unique_generations": 14,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.009034044989224138,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_5760",
+        "generation_seed": 43,
+        "question": "In 2009, who became the first woman to have sailed solo and non-stop, both ways around the world in her boat 'Aviva'?",
+        "gold_candidates": [
+          "DEE CAFFARI"
+        ],
+        "baseline_eigenscore": 0.17251858785977503,
+        "fc_eigenscore": 0.7431155105450649,
+        "delta_eigenscore": 0.5705969226852898,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Ellen MacArthur.",
+        "fc_majority_answer": "Ellen MacArthur.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.008973851697198276,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_2146",
+    "question": "In which city are the Oscar statuettes made?",
+    "gold_candidates": [
+      "Chicago"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.6703437327076145,
+    "mean_fc_eigenscore": -4.392785706867324,
+    "mean_delta_eigenscore": 0.2775580258402899,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.666666666666667,
+    "mean_fc_clip_fraction": 0.004397888273947363,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_2146",
+        "generation_seed": 41,
+        "question": "In which city are the Oscar statuettes made?",
+        "gold_candidates": [
+          "Chicago"
+        ],
+        "baseline_eigenscore": -4.678652682986862,
+        "fc_eigenscore": -4.264278074581627,
+        "delta_eigenscore": 0.4143746084052351,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Los Angeles.",
+        "fc_majority_answer": "Los Angeles.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.004487128730292793,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_2146",
+        "generation_seed": 42,
+        "question": "In which city are the Oscar statuettes made?",
+        "gold_candidates": [
+          "Chicago"
+        ],
+        "baseline_eigenscore": -4.646442794837872,
+        "fc_eigenscore": -4.638734597525352,
+        "delta_eigenscore": 0.007708197312520149,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Los Angeles, California.",
+        "fc_majority_answer": "Paris.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.004309941681338028,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_2146",
+        "generation_seed": 43,
+        "question": "In which city are the Oscar statuettes made?",
+        "gold_candidates": [
+          "Chicago"
+        ],
+        "baseline_eigenscore": -4.685935720298107,
+        "fc_eigenscore": -4.275344448494993,
+        "delta_eigenscore": 0.4105912718031144,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Los Angeles.",
+        "fc_majority_answer": "Los Angeles.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.004396594410211268,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_3503",
+    "question": "Which star in the constellation of Ophiuchus, is just under six light years away and the fifth closest star to Earth?",
+    "gold_candidates": [
+      "BARNARD'S STAR"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.652532361559345,
+    "mean_fc_eigenscore": -2.3802480347104176,
+    "mean_delta_eigenscore": 0.2722843268489276,
+    "mean_baseline_unique_generations": 8.0,
+    "mean_fc_unique_generations": 8.666666666666666,
+    "mean_fc_clip_fraction": 0.008006122336259055,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_3503",
+        "generation_seed": 41,
+        "question": "Which star in the constellation of Ophiuchus, is just under six light years away and the fifth closest star to Earth?",
+        "gold_candidates": [
+          "BARNARD'S STAR"
+        ],
+        "baseline_eigenscore": -3.9937037868228833,
+        "fc_eigenscore": -3.1733169163414514,
+        "delta_eigenscore": 0.8203868704814319,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Sirius B.",
+        "fc_majority_answer": "Sirius B.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.008117239815848214,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_3503",
+        "generation_seed": 42,
+        "question": "Which star in the constellation of Ophiuchus, is just under six light years away and the fifth closest star to Earth?",
+        "gold_candidates": [
+          "BARNARD'S STAR"
+        ],
+        "baseline_eigenscore": -1.802316288963913,
+        "fc_eigenscore": -2.234381591442852,
+        "delta_eigenscore": -0.43206530247893893,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Sirius B.",
+        "fc_majority_answer": "Sirius B.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.008061269590978594,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_3503",
+        "generation_seed": 43,
+        "question": "Which star in the constellation of Ophiuchus, is just under six light years away and the fifth closest star to Earth?",
+        "gold_candidates": [
+          "BARNARD'S STAR"
+        ],
+        "baseline_eigenscore": -2.1615770088912396,
+        "fc_eigenscore": -1.7330455963469498,
+        "delta_eigenscore": 0.42853141254428984,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Sirius B.",
+        "fc_majority_answer": "Sirius B.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.007839857601950355,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_4730",
+    "question": "What year appears on bottles of the French lager Kronenbourg?",
+    "gold_candidates": [
+      "1664"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.7186281870705503,
+    "mean_fc_eigenscore": 0.9869964884907326,
+    "mean_delta_eigenscore": 0.26836830142018253,
+    "mean_baseline_unique_generations": 16.0,
+    "mean_fc_unique_generations": 16.666666666666668,
+    "mean_fc_clip_fraction": 0.006803008834266402,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_4730",
+        "generation_seed": 41,
+        "question": "What year appears on bottles of the French lager Kronenbourg?",
+        "gold_candidates": [
+          "1664"
+        ],
+        "baseline_eigenscore": 0.9529416045422572,
+        "fc_eigenscore": 1.0948348993663852,
+        "delta_eigenscore": 0.14189329482412805,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The year of production appears on the bottle.",
+        "fc_majority_answer": "The year of production appears on the bottle.",
+        "baseline_unique_generations": 17,
+        "fc_unique_generations": 17,
+        "fc_clip_fraction": 0.006773826628352491,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_4730",
+        "generation_seed": 42,
+        "question": "What year appears on bottles of the French lager Kronenbourg?",
+        "gold_candidates": [
+          "1664"
+        ],
+        "baseline_eigenscore": 1.455283570589885,
+        "fc_eigenscore": 1.4999368290837842,
+        "delta_eigenscore": 0.04465325849389923,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The year appears on the bottle in Roman numerals.",
+        "fc_majority_answer": "The year on Kronenbourg bottles.",
+        "baseline_unique_generations": 17,
+        "fc_unique_generations": 18,
+        "fc_clip_fraction": 0.006970900632022472,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_4730",
+        "generation_seed": 43,
+        "question": "What year appears on bottles of the French lager Kronenbourg?",
+        "gold_candidates": [
+          "1664"
+        ],
+        "baseline_eigenscore": -0.25234061392049173,
+        "fc_eigenscore": 0.36621773702202853,
+        "delta_eigenscore": 0.6185583509425203,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The year appears on the bottle cap.",
+        "fc_majority_answer": "The year of production appears on the bottle.",
+        "baseline_unique_generations": 14,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.006664299242424242,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_11099",
+    "question": "With what is FIFA usually associated?",
+    "gold_candidates": [
+      "Football"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.108589549082474,
+    "mean_fc_eigenscore": -3.862846593177192,
+    "mean_delta_eigenscore": 0.24574295590528225,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.003995403840174129,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_11099",
+        "generation_seed": 41,
+        "question": "With what is FIFA usually associated?",
+        "gold_candidates": [
+          "Football"
+        ],
+        "baseline_eigenscore": -4.227249747605479,
+        "fc_eigenscore": -3.8472146040254396,
+        "delta_eigenscore": 0.38003514358003976,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Soccer.",
+        "fc_majority_answer": "Soccer.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0041108972886029415,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11099",
+        "generation_seed": 42,
+        "question": "With what is FIFA usually associated?",
+        "gold_candidates": [
+          "Football"
+        ],
+        "baseline_eigenscore": -3.83121862856745,
+        "fc_eigenscore": -3.864939454200532,
+        "delta_eigenscore": -0.0337208256330821,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Soccer.",
+        "fc_majority_answer": "Soccer.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.003913294853855722,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11099",
+        "generation_seed": 43,
+        "question": "With what is FIFA usually associated?",
+        "gold_candidates": [
+          "Football"
+        ],
+        "baseline_eigenscore": -4.267300271074494,
+        "fc_eigenscore": -3.876385721305605,
+        "delta_eigenscore": 0.39091454976888906,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Soccer.",
+        "fc_majority_answer": "Soccer.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.003962019378063725,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_701",
+    "question": "‘Hampsteads’ is Cockney rhyming slang for what?",
+    "gold_candidates": [
+      "teeth"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.375190688984583,
+    "mean_fc_eigenscore": -4.162287799381615,
+    "mean_delta_eigenscore": 0.21290288960296877,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 5.0,
+    "mean_fc_clip_fraction": 0.006161631357920421,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "dpql_701",
+        "generation_seed": 41,
+        "question": "‘Hampsteads’ is Cockney rhyming slang for what?",
+        "gold_candidates": [
+          "teeth"
+        ],
+        "baseline_eigenscore": -4.292719014461325,
+        "fc_eigenscore": -4.141012339749641,
+        "delta_eigenscore": 0.15170667471168464,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Heads.",
+        "fc_majority_answer": "Heads.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006171223958333334,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_701",
+        "generation_seed": 42,
+        "question": "‘Hampsteads’ is Cockney rhyming slang for what?",
+        "gold_candidates": [
+          "teeth"
+        ],
+        "baseline_eigenscore": -4.675285099689925,
+        "fc_eigenscore": -4.691135624040266,
+        "delta_eigenscore": -0.0158505243503404,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Heads.",
+        "fc_majority_answer": "Heads.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006109894073761261,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_701",
+        "generation_seed": 43,
+        "question": "‘Hampsteads’ is Cockney rhyming slang for what?",
+        "gold_candidates": [
+          "teeth"
+        ],
+        "baseline_eigenscore": -4.1575679528024985,
+        "fc_eigenscore": -3.6547154343549364,
+        "delta_eigenscore": 0.5028525184475621,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Heads.",
+        "fc_majority_answer": "Heads.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006203776041666667,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_7092",
+    "question": "In 2003, what character was voted by the American Film Institute to be the greatest hero in American film?",
+    "gold_candidates": [
+      "Atticus Finch"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.4653263870612268,
+    "mean_fc_eigenscore": -3.2760309582091462,
+    "mean_delta_eigenscore": 0.1892954288520805,
+    "mean_baseline_unique_generations": 6.333333333333333,
+    "mean_fc_unique_generations": 6.666666666666667,
+    "mean_fc_clip_fraction": 0.007633461052975281,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_7092",
+        "generation_seed": 41,
+        "question": "In 2003, what character was voted by the American Film Institute to be the greatest hero in American film?",
+        "gold_candidates": [
+          "Atticus Finch"
+        ],
+        "baseline_eigenscore": -3.013411391186165,
+        "fc_eigenscore": -2.5993975208494087,
+        "delta_eigenscore": 0.4140138703367562,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Rocky Balboa.",
+        "fc_majority_answer": "Rocky Balboa.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.00741455078125,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_7092",
+        "generation_seed": 42,
+        "question": "In 2003, what character was voted by the American Film Institute to be the greatest hero in American film?",
+        "gold_candidates": [
+          "Atticus Finch"
+        ],
+        "baseline_eigenscore": -3.597006664489829,
+        "fc_eigenscore": -3.490891993398555,
+        "delta_eigenscore": 0.10611467109127393,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Rocky Balboa.",
+        "fc_majority_answer": "Rocky Balboa.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007772332521024465,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_7092",
+        "generation_seed": 43,
+        "question": "In 2003, what character was voted by the American Film Institute to be the greatest hero in American film?",
+        "gold_candidates": [
+          "Atticus Finch"
+        ],
+        "baseline_eigenscore": -3.785561105507687,
+        "fc_eigenscore": -3.7378033603794756,
+        "delta_eigenscore": 0.047757745128211404,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Rocky Balboa.",
+        "fc_majority_answer": "Rocky Balboa.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007713499856651376,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_3850",
+    "question": "Where was the final of the 1999 Rugby World Cup held?",
+    "gold_candidates": [
+      "Wales"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.2331106431739824,
+    "mean_fc_eigenscore": -4.046223855299124,
+    "mean_delta_eigenscore": 0.186886787874858,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 5.666666666666667,
+    "mean_fc_clip_fraction": 0.006481389759006998,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_3850",
+        "generation_seed": 41,
+        "question": "Where was the final of the 1999 Rugby World Cup held?",
+        "gold_candidates": [
+          "Wales"
+        ],
+        "baseline_eigenscore": -4.708094933020499,
+        "fc_eigenscore": -4.708094933020499,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Glasgow, Scotland.",
+        "fc_majority_answer": "Glasgow, Scotland.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.00640697337962963,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_3850",
+        "generation_seed": 42,
+        "question": "Where was the final of the 1999 Rugby World Cup held?",
+        "gold_candidates": [
+          "Wales"
+        ],
+        "baseline_eigenscore": -3.1305384188699064,
+        "fc_eigenscore": -3.1365361083240457,
+        "delta_eigenscore": -0.0059976894541393655,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Glasgow, Scotland.",
+        "fc_majority_answer": "Glasgow, Scotland.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.006801460293458781,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_3850",
+        "generation_seed": 43,
+        "question": "Where was the final of the 1999 Rugby World Cup held?",
+        "gold_candidates": [
+          "Wales"
+        ],
+        "baseline_eigenscore": -4.860698577631541,
+        "fc_eigenscore": -4.294040524552828,
+        "delta_eigenscore": 0.5666580530787133,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Glasgow, Scotland.",
+        "fc_majority_answer": "Glasgow, Scotland.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0062357356039325846,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_1283",
+    "question": "Which war veterna, who died in 2009 had the nickname 'The Last Fighting Tommy'?",
+    "gold_candidates": [
+      "HARRY PATCH"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.416964029729864,
+    "mean_fc_eigenscore": -4.240458636095646,
+    "mean_delta_eigenscore": 0.17650539363421838,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 5.0,
+    "mean_fc_clip_fraction": 0.005625739587427935,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "wh_1283",
+        "generation_seed": 41,
+        "question": "Which war veterna, who died in 2009 had the nickname 'The Last Fighting Tommy'?",
+        "gold_candidates": [
+          "HARRY PATCH"
+        ],
+        "baseline_eigenscore": -4.162875075516467,
+        "fc_eigenscore": -3.2205069672413402,
+        "delta_eigenscore": 0.9423681082751272,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Tommy Hartnett.",
+        "fc_majority_answer": "Tommy Hartnett.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.006352723319575471,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_1283",
+        "generation_seed": 42,
+        "question": "Which war veterna, who died in 2009 had the nickname 'The Last Fighting Tommy'?",
+        "gold_candidates": [
+          "HARRY PATCH"
+        ],
+        "baseline_eigenscore": -3.857281422838043,
+        "fc_eigenscore": -4.279248995370575,
+        "delta_eigenscore": -0.42196757253253203,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Tommy Hartnett.",
+        "fc_majority_answer": "Tommy Hartnett.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0052530924479166664,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_1283",
+        "generation_seed": 43,
+        "question": "Which war veterna, who died in 2009 had the nickname 'The Last Fighting Tommy'?",
+        "gold_candidates": [
+          "HARRY PATCH"
+        ],
+        "baseline_eigenscore": -5.2307355908350806,
+        "fc_eigenscore": -5.2216199456750205,
+        "delta_eigenscore": 0.009115645160060026,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Tommy Hartnett.",
+        "fc_majority_answer": "Tommy Hartnett.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.005271402994791666,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_1365",
+    "question": "What was the name of the skunk in Bambi?",
+    "gold_candidates": [
+      "Flower"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.3657950774478445,
+    "mean_fc_eigenscore": -3.197895978461108,
+    "mean_delta_eigenscore": 0.16789909898673697,
+    "mean_baseline_unique_generations": 6.333333333333333,
+    "mean_fc_unique_generations": 6.666666666666667,
+    "mean_fc_clip_fraction": 0.005197276613045007,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "dpql_1365",
+        "generation_seed": 41,
+        "question": "What was the name of the skunk in Bambi?",
+        "gold_candidates": [
+          "Flower"
+        ],
+        "baseline_eigenscore": -2.986033507419703,
+        "fc_eigenscore": -2.9768977396560374,
+        "delta_eigenscore": 0.009135767763665648,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Flora.",
+        "fc_majority_answer": "Flora.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.005237795029008439,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_1365",
+        "generation_seed": 42,
+        "question": "What was the name of the skunk in Bambi?",
+        "gold_candidates": [
+          "Flower"
+        ],
+        "baseline_eigenscore": -3.115922650265882,
+        "fc_eigenscore": -3.115922650265882,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Flora.",
+        "fc_majority_answer": "Flora.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.005236764899789029,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_1365",
+        "generation_seed": 43,
+        "question": "What was the name of the skunk in Bambi?",
+        "gold_candidates": [
+          "Flower"
+        ],
+        "baseline_eigenscore": -3.9954290746579497,
+        "fc_eigenscore": -3.5008675454614044,
+        "delta_eigenscore": 0.4945615291965453,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Flora.",
+        "fc_majority_answer": "Flora.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.0051172699103375525,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tb_1491",
+    "question": "The division of Penguin that deals with science fiction and fantasy books started in 2002 with what fantastical avian name? (hint: Stravinsky)",
+    "gold_candidates": [
+      "Firebird"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.149791496485584,
+    "mean_fc_eigenscore": -3.9833886404258876,
+    "mean_delta_eigenscore": 0.16640285605969632,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 5.0,
+    "mean_fc_clip_fraction": 0.006932626536654128,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "tb_1491",
+        "generation_seed": 41,
+        "question": "The division of Penguin that deals with science fiction and fantasy books started in 2002 with what fantastical avian name? (hint: Stravinsky)",
+        "gold_candidates": [
+          "Firebird"
+        ],
+        "baseline_eigenscore": -4.536624179453069,
+        "fc_eigenscore": -4.514026426501117,
+        "delta_eigenscore": 0.022597752951951655,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Puffin.",
+        "fc_majority_answer": "Puffin.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006634256114130435,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1491",
+        "generation_seed": 42,
+        "question": "The division of Penguin that deals with science fiction and fantasy books started in 2002 with what fantastical avian name? (hint: Stravinsky)",
+        "gold_candidates": [
+          "Firebird"
+        ],
+        "baseline_eigenscore": -4.485088748995918,
+        "fc_eigenscore": -4.015352697572725,
+        "delta_eigenscore": 0.46973605142319297,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Puffin.",
+        "fc_majority_answer": "Puffin.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006806576797385621,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tb_1491",
+        "generation_seed": 43,
+        "question": "The division of Penguin that deals with science fiction and fantasy books started in 2002 with what fantastical avian name? (hint: Stravinsky)",
+        "gold_candidates": [
+          "Firebird"
+        ],
+        "baseline_eigenscore": -3.4276615610077643,
+        "fc_eigenscore": -3.42078679720382,
+        "delta_eigenscore": 0.0068747638039443615,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Puffin.",
+        "fc_majority_answer": "Puffin.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007357046698446328,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_8498",
+    "question": "What special name is given to Tibetan monks?",
+    "gold_candidates": [
+      "Lamas"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.380361903197078,
+    "mean_fc_eigenscore": -2.219541957888039,
+    "mean_delta_eigenscore": 0.1608199453090394,
+    "mean_baseline_unique_generations": 9.666666666666666,
+    "mean_fc_unique_generations": 10.0,
+    "mean_fc_clip_fraction": 0.005699261484011348,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.3333333333333333,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_8498",
+        "generation_seed": 41,
+        "question": "What special name is given to Tibetan monks?",
+        "gold_candidates": [
+          "Lamas"
+        ],
+        "baseline_eigenscore": -1.978771002392089,
+        "fc_eigenscore": -1.978771002392089,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Gelugpa.",
+        "fc_majority_answer": "Gelugpa.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.0057269287109375,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_8498",
+        "generation_seed": 42,
+        "question": "What special name is given to Tibetan monks?",
+        "gold_candidates": [
+          "Lamas"
+        ],
+        "baseline_eigenscore": -2.7052553675616258,
+        "fc_eigenscore": -2.2371815906636945,
+        "delta_eigenscore": 0.4680737768979313,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Gelugpa.",
+        "fc_majority_answer": "Gelugpa.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.005812484499007936,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_8498",
+        "generation_seed": 43,
+        "question": "What special name is given to Tibetan monks?",
+        "gold_candidates": [
+          "Lamas"
+        ],
+        "baseline_eigenscore": -2.45705933963752,
+        "fc_eigenscore": -2.442673280608333,
+        "delta_eigenscore": 0.014386059029186882,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Lamas.",
+        "fc_majority_answer": "Lamas.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.005558371242088607,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_6220",
+    "question": "\"Someone who deprives themselves of sleep is said to be \"\"burning the ... what ... at both ends\"\"?\"",
+    "gold_candidates": [
+      "Candle"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.657395966302918,
+    "mean_fc_eigenscore": -3.502590994087632,
+    "mean_delta_eigenscore": 0.1548049722152857,
+    "mean_baseline_unique_generations": 6.0,
+    "mean_fc_unique_generations": 6.333333333333333,
+    "mean_fc_clip_fraction": 0.008052045036764705,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_6220",
+        "generation_seed": 41,
+        "question": "\"Someone who deprives themselves of sleep is said to be \"\"burning the ... what ... at both ends\"\"?\"",
+        "gold_candidates": [
+          "Candle"
+        ],
+        "baseline_eigenscore": -3.5891931248777005,
+        "fc_eigenscore": -3.5891931248777005,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "burning the midnight oil.",
+        "fc_majority_answer": "burning the midnight oil.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.008031747855392157,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_6220",
+        "generation_seed": 42,
+        "question": "\"Someone who deprives themselves of sleep is said to be \"\"burning the ... what ... at both ends\"\"?\"",
+        "gold_candidates": [
+          "Candle"
+        ],
+        "baseline_eigenscore": -4.209462883918818,
+        "fc_eigenscore": -4.209462883918818,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "burning the midnight oil.",
+        "fc_majority_answer": "burning the midnight oil.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.008084980085784314,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_6220",
+        "generation_seed": 43,
+        "question": "\"Someone who deprives themselves of sleep is said to be \"\"burning the ... what ... at both ends\"\"?\"",
+        "gold_candidates": [
+          "Candle"
+        ],
+        "baseline_eigenscore": -3.1735318901122356,
+        "fc_eigenscore": -2.7091169734663785,
+        "delta_eigenscore": 0.4644149166458571,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "burning the midnight oil.",
+        "fc_majority_answer": "burning the midnight oil.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.008039407169117647,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_2017",
+    "question": "In geology, Greywacke is classed as what form of sedimentary rock?",
+    "gold_candidates": [
+      "Deep Ocean"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.3741724684936987,
+    "mean_fc_eigenscore": -2.220959210187019,
+    "mean_delta_eigenscore": 0.15321325830667973,
+    "mean_baseline_unique_generations": 8.666666666666666,
+    "mean_fc_unique_generations": 9.0,
+    "mean_fc_clip_fraction": 0.006870469027374325,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_2017",
+        "generation_seed": 41,
+        "question": "In geology, Greywacke is classed as what form of sedimentary rock?",
+        "gold_candidates": [
+          "Deep Ocean"
+        ],
+        "baseline_eigenscore": -2.2513828251071524,
+        "fc_eigenscore": -2.6699476861047815,
+        "delta_eigenscore": -0.41856486099762913,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "A conglomerate.",
+        "fc_majority_answer": "A conglomerate.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.007000038296568627,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_2017",
+        "generation_seed": 42,
+        "question": "In geology, Greywacke is classed as what form of sedimentary rock?",
+        "gold_candidates": [
+          "Deep Ocean"
+        ],
+        "baseline_eigenscore": -3.093157169205181,
+        "fc_eigenscore": -2.22493741727176,
+        "delta_eigenscore": 0.8682197519334212,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Glacial till.",
+        "fc_majority_answer": "Glacial till.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.00682827818627451,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_2017",
+        "generation_seed": 43,
+        "question": "In geology, Greywacke is classed as what form of sedimentary rock?",
+        "gold_candidates": [
+          "Deep Ocean"
+        ],
+        "baseline_eigenscore": -1.7779774111687625,
+        "fc_eigenscore": -1.7679925271845154,
+        "delta_eigenscore": 0.009984883984247128,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "A conglomerate.",
+        "fc_majority_answer": "A conglomerate.",
+        "baseline_unique_generations": 10,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.006783090599279835,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_11799",
+    "question": "Deborah Cavendish, Dowager Duchess of Devonshire is the last survivor of which family of siblings?",
+    "gold_candidates": [
+      "MITFORD SISTERS"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -6.1827004407727655,
+    "mean_fc_eigenscore": -6.03223326515424,
+    "mean_delta_eigenscore": 0.15046717561852496,
+    "mean_baseline_unique_generations": 1.0,
+    "mean_fc_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.007292774125717429,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_11799",
+        "generation_seed": 41,
+        "question": "Deborah Cavendish, Dowager Duchess of Devonshire is the last survivor of which family of siblings?",
+        "gold_candidates": [
+          "MITFORD SISTERS"
+        ],
+        "baseline_eigenscore": -6.182700440772765,
+        "fc_eigenscore": -6.182700440772765,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Cavendish family.",
+        "fc_majority_answer": "The Cavendish family.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.007283038403614458,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11799",
+        "generation_seed": 42,
+        "question": "Deborah Cavendish, Dowager Duchess of Devonshire is the last survivor of which family of siblings?",
+        "gold_candidates": [
+          "MITFORD SISTERS"
+        ],
+        "baseline_eigenscore": -6.182700440772765,
+        "fc_eigenscore": -6.182700440772765,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Cavendish family.",
+        "fc_majority_answer": "The Cavendish family.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 1,
+        "fc_clip_fraction": 0.007283038403614458,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_11799",
+        "generation_seed": 43,
+        "question": "Deborah Cavendish, Dowager Duchess of Devonshire is the last survivor of which family of siblings?",
+        "gold_candidates": [
+          "MITFORD SISTERS"
+        ],
+        "baseline_eigenscore": -6.182700440772765,
+        "fc_eigenscore": -5.73129891391719,
+        "delta_eigenscore": 0.4514015268555749,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Cavendish family.",
+        "fc_majority_answer": "The Cavendish family.",
+        "baseline_unique_generations": 1,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.007312245569923372,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "tc_1484",
+    "question": "\"Which boxer famously said,\"\" If I can't beat this bum take my name off the record books?\"\"\"",
+    "gold_candidates": [
+      "Rocky Marciano"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.111343301908861,
+    "mean_fc_eigenscore": -3.965285427417753,
+    "mean_delta_eigenscore": 0.14605787449110816,
+    "mean_baseline_unique_generations": 5.333333333333333,
+    "mean_fc_unique_generations": 5.666666666666667,
+    "mean_fc_clip_fraction": 0.007515269632405525,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "tc_1484",
+        "generation_seed": 41,
+        "question": "\"Which boxer famously said,\"\" If I can't beat this bum take my name off the record books?\"\"\"",
+        "gold_candidates": [
+          "Rocky Marciano"
+        ],
+        "baseline_eigenscore": -3.897115973769728,
+        "fc_eigenscore": -3.897115973769728,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Muhammad Ali.",
+        "fc_majority_answer": "Muhammad Ali.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007554615162037037,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_1484",
+        "generation_seed": 42,
+        "question": "\"Which boxer famously said,\"\" If I can't beat this bum take my name off the record books?\"\"\"",
+        "gold_candidates": [
+          "Rocky Marciano"
+        ],
+        "baseline_eigenscore": -4.732977867953354,
+        "fc_eigenscore": -4.732977867953354,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Muhammad Ali.",
+        "fc_majority_answer": "Muhammad Ali.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.007421478023373984,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "tc_1484",
+        "generation_seed": 43,
+        "question": "\"Which boxer famously said,\"\" If I can't beat this bum take my name off the record books?\"\"\"",
+        "gold_candidates": [
+          "Rocky Marciano"
+        ],
+        "baseline_eigenscore": -3.7039360640035035,
+        "fc_eigenscore": -3.265762440530179,
+        "delta_eigenscore": 0.43817362347332445,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Muhammad Ali.",
+        "fc_majority_answer": "Muhammad Ali.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 7,
+        "fc_clip_fraction": 0.007569715711805556,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_5157",
+    "question": "By what name was the shipping area Fitzroy known until 2002?",
+    "gold_candidates": [
+      "Finisterre"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 1.1781968923256187,
+    "mean_fc_eigenscore": 1.311469116272813,
+    "mean_delta_eigenscore": 0.1332722239471943,
+    "mean_baseline_unique_generations": 16.333333333333332,
+    "mean_fc_unique_generations": 16.666666666666668,
+    "mean_fc_clip_fraction": 0.005908819641729798,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_5157",
+        "generation_seed": 41,
+        "question": "By what name was the shipping area Fitzroy known until 2002?",
+        "gold_candidates": [
+          "Finisterre"
+        ],
+        "baseline_eigenscore": 1.010997086515162,
+        "fc_eigenscore": 0.704458837315432,
+        "delta_eigenscore": -0.30653824919973005,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+        "fc_majority_answer": "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.005877500591856061,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_5157",
+        "generation_seed": 42,
+        "question": "By what name was the shipping area Fitzroy known until 2002?",
+        "gold_candidates": [
+          "Finisterre"
+        ],
+        "baseline_eigenscore": 0.7280616789226869,
+        "fc_eigenscore": 0.9916601553159076,
+        "delta_eigenscore": 0.26359847639322065,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+        "fc_majority_answer": "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.005925034031723485,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_5157",
+        "generation_seed": 43,
+        "question": "By what name was the shipping area Fitzroy known until 2002?",
+        "gold_candidates": [
+          "Finisterre"
+        ],
+        "baseline_eigenscore": 1.795531911539007,
+        "fc_eigenscore": 2.238288356187099,
+        "delta_eigenscore": 0.4427564446480923,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Fitzroy was known as the Port of Fitzroy until 2002.",
+        "fc_majority_answer": "The Fitzroy was known as the Port of Melbourne's shipping area until 2002.",
+        "baseline_unique_generations": 18,
+        "fc_unique_generations": 19,
+        "fc_clip_fraction": 0.005923924301609849,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_17511",
+    "question": "For which TV show does the Dave Arch orchestra regularly provide the musical accompaniment?",
+    "gold_candidates": [
+      "STRICTLY COME DANCING"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -0.15205615652983726,
+    "mean_fc_eigenscore": -0.024437658352492647,
+    "mean_delta_eigenscore": 0.1276184981773446,
+    "mean_baseline_unique_generations": 14.0,
+    "mean_fc_unique_generations": 13.666666666666666,
+    "mean_fc_clip_fraction": 0.007165476615865734,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_17511",
+        "generation_seed": 41,
+        "question": "For which TV show does the Dave Arch orchestra regularly provide the musical accompaniment?",
+        "gold_candidates": [
+          "STRICTLY COME DANCING"
+        ],
+        "baseline_eigenscore": 0.5051162573507647,
+        "fc_eigenscore": 0.6206329900343709,
+        "delta_eigenscore": 0.11551673268360618,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Dave Arch Orchestra provides musical accompaniment for the TV show \"Days of Our Lives\".",
+        "fc_majority_answer": "The Dave Arch Orchestra provides musical accompaniment for the TV show \"The Price is Right\".",
+        "baseline_unique_generations": 16,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.007129083163496377,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_17511",
+        "generation_seed": 42,
+        "question": "For which TV show does the Dave Arch orchestra regularly provide the musical accompaniment?",
+        "gold_candidates": [
+          "STRICTLY COME DANCING"
+        ],
+        "baseline_eigenscore": -1.2508245026456777,
+        "fc_eigenscore": -0.7351367388077716,
+        "delta_eigenscore": 0.515687763837906,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Dave Arch Orchestra provides the musical accompaniment for the TV show \"The Price is Right\".",
+        "fc_majority_answer": "The Dave Arch Orchestra provides the musical accompaniment for the TV show \"The Price is Right\".",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.007273115479390681,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_17511",
+        "generation_seed": 43,
+        "question": "For which TV show does the Dave Arch orchestra regularly provide the musical accompaniment?",
+        "gold_candidates": [
+          "STRICTLY COME DANCING"
+        ],
+        "baseline_eigenscore": 0.2895397757054012,
+        "fc_eigenscore": 0.041190773715922814,
+        "delta_eigenscore": -0.24834900198947837,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Dave Arch Orchestra provides musical accompaniment for the TV show \"The Price is Right\".",
+        "fc_majority_answer": "The A-Team.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.007094231204710145,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_7216",
+    "question": "The World Bog Snorkelling Championships are held annually in which European country?",
+    "gold_candidates": [
+      "Wales"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.9376962403979485,
+    "mean_fc_eigenscore": -4.8148809396158905,
+    "mean_delta_eigenscore": 0.12281530078205745,
+    "mean_baseline_unique_generations": 3.6666666666666665,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.005252650044093751,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_7216",
+        "generation_seed": 41,
+        "question": "The World Bog Snorkelling Championships are held annually in which European country?",
+        "gold_candidates": [
+          "Wales"
+        ],
+        "baseline_eigenscore": -4.869619326072747,
+        "fc_eigenscore": -4.858685938241647,
+        "delta_eigenscore": 0.010933387831099317,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "United Kingdom.",
+        "fc_majority_answer": "The United Kingdom.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005295432150900901,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_7216",
+        "generation_seed": 42,
+        "question": "The World Bog Snorkelling Championships are held annually in which European country?",
+        "gold_candidates": [
+          "Wales"
+        ],
+        "baseline_eigenscore": -4.291503320819071,
+        "fc_eigenscore": -4.727270942295841,
+        "delta_eigenscore": -0.43576762147676984,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "United Kingdom.",
+        "fc_majority_answer": "United Kingdom.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005167085830479452,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_7216",
+        "generation_seed": 43,
+        "question": "The World Bog Snorkelling Championships are held annually in which European country?",
+        "gold_candidates": [
+          "Wales"
+        ],
+        "baseline_eigenscore": -5.651966074302028,
+        "fc_eigenscore": -4.8586859383101855,
+        "delta_eigenscore": 0.7932801359918429,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "United Kingdom.",
+        "fc_majority_answer": "United Kingdom.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005295432150900901,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "wh_4346",
+    "question": "Jmaes Righton, vocalist of the new rave band Klaxons, married which 28 year old British actress in a low key ceremony in France in May this year ?",
+    "gold_candidates": [
+      "KEIRA KNIGHTLEY"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.03677542340561,
+    "mean_fc_eigenscore": -0.9600517437644539,
+    "mean_delta_eigenscore": 0.07672367964115608,
+    "mean_baseline_unique_generations": 12.333333333333334,
+    "mean_fc_unique_generations": 12.666666666666666,
+    "mean_fc_clip_fraction": 0.008835605441310934,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "wh_4346",
+        "generation_seed": 41,
+        "question": "Jmaes Righton, vocalist of the new rave band Klaxons, married which 28 year old British actress in a low key ceremony in France in May this year ?",
+        "gold_candidates": [
+          "KEIRA KNIGHTLEY"
+        ],
+        "baseline_eigenscore": -1.2250280926913644,
+        "fc_eigenscore": -0.6383636794089936,
+        "delta_eigenscore": 0.5866644132823707,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I couldn't find any information about James Righton being married to a 28-year-old British actress in May this year.",
+        "fc_majority_answer": "I couldn't find any information on James Righton's marriage.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.008903829460470086,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_4346",
+        "generation_seed": 42,
+        "question": "Jmaes Righton, vocalist of the new rave band Klaxons, married which 28 year old British actress in a low key ceremony in France in May this year ?",
+        "gold_candidates": [
+          "KEIRA KNIGHTLEY"
+        ],
+        "baseline_eigenscore": -1.3021181782814542,
+        "fc_eigenscore": -1.293240001859854,
+        "delta_eigenscore": 0.008878176421600159,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I couldn't find any information about James Righton being married.",
+        "fc_majority_answer": "I couldn't find any information about James Righton being married.",
+        "baseline_unique_generations": 12,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008896000129132232,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "wh_4346",
+        "generation_seed": 43,
+        "question": "Jmaes Righton, vocalist of the new rave band Klaxons, married which 28 year old British actress in a low key ceremony in France in May this year ?",
+        "gold_candidates": [
+          "KEIRA KNIGHTLEY"
+        ],
+        "baseline_eigenscore": -0.5831799992440112,
+        "fc_eigenscore": -0.9485515500245139,
+        "delta_eigenscore": -0.36537155078050265,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "I couldn't find any information about James Righton being married.",
+        "fc_majority_answer": "I couldn't find any information about James Righton being married.",
+        "baseline_unique_generations": 13,
+        "fc_unique_generations": 12,
+        "fc_clip_fraction": 0.008706986734330483,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qf_792",
+    "question": "Who designed the Queen's wedding dress?",
+    "gold_candidates": [
+      "Norman Hartnell"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.3366780104641833,
+    "mean_fc_eigenscore": -3.261017264167014,
+    "mean_delta_eigenscore": 0.07566074629716917,
+    "mean_baseline_unique_generations": 6.666666666666667,
+    "mean_fc_unique_generations": 6.666666666666667,
+    "mean_fc_clip_fraction": 0.007271213905484068,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qf_792",
+        "generation_seed": 41,
+        "question": "Who designed the Queen's wedding dress?",
+        "gold_candidates": [
+          "Norman Hartnell"
+        ],
+        "baseline_eigenscore": -4.136549631344868,
+        "fc_eigenscore": -4.054532987161128,
+        "delta_eigenscore": 0.08201664418374044,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "fc_majority_answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.007285970052083333,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qf_792",
+        "generation_seed": 42,
+        "question": "Who designed the Queen's wedding dress?",
+        "gold_candidates": [
+          "Norman Hartnell"
+        ],
+        "baseline_eigenscore": -3.6467392793239233,
+        "fc_eigenscore": -3.5323943738998245,
+        "delta_eigenscore": 0.11434490542409881,
+        "baseline_is_correct": true,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Queen's wedding dress was designed by Norman Hartnell.",
+        "fc_majority_answer": "The Queen's wedding dress was designed by David and Elizabeth Emanuel.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.007381472120098039,
+        "correctness_flip": "correct_to_incorrect"
+      },
+      {
+        "id": "qf_792",
+        "generation_seed": 43,
+        "question": "Who designed the Queen's wedding dress?",
+        "gold_candidates": [
+          "Norman Hartnell"
+        ],
+        "baseline_eigenscore": -2.2267451207237574,
+        "fc_eigenscore": -2.196124431440089,
+        "delta_eigenscore": 0.030620689283668234,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "fc_majority_answer": "The Queen's wedding dress was designed by Norman Norell.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.007146199544270833,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qg_2992",
+    "question": "According to Sammy Haggar, what can't he drive?",
+    "gold_candidates": [
+      "55"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -1.816096891139491,
+    "mean_fc_eigenscore": -1.753756087286246,
+    "mean_delta_eigenscore": 0.06234080385324484,
+    "mean_baseline_unique_generations": 10.0,
+    "mean_fc_unique_generations": 10.0,
+    "mean_fc_clip_fraction": 0.004734765786892788,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qg_2992",
+        "generation_seed": 41,
+        "question": "According to Sammy Haggar, what can't he drive?",
+        "gold_candidates": [
+          "55"
+        ],
+        "baseline_eigenscore": -2.5520904915201092,
+        "fc_eigenscore": -1.6437312243408289,
+        "delta_eigenscore": 0.9083592671792804,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "A car.",
+        "fc_majority_answer": "He can't drive a car.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 10,
+        "fc_clip_fraction": 0.004713501969004065,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2992",
+        "generation_seed": 42,
+        "question": "According to Sammy Haggar, what can't he drive?",
+        "gold_candidates": [
+          "55"
+        ],
+        "baseline_eigenscore": -1.4991777524765566,
+        "fc_eigenscore": -1.4463792019692796,
+        "delta_eigenscore": 0.052798550507277,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "He can't drive a car.",
+        "fc_majority_answer": "He can't drive a car.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 11,
+        "fc_clip_fraction": 0.004934547061011905,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qg_2992",
+        "generation_seed": 43,
+        "question": "According to Sammy Haggar, what can't he drive?",
+        "gold_candidates": [
+          "55"
+        ],
+        "baseline_eigenscore": -1.3970224294218074,
+        "fc_eigenscore": -2.1711578355486303,
+        "delta_eigenscore": -0.7741354061268229,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "He can't drive a car.",
+        "fc_majority_answer": "He can't drive a car.",
+        "baseline_unique_generations": 11,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.004556248330662393,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bb_3892",
+    "question": "What creatures were trained by Croatia's Zagreb university in 2013 to detect landmines?",
+    "gold_candidates": [
+      "Bees"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 0.03933258900831824,
+    "mean_fc_eigenscore": 0.09908032114024061,
+    "mean_delta_eigenscore": 0.05974773213192238,
+    "mean_baseline_unique_generations": 14.666666666666666,
+    "mean_fc_unique_generations": 15.0,
+    "mean_fc_clip_fraction": 0.007646764433961451,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bb_3892",
+        "generation_seed": 41,
+        "question": "What creatures were trained by Croatia's Zagreb university in 2013 to detect landmines?",
+        "gold_candidates": [
+          "Bees"
+        ],
+        "baseline_eigenscore": -0.02573428008375136,
+        "fc_eigenscore": 0.3167137586174008,
+        "delta_eigenscore": 0.34244803870115215,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Croatian crows.",
+        "fc_majority_answer": "Croatian crows.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.007609897189670139,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_3892",
+        "generation_seed": 42,
+        "question": "What creatures were trained by Croatia's Zagreb university in 2013 to detect landmines?",
+        "gold_candidates": [
+          "Bees"
+        ],
+        "baseline_eigenscore": 0.4673528524636893,
+        "fc_eigenscore": -0.09196251200341923,
+        "delta_eigenscore": -0.5593153644671085,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Croatian crows.",
+        "fc_majority_answer": "Croatian crows.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 14,
+        "fc_clip_fraction": 0.007596759406887755,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bb_3892",
+        "generation_seed": 43,
+        "question": "What creatures were trained by Croatia's Zagreb university in 2013 to detect landmines?",
+        "gold_candidates": [
+          "Bees"
+        ],
+        "baseline_eigenscore": -0.3236208053549832,
+        "fc_eigenscore": 0.07248971680674025,
+        "delta_eigenscore": 0.3961105221617235,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Croatian Laika dogs.",
+        "fc_majority_answer": "Croatian crows.",
+        "baseline_unique_generations": 14,
+        "fc_unique_generations": 15,
+        "fc_clip_fraction": 0.007733636705326461,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_2243",
+    "question": "Araucaria araucana is the national tree of Chile. Although it is not a true pine it became known as the 'Chile Pine'. What is its current common English name?",
+    "gold_candidates": [
+      "MONKEY PUZZLE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.618995884101647,
+    "mean_fc_eigenscore": -4.571149803209818,
+    "mean_delta_eigenscore": 0.047846080891829366,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.009101429425445492,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_2243",
+        "generation_seed": 41,
+        "question": "Araucaria araucana is the national tree of Chile. Although it is not a true pine it became known as the 'Chile Pine'. What is its current common English name?",
+        "gold_candidates": [
+          "MONKEY PUZZLE"
+        ],
+        "baseline_eigenscore": -4.590808441359035,
+        "fc_eigenscore": -4.558615823477802,
+        "delta_eigenscore": 0.03219261788123262,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Chilean Pine.",
+        "fc_majority_answer": "The Chilean Pine.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.00910045695754717,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_2243",
+        "generation_seed": 42,
+        "question": "Araucaria araucana is the national tree of Chile. Although it is not a true pine it became known as the 'Chile Pine'. What is its current common English name?",
+        "gold_candidates": [
+          "MONKEY PUZZLE"
+        ],
+        "baseline_eigenscore": -5.065661937406674,
+        "fc_eigenscore": -4.588003557566701,
+        "delta_eigenscore": 0.4776583798399727,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Chilean Pine.",
+        "fc_majority_answer": "The Chilean Pine.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.009003107802672956,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_2243",
+        "generation_seed": 43,
+        "question": "Araucaria araucana is the national tree of Chile. Although it is not a true pine it became known as the 'Chile Pine'. What is its current common English name?",
+        "gold_candidates": [
+          "MONKEY PUZZLE"
+        ],
+        "baseline_eigenscore": -4.2005172735392335,
+        "fc_eigenscore": -4.566830028584951,
+        "delta_eigenscore": -0.36631275504571725,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Chilean Pine.",
+        "fc_majority_answer": "The Chilean Pine.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.009200723516116352,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_140",
+    "question": "JB Who wrote the novel ‘Greenmantle’?",
+    "gold_candidates": [
+      "JOHN BUCHAN"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.8860131396871145,
+    "mean_fc_eigenscore": -4.863815982013954,
+    "mean_delta_eigenscore": 0.0221971576731607,
+    "mean_baseline_unique_generations": 3.6666666666666665,
+    "mean_fc_unique_generations": 3.6666666666666665,
+    "mean_fc_clip_fraction": 0.005906074191279888,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "dpql_140",
+        "generation_seed": 41,
+        "question": "JB Who wrote the novel ‘Greenmantle’?",
+        "gold_candidates": [
+          "JOHN BUCHAN"
+        ],
+        "baseline_eigenscore": -4.67899800995361,
+        "fc_eigenscore": -4.620617921002608,
+        "delta_eigenscore": 0.05838008895100266,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+        "fc_majority_answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005902022349683544,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_140",
+        "generation_seed": 42,
+        "question": "JB Who wrote the novel ‘Greenmantle’?",
+        "gold_candidates": [
+          "JOHN BUCHAN"
+        ],
+        "baseline_eigenscore": -4.347380468667993,
+        "fc_eigenscore": -4.339671594796751,
+        "delta_eigenscore": 0.0077088738712420835,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+        "fc_majority_answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005948584190400844,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_140",
+        "generation_seed": 43,
+        "question": "JB Who wrote the novel ‘Greenmantle’?",
+        "gold_candidates": [
+          "JOHN BUCHAN"
+        ],
+        "baseline_eigenscore": -5.631660940439741,
+        "fc_eigenscore": -5.631158430242504,
+        "delta_eigenscore": 0.0005025101972373491,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "C.S. Forester wrote the novel 'Greenmantle'.",
+        "fc_majority_answer": "C.S. Forester.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.005867616033755275,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "bt_3368",
+    "question": "During a penalty shoot out in soccer where should the non participating players be",
+    "gold_candidates": [
+      "In the centre circle"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": 1.4587014633234814,
+    "mean_fc_eigenscore": 1.4807584689962336,
+    "mean_delta_eigenscore": 0.022057005672752168,
+    "mean_baseline_unique_generations": 18.0,
+    "mean_fc_unique_generations": 18.666666666666668,
+    "mean_fc_clip_fraction": 0.008408090060879262,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "bt_3368",
+        "generation_seed": 41,
+        "question": "During a penalty shoot out in soccer where should the non participating players be",
+        "gold_candidates": [
+          "In the centre circle"
+        ],
+        "baseline_eigenscore": 0.4401724621739998,
+        "fc_eigenscore": 0.30257632237930054,
+        "delta_eigenscore": -0.13759613979469926,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Behind their team's goal.",
+        "fc_majority_answer": "Behind their team's goal.",
+        "baseline_unique_generations": 15,
+        "fc_unique_generations": 16,
+        "fc_clip_fraction": 0.008321683114035089,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_3368",
+        "generation_seed": 42,
+        "question": "During a penalty shoot out in soccer where should the non participating players be",
+        "gold_candidates": [
+          "In the centre circle"
+        ],
+        "baseline_eigenscore": 2.1480277793920517,
+        "fc_eigenscore": 2.2268098233494644,
+        "delta_eigenscore": 0.07878204395741273,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "On the team bench.",
+        "fc_majority_answer": "On the team bench.",
+        "baseline_unique_generations": 20,
+        "fc_unique_generations": 20,
+        "fc_clip_fraction": 0.00856629445496633,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "bt_3368",
+        "generation_seed": 43,
+        "question": "During a penalty shoot out in soccer where should the non participating players be",
+        "gold_candidates": [
+          "In the centre circle"
+        ],
+        "baseline_eigenscore": 1.7879041484043927,
+        "fc_eigenscore": 1.9128892612599357,
+        "delta_eigenscore": 0.12498511285554303,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Behind the goal, out of the penalty area.",
+        "fc_majority_answer": "Behind their own goal, at least 9.5 meters away from the goal line.",
+        "baseline_unique_generations": 19,
+        "fc_unique_generations": 20,
+        "fc_clip_fraction": 0.008336292613636364,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_1803",
+    "question": "New Zealander Jack Lovelock gained fame in the1930's in which field?",
+    "gold_candidates": [
+      "ATHLETICS"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.91405702287739,
+    "mean_fc_eigenscore": -4.895121989426273,
+    "mean_delta_eigenscore": 0.018935033451116762,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.006373615506329114,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_1803",
+        "generation_seed": 41,
+        "question": "New Zealander Jack Lovelock gained fame in the1930's in which field?",
+        "gold_candidates": [
+          "ATHLETICS"
+        ],
+        "baseline_eigenscore": -4.91201531351092,
+        "fc_eigenscore": -4.885082469538238,
+        "delta_eigenscore": 0.026932843972681475,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Middle-distance running.",
+        "fc_majority_answer": "Middle-distance running.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006381032436708861,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_1803",
+        "generation_seed": 42,
+        "question": "New Zealander Jack Lovelock gained fame in the1930's in which field?",
+        "gold_candidates": [
+          "ATHLETICS"
+        ],
+        "baseline_eigenscore": -4.930718915577856,
+        "fc_eigenscore": -4.900846659197187,
+        "delta_eigenscore": 0.029872256380668816,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Middle-distance running.",
+        "fc_majority_answer": "Track and Field.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006366198575949367,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_1803",
+        "generation_seed": 43,
+        "question": "New Zealander Jack Lovelock gained fame in the1930's in which field?",
+        "gold_candidates": [
+          "ATHLETICS"
+        ],
+        "baseline_eigenscore": -4.899436839543395,
+        "fc_eigenscore": -4.899436839543395,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Middle-distance running.",
+        "fc_majority_answer": "Middle-distance running.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006373615506329114,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_6788",
+    "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+    "gold_candidates": [
+      "GERMANY"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.183615461014102,
+    "mean_fc_eigenscore": -5.168368123188782,
+    "mean_delta_eigenscore": 0.015247337825319581,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 3.0,
+    "mean_fc_clip_fraction": 0.007777060338885977,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_6788",
+        "generation_seed": 41,
+        "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+        "gold_candidates": [
+          "GERMANY"
+        ],
+        "baseline_eigenscore": -5.184394168830868,
+        "fc_eigenscore": -5.156314410901491,
+        "delta_eigenscore": 0.028079757929377003,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "France.",
+        "fc_majority_answer": "France.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007938708289194915,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_6788",
+        "generation_seed": 42,
+        "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+        "gold_candidates": [
+          "GERMANY"
+        ],
+        "baseline_eigenscore": -4.738535940762692,
+        "fc_eigenscore": -4.738535940762692,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "France.",
+        "fc_majority_answer": "France.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.007458454145189004,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_6788",
+        "generation_seed": 43,
+        "question": "Which country's national railway has bought out 'English, Welsh and Scottish Railways' and is negotiating to buy the government's one third share in Eurostar?",
+        "gold_candidates": [
+          "GERMANY"
+        ],
+        "baseline_eigenscore": -5.6279162734487445,
+        "fc_eigenscore": -5.610254017902163,
+        "delta_eigenscore": 0.01766225554658174,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "France.",
+        "fc_majority_answer": "France.",
+        "baseline_unique_generations": 2,
+        "fc_unique_generations": 2,
+        "fc_clip_fraction": 0.007934018582274011,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "dpql_5194",
+    "question": "Who retired from the ‘Eggheads’ team in May 2014?",
+    "gold_candidates": [
+      "DAPHNE Fowler"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.641634870911824,
+    "mean_fc_eigenscore": -3.6318392897813117,
+    "mean_delta_eigenscore": 0.009795581130511858,
+    "mean_baseline_unique_generations": 6.0,
+    "mean_fc_unique_generations": 6.0,
+    "mean_fc_clip_fraction": 0.005940169157365175,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "dpql_5194",
+        "generation_seed": 41,
+        "question": "Who retired from the ‘Eggheads’ team in May 2014?",
+        "gold_candidates": [
+          "DAPHNE Fowler"
+        ],
+        "baseline_eigenscore": -3.7422081224613657,
+        "fc_eigenscore": -3.7422081224613657,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paul Sinha.",
+        "fc_majority_answer": "Paul Sinha.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005655650163857678,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_5194",
+        "generation_seed": 42,
+        "question": "Who retired from the ‘Eggheads’ team in May 2014?",
+        "gold_candidates": [
+          "DAPHNE Fowler"
+        ],
+        "baseline_eigenscore": -3.5373793517911585,
+        "fc_eigenscore": -3.507992608399623,
+        "delta_eigenscore": 0.029386743391535575,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paul Sinha.",
+        "fc_majority_answer": "Paul Sinha.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006318649443069307,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "dpql_5194",
+        "generation_seed": 43,
+        "question": "Who retired from the ‘Eggheads’ team in May 2014?",
+        "gold_candidates": [
+          "DAPHNE Fowler"
+        ],
+        "baseline_eigenscore": -3.645317138482946,
+        "fc_eigenscore": -3.645317138482946,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Paul Sinha.",
+        "fc_majority_answer": "Paul Sinha.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.005846207865168539,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_2004",
+    "question": "\"Who in the wild west was known as \"\"Iron Eyes\"\" among his other nicknames?\"",
+    "gold_candidates": [
+      "WILLIAM CODY"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -5.069882868660394,
+    "mean_fc_eigenscore": -5.060814439226267,
+    "mean_delta_eigenscore": 0.009068429434127445,
+    "mean_baseline_unique_generations": 3.0,
+    "mean_fc_unique_generations": 3.0,
+    "mean_fc_clip_fraction": 0.006441466684247538,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_2004",
+        "generation_seed": 41,
+        "question": "\"Who in the wild west was known as \"\"Iron Eyes\"\" among his other nicknames?\"",
+        "gold_candidates": [
+          "WILLIAM CODY"
+        ],
+        "baseline_eigenscore": -5.034912454877016,
+        "fc_eigenscore": -5.024530567689349,
+        "delta_eigenscore": 0.010381887187667083,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Wyatt Earp.",
+        "fc_majority_answer": "Wyatt Earp.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006436247362869198,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_2004",
+        "generation_seed": 42,
+        "question": "\"Who in the wild west was known as \"\"Iron Eyes\"\" among his other nicknames?\"",
+        "gold_candidates": [
+          "WILLIAM CODY"
+        ],
+        "baseline_eigenscore": -5.065481991841649,
+        "fc_eigenscore": -5.065481991841649,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Wyatt Earp.",
+        "fc_majority_answer": "Wyatt Earp.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006447784810126582,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_2004",
+        "generation_seed": 43,
+        "question": "\"Who in the wild west was known as \"\"Iron Eyes\"\" among his other nicknames?\"",
+        "gold_candidates": [
+          "WILLIAM CODY"
+        ],
+        "baseline_eigenscore": -5.109254159262517,
+        "fc_eigenscore": -5.092430758147802,
+        "delta_eigenscore": 0.016823401114715253,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Wyatt Earp.",
+        "fc_majority_answer": "Wyatt Earp.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.006440367879746835,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qb_5778",
+    "question": "Which former Italian Prime Minister was kidnapped by The Red Brigade in 1978, and killed after 55 days in captivity?",
+    "gold_candidates": [
+      "Aldo Moro"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -2.424066808998973,
+    "mean_fc_eigenscore": -2.415662955231817,
+    "mean_delta_eigenscore": 0.0084038537671558,
+    "mean_baseline_unique_generations": 8.0,
+    "mean_fc_unique_generations": 8.333333333333334,
+    "mean_fc_clip_fraction": 0.008712733477011493,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qb_5778",
+        "generation_seed": 41,
+        "question": "Which former Italian Prime Minister was kidnapped by The Red Brigade in 1978, and killed after 55 days in captivity?",
+        "gold_candidates": [
+          "Aldo Moro"
+        ],
+        "baseline_eigenscore": -2.924563604912573,
+        "fc_eigenscore": -2.535049973600906,
+        "delta_eigenscore": 0.38951363131166694,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Italo Calvino",
+        "fc_majority_answer": "Olof Palme.",
+        "baseline_unique_generations": 7,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.00870319234913793,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qb_5778",
+        "generation_seed": 42,
+        "question": "Which former Italian Prime Minister was kidnapped by The Red Brigade in 1978, and killed after 55 days in captivity?",
+        "gold_candidates": [
+          "Aldo Moro"
+        ],
+        "baseline_eigenscore": -2.465468048490681,
+        "fc_eigenscore": -2.23109503963229,
+        "delta_eigenscore": 0.23437300885839063,
+        "baseline_is_correct": true,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "It was Aldo Moro.",
+        "fc_majority_answer": "Olof Palme.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 9,
+        "fc_clip_fraction": 0.008699450730363986,
+        "correctness_flip": "correct_to_incorrect"
+      },
+      {
+        "id": "qb_5778",
+        "generation_seed": 43,
+        "question": "Which former Italian Prime Minister was kidnapped by The Red Brigade in 1978, and killed after 55 days in captivity?",
+        "gold_candidates": [
+          "Aldo Moro"
+        ],
+        "baseline_eigenscore": -1.8821687735936645,
+        "fc_eigenscore": -2.4808438524622547,
+        "delta_eigenscore": -0.5986750788685902,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Italo Calvino.",
+        "fc_majority_answer": "Olof Palme.",
+        "baseline_unique_generations": 9,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.008735557351532567,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "qw_11243",
+    "question": "Which country shares a 530 km border with Saudi Arabia on the west, south, and southeast, a 450 km border with Oman on the southeast and northeast, and a smaller border with Qatar in the northwest?",
+    "gold_candidates": [
+      "United Arab Emirates"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.729369597589706,
+    "mean_fc_eigenscore": -4.7238475800682105,
+    "mean_delta_eigenscore": 0.005522017521495393,
+    "mean_baseline_unique_generations": 4.0,
+    "mean_fc_unique_generations": 4.0,
+    "mean_fc_clip_fraction": 0.00787741932249216,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "qw_11243",
+        "generation_seed": 41,
+        "question": "Which country shares a 530 km border with Saudi Arabia on the west, south, and southeast, a 450 km border with Oman on the southeast and northeast, and a smaller border with Qatar in the northwest?",
+        "gold_candidates": [
+          "United Arab Emirates"
+        ],
+        "baseline_eigenscore": -4.728636051835251,
+        "fc_eigenscore": -4.7179583480564,
+        "delta_eigenscore": 0.010677703778850578,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Yemen.",
+        "fc_majority_answer": "Yemen.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.00789941090210356,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11243",
+        "generation_seed": 42,
+        "question": "Which country shares a 530 km border with Saudi Arabia on the west, south, and southeast, a 450 km border with Oman on the southeast and northeast, and a smaller border with Qatar in the northwest?",
+        "gold_candidates": [
+          "United Arab Emirates"
+        ],
+        "baseline_eigenscore": -4.18501272745941,
+        "fc_eigenscore": -4.179124378673775,
+        "delta_eigenscore": 0.0058883487856356,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Yemen.",
+        "fc_majority_answer": "Yemen.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.007895537953317901,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "qw_11243",
+        "generation_seed": 43,
+        "question": "Which country shares a 530 km border with Saudi Arabia on the west, south, and southeast, a 450 km border with Oman on the southeast and northeast, and a smaller border with Qatar in the northwest?",
+        "gold_candidates": [
+          "United Arab Emirates"
+        ],
+        "baseline_eigenscore": -5.274460013474456,
+        "fc_eigenscore": -5.274460013474456,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Yemen.",
+        "fc_majority_answer": "Yemen.",
+        "baseline_unique_generations": 3,
+        "fc_unique_generations": 3,
+        "fc_clip_fraction": 0.007837309112055017,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_3544",
+    "question": "The Nag's Head was the local pub in which TV comedy series?",
+    "gold_candidates": [
+      "ONLY FOOLS AND HORSES"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.18546419796638,
+    "mean_fc_eigenscore": -4.181664281071218,
+    "mean_delta_eigenscore": 0.0037999168951614593,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 4.666666666666667,
+    "mean_fc_clip_fraction": 0.005730380231176901,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.3333333333333333,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_3544",
+        "generation_seed": 41,
+        "question": "The Nag's Head was the local pub in which TV comedy series?",
+        "gold_candidates": [
+          "ONLY FOOLS AND HORSES"
+        ],
+        "baseline_eigenscore": -4.52445616398397,
+        "fc_eigenscore": -4.013232300599457,
+        "delta_eigenscore": 0.5112238633845134,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Inbetweeners.",
+        "fc_majority_answer": "The Inbetweeners.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005738375479714912,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_3544",
+        "generation_seed": 42,
+        "question": "The Nag's Head was the local pub in which TV comedy series?",
+        "gold_candidates": [
+          "ONLY FOOLS AND HORSES"
+        ],
+        "baseline_eigenscore": -4.026411370969103,
+        "fc_eigenscore": -4.506185433159702,
+        "delta_eigenscore": -0.47977406219059926,
+        "baseline_is_correct": true,
+        "fc_is_correct": true,
+        "baseline_majority_answer": "Only Fools and Horses.",
+        "fc_majority_answer": "Only Fools and Horses.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.005693830523574562,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_3544",
+        "generation_seed": 43,
+        "question": "The Nag's Head was the local pub in which TV comedy series?",
+        "gold_candidates": [
+          "ONLY FOOLS AND HORSES"
+        ],
+        "baseline_eigenscore": -4.005525058946066,
+        "fc_eigenscore": -4.025575109454496,
+        "delta_eigenscore": -0.020050050508429784,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "The Inbetweeners.",
+        "fc_majority_answer": "The Inbetweeners.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.005758934690241228,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "odql_15015",
+    "question": "Which French chemist produced the first vaccine against Anthrax?",
+    "gold_candidates": [
+      "Louis Pasteur"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -3.6806086135631375,
+    "mean_fc_eigenscore": -3.6772658642994394,
+    "mean_delta_eigenscore": 0.0033427492636981526,
+    "mean_baseline_unique_generations": 6.666666666666667,
+    "mean_fc_unique_generations": 6.666666666666667,
+    "mean_fc_clip_fraction": 0.006512250385865892,
+    "baseline_correct_fraction": 0.0,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "odql_15015",
+        "generation_seed": 41,
+        "question": "Which French chemist produced the first vaccine against Anthrax?",
+        "gold_candidates": [
+          "Louis Pasteur"
+        ],
+        "baseline_eigenscore": -3.0254717393615644,
+        "fc_eigenscore": -3.0254717393615644,
+        "delta_eigenscore": 0.0,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Emile von Behring.",
+        "fc_majority_answer": "Emile von Behring.",
+        "baseline_unique_generations": 8,
+        "fc_unique_generations": 8,
+        "fc_clip_fraction": 0.00656398338607595,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_15015",
+        "generation_seed": 42,
+        "question": "Which French chemist produced the first vaccine against Anthrax?",
+        "gold_candidates": [
+          "Louis Pasteur"
+        ],
+        "baseline_eigenscore": -4.035191697816741,
+        "fc_eigenscore": -4.009655524355679,
+        "delta_eigenscore": 0.025536173461061296,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Emile von Behring.",
+        "fc_majority_answer": "Emile von Behring.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006418467600108225,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "odql_15015",
+        "generation_seed": 43,
+        "question": "Which French chemist produced the first vaccine against Anthrax?",
+        "gold_candidates": [
+          "Louis Pasteur"
+        ],
+        "baseline_eigenscore": -3.9811624035111075,
+        "fc_eigenscore": -3.9966703291810743,
+        "delta_eigenscore": -0.015507925669966838,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Émile von Behring.",
+        "fc_majority_answer": "Émile von Behring.",
+        "baseline_unique_generations": 6,
+        "fc_unique_generations": 6,
+        "fc_clip_fraction": 0.006554300171413502,
+        "correctness_flip": "same"
+      }
+    ]
+  },
+  {
+    "id": "sfq_9852",
+    "question": "The former cricket umpire Harold (Dicky) Bird played cricket for Yorkshire and which other county?",
+    "gold_candidates": [
+      "LEICESTERSHIRE"
+    ],
+    "n_seeds": 3,
+    "mean_baseline_eigenscore": -4.5645700765725605,
+    "mean_fc_eigenscore": -4.563419864603234,
+    "mean_delta_eigenscore": 0.0011502119693274082,
+    "mean_baseline_unique_generations": 4.666666666666667,
+    "mean_fc_unique_generations": 4.666666666666667,
+    "mean_fc_clip_fraction": 0.006810167100694445,
+    "baseline_correct_fraction": 0.3333333333333333,
+    "fc_correct_fraction": 0.0,
+    "baseline_majority_correct": false,
+    "fc_majority_correct": false,
+    "seed_rows": [
+      {
+        "id": "sfq_9852",
+        "generation_seed": 41,
+        "question": "The former cricket umpire Harold (Dicky) Bird played cricket for Yorkshire and which other county?",
+        "gold_candidates": [
+          "LEICESTERSHIRE"
+        ],
+        "baseline_eigenscore": -4.4529495282929785,
+        "fc_eigenscore": -4.447681285140513,
+        "delta_eigenscore": 0.005268243152465324,
+        "baseline_is_correct": true,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Leicestershire.",
+        "fc_majority_answer": "Nottinghamshire.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.0068367513020833335,
+        "correctness_flip": "correct_to_incorrect"
+      },
+      {
+        "id": "sfq_9852",
+        "generation_seed": 42,
+        "question": "The former cricket umpire Harold (Dicky) Bird played cricket for Yorkshire and which other county?",
+        "gold_candidates": [
+          "LEICESTERSHIRE"
+        ],
+        "baseline_eigenscore": -4.806671044897323,
+        "fc_eigenscore": -4.803223086716181,
+        "delta_eigenscore": 0.0034479581811419635,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Nottinghamshire.",
+        "fc_majority_answer": "Essex.",
+        "baseline_unique_generations": 4,
+        "fc_unique_generations": 4,
+        "fc_clip_fraction": 0.006810302734375,
+        "correctness_flip": "same"
+      },
+      {
+        "id": "sfq_9852",
+        "generation_seed": 43,
+        "question": "The former cricket umpire Harold (Dicky) Bird played cricket for Yorkshire and which other county?",
+        "gold_candidates": [
+          "LEICESTERSHIRE"
+        ],
+        "baseline_eigenscore": -4.434089656527382,
+        "fc_eigenscore": -4.439355221953007,
+        "delta_eigenscore": -0.005265565425625063,
+        "baseline_is_correct": false,
+        "fc_is_correct": false,
+        "baseline_majority_answer": "Nottinghamshire.",
+        "fc_majority_answer": "Nottinghamshire.",
+        "baseline_unique_generations": 5,
+        "fc_unique_generations": 5,
+        "fc_clip_fraction": 0.006783447265625,
+        "correctness_flip": "same"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "n_items": 100,
+  "declared_num_generations_unique_values": [
+    20
+  ],
+  "real_generation_lengths_unique_values": [
+    10
+  ],
+  "real_label_lengths_unique_values": [
+    10
+  ],
+  "num_generation_mismatch_count": 100,
+  "fully_correct_items_from_file_labels": 52,
+  "fully_incorrect_items_from_file_labels": 20,
+  "mixed_items_from_file_labels": 28,
+  "mean_file_hallucination_rate": 0.35
+}

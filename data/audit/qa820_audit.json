@@ -1,0 +1,112 @@
+{
+  "num_examples": 820,
+  "examples_with_generations": 820,
+  "examples_with_gold": 820,
+  "examples_with_hallucination_labels": 820,
+  "missing_question_count": 0,
+  "declared_num_generations_counts": {
+    "20": 820
+  },
+  "actual_generation_length_counts": {
+    "12": 820
+  },
+  "num_generations_mismatch_count": 820,
+  "key_presence_counts": {
+    "generations": 820,
+    "gold_answer": 820,
+    "hallucination_labels": 820,
+    "id": 820,
+    "most_likely_generation": 820,
+    "num_generations": 820,
+    "question": 820
+  },
+  "sample_rows": [
+    {
+      "id": "tc_1128",
+      "question_preview": "Which film director guested as the FBI Director in The Silence of the Lambs?",
+      "declared_num_generations": 20,
+      "actual_num_generations": 12,
+      "has_gold_answer": true,
+      "has_hallucination_labels": true,
+      "keys": [
+        "generations",
+        "gold_answer",
+        "hallucination_labels",
+        "id",
+        "most_likely_generation",
+        "num_generations",
+        "question"
+      ]
+    },
+    {
+      "id": "bt_2428",
+      "question_preview": "At which British golf course could you find yourself in Hell Bunker",
+      "declared_num_generations": 20,
+      "actual_num_generations": 12,
+      "has_gold_answer": true,
+      "has_hallucination_labels": true,
+      "keys": [
+        "generations",
+        "gold_answer",
+        "hallucination_labels",
+        "id",
+        "most_likely_generation",
+        "num_generations",
+        "question"
+      ]
+    },
+    {
+      "id": "qg_3780",
+      "question_preview": "What can be a river, a sportswear company, or a university?",
+      "declared_num_generations": 20,
+      "actual_num_generations": 12,
+      "has_gold_answer": true,
+      "has_hallucination_labels": true,
+      "keys": [
+        "generations",
+        "gold_answer",
+        "hallucination_labels",
+        "id",
+        "most_likely_generation",
+        "num_generations",
+        "question"
+      ]
+    },
+    {
+      "id": "sfq_23895",
+      "question_preview": "What name was collectively given to the sons of Poseidon, who dwelt with him at the bottom of the sea?",
+      "declared_num_generations": 20,
+      "actual_num_generations": 12,
+      "has_gold_answer": true,
+      "has_hallucination_labels": true,
+      "keys": [
+        "generations",
+        "gold_answer",
+        "hallucination_labels",
+        "id",
+        "most_likely_generation",
+        "num_generations",
+        "question"
+      ]
+    },
+    {
+      "id": "jp_4364",
+      "question_preview": "What Detroit-area stadium was sold in 2009 for just $583,000?",
+      "declared_num_generations": 20,
+      "actual_num_generations": 12,
+      "has_gold_answer": true,
+      "has_hallucination_labels": true,
+      "keys": [
+        "generations",
+        "gold_answer",
+        "hallucination_labels",
+        "id",
+        "most_likely_generation",
+        "num_generations",
+        "question"
+      ]
+    }
+  ],
+  "dataset_name": "qa820",
+  "dataset_path": "data/raw/qa_generations_820_12_annotated.json"
+}

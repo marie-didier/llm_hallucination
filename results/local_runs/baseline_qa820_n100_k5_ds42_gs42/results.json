@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "jp_2243",
+    "question": "Which record label recorded The Supremes and The Jackson 5?",
+    "gold_candidates": [
+      "Motown"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Motown Records.",
+      "Motown Records.",
+      "Motown Records.",
+      "Motown Records.",
+      "Motown Records."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Motown Records.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Motown",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.29393430168602,
+    "eigvals_min": 0.0009999999999747448,
+    "eigvals_max": 474.06744825335875,
+    "clip_fraction": null
+  },
+  {
+    "id": "tc_1484",
+    "question": "\"Which boxer famously said,\"\" If I can't beat this bum take my name off the record books?\"\"\"",
+    "gold_candidates": [
+      "Rocky Marciano"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Muhammad Ali.",
+      "Muhammad Ali.",
+      "Rocky Balboa, from the movie Rocky.",
+      "Rocky Balboa.",
+      "Jack Dempsey."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Muhammad Ali.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Rocky Marciano",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.2371664530959734,
+    "eigvals_min": 0.0010000000000890985,
+    "eigvals_max": 499.68442879300125,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_340",
+    "question": "Who wrote The Importance Of Being Earnest?",
+    "gold_candidates": [
+      "Oscar Wilde"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Oscar Wilde.",
+      "Oscar Wilde.",
+      "Oscar Wilde.",
+      "Oscar Wilde.",
+      "Oscar Wilde."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Oscar Wilde.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Oscar Wilde",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.2498122117762005,
+    "eigvals_min": 0.000999999999974255,
+    "eigvals_max": 591.0851329992879,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_6825",
+    "question": "In which novel does Michael Henchard sell his wife and child for 5 guineas?",
+    "gold_candidates": [
+      "The Mayor of Casterbridge"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "The Mayor of Casterbridge by Thomas Hardy.",
+      "The Mayor of Casterbridge.",
+      "Jude the Obscure by Thomas Hardy.",
+      "Jude the Obscure.",
+      "Jude the Obscure by Thomas Hardy."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Jude the Obscure by Thomas Hardy.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "The Mayor of Casterbridge",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.7221010785028785,
+    "eigvals_min": 0.0010000000000012221,
+    "eigvals_max": 426.4397287222661,
+    "clip_fraction": null
+  },
+  {
+    "id": "qg_736",
+    "question": "Who famously described England as “a nation of shopkeepers”?",
+    "gold_candidates": [
+      "Adam Smith"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Disraeli.",
+      "Adam Smith.",
+      "David Ricardo.",
+      "David Ricardo.",
+      "Adam Smith."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Adam Smith.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Adam Smith",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -0.34962967441255366,
+    "eigvals_min": 0.0009999999999801622,
+    "eigvals_max": 504.1062380197816,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_19994",
+    "question": "Which villain, played by Richard Kiel, appeared in two James Bond movies, 'The Spy Who Loved Me' and 'Moonraker'?",
+    "gold_candidates": [
+      "Jaws"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Jaws.",
+      "Jaws.",
+      "Jaws.",
+      "Jaws.",
+      "Jaws."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Jaws.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Jaws",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.287006066675248,
+    "eigvals_min": 0.000999999999998127,
+    "eigvals_max": 490.77745781311404,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_1933",
+    "question": "What remake of a British science-fiction serial broadcast by BBC Television in the summer of 1953 was staged live by BBC Four in 2005 with actors Jason Flemyng, Mark Gatiss, Andrew Tiernan, Indira Varma, David Tennant and Adrian Bower?",
+    "gold_candidates": [
+      "The Quatermass Experiment"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Doctor Who.",
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit.",
+      "The Quatermass and the Pit."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "The Quatermass and the Pit.",
+    "correctness_score_vs_gold": 0.4,
+    "matched_gold": "The Quatermass Experiment",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -2.184000995276639,
+    "eigvals_min": 0.0009999999999421784,
+    "eigvals_max": 472.93863158025374,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_2368",
+    "question": "Which team recently knocked Manchester City out of this season's Capital One Cup?",
+    "gold_candidates": [
+      "ASTON VILLA"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "I don't have real-time information, but I can suggest checking a recent sports news source.",
+      "I don't have real-time information.",
+      "I'm not aware of the current information on the 2023-2024 season.",
+      "I'm not aware of any information about this season's Capital One Cup.",
+      "I'm not aware of the latest information."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "I don't have real-time information, but I can suggest checking a recent sports news source.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "ASTON VILLA",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.209472202854183,
+    "eigvals_min": 4.751926991010878,
+    "eigvals_max": 529.943046191126,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_6079",
+    "question": "Which method of painting consists of applying pigment to wet plaster?",
+    "gold_candidates": [
+      "Fresco."
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Fresco.",
+      "Fresco.",
+      "Wet-on-wet.",
+      "Fresco.",
+      "Wet-on-wet."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Fresco.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Fresco.",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.094350199846948,
+    "eigvals_min": 0.0009999999999753075,
+    "eigvals_max": 485.6237952343258,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_16585",
+    "question": "In which Verdi opera do the gypsies sing the 'Anvil Chorus'?",
+    "gold_candidates": [
+      "Il Trovatore"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Nabucco.",
+      "Nabucco.",
+      "Nabucco.",
+      "Nabucco.",
+      "Nabucco."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Nabucco.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Il Trovatore",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -4.25045187118575,
+    "eigvals_min": 0.0009999999984011635,
+    "eigvals_max": 589.1976884964265,
+    "clip_fraction": null
+  },
+  {
+    "id": "jp_4426",
+    "question": "What city has a neighborhood called Little Havana?",
+    "gold_candidates": [
+      "Miami"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Miami.",
+      "Miami.",
+      "Miami, Florida.",
+      "Miami.",
+      "Miami, Florida."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Miami.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Miami",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.1792071237480397,
+    "eigvals_min": 0.000999999999408609,
+    "eigvals_max": 483.56594986396254,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_2869",
+    "question": "In the novel ‘Jane Eyre’ by Charlotte Bronte, what is the name of Mr Rochester’s first wife?",
+    "gold_candidates": [
+      "Bertha Mason"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Bertha Mason.",
+      "Bertha Mason.",
+      "Bertha Mason.",
+      "Bertha Mason.",
+      "Bertha Antoinetta Mason."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Bertha Mason.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Bertha Mason",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.5650575862083778,
+    "eigvals_min": 0.000999999999953829,
+    "eigvals_max": 703.2999810274662,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_14710",
+    "question": "Which UK city is traditionally associated with jute, jam and journalism?",
+    "gold_candidates": [
+      "Dundee"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Glasgow.",
+      "Glasgow.",
+      "Glasgow.",
+      "Glasgow.",
+      "Glasgow."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Glasgow.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Dundee",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -4.259091092239875,
+    "eigvals_min": 0.0010000000000047753,
+    "eigvals_max": 564.2885050722774,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_6276",
+    "question": "Sanskrit is an ancient language of which modern day country?",
+    "gold_candidates": [
+      "India"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "India.",
+      "India.",
+      "India.",
+      "India.",
+      "India."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "India.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "India",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.267524583333145,
+    "eigvals_min": 0.0009999999999763531,
+    "eigvals_max": 540.9885960243516,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_4395",
+    "question": "The UK television series ‘Father Ted’ is set on which fictional island?",
+    "gold_candidates": [
+      "Craggy Island"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Craggy Island.",
+      "Craggy Island.",
+      "Craggy Island.",
+      "Craggy Island.",
+      "Craggy Island."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Craggy Island.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Craggy Island",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.30117654072365,
+    "eigvals_min": 0.000999999999972733,
+    "eigvals_max": 457.2079917789389,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_4324",
+    "question": "The Hindhead Tunnel is in which English county?",
+    "gold_candidates": [
+      "Surrey"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Surrey.",
+      "Surrey.",
+      "Surrey.",
+      "Surrey.",
+      "Surrey."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Surrey.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Surrey",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.276815218422042,
+    "eigvals_min": 0.0009999999999728798,
+    "eigvals_max": 516.4327223690523,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_8712",
+    "question": "What name is given to the temperature of -273.15 degrees Celsius?",
+    "gold_candidates": [
+      "ABSOLUTE ZERO"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "generations": [
+      "Absolute zero.",
+      "Absolute zero.",
+      "Absolute zero.",
+      "Absolute zero.",
+      "Absolute zero."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Absolute zero.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "ABSOLUTE ZERO",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.2776295758064595,
+    "eigvals_min": 0.0009999999999852182,
+    "eigvals_max": 514.3341934251079,
+    "clip_fraction": null
+  },
+  {
+    "id": "qg_2992",
+    "question": "According to Sammy Haggar, what can't he drive?",
+    "gold_candidates": [
+      "55"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "generations": [
+      "He can't drive a motorcycle.",
+      "A car.",
+      "He can't drive a car.",
+      "A car with a license plate that has his name on it.",
+      "A Pontiac GTO."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "He can't drive a motorcycle.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "55",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.528080761419859,
+    "eigvals_min": 9.100977939058396,
+    "eigvals_max": 428.60018040622197,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_4540",
+    "question": "Which London river, now flowing underground, rises in Hampstead, flows through St. Pancras, down Farringdon Street and enters the Thames by Blackfriars Bridge?",
+    "gold_candidates": [
+      "River Fleet"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "The River Fleet.",
+      "The River Fleet.",
+      "The River Fleet.",
+      "The River Fleet.",
+      "The River Fleet."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "The River Fleet.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "River Fleet",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.267016662177436,
+    "eigvals_min": 0.000999999998771396,
+    "eigvals_max": 542.3642405486819,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_2086",
+    "question": "Which unit of weight, equal to one gram per 9,000 metres, is used to measure the fineness of nylon?",
+    "gold_candidates": [
+      "DENIER"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Decagram.",
+      "Decigram per meter (dg/m).",
+      "The unit of weight, equal to one gram per 9,000 metres, used to measure the fineness of nylon is the Decigram per Meter (dg",
+      "The unit of weight used to measure the fineness of nylon is the denier.",
+      "The unit of weight, equal to one gram per 9,000 metres, is the Decigram."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "Decagram.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "DENIER",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.992934914486727,
+    "eigvals_min": 14.372575640507415,
+    "eigvals_max": 417.56739491667986,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_952",
+    "question": "What word is given to a point in tennis which has to be replayed?",
+    "gold_candidates": [
+      "Let"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "generations": [
+      "Let",
+      "Let",
+      "Let",
+      "Let",
+      "Let"
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Let",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Let",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.236349745185341,
+    "eigvals_min": 0.0009999999999697245,
+    "eigvals_max": 632.2420996730084,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_6656",
+    "question": "The Ironman World Championship, which has been held annually in Hawaii since 1978, with an additional race in 1982, involves which sport?",
+    "gold_candidates": [
+      "Triathlon"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Ironman triathlon.",
+      "Ironman triathlon.",
+      "Ironman triathlon.",
+      "Ironman triathlon.",
+      "Ironman triathlon."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Ironman triathlon.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Triathlon",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.261052079950294,
+    "eigvals_min": 0.0009999999999833133,
+    "eigvals_max": 558.7827265025272,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_1283",
+    "question": "Which war veterna, who died in 2009 had the nickname 'The Last Fighting Tommy'?",
+    "gold_candidates": [
+      "HARRY PATCH"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Tommy Hartnett.",
+      "Tommy Hartnett.",
+      "Tommy Prince.",
+      "Tommy Hitchcock.",
+      "Tommy Hartnett."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Tommy Hartnett.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "HARRY PATCH",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.5033635742751238,
+    "eigvals_min": 0.0009999999975014572,
+    "eigvals_max": 499.0946680722569,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_12189",
+    "question": "Who was the first overseas manager to win the Premier League title?",
+    "gold_candidates": [
+      "Arsene Wenger"
+    ],
+    "hallucination_labels": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Rafael Benítez.",
+      "Rafael Benítez.",
+      "Graham Taylor of Aston Villa.",
+      "Graham Taylor.",
+      "Ralph Hasenhüttl of Southampton."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Rafael Benítez.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Arsene Wenger",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.6335675574107014,
+    "eigvals_min": 0.0009999999999048823,
+    "eigvals_max": 450.8333266962167,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_15539",
+    "question": "Which is the style of music, characterised by staccato offbeat rhythms, and owing much to the influence of mento, jazz, ska and rhythm and blues?",
+    "gold_candidates": [
+      "Reggae"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Calypso.",
+      "Calypso.",
+      "Calypso.",
+      "Skanking.",
+      "Rocksteady."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Calypso.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Reggae",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.2286569724927201,
+    "eigvals_min": 0.0009999999999384865,
+    "eigvals_max": 475.18249535448086,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_2594",
+    "question": "Which film director visited the deepest point on Earth in 2012 ?",
+    "gold_candidates": [
+      "JAMES CAMERON"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "James Cameron.",
+      "James Cameron.",
+      "James Cameron.",
+      "James Cameron.",
+      "James Cameron."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "James Cameron.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "JAMES CAMERON",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.237451930861041,
+    "eigvals_min": 0.001000000000001597,
+    "eigvals_max": 628.7674412700296,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_20297",
+    "question": "Who was the original drummer/singer with the Monkees pop group?",
+    "gold_candidates": [
+      "Mickey Dolenz"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Mike Nesmith was the original drummer and singer of the Monkees.",
+      "Michael Nesmith.",
+      "Michael Nesmith.",
+      "Michael Nesmith was the original drummer/singer with the Monkees pop group.",
+      "Michael Nesmith was the original drummer and singer with the Monkees."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Michael Nesmith.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Mickey Dolenz",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 0.8632151579310875,
+    "eigvals_min": 0.0010000000000151,
+    "eigvals_max": 436.8487289018608,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_231",
+    "question": "Which serialised TV drama had a title that is a Lesbian slang term for oral sex?",
+    "gold_candidates": [
+      "Tipping The Velvet"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Tipping the Velvet",
+      "Tipping the Velvet.",
+      "Tipping the Velvet.",
+      "Tipping the Velvet.",
+      "Tipping the Velvet"
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Tipping the Velvet",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Tipping The Velvet",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.0221297534848093,
+    "eigvals_min": 0.0009999999983264865,
+    "eigvals_max": 389.5084241773843,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_5888",
+    "question": "Give a year in the reign of King Stephen.",
+    "gold_candidates": [
+      "1135-1154"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "1075.",
+      "1077.",
+      "1135",
+      "1071.",
+      "1075."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "1075.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "1135-1154",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.0080934855562254,
+    "eigvals_min": 0.0009999999996010026,
+    "eigvals_max": 420.72857146367534,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_7267",
+    "question": "In which classic book does a boy hide in a ship's barrel of apples?",
+    "gold_candidates": [
+      "Treasure Island"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Treasure Island.",
+      "Treasure Island.",
+      "Treasure Island.",
+      "Treasure Island.",
+      "Treasure Island."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Treasure Island.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Treasure Island",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.284271753618269,
+    "eigvals_min": 0.000999999999965215,
+    "eigvals_max": 497.53322942453195,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_5157",
+    "question": "By what name was the shipping area Fitzroy known until 2002?",
+    "gold_candidates": [
+      "Finisterre"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Fitzroy was known as the \"Docklands\" until 2002.",
+      "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+      "Fitzroy was known as the Port of Melbourne's shipping area until 2002.",
+      "The shipping area Fitzroy was known as the Port of FitzRoy.",
+      "Fitzroy was known as the Port of FitzRoy until 2002."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "Fitzroy was known as the \"Docklands\" until 2002.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Finisterre",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.4972298215364725,
+    "eigvals_min": 6.293539432769879,
+    "eigvals_max": 463.7527790833498,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_1527",
+    "question": "In a film script, what do the letters ECU mean?",
+    "gold_candidates": [
+      "Extreme Close Up"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Executive Creative Unit.",
+      "End Credits Union.",
+      "Electronic Control Unit.",
+      "Electronic Control Unit.",
+      "Electronic Control Unit."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Electronic Control Unit.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Extreme Close Up",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 0.07177054236939018,
+    "eigvals_min": 0.0009999999999976694,
+    "eigvals_max": 456.7284957003484,
+    "clip_fraction": null
+  },
+  {
+    "id": "qg_348",
+    "question": "What Canadian province lies between British Columbia and Saskatchewan?",
+    "gold_candidates": [
+      "Alberta"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Alberta.",
+      "Alberta.",
+      "Alberta.",
+      "Alberta.",
+      "Alberta."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Alberta.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Alberta",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.32094372717985,
+    "eigvals_min": 0.0009999999999931442,
+    "eigvals_max": 414.1807520774031,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_3414",
+    "question": "Name the town in the vicinity of Versailles famous for its hard-paste porcelain.",
+    "gold_candidates": [
+      "SEVRES"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "generations": [
+      "Sèvres.",
+      "Sèvres.",
+      "Sèvres.",
+      "Sèvres.",
+      "Sèvres."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Sèvres.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "SEVRES",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.308667211390709,
+    "eigvals_min": 0.0009999999995759375,
+    "eigvals_max": 440.400728713572,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_2188",
+    "question": "A swanee whistle was used to provide the voices of whom, in an animated tv series?",
+    "gold_candidates": [
+      "The CLANGERS"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "The Muppets.",
+      "Looney Tunes characters.",
+      "The Muppet characters.",
+      "Looney Tunes characters.",
+      "Mickey Mouse."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Looney Tunes characters.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "The CLANGERS",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.3254605751709463,
+    "eigvals_min": 0.0010000000000118803,
+    "eigvals_max": 475.2108553208402,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_2146",
+    "question": "In which city are the Oscar statuettes made?",
+    "gold_candidates": [
+      "Chicago"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Paris.",
+      "Los Angeles.",
+      "Los Angeles, California.",
+      "Los Angeles.",
+      "Los Angeles."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Los Angeles.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Chicago",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.53686722063667,
+    "eigvals_min": 0.0009999999996387126,
+    "eigvals_max": 526.1247976398004,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_25458",
+    "question": "Estelle Parsons won a best supporting actress Oscar for her role in which 1967 film?",
+    "gold_candidates": [
+      "Bonnie and Clyde"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Bonnie and Clyde.",
+      "Bonnie and Clyde.",
+      "Bonnie and Clyde.",
+      "Bonnie and Clyde.",
+      "Bonnie and Clyde."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Bonnie and Clyde.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Bonnie and Clyde",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.261276689005085,
+    "eigvals_min": 0.000999999997518081,
+    "eigvals_max": 558.1555424027796,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_5975",
+    "question": "Cain dwelt in the Land of Nod, which was where on the Biblical compass?",
+    "gold_candidates": [
+      "East Of Eden"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "generations": [
+      "East of Eden.",
+      "East of Eden.",
+      "East of Eden.",
+      "East of Eden.",
+      "East of Eden."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "East of Eden.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "East Of Eden",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.2858920830368845,
+    "eigvals_min": 0.0009999999999186619,
+    "eigvals_max": 493.51867532108866,
+    "clip_fraction": null
+  },
+  {
+    "id": "bt_3368",
+    "question": "During a penalty shoot out in soccer where should the non participating players be",
+    "gold_candidates": [
+      "In the centre circle"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "The non-participating players should be behind the penalty spot, but not closer to the goal than the ball.",
+      "The non-participating players should be behind a designated line, typically on the sideline or on the touchline, to avoid interfering with the players on the field",
+      "Behind the goal, out of the playing area.",
+      "On the sideline, out of the shooting area.",
+      "The non-participating players should be behind the penalty spot, but not interfering with the players taking the penalty kicks."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "The non-participating players should be behind the penalty spot, but not closer to the goal than the ball.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "In the centre circle",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.520264267496858,
+    "eigvals_min": 4.740896647787522,
+    "eigvals_max": 497.4727034942366,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_1436",
+    "question": "In 1942, which town was destroyed by Nazis in reprisal for the assassination of Reinhard Heydrick?",
+    "gold_candidates": [
+      "LIDICE"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Lublin.",
+      "Leningrad.",
+      "Leningrad.",
+      "Leningrad.",
+      "Lwow (now Lviv, Ukraine)."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Leningrad.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "LIDICE",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.15698087832653157,
+    "eigvals_min": 0.0009999999999970928,
+    "eigvals_max": 468.5327764119006,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_11998",
+    "question": "Who directed the 2011 Palme d'Or winning film 'The Tree Of Life'?",
+    "gold_candidates": [
+      "Terence Malick"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Terrence Malick directed the 2011 Palme d'Or winning film 'The Tree of Life'.",
+      "Terrence Malick.",
+      "Terrence Malick.",
+      "Terrence Malick.",
+      "Terrence Malick."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Terrence Malick.",
+    "correctness_score_vs_gold": 0.5,
+    "matched_gold": "Terence Malick",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.3044830593387284,
+    "eigvals_min": 0.0010000000000047746,
+    "eigvals_max": 417.7709434909559,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_25397",
+    "question": "For which bank was Nick Leeson working at the time of his criminal dealings?",
+    "gold_candidates": [
+      "Barings"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Barings Bank.",
+      "Barings Bank.",
+      "Barings Bank.",
+      "Barings Bank.",
+      "Barings Bank."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Barings Bank.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Barings",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.254151685904077,
+    "eigvals_min": 0.001000000000000024,
+    "eigvals_max": 578.3982736537877,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_23291",
+    "question": "Which team did Jose Mourinho manage to win the 2004 UEFA Champions League Final - beating Monaco 3-0?",
+    "gold_candidates": [
+      "PORTO"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Porto.",
+      "Porto.",
+      "Porto.",
+      "Porto.",
+      "Porto."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Porto.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "PORTO",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.294198443329845,
+    "eigvals_min": 0.0009999999999798408,
+    "eigvals_max": 473.44175669984384,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_306",
+    "question": "Antigonus is a character in which Shakespeare play?",
+    "gold_candidates": [
+      "The Winter’s Tale"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Antigonus is a character in \"Henry IV, Part 1\".",
+      "Antigonus is a character in \"Cymbeline\".",
+      "Antigonus is a character in \"A Winter's Tale\".",
+      "The Winter's Tale.",
+      "Antigonus is a character in \"A Winter's Tale\"."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Antigonus is a character in \"A Winter's Tale\".",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "The Winter’s Tale",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 1.7022080503088888,
+    "eigvals_min": 0.0010000000000118803,
+    "eigvals_max": 505.21079488946214,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_11099",
+    "question": "With what is FIFA usually associated?",
+    "gold_candidates": [
+      "Football"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Soccer.",
+      "The sport of soccer.",
+      "Soccer.",
+      "Soccer.",
+      "Soccer, or football."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Soccer.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Football",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.9138420184205256,
+    "eigvals_min": 0.0010000000000043292,
+    "eigvals_max": 510.48937973412023,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_3433",
+    "question": "Who designed Madonna's wedding dress for her marriage to Guy Ritchie?",
+    "gold_candidates": [
+      "Stella McCartney"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Stella McCartney.",
+      "Stella McCartney designed Madonna's wedding dress for her marriage to Guy Ritchie.",
+      "Stella McCartney.",
+      "Vera Wang designed Madonna's wedding dress for her marriage to Guy Ritchie.",
+      "Stella McCartney."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Stella McCartney.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Stella McCartney",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -0.45874200435581336,
+    "eigvals_min": 0.0009999999999856255,
+    "eigvals_max": 493.395880434436,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_80",
+    "question": "\"Which female, former TV newsreader, was the first presenter of the TV programme, \"\"Top Gear\"\"?\"",
+    "gold_candidates": [
+      "ANGELA RIPPON"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Angela Rippon.",
+      "Angela Rippon.",
+      "Angela Rippon.",
+      "Angela Rippon.",
+      "Anita Dunseeth."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Angela Rippon.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "ANGELA RIPPON",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.4773213596011745,
+    "eigvals_min": 0.0009999999999210413,
+    "eigvals_max": 517.8878606279897,
+    "clip_fraction": null
+  },
+  {
+    "id": "bb_4027",
+    "question": "Babel Fish is an icon/metaphor/brand for instantaneous what?",
+    "gold_candidates": [
+      "Translation"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Global communication.",
+      "Language translation.",
+      "Language translation.",
+      "Global understanding.",
+      "Global understanding."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Language translation.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Translation",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -0.4205496101005072,
+    "eigvals_min": 0.0010000000000184907,
+    "eigvals_max": 561.2719820627708,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_723",
+    "question": "What sort of plant is 'Bladderwrack'?",
+    "gold_candidates": [
+      "SEAWEED"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Bladderwrack is a type of seaweed.",
+      "Bladderwrack is a type of brown algae.",
+      "Bladderwrack is a type of seaweed.",
+      "Bladderwrack is a type of large brown seaweed.",
+      "Bladderwrack is a type of large brown seaweed."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Bladderwrack is a type of seaweed.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "SEAWEED",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -0.8065252042040936,
+    "eigvals_min": 0.0010000000000122942,
+    "eigvals_max": 559.9486645972597,
+    "clip_fraction": null
+  },
+  {
+    "id": "qg_4371",
+    "question": "What author penned a satirical essay in 1729, entitled A Modest Proposal, modestly proposing that the poor should eat their babies?",
+    "gold_candidates": [
+      "Jonathan Swift"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Jonathan Swift.",
+      "Jonathan Swift.",
+      "Jonathan Swift.",
+      "Jonathan Swift.",
+      "Jonathan Swift."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Jonathan Swift.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Jonathan Swift",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.2408306175912465,
+    "eigvals_min": 0.0009999999961879313,
+    "eigvals_max": 618.234621410071,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_2151",
+    "question": "What colour are the flowers of a hawkbit plant?",
+    "gold_candidates": [
+      "Yellow"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "generations": [
+      "Hawkbit flowers are typically yellow with a brown or black center.",
+      "Yellow and orange.",
+      "The hawkbit plant typically has yellow flowers.",
+      "The flowers of a hawkbit plant are typically yellow.",
+      "The hawkbit plant typically has yellow flowers."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "The hawkbit plant typically has yellow flowers.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Yellow",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 1.453544552261297,
+    "eigvals_min": 0.0010000000004483506,
+    "eigvals_max": 558.2211282468998,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_20461",
+    "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+    "gold_candidates": [
+      "Greg Rusedski"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Virginia Wade.",
+      "Pat Cash.",
+      "Tim Henman.",
+      "Virginia Wade.",
+      "Virginia Wade."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Virginia Wade.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Greg Rusedski",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.6327164401767413,
+    "eigvals_min": 0.0009999999999890227,
+    "eigvals_max": 433.59221571515275,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_3333",
+    "question": "Which French vessel was the first ocean-going liner to exceed 1,000 feet in length ?",
+    "gold_candidates": [
+      "NORMANDIE"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "The French vessel was the Normandie.",
+      "The Normandie.",
+      "The Normandie.",
+      "The Normandie.",
+      "The Normandie."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "The Normandie.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "NORMANDIE",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.6198022777733674,
+    "eigvals_min": 0.0010000000000047748,
+    "eigvals_max": 478.26795901914346,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_7817",
+    "question": "How many ‘E’ tiles are provided in a Scrabble game?",
+    "gold_candidates": [
+      "12"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "2",
+      "7.",
+      "7.",
+      "6",
+      "7."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "7.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "12",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.3933554290134519,
+    "eigvals_min": 0.0010000000000310975,
+    "eigvals_max": 493.683270332251,
+    "clip_fraction": null
+  },
+  {
+    "id": "tb_1962",
+    "question": "What term was popularized by Nobel Prize-winning Paul Crutzen to replace 'Holocene' epoch on the Geological Time Scale as he felt that the influence of humans on Earth is significant?",
+    "gold_candidates": [
+      "Anthropocene"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Anthropocene.",
+      "Anthropocene.",
+      "Anthropocene.",
+      "Anthropocene.",
+      "Anthropocene."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Anthropocene.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Anthropocene",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.24910562712424,
+    "eigvals_min": 0.0009999999999726961,
+    "eigvals_max": 593.1770850629481,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_1365",
+    "question": "What was the name of the skunk in Bambi?",
+    "gold_candidates": [
+      "Flower"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Friend Owl.",
+      "Flower.",
+      "Friend Owl.",
+      "Friend Owl",
+      "Friend Owl."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Friend Owl.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Flower",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.14341387431973943,
+    "eigvals_min": 0.0009999999999905753,
+    "eigvals_max": 398.4625623361578,
+    "clip_fraction": null
+  },
+  {
+    "id": "qg_1358",
+    "question": "What noted film director and producer, born on May 14, 1944, founded the theatre audio company THX, and the visual effects company Industrial Light and Magic, among others?",
+    "gold_candidates": [
+      "George Lucas"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "George Lucas.",
+      "George Lucas.",
+      "George Lucas.",
+      "George Lucas.",
+      "George Lucas."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "George Lucas.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "George Lucas",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.287954075342666,
+    "eigvals_min": 0.0009999999999611476,
+    "eigvals_max": 488.4566559189895,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_6358",
+    "question": "What name is given to the syndrome which involves a delusion that the affected person can transform or has transformed into an animal?",
+    "gold_candidates": [
+      "Clinical lycanthropy"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Zoanthropy.",
+      "Metamorphosis delusionalis.",
+      "Zoanthropy.",
+      "Hyperthymestic syndrome is not the answer. \n\nZoanthropy or therianthropy.",
+      "Zoanthropy."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Zoanthropy.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Clinical lycanthropy",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.3137359595607007,
+    "eigvals_min": 0.0009999999974872075,
+    "eigvals_max": 509.0106493448966,
+    "clip_fraction": null
+  },
+  {
+    "id": "qf_792",
+    "question": "Who designed the Queen's wedding dress?",
+    "gold_candidates": [
+      "Norman Hartnell"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "The Queen's wedding dress was designed by Norman Hartnell.",
+      "The Queen's wedding dress was designed by Norman Norell.",
+      "The Queen's wedding dress was designed by Norman Norell.",
+      "The Queen Elizabeth II's wedding dress was designed by Norman Norell.",
+      "The Queen's wedding dress was designed by David and Elizabeth Emanuel."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "The Queen's wedding dress was designed by Norman Norell.",
+    "correctness_score_vs_gold": 0.2,
+    "matched_gold": "Norman Hartnell",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.416800706854293,
+    "eigvals_min": 0.000999999999990564,
+    "eigvals_max": 580.1839673707249,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_5979",
+    "question": "Which company manufactures the Playstation video games console?",
+    "gold_candidates": [
+      "SONY"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Sony.",
+      "Sony.",
+      "Sony.",
+      "Sony.",
+      "Sony."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Sony.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "SONY",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.292954856185932,
+    "eigvals_min": 0.0009999999999472295,
+    "eigvals_max": 476.39475843718867,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_6246",
+    "question": "Which duo created the “Dagenham dialogues”?",
+    "gold_candidates": [
+      "Peter Cook and Dudley Moore"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "The \"Dagenham Dialogues\" were created by John Cleese and Eric Idle.",
+      "The \"Dagenham Dialogues\" was created by Alan Bleasdale.",
+      "The \"Dagenham dialogues\" were created by Alan Bennett.",
+      "The Dagenham dialogues were created by John Cleese and Graham Chapman.",
+      "The \"Dagenham Dialogues\" were written by Alan Bleasdale."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "The \"Dagenham Dialogues\" were created by John Cleese and Eric Idle.",
+    "correctness_score_vs_gold": 0.13333333333333333,
+    "matched_gold": "Peter Cook and Dudley Moore",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.4894489284810772,
+    "eigvals_min": 4.745517992133452,
+    "eigvals_max": 507.9794142633144,
+    "clip_fraction": null
+  },
+  {
+    "id": "tc_1179",
+    "question": "Which Joan's career revived in Whatever Happened to Baby Jane?",
+    "gold_candidates": [
+      "Crawford"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Bette Davis.",
+      "Bette Davis.",
+      "Bette Davis.",
+      "Bette Davis.",
+      "Bette Davis."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Bette Davis.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Crawford",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -4.281606434868271,
+    "eigvals_min": 0.0009999999999710145,
+    "eigvals_max": 504.2080302920548,
+    "clip_fraction": null
+  },
+  {
+    "id": "jp_1391",
+    "question": "What are the only two types of mammal that can lay eggs?",
+    "gold_candidates": [
+      "Platypus"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Monotremes, specifically platypus and echidnas.",
+      "The platypus and the echidna.",
+      "The platypus and the echidna.",
+      "Monotremes, specifically platypus and echidnas.",
+      "The platypus and the echidna."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "The platypus and the echidna.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Platypus",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.1578398806656844,
+    "eigvals_min": 0.0009999999999516726,
+    "eigvals_max": 516.9888070987344,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_4283",
+    "question": "Which national anthem was originally called the 'War Song for the Rhine Army'?",
+    "gold_candidates": [
+      "MARSELLAISE"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "\"Deutschlandlied\".",
+      "\"Deutschlandlied\".",
+      "\"Deutschlandlied\".",
+      "Deutschlandlied.",
+      "\"Deutschlandlied\"."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "\"Deutschlandlied\".",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "MARSELLAISE",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -2.5616690127424286,
+    "eigvals_min": 0.0009999999999406274,
+    "eigvals_max": 576.3393399309889,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_15048",
+    "question": "Which car company has owned the Lagonda name since 1947?",
+    "gold_candidates": [
+      "Aston Martin"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Rolls-Royce has owned the Lagonda name since 1947.",
+      "Aston Martin.",
+      "Rover Group.",
+      "Aston Martin.",
+      "Lagonda is owned by Jaguar Land Rover."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Aston Martin.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Aston Martin",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 1.76663150612743,
+    "eigvals_min": 0.0010000000000225384,
+    "eigvals_max": 475.2776002343915,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_5224",
+    "question": "In the television series ‘Thunderbirds’, what is Lady Penelope’s surname?",
+    "gold_candidates": [
+      "Creighton-Ward"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Creighton-Ward.",
+      "Creighton-Ward.",
+      "Creighton-Ward.",
+      "Creighton-Ward.",
+      "Creighton-Ward."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Creighton-Ward.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Creighton-Ward",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.288125431081301,
+    "eigvals_min": 0.0009999999999577736,
+    "eigvals_max": 488.03833616095324,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_9518",
+    "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+    "gold_candidates": [
+      "Robert the Robot"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Major Zero.",
+      "Major Zero.",
+      "Major, the robot co-pilot of the spaceship XL5.",
+      "Major Zero.",
+      "Major Zero."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Major Zero.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Robert the Robot",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -2.361527228624552,
+    "eigvals_min": 0.000999999999861856,
+    "eigvals_max": 529.6998410070433,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_6790",
+    "question": "Scottish artist, Sir Henry Raeburn was knighted by which British monarch in 1822?",
+    "gold_candidates": [
+      "King George IV"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "King George IV.",
+      "King George IV.",
+      "King George IV.",
+      "King George IV.",
+      "King George IV."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "King George IV.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "King George IV",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.267508610153358,
+    "eigvals_min": 0.0009999999999549564,
+    "eigvals_max": 541.0318043210513,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_3814",
+    "question": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+    "gold_candidates": [
+      "3000 metres"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "The 3000-meter steeplechase event.",
+      "The 1984 Olympics.",
+      "The 3200 meters.",
+      "Track and Field.",
+      "The 3000 meters."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "The 3000-meter steeplechase event.",
+    "correctness_score_vs_gold": 0.6666666666666666,
+    "matched_gold": "3000 metres",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 1.9215337081939765,
+    "eigvals_min": 0.2972229651232258,
+    "eigvals_max": 518.7066286907224,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_9823",
+    "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+    "gold_candidates": [
+      "Third"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "generations": [
+      "The third month.",
+      "The third month of the Hebrew or Jewish calendar.",
+      "The third month of the Jewish calendar.",
+      "The third month of the Jewish calendar.",
+      "The fifth month."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "The third month of the Jewish calendar.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Third",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 0.4171937072604083,
+    "eigvals_min": 0.001000000000005219,
+    "eigvals_max": 555.8642655437804,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_6273",
+    "question": "Who was the second wife of Henry VIII?",
+    "gold_candidates": [
+      "Anne Boleyn"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Anne Boleyn.",
+      "Anne Boleyn.",
+      "Anne Boleyn.",
+      "Anne Boleyn.",
+      "Anne Boleyn."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Anne Boleyn.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Anne Boleyn",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.280388607275545,
+    "eigvals_min": 0.0009999999999808586,
+    "eigvals_max": 507.2875889664871,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_2073",
+    "question": "Which constellation has, uniquely, in Rigel and Betelgeuse, two of the ten brightest stars?",
+    "gold_candidates": [
+      "Orion"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Orion.",
+      "Orion.",
+      "Orion.",
+      "Orion.",
+      "Orion."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Orion.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Orion",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.248885385967724,
+    "eigvals_min": 0.0009999999999288829,
+    "eigvals_max": 593.8306549940758,
+    "clip_fraction": null
+  },
+  {
+    "id": "qb_5778",
+    "question": "Which former Italian Prime Minister was kidnapped by The Red Brigade in 1978, and killed after 55 days in captivity?",
+    "gold_candidates": [
+      "Aldo Moro"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Olof Palme.",
+      "Italo Calvino was not kidnapped, it was Aldo Moro.",
+      "It was Aldo Moro.",
+      "Italo Calvino",
+      "Olof Palme."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Olof Palme.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Aldo Moro",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 2.0113355022208594,
+    "eigvals_min": 0.0010000000004250172,
+    "eigvals_max": 416.99272006324406,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_12041",
+    "question": "What was the name of the operation whereby 1,373 U.S. citizens and 5,595 Vietnamese and foreign nationals were evacuated from the South Vietnamese capital of Saigon on 29 and 30 April 1975?",
+    "gold_candidates": [
+      "Operation Frequent Wind"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Operation Frequent Wind.",
+      "Operation Frequent Wind.",
+      "Operation Frequent Wind.",
+      "Operation Frequent Wind.",
+      "Operation Frequent Wind."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Operation Frequent Wind.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Operation Frequent Wind",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.230217856399181,
+    "eigvals_min": 0.0009999999998664335,
+    "eigvals_max": 651.9265056057956,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_17511",
+    "question": "For which TV show does the Dave Arch orchestra regularly provide the musical accompaniment?",
+    "gold_candidates": [
+      "STRICTLY COME DANCING"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "The Dave Arch Orchestra provides musical accompaniment for the TV show \"Days of Our Lives\".",
+      "The BBC's \"Top Gear\" and \"The Graham Norton Show\".",
+      "The Dave Arch Orchestra provides the musical accompaniment for the TV show \"The Price is Right.\"",
+      "The Dave Arch Orchestra provides musical accompaniment for the TV show \"The Big Bang Theory\".",
+      "The Dave Arch Orchestra provides musical accompaniment for the TV show \"Days of Our Lives\"."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "The Dave Arch Orchestra provides musical accompaniment for the TV show \"Days of Our Lives\".",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "STRICTLY COME DANCING",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.9708896649197682,
+    "eigvals_min": 0.000999999999542922,
+    "eigvals_max": 617.8981046378442,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_21",
+    "question": "Whose gang travel around in the Mystery Machine?",
+    "gold_candidates": [
+      "Scooby-Doo’s"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "generations": [
+      "The Scooby-Doo gang.",
+      "The Scooby-Doo gang.",
+      "The Scooby-Doo gang.",
+      "The Flintstones.",
+      "The Scooby-Doo gang."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "The Scooby-Doo gang.",
+    "correctness_score_vs_gold": 0.8,
+    "matched_gold": "Scooby-Doo’s",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.121326757366691,
+    "eigvals_min": 0.000999999998977913,
+    "eigvals_max": 542.5131426577976,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_603",
+    "question": "In which city would you find O'Hare International Airport?",
+    "gold_candidates": [
+      "Chicago"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Chicago.",
+      "Chicago.",
+      "Chicago.",
+      "Chicago.",
+      "Chicago."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Chicago.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Chicago",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.310984168971065,
+    "eigvals_min": 0.0009999999999937672,
+    "eigvals_max": 435.328218147029,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_654",
+    "question": "The characters Denisov and Dolokhov appear in which famous novel?",
+    "gold_candidates": [
+      "War and Peace"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "War and Peace.",
+      "War and Peace.",
+      "War and Peace.",
+      "War and Peace.",
+      "War and Peace."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "War and Peace.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "War and Peace",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.22458649596058,
+    "eigvals_min": 0.0009999999999179144,
+    "eigvals_max": 670.5435387660692,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_25127",
+    "question": "What is the five-letter name for Norway as used on its stamps?",
+    "gold_candidates": [
+      "NORGE"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "generations": [
+      "NORWAY.",
+      "NORWAY",
+      "NORWAY.",
+      "NORWAY.",
+      "NORWAY."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "NORWAY.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "NORGE",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -2.082762032296653,
+    "eigvals_min": 0.0009999999999988107,
+    "eigvals_max": 469.0409282293747,
+    "clip_fraction": null
+  },
+  {
+    "id": "bb_172",
+    "question": "What would a person normally do with perique?",
+    "gold_candidates": [
+      "Smoke it"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "generations": [
+      "Use it as a flavor component in cigar blends.",
+      "Perique is a type of strong, pungent tobacco often used in cigar blends, particularly in Cuban cigars.",
+      "Perique is typically used as a flavoring agent in cigars.",
+      "Use as a flavoring in cigars.",
+      "Perique is a type of strong, pungent tobacco used in cigars."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "Use it as a flavor component in cigar blends.",
+    "correctness_score_vs_gold": 0.2,
+    "matched_gold": "Smoke it",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.141037568358945,
+    "eigvals_min": 3.808191135092692,
+    "eigvals_max": 611.640501401522,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_4354",
+    "question": "When Jim Laker took 19 wickets in the Old Trafford Test Match in 1956, who was the Australian captain?",
+    "gold_candidates": [
+      "RICHIE BENAUD"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "The Australian captain was Richie Benaud.",
+      "The Australian captain in that match was Richie Benaud.",
+      "The Australian captain was Richie Benaud.",
+      "The Australian captain in the 1956 Old Trafford Test was Don Bradman.",
+      "The Australian captain was Richie Benaud."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "The Australian captain was Richie Benaud.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "RICHIE BENAUD",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -0.6676636764029098,
+    "eigvals_min": 0.0010000000000085889,
+    "eigvals_max": 457.7180066836863,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_2629",
+    "question": "In the fairy tale Thumbelina, what creature wants the miniature girl to marry her son ?",
+    "gold_candidates": [
+      "TOAD"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "A toad.",
+      "The toad.",
+      "The grasshopper.",
+      "A toad.",
+      "The earthworm."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "A toad.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "TOAD",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 0.5379134992889737,
+    "eigvals_min": 0.00099999999999386,
+    "eigvals_max": 479.5518446679072,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_14908",
+    "question": "Geoff Keegan was leader at which youth club on TV throughout the 1990s?",
+    "gold_candidates": [
+      "Byker Grove"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Noel's House Party.",
+      "SMTV.",
+      "Noel's House Party.",
+      "The Crystal Palace.",
+      "Geoff Keen was the leader of the Scouting for Girls on TV throughout the 1990s."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Noel's House Party.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Byker Grove",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.868154794989199,
+    "eigvals_min": 0.000999999999996904,
+    "eigvals_max": 488.126938550864,
+    "clip_fraction": null
+  },
+  {
+    "id": "qg_4604",
+    "question": "With a motto of Always Ready, Always There, what US military branch had it's founding on Dec 14, 1636?",
+    "gold_candidates": [
+      "National Guard"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "generations": [
+      "The Massachusetts Bay Colony's military branch, which later became the US Army, had its founding on Dec 14, 1636.",
+      "The United States Marine Corps.",
+      "The Continental Army.",
+      "The Continental Army.",
+      "The United States Coast Guard."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "The Continental Army.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "National Guard",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.6801907643302656,
+    "eigvals_min": 0.0009999999999941167,
+    "eigvals_max": 458.8060143769112,
+    "clip_fraction": null
+  },
+  {
+    "id": "bb_879",
+    "question": "What type of creature is a Meadow Brown?",
+    "gold_candidates": [
+      "Butterfly"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "A Meadow Brown is a type of butterfly.",
+      "A Meadow Brown is a type of butterfly.",
+      "The Meadow Brown is a species of butterfly.",
+      "A Meadow Brown is a type of butterfly.",
+      "A Meadow Brown is a type of butterfly."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "A Meadow Brown is a type of butterfly.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Butterfly",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.616575871521124,
+    "eigvals_min": 0.0009999999999144996,
+    "eigvals_max": 671.7384158146533,
+    "clip_fraction": null
+  },
+  {
+    "id": "bb_2852",
+    "question": "Barra island, Outer Hebrides, has at 2012 the world's only official beach-based what?",
+    "gold_candidates": [
+      "Airport"
+    ],
+    "hallucination_labels": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Puffin colony.",
+      "lighthouse.",
+      "designated Dark Sky Park.",
+      "surfing school.",
+      "pilotage school."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "Puffin colony.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Airport",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 3.939982896734257,
+    "eigvals_min": 20.939580411165423,
+    "eigvals_max": 430.3091105198308,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_21789",
+    "question": "From 1791 to 1803, Toussaint L’Ouverture led a revolt against France on which island?",
+    "gold_candidates": [
+      "Haiti"
+    ],
+    "hallucination_labels": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "generations": [
+      "Saint-Domingue (present-day Haiti).",
+      "Saint-Domingue (present-day Haiti).",
+      "Haiti.",
+      "Haiti.",
+      "Haiti."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Haiti.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Haiti",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.3624366792505858,
+    "eigvals_min": 0.0009999999999990097,
+    "eigvals_max": 623.3154731448342,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_15658",
+    "question": "Which National Trust property in Wiltshire was once owned by William Henry Fox-Talbot the pioneer of photography?",
+    "gold_candidates": [
+      "Lacock Abbey"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Lacock Abbey.",
+      "Lacock Abbey.",
+      "Lacock Abbey.",
+      "Lacock Abbey.",
+      "The National Trust property in Wiltshire owned by William Henry Fox-Talbot is Lacock Abbey."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Lacock Abbey.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Lacock Abbey",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.1294911890719512,
+    "eigvals_min": 0.000999999999974812,
+    "eigvals_max": 598.7888564885093,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_7459",
+    "question": "Richard Joseph Daley was the infamous mayor of which major US City in the 1960's?",
+    "gold_candidates": [
+      "CHICAGO"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Chicago.",
+      "Chicago.",
+      "Chicago.",
+      "Chicago.",
+      "Chicago."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Chicago.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "CHICAGO",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.285402179967659,
+    "eigvals_min": 0.0009999999999745724,
+    "eigvals_max": 494.7290381451644,
+    "clip_fraction": null
+  },
+  {
+    "id": "dpql_2858",
+    "question": "Which 'Regal' male singer provided the half-time entertainment for the 2007 Superbowl?",
+    "gold_candidates": [
+      "Prince"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Prince.",
+      "Jazz Jennings and Prince did not perform, but Prince did perform at the 2007 Super Bowl.",
+      "Bruce Springsteen.",
+      "Justin Timberlake.",
+      "Bruce Springsteen."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Bruce Springsteen.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Prince",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 1.7881791107355767,
+    "eigvals_min": 0.0009999999994649844,
+    "eigvals_max": 450.01533469319025,
+    "clip_fraction": null
+  },
+  {
+    "id": "wh_833",
+    "question": "\"Which work by Dylan Thomas starts with the words \"\"To begin at the beginning\"\"?\"",
+    "gold_candidates": [
+      "UNDER MILKWOOD"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "\"Under Milk Wood.\"",
+      "\"Under Milk Wood\".",
+      "\"Under Milk Wood.\"",
+      "Under Milk Wood.",
+      "\"Under Milk Wood.\""
+    ],
+    "unique_generations": 3,
+    "majority_answer": "\"Under Milk Wood.\"",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "UNDER MILKWOOD",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -1.1614781954083926,
+    "eigvals_min": 0.0009999999995423644,
+    "eigvals_max": 570.475950091836,
+    "clip_fraction": null
+  },
+  {
+    "id": "odql_661",
+    "question": "Which 19th century king sired ten illegitimate children, by the Irish comedienne, Dorothea Jordan?",
+    "gold_candidates": [
+      "WILLIAM IV"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "King George IV of the United Kingdom.",
+      "The 19th century king was George IV.",
+      "King George IV of the United Kingdom.",
+      "King George IV of the United Kingdom.",
+      "The 19th-century king was King George IV of the United Kingdom."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "King George IV of the United Kingdom.",
+    "correctness_score_vs_gold": 0.25,
+    "matched_gold": "WILLIAM IV",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.6435382531952277,
+    "eigvals_min": 0.0010000000000014572,
+    "eigvals_max": 458.84541949058524,
+    "clip_fraction": null
+  },
+  {
+    "id": "tb_1129",
+    "question": "The flag of which country prominently features 'The Eagle of Saladin' holding a scroll bearing the name of the country in Arabic?",
+    "gold_candidates": [
+      "Egypt"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Egypt.",
+      "The flag of Egypt.",
+      "Egypt.",
+      "The flag of Egypt.",
+      "Egypt."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Egypt.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Egypt",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -2.426529913226244,
+    "eigvals_min": 0.0009999999969050757,
+    "eigvals_max": 565.8984156513084,
+    "clip_fraction": null
+  },
+  {
+    "id": "qw_7457",
+    "question": "\"The song \"\"Love is All Around\"\" by Wet Wet Wet featured on the soundtrack for which 1994 film?\"",
+    "gold_candidates": [
+      "Four Weddings and a Funeral"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Four Weddings and a Funeral.",
+      "Four Weddings and a Funeral.",
+      "Four Weddings and a Funeral.",
+      "Four Weddings and a Funeral.",
+      "Four Weddings and a Funeral."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Four Weddings and a Funeral.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Four Weddings and a Funeral",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.2341753247024565,
+    "eigvals_min": 0.000999999999954314,
+    "eigvals_max": 639.1534026323864,
+    "clip_fraction": null
+  },
+  {
+    "id": "qz_2532",
+    "question": "What is the name of the London Underground station in EastEnders?",
+    "gold_candidates": [
+      "Walford East"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Walford East.",
+      "Walford East.",
+      "Walford East.",
+      "Walford East.",
+      "Walford East."
+    ],
+    "unique_generations": 1,
+    "majority_answer": "Walford East.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Walford East",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": -4.259584655511118,
+    "eigvals_min": 0.0009999999999803025,
+    "eigvals_max": 562.8976615968968,
+    "clip_fraction": null
+  },
+  {
+    "id": "qf_1973",
+    "question": "The Northern Line is represented by which colour on the map of the Underground?",
+    "gold_candidates": [
+      "Black"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Purple.",
+      "Pink.",
+      "Pink.",
+      "Grey.",
+      "Purple."
+    ],
+    "unique_generations": 3,
+    "majority_answer": "Purple.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "Black",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -0.868943123556733,
+    "eigvals_min": 0.0010000000000163756,
+    "eigvals_max": 524.3714162605037,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_17299",
+    "question": "\"What does the Latin phrase \"\"primus inter pares \"\" mean?\"",
+    "gold_candidates": [
+      "First Amongst Equals"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "\"Primus inter pares\" is a Latin phrase meaning \"first among equals.\"",
+      "\"Primus inter pares\" is a Latin phrase that translates to \"first among equals.\"",
+      "\"Primus inter pares\" is a Latin phrase that translates to \"first among equals\".",
+      "\"Primus inter pares\" is a Latin phrase meaning \"first among equals.\"",
+      "\"First among equals.\""
+    ],
+    "unique_generations": 4,
+    "majority_answer": "\"Primus inter pares\" is a Latin phrase meaning \"first among equals.\"",
+    "correctness_score_vs_gold": 0.30769230769230765,
+    "matched_gold": "First Amongst Equals",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 0.12883065706819394,
+    "eigvals_min": 0.000999999999966478,
+    "eigvals_max": 707.3739357062711,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_7154",
+    "question": "Which foreign car manufacture has a rams head on its badge?",
+    "gold_candidates": [
+      "DODGE"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Ram Trucks.",
+      "Ram Trucks.",
+      "Ram Trucks.",
+      "RAM Trucks.",
+      "Ram Trucks."
+    ],
+    "unique_generations": 2,
+    "majority_answer": "Ram Trucks.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "DODGE",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": -2.5245421635160024,
+    "eigvals_min": 0.0009999999997820132,
+    "eigvals_max": 535.7399390306579,
+    "clip_fraction": null
+  },
+  {
+    "id": "sfq_9852",
+    "question": "The former cricket umpire Harold (Dicky) Bird played cricket for Yorkshire and which other county?",
+    "gold_candidates": [
+      "LEICESTERSHIRE"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Hampshire.",
+      "Nottinghamshire.",
+      "Nottinghamshire.",
+      "Derbyshire.",
+      "Essex."
+    ],
+    "unique_generations": 4,
+    "majority_answer": "Nottinghamshire.",
+    "correctness_score_vs_gold": 0.0,
+    "matched_gold": "LEICESTERSHIRE",
+    "majority_is_correct": false,
+    "is_correct": false,
+    "eigenscore": 0.4913653767544699,
+    "eigvals_min": 0.0009999999999920073,
+    "eigvals_max": 583.8695068612441,
+    "clip_fraction": null
+  },
+  {
+    "id": "bt_2137",
+    "question": "In which county is Wentworth golf course",
+    "gold_candidates": [
+      "Surrey"
+    ],
+    "hallucination_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "generations": [
+      "Wentworth Golf Club is located in Surrey, England.",
+      "I couldn't find a specific information on a well-known \"Wentworth golf course\" without more context.",
+      "I'm not aware of a specific Wentworth golf course, could you provide more context or details?",
+      "Wentworth golf course is located in Surrey, England.",
+      "I couldn't find any information on a well-known golf course by the name of \"Wentworth\"."
+    ],
+    "unique_generations": 5,
+    "majority_answer": "Wentworth Golf Club is located in Surrey, England.",
+    "correctness_score_vs_gold": 1.0,
+    "matched_gold": "Surrey",
+    "majority_is_correct": true,
+    "is_correct": true,
+    "eigenscore": 2.858261083567863,
+    "eigvals_min": 1.3751745671168958,
+    "eigvals_max": 480.1001390861352,
+    "clip_fraction": null
+  }
+]

@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "qb_9518",
+    "question": "In the children’s television series ‘Fireball XL5’, what is the name of the robot co-pilot of XL5?",
+    "gold_answer": "Robert the Robot",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 8.666666666666666,
+    "fc_mean_unique_generations": 12.0,
+    "baseline_mean_eigenscore": -2.544710088863713,
+    "fc_mean_eigenscore": -1.2983615446895962,
+    "mean_delta_eigenscore": 1.246348544174117,
+    "mean_delta_unique_generations": 3.3333333333333335,
+    "mean_fc_clip_fraction": 0.008927522783574044,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Major Zero.",
+        "is_correct": false,
+        "eigenscore": -2.7293421999424075
+      },
+      {
+        "seed": 42,
+        "answer": "Major Zero",
+        "is_correct": false,
+        "eigenscore": -2.7514617670812016
+      },
+      {
+        "seed": 43,
+        "answer": "Major Zero.",
+        "is_correct": false,
+        "eigenscore": -2.1533262995675306
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Major Zero.",
+        "is_correct": false,
+        "eigenscore": -1.0831373659276866
+      },
+      {
+        "seed": 42,
+        "answer": "Major Zero",
+        "is_correct": false,
+        "eigenscore": -1.542376344906697
+      },
+      {
+        "seed": 43,
+        "answer": "Major Zero.",
+        "is_correct": false,
+        "eigenscore": -1.2695709232344052
+      }
+    ]
+  },
+  {
+    "id": "sfq_4354",
+    "question": "When Jim Laker took 19 wickets in the Old Trafford Test Match in 1956, who was the Australian captain?",
+    "gold_answer": "RICHIE BENAUD",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 4.666666666666667,
+    "fc_mean_unique_generations": 7.333333333333333,
+    "baseline_mean_eigenscore": -4.380583508768437,
+    "fc_mean_eigenscore": -3.1851617950174953,
+    "mean_delta_eigenscore": 1.1954217137509413,
+    "mean_delta_unique_generations": 2.6666666666666665,
+    "mean_fc_clip_fraction": 0.009126139876523526,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Australian captain was Richie Benaud.",
+        "is_correct": true,
+        "eigenscore": -4.736538504389525
+      },
+      {
+        "seed": 42,
+        "answer": "The Australian captain was Richie Benaud.",
+        "is_correct": true,
+        "eigenscore": -4.221104274267979
+      },
+      {
+        "seed": 43,
+        "answer": "The Australian captain was Richie Benaud.",
+        "is_correct": true,
+        "eigenscore": -4.184107747647805
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Australian captain was Richie Benaud.",
+        "is_correct": true,
+        "eigenscore": -3.6951533351789676
+      },
+      {
+        "seed": 42,
+        "answer": "The Australian captain was Richie Benaud.",
+        "is_correct": true,
+        "eigenscore": -2.8281196590254725
+      },
+      {
+        "seed": 43,
+        "answer": "The Australian captain was Richie Benaud.",
+        "is_correct": true,
+        "eigenscore": -3.032212390848046
+      }
+    ]
+  },
+  {
+    "id": "qw_1527",
+    "question": "In a film script, what do the letters ECU mean?",
+    "gold_answer": "Extreme Close Up",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 9.666666666666666,
+    "fc_mean_unique_generations": 12.0,
+    "baseline_mean_eigenscore": -1.6177333399297964,
+    "fc_mean_eigenscore": -0.5963872165692531,
+    "mean_delta_eigenscore": 1.0213461233605432,
+    "mean_delta_unique_generations": 2.3333333333333335,
+    "mean_fc_clip_fraction": 0.006033685415826325,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Electronic Control Unit.",
+        "is_correct": false,
+        "eigenscore": -0.9611216339344274
+      },
+      {
+        "seed": 42,
+        "answer": "Electronic Control Unit.",
+        "is_correct": false,
+        "eigenscore": -2.003636204647731
+      },
+      {
+        "seed": 43,
+        "answer": "Electronic Control Unit.",
+        "is_correct": false,
+        "eigenscore": -1.8884421812072307
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Electronic Control Unit.",
+        "is_correct": false,
+        "eigenscore": -0.4072187669420647
+      },
+      {
+        "seed": 42,
+        "answer": "Electronic Control Unit.",
+        "is_correct": false,
+        "eigenscore": -1.0124907036945199
+      },
+      {
+        "seed": 43,
+        "answer": "Electronic Control Unit.",
+        "is_correct": false,
+        "eigenscore": -0.36945217907117467
+      }
+    ]
+  },
+  {
+    "id": "tb_1824",
+    "question": "Which rock concert held on December 6, 1969 was speculated to be a 'Woodstock West' but became infamous after it was marred by considerable violence?",
+    "gold_answer": "Altamont Free Concert",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 2.3333333333333335,
+    "fc_mean_unique_generations": 4.333333333333333,
+    "baseline_mean_eigenscore": -5.518288302396226,
+    "fc_mean_eigenscore": -4.510301352698214,
+    "mean_delta_eigenscore": 1.007986949698012,
+    "mean_delta_unique_generations": 2.0,
+    "mean_fc_clip_fraction": 0.008984284199726765,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Altamont Free Concert.",
+        "is_correct": true,
+        "eigenscore": -5.7319432119334355
+      },
+      {
+        "seed": 42,
+        "answer": "The Altamont Free Concert.",
+        "is_correct": true,
+        "eigenscore": -6.172841137123142
+      },
+      {
+        "seed": 43,
+        "answer": "The Altamont Free Concert.",
+        "is_correct": true,
+        "eigenscore": -4.6500805581321005
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Altamont Free Concert.",
+        "is_correct": true,
+        "eigenscore": -5.580886798257029
+      },
+      {
+        "seed": 42,
+        "answer": "The Altamont Free Concert.",
+        "is_correct": true,
+        "eigenscore": -4.6977469293631025
+      },
+      {
+        "seed": 43,
+        "answer": "The Altamont Free Concert.",
+        "is_correct": true,
+        "eigenscore": -3.2522703304745106
+      }
+    ]
+  },
+  {
+    "id": "qf_1170",
+    "question": "What 1945 film won best picture, actor, director Oscars?",
+    "gold_answer": "The Lost Weekend",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 8.666666666666666,
+    "fc_mean_unique_generations": 10.333333333333334,
+    "baseline_mean_eigenscore": -2.3229854049604475,
+    "fc_mean_eigenscore": -1.4979060020630717,
+    "mean_delta_eigenscore": 0.8250794028973759,
+    "mean_delta_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.007968289667508418,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Going My Way.",
+        "is_correct": false,
+        "eigenscore": -3.677149279495411
+      },
+      {
+        "seed": 42,
+        "answer": "Going My Way.",
+        "is_correct": false,
+        "eigenscore": -2.150258515736042
+      },
+      {
+        "seed": 43,
+        "answer": "Going My Way.",
+        "is_correct": false,
+        "eigenscore": -1.14154841964989
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Going My Way.",
+        "is_correct": false,
+        "eigenscore": -2.1459095623571818
+      },
+      {
+        "seed": 42,
+        "answer": "Going My Way.",
+        "is_correct": false,
+        "eigenscore": -0.6385628974862267
+      },
+      {
+        "seed": 43,
+        "answer": "Going My Way.",
+        "is_correct": false,
+        "eigenscore": -1.7092455463458065
+      }
+    ]
+  },
+  {
+    "id": "qw_11069",
+    "question": "What does a querulous person do?",
+    "gold_answer": "Complain",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 14.666666666666666,
+    "fc_mean_unique_generations": 16.333333333333332,
+    "baseline_mean_eigenscore": -0.9649342067592662,
+    "fc_mean_eigenscore": -0.19495551342722942,
+    "mean_delta_eigenscore": 0.7699786933320368,
+    "mean_delta_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.007888254626677927,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "A querulous person is one who complains frequently and persistently about something.",
+        "is_correct": true,
+        "eigenscore": -2.3786182372641247
+      },
+      {
+        "seed": 42,
+        "answer": "A querulous person is one who complains frequently and persistently about something.",
+        "is_correct": true,
+        "eigenscore": -0.48558921338501604
+      },
+      {
+        "seed": 43,
+        "answer": "A querulous person is one who complains frequently or persistently about something.",
+        "is_correct": true,
+        "eigenscore": -0.03059516962865789
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "A querulous person is one who complains frequently and persistently about something.",
+        "is_correct": true,
+        "eigenscore": -0.6297432900876028
+      },
+      {
+        "seed": 42,
+        "answer": "A querulous person is one who complains frequently and persistently about something.",
+        "is_correct": true,
+        "eigenscore": -0.0019794045469125445
+      },
+      {
+        "seed": 43,
+        "answer": "A querulous person is someone who constantly complains or finds fault.",
+        "is_correct": true,
+        "eigenscore": 0.04685615435282706
+      }
+    ]
+  },
+  {
+    "id": "jp_1391",
+    "question": "What are the only two types of mammal that can lay eggs?",
+    "gold_answer": "Platypus",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 10.0,
+    "fc_mean_unique_generations": 11.333333333333334,
+    "baseline_mean_eigenscore": -2.28803813912834,
+    "fc_mean_eigenscore": -1.541827725393778,
+    "mean_delta_eigenscore": 0.7462104137345623,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.008296550027181538,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Monotremes, specifically platypus and echidnas.",
+        "is_correct": true,
+        "eigenscore": -1.9123075826269833
+      },
+      {
+        "seed": 42,
+        "answer": "Monotremes, specifically platypus and echidnas.",
+        "is_correct": true,
+        "eigenscore": -2.5739322456584124
+      },
+      {
+        "seed": 43,
+        "answer": "Monotremes, specifically platypus and echidnas.",
+        "is_correct": true,
+        "eigenscore": -2.3778745890996253
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Monotremes, specifically platypus and echidnas.",
+        "is_correct": true,
+        "eigenscore": -1.1850263535535213
+      },
+      {
+        "seed": 42,
+        "answer": "Monotremes, specifically platypus and echidnas.",
+        "is_correct": true,
+        "eigenscore": -1.5948013531861005
+      },
+      {
+        "seed": 43,
+        "answer": "Monotremes, specifically platypus and echidnas.",
+        "is_correct": true,
+        "eigenscore": -1.8456554694417122
+      }
+    ]
+  },
+  {
+    "id": "sfq_20461",
+    "question": "Prior to Andy Murray who was the last British player to contest a tennis Grand Slam singles final?",
+    "gold_answer": "Greg Rusedski",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 7.666666666666667,
+    "fc_mean_unique_generations": 9.333333333333334,
+    "baseline_mean_eigenscore": -2.867129043283794,
+    "fc_mean_eigenscore": -2.1531759264140726,
+    "mean_delta_eigenscore": 0.7139531168697212,
+    "mean_delta_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.00810792511143519,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Virginia Wade.",
+        "is_correct": false,
+        "eigenscore": -3.199759405603919
+      },
+      {
+        "seed": 42,
+        "answer": "Virginia Wade.",
+        "is_correct": false,
+        "eigenscore": -3.203920308966709
+      },
+      {
+        "seed": 43,
+        "answer": "Virginia Wade.",
+        "is_correct": false,
+        "eigenscore": -2.1977074152807536
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Virginia Wade.",
+        "is_correct": false,
+        "eigenscore": -2.424282880764495
+      },
+      {
+        "seed": 42,
+        "answer": "Tim Henman.",
+        "is_correct": false,
+        "eigenscore": -2.325032079869279
+      },
+      {
+        "seed": 43,
+        "answer": "Virginia Wade.",
+        "is_correct": false,
+        "eigenscore": -1.7102128186084447
+      }
+    ]
+  },
+  {
+    "id": "dpql_21",
+    "question": "Whose gang travel around in the Mystery Machine?",
+    "gold_answer": "Scooby-Doo’s",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.6666666666666666,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 0.5333333333333333,
+    "fc_mean_correctness_score_vs_gold": 0.8,
+    "baseline_mean_unique_generations": 6.0,
+    "fc_mean_unique_generations": 7.666666666666667,
+    "baseline_mean_eigenscore": -3.490824085958105,
+    "fc_mean_eigenscore": -2.82012124764141,
+    "mean_delta_eigenscore": 0.6707028383166947,
+    "mean_delta_unique_generations": 1.6666666666666667,
+    "mean_fc_clip_fraction": 0.007316839568582063,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Flintstones.",
+        "is_correct": false,
+        "eigenscore": -3.132496018632228
+      },
+      {
+        "seed": 42,
+        "answer": "The Scooby-Doo gang.",
+        "is_correct": true,
+        "eigenscore": -3.915569630107379
+      },
+      {
+        "seed": 43,
+        "answer": "The Scooby-Doo gang.",
+        "is_correct": true,
+        "eigenscore": -3.424406609134708
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Scooby-Doo gang.",
+        "is_correct": true,
+        "eigenscore": -2.9243518040514838
+      },
+      {
+        "seed": 42,
+        "answer": "The Scooby-Doo gang.",
+        "is_correct": true,
+        "eigenscore": -2.98877125992838
+      },
+      {
+        "seed": 43,
+        "answer": "The Scooby-Doo gang.",
+        "is_correct": true,
+        "eigenscore": -2.5472406789443665
+      }
+    ]
+  },
+  {
+    "id": "odql_661",
+    "question": "Which 19th century king sired ten illegitimate children, by the Irish comedienne, Dorothea Jordan?",
+    "gold_answer": "WILLIAM IV",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.25,
+    "fc_mean_correctness_score_vs_gold": 0.25,
+    "baseline_mean_unique_generations": 6.333333333333333,
+    "fc_mean_unique_generations": 7.666666666666667,
+    "baseline_mean_eigenscore": -3.5787827357432946,
+    "fc_mean_eigenscore": -2.922195237987055,
+    "mean_delta_eigenscore": 0.6565874977562399,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.008394691577999784,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "King George IV of the United Kingdom.",
+        "is_correct": false,
+        "eigenscore": -2.828124928236119
+      },
+      {
+        "seed": 42,
+        "answer": "King George IV of the United Kingdom.",
+        "is_correct": false,
+        "eigenscore": -4.076592194946286
+      },
+      {
+        "seed": 43,
+        "answer": "King George IV of the United Kingdom.",
+        "is_correct": false,
+        "eigenscore": -3.8316310840474785
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "King George IV of the United Kingdom.",
+        "is_correct": false,
+        "eigenscore": -1.947206429454828
+      },
+      {
+        "seed": 42,
+        "answer": "King George IV of the United Kingdom.",
+        "is_correct": false,
+        "eigenscore": -3.5759611340263033
+      },
+      {
+        "seed": 43,
+        "answer": "King George IV of the United Kingdom.",
+        "is_correct": false,
+        "eigenscore": -3.243418150480033
+      }
+    ]
+  },
+  {
+    "id": "sfq_4713",
+    "question": "Which character did Felicity Kendall play in 'The Good Life'? (Christian name and surname required)",
+    "gold_answer": "Barbara Good",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 2.6666666666666665,
+    "fc_mean_unique_generations": 4.0,
+    "baseline_mean_eigenscore": -5.301357661468141,
+    "fc_mean_eigenscore": -4.665770893294119,
+    "mean_delta_eigenscore": 0.6355867681740225,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.006685813621238426,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Pauline.",
+        "is_correct": false,
+        "eigenscore": -5.630177413404203
+      },
+      {
+        "seed": 42,
+        "answer": "Pauline.",
+        "is_correct": false,
+        "eigenscore": -5.5558590356449695
+      },
+      {
+        "seed": 43,
+        "answer": "Pauline.",
+        "is_correct": false,
+        "eigenscore": -4.718036535355251
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Pauline.",
+        "is_correct": false,
+        "eigenscore": -5.122099172951354
+      },
+      {
+        "seed": 42,
+        "answer": "Pauline.",
+        "is_correct": false,
+        "eigenscore": -5.075533937400129
+      },
+      {
+        "seed": 43,
+        "answer": "Pauline.",
+        "is_correct": false,
+        "eigenscore": -3.7996795695308734
+      }
+    ]
+  },
+  {
+    "id": "sfq_16651",
+    "question": "Which Gilbert and Sullivan opera has the alternate title 'Bunthome's Bride'?",
+    "gold_answer": "Patience",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 3.3333333333333335,
+    "fc_mean_unique_generations": 4.666666666666667,
+    "baseline_mean_eigenscore": -4.966591952471429,
+    "fc_mean_eigenscore": -4.356062587262641,
+    "mean_delta_eigenscore": 0.6105293652087888,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.007464253646176948,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Iolanthe.",
+        "is_correct": false,
+        "eigenscore": -4.6757264578721065
+      },
+      {
+        "seed": 42,
+        "answer": "Iolanthe.",
+        "is_correct": false,
+        "eigenscore": -5.101784595841557
+      },
+      {
+        "seed": 43,
+        "answer": "Iolanthe.",
+        "is_correct": false,
+        "eigenscore": -5.122264803700625
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Iolanthe.",
+        "is_correct": false,
+        "eigenscore": -3.2772829740846205
+      },
+      {
+        "seed": 42,
+        "answer": "Iolanthe.",
+        "is_correct": false,
+        "eigenscore": -4.651398635376746
+      },
+      {
+        "seed": 43,
+        "answer": "Iolanthe.",
+        "is_correct": false,
+        "eigenscore": -5.139506152326555
+      }
+    ]
+  },
+  {
+    "id": "bt_4354",
+    "question": "Which tube station stands at the northern end of the Piccadilly Line",
+    "gold_answer": "Cockfosters",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 4.0,
+    "fc_mean_unique_generations": 5.333333333333333,
+    "baseline_mean_eigenscore": -4.689690081561995,
+    "fc_mean_eigenscore": -4.083288905939024,
+    "mean_delta_eigenscore": 0.6064011756229716,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.006591868261147661,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Hammersmith.",
+        "is_correct": false,
+        "eigenscore": -4.681583383840608
+      },
+      {
+        "seed": 42,
+        "answer": "Hammersmith.",
+        "is_correct": false,
+        "eigenscore": -4.249925443845655
+      },
+      {
+        "seed": 43,
+        "answer": "Hammersmith.",
+        "is_correct": false,
+        "eigenscore": -5.137561416999723
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Hammersmith.",
+        "is_correct": false,
+        "eigenscore": -4.2343485525876945
+      },
+      {
+        "seed": 42,
+        "answer": "Hammersmith.",
+        "is_correct": false,
+        "eigenscore": -3.8011663677484355
+      },
+      {
+        "seed": 43,
+        "answer": "Hammersmith.",
+        "is_correct": false,
+        "eigenscore": -4.214351797480941
+      }
+    ]
+  },
+  {
+    "id": "dpql_2645",
+    "question": "Which knight is with Arthur at the end and throws Excalibur into the lake?",
+    "gold_answer": "Sir Bedevere",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 0.5,
+    "fc_mean_correctness_score_vs_gold": 0.5,
+    "baseline_mean_unique_generations": 3.0,
+    "fc_mean_unique_generations": 4.333333333333333,
+    "baseline_mean_eigenscore": -5.2160387635587595,
+    "fc_mean_eigenscore": -4.610665764002684,
+    "mean_delta_eigenscore": 0.6053729995560749,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.007687570165681016,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Sir Lancelot.",
+        "is_correct": true,
+        "eigenscore": -5.224989708858571
+      },
+      {
+        "seed": 42,
+        "answer": "Sir Lancelot.",
+        "is_correct": true,
+        "eigenscore": -5.24454527023403
+      },
+      {
+        "seed": 43,
+        "answer": "Sir Lancelot.",
+        "is_correct": true,
+        "eigenscore": -5.178581311583677
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Sir Lancelot.",
+        "is_correct": true,
+        "eigenscore": -4.833803476725417
+      },
+      {
+        "seed": 42,
+        "answer": "Sir Lancelot.",
+        "is_correct": true,
+        "eigenscore": -4.7269944823685695
+      },
+      {
+        "seed": 43,
+        "answer": "Sir Lancelot.",
+        "is_correct": true,
+        "eigenscore": -4.271199332914067
+      }
+    ]
+  },
+  {
+    "id": "tb_1946",
+    "question": "In genetics, who is the woman who lived approximately 190,000-200,000 years ago and who was the most recent woman from whom all living humans today descend?",
+    "gold_answer": "Mitochondrial Eve",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 5.666666666666667,
+    "fc_mean_unique_generations": 6.666666666666667,
+    "baseline_mean_eigenscore": -4.055354115619079,
+    "fc_mean_eigenscore": -3.4612877657344057,
+    "mean_delta_eigenscore": 0.5940663498846736,
+    "mean_delta_unique_generations": 1.0,
+    "mean_fc_clip_fraction": 0.010067836139931927,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Mitochondrial Eve.",
+        "is_correct": true,
+        "eigenscore": -3.1412100364285243
+      },
+      {
+        "seed": 42,
+        "answer": "Mitochondrial Eve.",
+        "is_correct": true,
+        "eigenscore": -4.738535255914795
+      },
+      {
+        "seed": 43,
+        "answer": "Mitochondrial Eve.",
+        "is_correct": true,
+        "eigenscore": -4.286317054513918
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Mitochondrial Eve.",
+        "is_correct": true,
+        "eigenscore": -2.2136327748119293
+      },
+      {
+        "seed": 42,
+        "answer": "Mitochondrial Eve.",
+        "is_correct": true,
+        "eigenscore": -4.3895218728146785
+      },
+      {
+        "seed": 43,
+        "answer": "Mitochondrial Eve.",
+        "is_correct": true,
+        "eigenscore": -3.7807086495766087
+      }
+    ]
+  },
+  {
+    "id": "qb_306",
+    "question": "Antigonus is a character in which Shakespeare play?",
+    "gold_answer": "The Winter’s Tale",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 4.666666666666667,
+    "fc_mean_unique_generations": 6.0,
+    "baseline_mean_eigenscore": -4.391527302137106,
+    "fc_mean_eigenscore": -3.8079517250371495,
+    "mean_delta_eigenscore": 0.5835755770999569,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.007508474529711674,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "is_correct": true,
+        "eigenscore": -4.7469617219734825
+      },
+      {
+        "seed": 42,
+        "answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "is_correct": true,
+        "eigenscore": -4.264615036614896
+      },
+      {
+        "seed": 43,
+        "answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "is_correct": true,
+        "eigenscore": -4.163005147822941
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "is_correct": true,
+        "eigenscore": -4.266510924553694
+      },
+      {
+        "seed": 42,
+        "answer": "Antigonus is a character in \"A Winter's Tale\".",
+        "is_correct": true,
+        "eigenscore": -3.790619244140374
+      },
+      {
+        "seed": 43,
+        "answer": "Antigonus is a character in \"Winter's Tale\".",
+        "is_correct": true,
+        "eigenscore": -3.36672500641738
+      }
+    ]
+  },
+  {
+    "id": "sfq_19469",
+    "question": "Which edifice in London was immortalised in poetry by Wordsworth in 1802 and in a painting by Canaletto in 1746?",
+    "gold_answer": "Westminster Bridge",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 8.333333333333334,
+    "fc_mean_unique_generations": 9.666666666666666,
+    "baseline_mean_eigenscore": -2.4009416605765868,
+    "fc_mean_eigenscore": -1.856775646600185,
+    "mean_delta_eigenscore": 0.5441660139764017,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.007694360142564388,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Pantheon.",
+        "is_correct": false,
+        "eigenscore": -2.5869136146912908
+      },
+      {
+        "seed": 42,
+        "answer": "The Royal Exchange.",
+        "is_correct": false,
+        "eigenscore": -3.065972181621676
+      },
+      {
+        "seed": 43,
+        "answer": "The Royal Exchange.",
+        "is_correct": false,
+        "eigenscore": -1.5499391854167937
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Pantheon.",
+        "is_correct": false,
+        "eigenscore": -2.6717471856472508
+      },
+      {
+        "seed": 42,
+        "answer": "The Royal Exchange.",
+        "is_correct": false,
+        "eigenscore": -1.1729505196843169
+      },
+      {
+        "seed": 43,
+        "answer": "The Royal Exchange.",
+        "is_correct": false,
+        "eigenscore": -1.7256292344689874
+      }
+    ]
+  },
+  {
+    "id": "jp_683",
+    "question": "What Biblical character built a temple, had 700 wives, and suggested cutting a baby in half?",
+    "gold_answer": "Solomon",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 2.3333333333333335,
+    "fc_mean_unique_generations": 3.3333333333333335,
+    "baseline_mean_eigenscore": -5.451401346760458,
+    "fc_mean_eigenscore": -4.915776547923915,
+    "mean_delta_eigenscore": 0.5356247988365433,
+    "mean_delta_unique_generations": 1.0,
+    "mean_fc_clip_fraction": 0.007303772380283008,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "King Solomon.",
+        "is_correct": true,
+        "eigenscore": -5.6950073579648715
+      },
+      {
+        "seed": 42,
+        "answer": "King Solomon.",
+        "is_correct": true,
+        "eigenscore": -5.082226539436091
+      },
+      {
+        "seed": 43,
+        "answer": "King Solomon.",
+        "is_correct": true,
+        "eigenscore": -5.576970142880413
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "King Solomon.",
+        "is_correct": true,
+        "eigenscore": -4.641203644620469
+      },
+      {
+        "seed": 42,
+        "answer": "King Solomon.",
+        "is_correct": true,
+        "eigenscore": -4.529155856270863
+      },
+      {
+        "seed": 43,
+        "answer": "King Solomon.",
+        "is_correct": true,
+        "eigenscore": -5.576970142880413
+      }
+    ]
+  },
+  {
+    "id": "wh_1283",
+    "question": "Which war veterna, who died in 2009 had the nickname 'The Last Fighting Tommy'?",
+    "gold_answer": "HARRY PATCH",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 6.666666666666667,
+    "fc_mean_unique_generations": 7.666666666666667,
+    "baseline_mean_eigenscore": -3.6277357837269304,
+    "fc_mean_eigenscore": -3.123325010891965,
+    "mean_delta_eigenscore": 0.5044107728349655,
+    "mean_delta_unique_generations": 1.0,
+    "mean_fc_clip_fraction": 0.0056684153043543946,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Tommy Hartnett.",
+        "is_correct": false,
+        "eigenscore": -3.5271767382302266
+      },
+      {
+        "seed": 42,
+        "answer": "Tommy Hartnett.",
+        "is_correct": false,
+        "eigenscore": -4.017725304451507
+      },
+      {
+        "seed": 43,
+        "answer": "Tommy Hartnett.",
+        "is_correct": false,
+        "eigenscore": -3.338305308499058
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Tommy Hartnett.",
+        "is_correct": false,
+        "eigenscore": -3.481952785276426
+      },
+      {
+        "seed": 42,
+        "answer": "Tommy Hartnett.",
+        "is_correct": false,
+        "eigenscore": -2.9747173729925853
+      },
+      {
+        "seed": 43,
+        "answer": "Tommy Hartnett.",
+        "is_correct": false,
+        "eigenscore": -2.913304874406884
+      }
+    ]
+  },
+  {
+    "id": "dpql_701",
+    "question": "‘Hampsteads’ is Cockney rhyming slang for what?",
+    "gold_answer": "teeth",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 1.6666666666666667,
+    "fc_mean_unique_generations": 2.6666666666666665,
+    "baseline_mean_eigenscore": -5.861001160263462,
+    "fc_mean_eigenscore": -5.394999455709714,
+    "mean_delta_eigenscore": 0.4660017045537484,
+    "mean_delta_unique_generations": 1.0,
+    "mean_fc_clip_fraction": 0.006228885135135135,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Heads.",
+        "is_correct": false,
+        "eigenscore": -6.183730660294321
+      },
+      {
+        "seed": 42,
+        "answer": "Heads.",
+        "is_correct": false,
+        "eigenscore": -6.183730660294321
+      },
+      {
+        "seed": 43,
+        "answer": "Heads.",
+        "is_correct": false,
+        "eigenscore": -5.2155421602017435
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Heads.",
+        "is_correct": false,
+        "eigenscore": -5.237229090292229
+      },
+      {
+        "seed": 42,
+        "answer": "Heads.",
+        "is_correct": false,
+        "eigenscore": -5.732227116635168
+      },
+      {
+        "seed": 43,
+        "answer": "Heads.",
+        "is_correct": false,
+        "eigenscore": -5.2155421602017435
+      }
+    ]
+  },
+  {
+    "id": "odql_3814",
+    "question": "In which race did Zola Budd and Mary Decker famously collide at the 1984 Olympics?",
+    "gold_answer": "3000 metres",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.6666666666666666,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 0.6666666666666666,
+    "fc_mean_correctness_score_vs_gold": 0.9333333333333333,
+    "baseline_mean_unique_generations": 11.0,
+    "fc_mean_unique_generations": 12.333333333333334,
+    "baseline_mean_eigenscore": -2.438360672024185,
+    "fc_mean_eigenscore": -2.0002858800426306,
+    "mean_delta_eigenscore": 0.4380747919815542,
+    "mean_delta_unique_generations": 1.3333333333333333,
+    "mean_fc_clip_fraction": 0.008675864029689773,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The 3000 meters.",
+        "is_correct": true,
+        "eigenscore": -2.600039273803974
+      },
+      {
+        "seed": 42,
+        "answer": "The 1984 Los Angeles Olympics.",
+        "is_correct": false,
+        "eigenscore": -2.6580484490085783
+      },
+      {
+        "seed": 43,
+        "answer": "The 3000 meters.",
+        "is_correct": true,
+        "eigenscore": -2.056994293260003
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The 3000 meters.",
+        "is_correct": true,
+        "eigenscore": -2.281346825935662
+      },
+      {
+        "seed": 42,
+        "answer": "The 3000-meter steeplechase.",
+        "is_correct": true,
+        "eigenscore": -1.9903581335553995
+      },
+      {
+        "seed": 43,
+        "answer": "The 3000 meters.",
+        "is_correct": true,
+        "eigenscore": -1.729152680636831
+      }
+    ]
+  },
+  {
+    "id": "qw_7092",
+    "question": "In 2003, what character was voted by the American Film Institute to be the greatest hero in American film?",
+    "gold_answer": "Atticus Finch",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 6.0,
+    "fc_mean_unique_generations": 6.666666666666667,
+    "baseline_mean_eigenscore": -3.7174746638163305,
+    "fc_mean_eigenscore": -3.3274861189083507,
+    "mean_delta_eigenscore": 0.38998854490797985,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.0076553034500591016,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Rocky Balboa.",
+        "is_correct": false,
+        "eigenscore": -3.838398356689216
+      },
+      {
+        "seed": 42,
+        "answer": "Rocky Balboa.",
+        "is_correct": false,
+        "eigenscore": -3.6109160579833444
+      },
+      {
+        "seed": 43,
+        "answer": "Rocky Balboa.",
+        "is_correct": false,
+        "eigenscore": -3.7031095767764306
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Rocky Balboa.",
+        "is_correct": false,
+        "eigenscore": -3.5981651206270855
+      },
+      {
+        "seed": 42,
+        "answer": "Rocky Balboa.",
+        "is_correct": false,
+        "eigenscore": -3.7126274862209825
+      },
+      {
+        "seed": 43,
+        "answer": "Rocky Balboa.",
+        "is_correct": false,
+        "eigenscore": -2.6716657498769836
+      }
+    ]
+  },
+  {
+    "id": "dpql_4988",
+    "question": "What was Margot’s surname in “The Good Life” TV series?",
+    "gold_answer": "Leadbetter",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 13.333333333333334,
+    "fc_mean_unique_generations": 13.666666666666666,
+    "baseline_mean_eigenscore": -1.0168280012758657,
+    "fc_mean_eigenscore": -0.654932530454573,
+    "mean_delta_eigenscore": 0.36189547082129264,
+    "mean_delta_unique_generations": 0.3333333333333333,
+    "mean_fc_clip_fraction": 0.007034121128076105,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "I couldn't find any information on a \"Margot\" character in \"The Good Life\" TV series.",
+        "is_correct": false,
+        "eigenscore": -1.4843088769648356
+      },
+      {
+        "seed": 42,
+        "answer": "Robinson.",
+        "is_correct": false,
+        "eigenscore": -0.5072972120380412
+      },
+      {
+        "seed": 43,
+        "answer": "Robinson.",
+        "is_correct": false,
+        "eigenscore": -1.05887791482472
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "I couldn't find any information on a \"Margot\" character in \"The Good Life\" TV series.",
+        "is_correct": false,
+        "eigenscore": -1.4439268661822706
+      },
+      {
+        "seed": 42,
+        "answer": "Smith.",
+        "is_correct": false,
+        "eigenscore": 0.7298087494783743
+      },
+      {
+        "seed": 43,
+        "answer": "Robie.",
+        "is_correct": false,
+        "eigenscore": -1.2506794746598227
+      }
+    ]
+  },
+  {
+    "id": "jp_321",
+    "question": "What company bought Time Warner in 2001 - the biggest merger in U.S. history?",
+    "gold_answer": "AOL",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 8.666666666666666,
+    "fc_mean_unique_generations": 9.333333333333334,
+    "baseline_mean_eigenscore": -2.504869170253424,
+    "fc_mean_eigenscore": -2.145254082360474,
+    "mean_delta_eigenscore": 0.35961508789295,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.008262614805718164,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "AT&T acquired Time Warner in 2018.",
+        "is_correct": false,
+        "eigenscore": -2.2111159138423924
+      },
+      {
+        "seed": 42,
+        "answer": "AT&T acquired Time Warner in 2018.",
+        "is_correct": false,
+        "eigenscore": -3.67599715922008
+      },
+      {
+        "seed": 43,
+        "answer": "AT&T acquired Time Warner in 2018.",
+        "is_correct": false,
+        "eigenscore": -1.6274944376977996
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "AT&T acquired Time Warner in 2018.",
+        "is_correct": false,
+        "eigenscore": -2.2063187272841605
+      },
+      {
+        "seed": 42,
+        "answer": "AT&T acquired Time Warner in 2018.",
+        "is_correct": false,
+        "eigenscore": -3.550305643651478
+      },
+      {
+        "seed": 43,
+        "answer": "AT&T acquired Time Warner in 2018.",
+        "is_correct": false,
+        "eigenscore": -0.6791378761457834
+      }
+    ]
+  },
+  {
+    "id": "sfq_7154",
+    "question": "Which foreign car manufacture has a rams head on its badge?",
+    "gold_answer": "DODGE",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 9.0,
+    "fc_mean_unique_generations": 9.666666666666666,
+    "baseline_mean_eigenscore": -2.2003643489389293,
+    "fc_mean_eigenscore": -1.8451838687373958,
+    "mean_delta_eigenscore": 0.35518048020153353,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.007294187535072952,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Ram Trucks.",
+        "is_correct": false,
+        "eigenscore": -1.702738479910252
+      },
+      {
+        "seed": 42,
+        "answer": "Ram Trucks.",
+        "is_correct": false,
+        "eigenscore": -3.525369233620006
+      },
+      {
+        "seed": 43,
+        "answer": "Ram Trucks.",
+        "is_correct": false,
+        "eigenscore": -1.3729853332865303
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Ram Trucks.",
+        "is_correct": false,
+        "eigenscore": -2.1713620377547533
+      },
+      {
+        "seed": 42,
+        "answer": "Ram Trucks.",
+        "is_correct": false,
+        "eigenscore": -2.5073858028369447
+      },
+      {
+        "seed": 43,
+        "answer": "Ram Trucks.",
+        "is_correct": false,
+        "eigenscore": -0.8568037656204897
+      }
+    ]
+  },
+  {
+    "id": "qw_15539",
+    "question": "Which is the style of music, characterised by staccato offbeat rhythms, and owing much to the influence of mento, jazz, ska and rhythm and blues?",
+    "gold_answer": "Reggae",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.0,
+    "fc_mean_correctness_score_vs_gold": 0.0,
+    "baseline_mean_unique_generations": 6.333333333333333,
+    "fc_mean_unique_generations": 7.0,
+    "baseline_mean_eigenscore": -3.378267446935968,
+    "fc_mean_eigenscore": -3.031098756117203,
+    "mean_delta_eigenscore": 0.34716869081876495,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.00849268058082929,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Calypso.",
+        "is_correct": false,
+        "eigenscore": -3.9676843294669366
+      },
+      {
+        "seed": 42,
+        "answer": "Calypso.",
+        "is_correct": false,
+        "eigenscore": -3.559978377935181
+      },
+      {
+        "seed": 43,
+        "answer": "Calypso.",
+        "is_correct": false,
+        "eigenscore": -2.607139633405786
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Calypso.",
+        "is_correct": false,
+        "eigenscore": -3.9676843294669366
+      },
+      {
+        "seed": 42,
+        "answer": "Calypso.",
+        "is_correct": false,
+        "eigenscore": -2.5413501985908513
+      },
+      {
+        "seed": 43,
+        "answer": "Calypso.",
+        "is_correct": false,
+        "eigenscore": -2.584261740293821
+      }
+    ]
+  },
+  {
+    "id": "qw_1933",
+    "question": "What remake of a British science-fiction serial broadcast by BBC Television in the summer of 1953 was staged live by BBC Four in 2005 with actors Jason Flemyng, Mark Gatiss, Andrew Tiernan, Indira Varma, David Tennant and Adrian Bower?",
+    "gold_answer": "The Quatermass Experiment",
+    "n_seeds": 3,
+    "baseline_correct_rate": 0.0,
+    "fc_correct_rate": 0.0,
+    "baseline_mean_correctness_score_vs_gold": 0.4,
+    "fc_mean_correctness_score_vs_gold": 0.4,
+    "baseline_mean_unique_generations": 2.6666666666666665,
+    "fc_mean_unique_generations": 3.3333333333333335,
+    "baseline_mean_eigenscore": -5.273349961576818,
+    "fc_mean_eigenscore": -4.928518478007962,
+    "mean_delta_eigenscore": 0.3448314835688559,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.011521913022268135,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Quatermass and the Pit.",
+        "is_correct": false,
+        "eigenscore": -5.599541111813322
+      },
+      {
+        "seed": 42,
+        "answer": "The Quatermass and the Pit.",
+        "is_correct": false,
+        "eigenscore": -5.2021036361017305
+      },
+      {
+        "seed": 43,
+        "answer": "The Quatermass and the Pit.",
+        "is_correct": false,
+        "eigenscore": -5.018405136815401
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "The Quatermass and the Pit.",
+        "is_correct": false,
+        "eigenscore": -5.086310366785297
+      },
+      {
+        "seed": 42,
+        "answer": "The Quatermass and the Pit.",
+        "is_correct": false,
+        "eigenscore": -4.644733541266793
+      },
+      {
+        "seed": 43,
+        "answer": "The Quatermass and the Pit.",
+        "is_correct": false,
+        "eigenscore": -5.054511525971796
+      }
+    ]
+  },
+  {
+    "id": "bb_3376",
+    "question": "In 2012 which vast multinational supermarket corporation recorded its first fall in profits since 1994?",
+    "gold_answer": "Tesco",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 2.0,
+    "fc_mean_unique_generations": 2.6666666666666665,
+    "baseline_mean_eigenscore": -5.645579056031102,
+    "fc_mean_eigenscore": -5.312732154210923,
+    "mean_delta_eigenscore": 0.33284690182018,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.00532926444388316,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Tesco.",
+        "is_correct": true,
+        "eigenscore": -5.630703247936181
+      },
+      {
+        "seed": 42,
+        "answer": "Tesco.",
+        "is_correct": true,
+        "eigenscore": -5.638633323372657
+      },
+      {
+        "seed": 43,
+        "answer": "Tesco.",
+        "is_correct": true,
+        "eigenscore": -5.667400596784469
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Tesco.",
+        "is_correct": true,
+        "eigenscore": -5.621034858373402
+      },
+      {
+        "seed": 42,
+        "answer": "Tesco.",
+        "is_correct": true,
+        "eigenscore": -5.188901123842177
+      },
+      {
+        "seed": 43,
+        "answer": "Tesco.",
+        "is_correct": true,
+        "eigenscore": -5.128260480417188
+      }
+    ]
+  },
+  {
+    "id": "qz_3433",
+    "question": "Who designed Madonna's wedding dress for her marriage to Guy Ritchie?",
+    "gold_answer": "Stella McCartney",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 5.666666666666667,
+    "fc_mean_unique_generations": 6.333333333333333,
+    "baseline_mean_eigenscore": -4.01884393482112,
+    "fc_mean_eigenscore": -3.686040369215765,
+    "mean_delta_eigenscore": 0.33280356560535446,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.007456187096026406,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Stella McCartney.",
+        "is_correct": true,
+        "eigenscore": -3.911508047394207
+      },
+      {
+        "seed": 42,
+        "answer": "Stella McCartney.",
+        "is_correct": true,
+        "eigenscore": -3.881923382431779
+      },
+      {
+        "seed": 43,
+        "answer": "Stella McCartney.",
+        "is_correct": true,
+        "eigenscore": -4.2631003746373715
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Stella McCartney.",
+        "is_correct": true,
+        "eigenscore": -3.8803057155994316
+      },
+      {
+        "seed": 42,
+        "answer": "Stella McCartney.",
+        "is_correct": true,
+        "eigenscore": -3.7639613112678396
+      },
+      {
+        "seed": 43,
+        "answer": "Stella McCartney.",
+        "is_correct": true,
+        "eigenscore": -3.4138540807800233
+      }
+    ]
+  },
+  {
+    "id": "qw_6822",
+    "question": "Formula 1 driver Ayrton Senna died while leading the 1994 San Marino Grand Prix at which motor racing circuit?",
+    "gold_answer": "Imola",
+    "n_seeds": 3,
+    "baseline_correct_rate": 1.0,
+    "fc_correct_rate": 1.0,
+    "baseline_mean_correctness_score_vs_gold": 1.0,
+    "fc_mean_correctness_score_vs_gold": 1.0,
+    "baseline_mean_unique_generations": 1.0,
+    "fc_mean_unique_generations": 1.6666666666666667,
+    "baseline_mean_eigenscore": -6.180369547879222,
+    "fc_mean_eigenscore": -5.85408296517558,
+    "mean_delta_eigenscore": 0.3262865827036417,
+    "mean_delta_unique_generations": 0.6666666666666666,
+    "mean_fc_clip_fraction": 0.00980117122232665,
+    "baseline_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Imola.",
+        "is_correct": true,
+        "eigenscore": -6.180369547879222
+      },
+      {
+        "seed": 42,
+        "answer": "Imola.",
+        "is_correct": true,
+        "eigenscore": -6.180369547879222
+      },
+      {
+        "seed": 43,
+        "answer": "Imola.",
+        "is_correct": true,
+        "eigenscore": -6.180369547879222
+      }
+    ],
+    "fc_answers_by_seed": [
+      {
+        "seed": 41,
+        "answer": "Imola.",
+        "is_correct": true,
+        "eigenscore": -5.201509799768297
+      },
+      {
+        "seed": 42,
+        "answer": "Imola.",
+        "is_correct": true,
+        "eigenscore": -6.180369547879222
+      },
+      {
+        "seed": 43,
+        "answer": "Imola.",
+        "is_correct": true,
+        "eigenscore": -6.180369547879222
+      }
+    ]
+  }
+]

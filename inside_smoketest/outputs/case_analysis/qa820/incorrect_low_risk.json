@@ -1,0 +1,647 @@
+[
+  {
+    "id": "sfq_26211",
+    "question": "In the TV series Doctor Who, who was the creator of the Daleks and arch enemy of the Doctor?",
+    "gold_answer": "Davros",
+    "mean_eigenscore": -6.188760444660499,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.188760444660499,
+    "max_eigenscore": -6.188760444660499,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.188760444660499,
+      -6.188760444660499,
+      -6.188760444660499
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "The Daleks were created by Terry Nation.",
+      "The Daleks were created by Terry Nation.",
+      "The Daleks were created by Terry Nation."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "The Daleks were created by Terry Nation.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_10334",
+    "question": "In which Thomas Hardy novel does Michael Henchard appear?",
+    "gold_answer": "Mayor of Casterbridge",
+    "mean_eigenscore": -6.186809079631115,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.186809079631116,
+    "max_eigenscore": -6.186809079631116,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.186809079631116,
+      -6.186809079631116,
+      -6.186809079631116
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Jude the Obscure.",
+      "Jude the Obscure.",
+      "Jude the Obscure."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Jude the Obscure.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_12491",
+    "question": "What product is obtained from the tree Hevea Braziliensis' (amongst others)?",
+    "gold_answer": "LATEX",
+    "mean_eigenscore": -6.182832680473968,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.182832680473968,
+    "max_eigenscore": -6.182832680473968,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.182832680473968,
+      -6.182832680473968,
+      -6.182832680473968
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Rubber.",
+      "Rubber.",
+      "Rubber."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Rubber.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qb_7919",
+    "question": "In medicine, Daltonism (or deuteranopia) is better known by what name?",
+    "gold_answer": "Colour-blindness",
+    "mean_eigenscore": -6.182291426252514,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.1822914262525135,
+    "max_eigenscore": -6.1822914262525135,
+    "mean_correctness_score_vs_gold": 0.3333333333333333,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.1822914262525135,
+      -6.1822914262525135,
+      -6.1822914262525135
+    ],
+    "seed_level_correctness_scores": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Red-green color blindness.",
+      "Red-green color blindness.",
+      "Red-green color blindness."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Red-green color blindness.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_581",
+    "question": "What play written in 1902 by J. M. Barrie reverses the rankings of the classes in British society when aristocrats and servants are shipwrecked on a deserted tropical island?",
+    "gold_answer": "The Admirable Crichton",
+    "mean_eigenscore": -6.181892767526686,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.181892767526686,
+    "max_eigenscore": -6.181892767526686,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.181892767526686,
+      -6.181892767526686,
+      -6.181892767526686
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Peter Pan.",
+      "Peter Pan.",
+      "Peter Pan."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Peter Pan.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "odql_6624",
+    "question": "Which town is the administrative headquarters of Northumberland?",
+    "gold_answer": "MORPETH",
+    "mean_eigenscore": -6.181374506665965,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.181374506665965,
+    "max_eigenscore": -6.181374506665965,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.181374506665965,
+      -6.181374506665965,
+      -6.181374506665965
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Alnwick.",
+      "Alnwick.",
+      "Alnwick."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Alnwick.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_8068",
+    "question": "Which English football league club play their home games at Gigg Lane?",
+    "gold_answer": "Bury",
+    "mean_eigenscore": -6.181102579517993,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.181102579517992,
+    "max_eigenscore": -6.181102579517992,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.181102579517992,
+      -6.181102579517992,
+      -6.181102579517992
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Sheffield United.",
+      "Sheffield United.",
+      "Sheffield United."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Sheffield United.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "jp_2883",
+    "question": "What is the highest grossing movie of all time?",
+    "gold_answer": "Avatar",
+    "mean_eigenscore": -6.179681348829921,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.179681348829921,
+    "max_eigenscore": -6.179681348829921,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.179681348829921,
+      -6.179681348829921,
+      -6.179681348829921
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Avengers: Endgame.",
+      "Avengers: Endgame.",
+      "Avengers: Endgame."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Avengers: Endgame.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qg_1362",
+    "question": "May 15, 1940 saw what fast food chain get started in San Bernadino, CA?",
+    "gold_answer": "McDonald's",
+    "mean_eigenscore": -6.179216272168991,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.179216272168991,
+    "max_eigenscore": -6.179216272168991,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.179216272168991,
+      -6.179216272168991,
+      -6.179216272168991
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "In-N-Out Burger.",
+      "In-N-Out Burger.",
+      "In-N-Out Burger."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "In-N-Out Burger.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_3811",
+    "question": "Which singer had a number 1 hit album in 2008 entitled 'Hard Candy'?",
+    "gold_answer": "Madonna",
+    "mean_eigenscore": -6.178635730217086,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.178635730217086,
+    "max_eigenscore": -6.178635730217086,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.178635730217086,
+      -6.178635730217086,
+      -6.178635730217086
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Rihanna.",
+      "Rihanna.",
+      "Rihanna."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Rihanna.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tc_3155",
+    "question": "Which force is nothing more than the bending of space and time?",
+    "gold_answer": "Gravitational force",
+    "mean_eigenscore": -6.178381938809082,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.178381938809082,
+    "max_eigenscore": -6.178381938809082,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.178381938809082,
+      -6.178381938809082,
+      -6.178381938809082
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Gravity.",
+      "Gravity.",
+      "Gravity."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Gravity.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_14710",
+    "question": "Which UK city is traditionally associated with jute, jam and journalism?",
+    "gold_answer": "Dundee",
+    "mean_eigenscore": -6.176358297987364,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.176358297987364,
+    "max_eigenscore": -6.176358297987364,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.176358297987364,
+      -6.176358297987364,
+      -6.176358297987364
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Glasgow.",
+      "Glasgow.",
+      "Glasgow."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Glasgow.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_16585",
+    "question": "In which Verdi opera do the gypsies sing the 'Anvil Chorus'?",
+    "gold_answer": "Il Trovatore",
+    "mean_eigenscore": -6.174038299888667,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.174038299888667,
+    "max_eigenscore": -6.174038299888667,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.174038299888667,
+      -6.174038299888667,
+      -6.174038299888667
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Nabucco.",
+      "Nabucco.",
+      "Nabucco."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Nabucco.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_3812",
+    "question": "Which vegetable is traditionally used in the dish moussaka?",
+    "gold_answer": "Aubergine",
+    "mean_eigenscore": -6.173076185000302,
+    "std_eigenscore": 8.881784197001252e-16,
+    "min_eigenscore": -6.173076185000303,
+    "max_eigenscore": -6.173076185000303,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.173076185000303,
+      -6.173076185000303,
+      -6.173076185000303
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Eggplant.",
+      "Eggplant.",
+      "Eggplant."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Eggplant.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_1581",
+    "question": "In beach volleyball and indoor volleyball, what is the maximum number of contacts that a team can have with the ball before it crosses the net?",
+    "gold_answer": "3",
+    "mean_eigenscore": -6.170921207747572,
+    "std_eigenscore": 0.0,
+    "min_eigenscore": -6.170921207747572,
+    "max_eigenscore": -6.170921207747572,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -6.170921207747572,
+      -6.170921207747572,
+      -6.170921207747572
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      1,
+      1,
+      1
+    ],
+    "seed_level_majority_answers": [
+      "Three.",
+      "Three.",
+      "Three."
+    ],
+    "mean_unique_generations": 1.0,
+    "most_common_majority_answer": "Three.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  }
+]

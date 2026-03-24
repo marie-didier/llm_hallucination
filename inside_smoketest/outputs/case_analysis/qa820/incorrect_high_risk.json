@@ -1,0 +1,647 @@
+[
+  {
+    "id": "tb_1021",
+    "question": "An urban legend about the similarity in the flags of Bahrain and what other country says that the red color of Bahrain weathered in the sun into the maroon of the other?",
+    "gold_answer": "Qatar",
+    "mean_eigenscore": 3.387643165043196,
+    "std_eigenscore": 0.16425114394372867,
+    "min_eigenscore": 3.155557457872355,
+    "max_eigenscore": 3.5120422034933236,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      3.5120422034933236,
+      3.49532983376391,
+      3.155557457872355
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      20,
+      20,
+      20
+    ],
+    "seed_level_majority_answers": [
+      "The similarity in the colors of the flags of Bahrain and Saudi Arabia is due to the red color of Bahrain's flag weathering into maroon over time.",
+      "The urban legend claims that the flag of Bahrain turned maroon due to the red color fading to maroon over time.",
+      "The similarity between the flags of Bahrain and Iran is due to the red color of the Bahraini flag fading over time."
+    ],
+    "mean_unique_generations": 20.0,
+    "most_common_majority_answer": "The similarity in the colors of the flags of Bahrain and Saudi Arabia is due to the red color of Bahrain's flag weathering into maroon over time.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bb_7994",
+    "question": "Which Verdi opera is also a popular acronym used in the advertising and selling professions?",
+    "gold_answer": "Aida",
+    "mean_eigenscore": 2.4260754909199296,
+    "std_eigenscore": 0.7425774273410752,
+    "min_eigenscore": 1.5370068848453795,
+    "max_eigenscore": 3.3546548472985513,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.5370068848453795,
+      2.3865647406158574,
+      3.3546548472985513
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      16,
+      18,
+      20
+    ],
+    "seed_level_majority_answers": [
+      "\"Verdi\" sounds like \"very desirable.\"",
+      "\"Verdi\" sounds like \"very dear.\"",
+      "\"Verdi\" sounds like \"Very Important Person.\""
+    ],
+    "mean_unique_generations": 18.0,
+    "most_common_majority_answer": "\"Verdi\" sounds like \"very desirable.\"",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "tb_1939",
+    "question": "Can you connect Darwin and his research on Galapagos Islands to the book To Kill a Mockingbird?",
+    "gold_answer": "\"\"\"Finch\"\"\"",
+    "mean_eigenscore": 2.198588492904312,
+    "std_eigenscore": 0.20542297765304174,
+    "min_eigenscore": 1.9096151639679664,
+    "max_eigenscore": 2.368934604279718,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      2.368934604279718,
+      1.9096151639679664,
+      2.317215710465252
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      20,
+      19,
+      19
+    ],
+    "seed_level_majority_answers": [
+      "Harper Lee, the author of To Kill a Mockingbird, was inspired by her childhood experiences in the American South, but her interest in Charles Darwin's",
+      "Harper Lee, the author of To Kill a Mockingbird, was heavily influenced by Charles Darwin's theory of evolution, which she referenced in the novel through",
+      "Harper Lee, the author of To Kill a Mockingbird, drew inspiration from Charles Darwin's theory of evolution and his observations on the Galapagos Islands"
+    ],
+    "mean_unique_generations": 19.333333333333332,
+    "most_common_majority_answer": "Harper Lee, the author of To Kill a Mockingbird, was inspired by her childhood experiences in the American South, but her interest in Charles Darwin's",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bb_2158",
+    "question": "What is a Gilbert Virtuo?",
+    "gold_answer": "Rugby ball",
+    "mean_eigenscore": 1.9761913386143508,
+    "std_eigenscore": 0.4212121660013412,
+    "min_eigenscore": 1.6572664451198662,
+    "max_eigenscore": 2.571365521964431,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.6999420487587549,
+      2.571365521964431,
+      1.6572664451198662
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      17,
+      19,
+      17
+    ],
+    "seed_level_majority_answers": [
+      "The Breville Breville Virtuoso is a high-end espresso machine.",
+      "The Breville Breville Virtuoso is a line of espresso machines.",
+      "The Breville Breville Virtuoso is a high-end coffee machine."
+    ],
+    "mean_unique_generations": 17.666666666666668,
+    "most_common_majority_answer": "The Breville Breville Virtuoso is a high-end espresso machine.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_14848",
+    "question": "The male name Beau is a shortened version of what name?",
+    "gold_answer": "BEAUREGARD",
+    "mean_eigenscore": 1.8537906478748631,
+    "std_eigenscore": 0.2920028852777563,
+    "min_eigenscore": 1.644287159156218,
+    "max_eigenscore": 2.2667302305355035,
+    "mean_correctness_score_vs_gold": 0.3333333333333333,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 1,
+    "incorrect_count": 2,
+    "correct_rate": 0.3333333333333333,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      true
+    ],
+    "seed_level_eigenscores": [
+      1.644287159156218,
+      2.2667302305355035,
+      1.6503545539328681
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      19,
+      20,
+      18
+    ],
+    "seed_level_majority_answers": [
+      "Beau is a shortened version of the name Beauclerc or Beaufort.",
+      "Beau is a shortened form of the name Beauclerc, which is derived from the Old French name \"Baudric,\" meaning \"ruler of the",
+      "Beau is a shortened version of the name Beauregard."
+    ],
+    "mean_unique_generations": 19.0,
+    "most_common_majority_answer": "Beau is a shortened version of the name Beauclerc or Beaufort.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "wh_436",
+    "question": "\"Which British actress won this year's U.S. Emmy award for best actress for her role in the drama series \"\"Mildred Pierce\"\"?\"",
+    "gold_answer": "KATE WINSLET",
+    "mean_eigenscore": 1.3838758381910792,
+    "std_eigenscore": 0.21200502403022098,
+    "min_eigenscore": 1.1316968551953057,
+    "max_eigenscore": 1.6504057644735923,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.6504057644735923,
+      1.1316968551953057,
+      1.36952489490434
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      19,
+      18,
+      18
+    ],
+    "seed_level_majority_answers": [
+      "Sally Field won the award.",
+      "Sally Field won the Emmy award.",
+      "Joan Crawford won the award."
+    ],
+    "mean_unique_generations": 18.333333333333332,
+    "most_common_majority_answer": "Sally Field won the award.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bt_3368",
+    "question": "During a penalty shoot out in soccer where should the non participating players be",
+    "gold_answer": "In the centre circle",
+    "mean_eigenscore": 1.2608246870617965,
+    "std_eigenscore": 0.29922060225834174,
+    "min_eigenscore": 0.8583343595994883,
+    "max_eigenscore": 1.5752096114795902,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.5752096114795902,
+      1.348930090106311,
+      0.8583343595994883
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      19,
+      18,
+      17
+    ],
+    "seed_level_majority_answers": [
+      "Behind their team's goal.",
+      "Behind the goal, out of the playing area.",
+      "Away from the penalty area."
+    ],
+    "mean_unique_generations": 18.0,
+    "most_common_majority_answer": "Behind their team's goal.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_5510",
+    "question": "\"The names of how many states of the USA start and end with the letter \"\"a\"\"?\"",
+    "gold_answer": "3",
+    "mean_eigenscore": 1.2130584413292058,
+    "std_eigenscore": 0.26973006891737356,
+    "min_eigenscore": 0.8373101626631451,
+    "max_eigenscore": 1.4578657733258826,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      0.8373101626631451,
+      1.3439993879985899,
+      1.4578657733258826
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      17,
+      17,
+      19
+    ],
+    "seed_level_majority_answers": [
+      "Two states, Alaska and Arizona.",
+      "Three states: Alabama, Alaska, and Arizona.",
+      "Two states, Alaska and Arizona."
+    ],
+    "mean_unique_generations": 17.666666666666668,
+    "most_common_majority_answer": "Two states, Alaska and Arizona.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qf_1975",
+    "question": "Where would you find 'Harris'; 'Lewis' and 'Benbecular'?",
+    "gold_answer": "The Outer Hebrides",
+    "mean_eigenscore": 1.1245129920074957,
+    "std_eigenscore": 0.731235249724092,
+    "min_eigenscore": 0.1279857015617171,
+    "max_eigenscore": 1.8620620425650585,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.8620620425650585,
+      1.3834912318957113,
+      0.1279857015617171
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      18,
+      17,
+      14
+    ],
+    "seed_level_majority_answers": [
+      "These surnames are of Scottish origin.",
+      "These surnames are of Scottish origin, commonly found in the Highlands.",
+      "These are surnames of Scottish origin, commonly found in Scotland."
+    ],
+    "mean_unique_generations": 16.333333333333332,
+    "most_common_majority_answer": "These surnames are of Scottish origin.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "sfq_5157",
+    "question": "By what name was the shipping area Fitzroy known until 2002?",
+    "gold_answer": "Finisterre",
+    "mean_eigenscore": 1.082469186477059,
+    "std_eigenscore": 0.355403321782206,
+    "min_eigenscore": 0.6424701543571214,
+    "max_eigenscore": 1.512868133384352,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.0920692716897036,
+      0.6424701543571214,
+      1.512868133384352
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      17,
+      15,
+      17
+    ],
+    "seed_level_majority_answers": [
+      "Fitzroy was known as the \"Port of Fitzroy\" until 2002.",
+      "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+      "The shipping area Fitzroy was known as the Port of Fitzroy until 2002."
+    ],
+    "mean_unique_generations": 16.333333333333332,
+    "most_common_majority_answer": "The shipping area Fitzroy was known as the Port of Fitzroy until 2002.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qz_5728",
+    "question": "England won the 1966 World Cup beating Germany 4-2. Hurst scored 3 of England's goals who scored the other?",
+    "gold_answer": "Martin Peters",
+    "mean_eigenscore": 0.8698404608857957,
+    "std_eigenscore": 0.8183277771492957,
+    "min_eigenscore": -0.019811016898538945,
+    "max_eigenscore": 1.9556659753928016,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      -0.019811016898538945,
+      0.6736664241631246,
+      1.9556659753928016
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      14,
+      15,
+      18
+    ],
+    "seed_level_majority_answers": [
+      "Geoff Hurst scored the other goal.",
+      "Geoff Hurst scored the other goal.",
+      "Geoff Hurst scored the other goal."
+    ],
+    "mean_unique_generations": 15.666666666666666,
+    "most_common_majority_answer": "Geoff Hurst scored the other goal.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_5487",
+    "question": "What is the least number of shots that a competitor can take to complete 18 holes of golf?",
+    "gold_answer": "18",
+    "mean_eigenscore": 0.8542155219163198,
+    "std_eigenscore": 0.2960215961026448,
+    "min_eigenscore": 0.4646908270186249,
+    "max_eigenscore": 1.1818163505646275,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      0.916139388165707,
+      1.1818163505646275,
+      0.4646908270186249
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      15,
+      14
+    ],
+    "seed_level_majority_answers": [
+      "Par.",
+      "Par.",
+      "Par."
+    ],
+    "mean_unique_generations": 14.666666666666666,
+    "most_common_majority_answer": "Par.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "wh_1148",
+    "question": "What was the name of the USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II ?",
+    "gold_answer": "MEMPHIS BELLE",
+    "mean_eigenscore": 0.7370252218827614,
+    "std_eigenscore": 0.5501342788838091,
+    "min_eigenscore": -0.00961955822101337,
+    "max_eigenscore": 1.299722284112193,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.299722284112193,
+      0.9209729397571046,
+      -0.00961955822101337
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      19,
+      16,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "The crew of the B-17 Flying Fortress named \"Hell's Angels\"",
+      "The USAAF B-17 Flying Fortress whose aircrew were the first to complete 25 missions in Europe during World War II was the \"Hell's Angels\".",
+      "The crew of the B-17 Flying Fortress \"Hell's Angels\""
+    ],
+    "mean_unique_generations": 16.666666666666668,
+    "most_common_majority_answer": "The crew of the B-17 Flying Fortress named \"Hell's Angels\"",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "bb_172",
+    "question": "What would a person normally do with perique?",
+    "gold_answer": "Smoke it",
+    "mean_eigenscore": 0.7038679529872671,
+    "std_eigenscore": 0.931487553900346,
+    "min_eigenscore": -0.317299352968285,
+    "max_eigenscore": 1.9351572286311112,
+    "mean_correctness_score_vs_gold": 0.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 0,
+    "incorrect_count": 3,
+    "correct_rate": 0.0,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      false
+    ],
+    "seed_level_eigenscores": [
+      1.9351572286311112,
+      0.49374598329897523,
+      -0.317299352968285
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed_level_unique_generations": [
+      18,
+      15,
+      13
+    ],
+    "seed_level_majority_answers": [
+      "Use as a flavoring in cigars.",
+      "Use as a flavoring in cigars.",
+      "Use as a flavoring in cigars."
+    ],
+    "mean_unique_generations": 15.333333333333334,
+    "most_common_majority_answer": "Use as a flavoring in cigars.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "incorrect"
+  },
+  {
+    "id": "qw_11968",
+    "question": "Who first identified and isolated nucleic acids, the precursor to identifying DNA?",
+    "gold_answer": "Friedrich Miescher",
+    "mean_eigenscore": 0.6028814354800142,
+    "std_eigenscore": 0.8154134484524802,
+    "min_eigenscore": -0.4747263514103065,
+    "max_eigenscore": 1.497240853563391,
+    "mean_correctness_score_vs_gold": 0.3333333333333333,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 1,
+    "incorrect_count": 2,
+    "correct_rate": 0.3333333333333333,
+    "seed_level_majority_is_correct": [
+      false,
+      false,
+      true
+    ],
+    "seed_level_eigenscores": [
+      1.497240853563391,
+      -0.4747263514103065,
+      0.7861298042869578
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      17,
+      13,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "Phoebus Levene and Erwin Chargaff.",
+      "Phoebus Levene and Erwin Chargaff.",
+      "Phoebus Paracelsus and Friedrich Miescher."
+    ],
+    "mean_unique_generations": 15.0,
+    "most_common_majority_answer": "Phoebus Levene and Erwin Chargaff.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "incorrect"
+  }
+]

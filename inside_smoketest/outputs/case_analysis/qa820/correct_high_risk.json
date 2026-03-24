@@ -1,0 +1,647 @@
+[
+  {
+    "id": "odql_2086",
+    "question": "Which unit of weight, equal to one gram per 9,000 metres, is used to measure the fineness of nylon?",
+    "gold_answer": "DENIER",
+    "mean_eigenscore": 1.4941550986162369,
+    "std_eigenscore": 0.2622866921848434,
+    "min_eigenscore": 1.1972098230505535,
+    "max_eigenscore": 1.8351351150506914,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      1.1972098230505535,
+      1.4501203577474655,
+      1.8351351150506914
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      17,
+      17,
+      18
+    ],
+    "seed_level_majority_answers": [
+      "The unit of weight is the denier.",
+      "The unit of weight is denier.",
+      "The unit of weight used to measure the fineness of nylon is the denier."
+    ],
+    "mean_unique_generations": 17.333333333333332,
+    "most_common_majority_answer": "The unit of weight is the denier.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "wh_2040",
+    "question": "\"AWFUL JOKES - Which four words comlete this awful joke? A man walks into a bar with a slab of asphalt under his arm and says \"\"A beer please and ................................................\"\"\"",
+    "gold_answer": "ONE FOR THE ROAD",
+    "mean_eigenscore": 0.5305622691750483,
+    "std_eigenscore": 0.35789371418582117,
+    "min_eigenscore": 0.23301972156561113,
+    "max_eigenscore": 1.0339223051425683,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.23301972156561113,
+      1.0339223051425683,
+      0.32474478081696556
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      17,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "\"...one for the road.\"",
+      "\"one for the road.\"",
+      "\"one for the road.\""
+    ],
+    "mean_unique_generations": 15.666666666666666,
+    "most_common_majority_answer": "\"one for the road.\"",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "bt_2493",
+    "question": "From which language do we get the word yacht",
+    "gold_answer": "Dutch",
+    "mean_eigenscore": 0.44174274932142826,
+    "std_eigenscore": 0.34150494816997856,
+    "min_eigenscore": 0.04641201880453223,
+    "max_eigenscore": 0.8796655901526513,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.04641201880453223,
+      0.8796655901526513,
+      0.39915063900710107
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      19,
+      19,
+      18
+    ],
+    "seed_level_majority_answers": [
+      "The word \"yacht\" comes from the Dutch word \"jacht\", which means \"hunting\" or \"pursuit\".",
+      "The word \"yacht\" comes from the Dutch word \"jacht\", meaning \"hunting boat\".",
+      "The word \"yacht\" comes from the Dutch word \"jacht,\" meaning \"hunting\" or \"pursuit.\""
+    ],
+    "mean_unique_generations": 18.666666666666668,
+    "most_common_majority_answer": "The word \"yacht\" comes from the Dutch word \"jacht\", which means \"hunting\" or \"pursuit\".",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_13880",
+    "question": "Who is the current, in 2014, President of the IOC?",
+    "gold_answer": "Thomas Bach",
+    "mean_eigenscore": -0.1047753947934306,
+    "std_eigenscore": 1.2176944773843021,
+    "min_eigenscore": -1.8197727285230592,
+    "max_eigenscore": 0.8878449555775552,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.8878449555775552,
+      -1.8197727285230592,
+      0.6176015885652122
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      16,
+      10,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "Thomas Bach.",
+      "Thomas Bach.",
+      "Thomas Bach"
+    ],
+    "mean_unique_generations": 13.666666666666666,
+    "most_common_majority_answer": "Thomas Bach.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_604",
+    "question": "In Greek mythology, who were Arges, Brontes and Steropes?",
+    "gold_answer": "Cyclopes",
+    "mean_eigenscore": -0.4040595978328525,
+    "std_eigenscore": 0.6518182504371364,
+    "min_eigenscore": -1.3089904812929973,
+    "max_eigenscore": 0.2004769441247959,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.2004769441247959,
+      -0.10366525633035599,
+      -1.3089904812929973
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      18,
+      18,
+      13
+    ],
+    "seed_level_majority_answers": [
+      "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+      "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+      "They were three Cyclopes, sons of the Titan Uranus."
+    ],
+    "mean_unique_generations": 16.333333333333332,
+    "most_common_majority_answer": "They were three Cyclopes, sons of the Titans Uranus and Gaea.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_20846",
+    "question": "Which famous London Building was completed in 1951 from a design by Hugh Casson?",
+    "gold_answer": "ROYAL FESTIVAL HALL",
+    "mean_eigenscore": -0.525013803305041,
+    "std_eigenscore": 0.3276423659644138,
+    "min_eigenscore": -0.9195809874935017,
+    "max_eigenscore": -0.1173452477905835,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -0.9195809874935017,
+      -0.1173452477905835,
+      -0.5381151746310378
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      11,
+      13,
+      12
+    ],
+    "seed_level_majority_answers": [
+      "The Royal Festival Hall.",
+      "The Royal Festival Hall.",
+      "The Royal Festival Hall."
+    ],
+    "mean_unique_generations": 12.0,
+    "most_common_majority_answer": "The Royal Festival Hall.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_4730",
+    "question": "What year appears on bottles of the French lager Kronenbourg?",
+    "gold_answer": "1664",
+    "mean_eigenscore": -0.5400763306802107,
+    "std_eigenscore": 0.4218973623867708,
+    "min_eigenscore": -1.136618803362579,
+    "max_eigenscore": -0.23186098563710394,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 2,
+    "incorrect_count": 1,
+    "correct_rate": 0.6666666666666666,
+    "seed_level_majority_is_correct": [
+      false,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -0.23186098563710394,
+      -0.25174920304094905,
+      -1.136618803362579
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      13,
+      13,
+      12
+    ],
+    "seed_level_majority_answers": [
+      "The year appears on the neck of the bottle.",
+      "The year appears on bottles of Kronenbourg 1664.",
+      "The year appears on the bottle of Kronenbourg 1664."
+    ],
+    "mean_unique_generations": 12.666666666666666,
+    "most_common_majority_answer": "The year appears on the neck of the bottle.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_1792",
+    "question": "What is the term used for a driver on Memorial Day weekend attempting to race in the Indianapolis 500 during the day and the Coca-Cola 600 during the night?",
+    "gold_answer": "The Double",
+    "mean_eigenscore": -0.6167876367878312,
+    "std_eigenscore": 0.6544530080413304,
+    "min_eigenscore": -1.4844416420063655,
+    "max_eigenscore": 0.09604743922200147,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.4844416420063655,
+      -0.4619687075791294,
+      0.09604743922200147
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      11,
+      14,
+      16
+    ],
+    "seed_level_majority_answers": [
+      "A \"doubleheader\" driver.",
+      "A \"doubleheader\" driver.",
+      "Double header."
+    ],
+    "mean_unique_generations": 13.666666666666666,
+    "most_common_majority_answer": "A \"doubleheader\" driver.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tc_2218",
+    "question": "Which was the longest moon landing?",
+    "gold_answer": "Apollo 17",
+    "mean_eigenscore": -0.7665536577511888,
+    "std_eigenscore": 0.896851151135928,
+    "min_eigenscore": -1.6970186440532262,
+    "max_eigenscore": 0.44512988060656056,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      0.44512988060656056,
+      -1.047772209806901,
+      -1.6970186440532262
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      16,
+      12,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+      "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes."
+    ],
+    "mean_unique_generations": 13.0,
+    "most_common_majority_answer": "Apollo 17 was the longest moon landing, lasting 75 hours and 48 minutes.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qb_2151",
+    "question": "What colour are the flowers of a hawkbit plant?",
+    "gold_answer": "Yellow",
+    "mean_eigenscore": -0.8089869132199948,
+    "std_eigenscore": 0.5018851940702441,
+    "min_eigenscore": -1.4335799721117788,
+    "max_eigenscore": -0.20472162666378582,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.4335799721117788,
+      -0.78865914088442,
+      -0.20472162666378582
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      12,
+      14,
+      16
+    ],
+    "seed_level_majority_answers": [
+      "The flowers of a hawkbit plant are typically yellow.",
+      "The flowers of a hawkbit plant are typically yellow.",
+      "The flowers of a hawkbit plant are typically yellow or orange."
+    ],
+    "mean_unique_generations": 14.0,
+    "most_common_majority_answer": "The flowers of a hawkbit plant are typically yellow.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "qw_11069",
+    "question": "What does a querulous person do?",
+    "gold_answer": "Complain",
+    "mean_eigenscore": -1.1717684451485997,
+    "std_eigenscore": 0.4681356612392403,
+    "min_eigenscore": -1.522002113787128,
+    "max_eigenscore": -0.5101037930355967,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -0.5101037930355967,
+      -1.522002113787128,
+      -1.4831994286230743
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      15,
+      13,
+      13
+    ],
+    "seed_level_majority_answers": [
+      "A querulous person is one who complains frequently and persistently about something.",
+      "A querulous person is one who constantly complains or finds fault.",
+      "A querulous person is one who complains frequently and persistently about something."
+    ],
+    "mean_unique_generations": 13.666666666666666,
+    "most_common_majority_answer": "A querulous person is one who complains frequently and persistently about something.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "sfq_12933",
+    "question": "Operation Barbarossa, Hitler invades Russia.",
+    "gold_answer": "1941",
+    "mean_eigenscore": -1.2087372669186496,
+    "std_eigenscore": 1.0221121955681893,
+    "min_eigenscore": -1.934457228797855,
+    "max_eigenscore": 0.23674356787116896,
+    "mean_correctness_score_vs_gold": 0.6666666666666666,
+    "std_correctness_score_vs_gold": 0.4714045207910317,
+    "correct_count": 2,
+    "incorrect_count": 1,
+    "correct_rate": 0.6666666666666666,
+    "seed_level_majority_is_correct": [
+      false,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.9284981398292627,
+      -1.934457228797855,
+      0.23674356787116896
+    ],
+    "seed_level_correctness_scores": [
+      0.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      10,
+      10,
+      15
+    ],
+    "seed_level_majority_answers": [
+      "The invasion marked the beginning of the Eastern Front in World War II.",
+      "The invasion began on June 22, 1941.",
+      "The invasion began on June 22, 1941."
+    ],
+    "mean_unique_generations": 11.666666666666666,
+    "most_common_majority_answer": "The invasion began on June 22, 1941.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "jp_1391",
+    "question": "What are the only two types of mammal that can lay eggs?",
+    "gold_answer": "Platypus",
+    "mean_eigenscore": -1.2580944144929567,
+    "std_eigenscore": 0.4444878733509705,
+    "min_eigenscore": -1.5903908753080773,
+    "max_eigenscore": -0.6298439216678539,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.554048446502939,
+      -0.6298439216678539,
+      -1.5903908753080773
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      12,
+      15,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "Monotremes, specifically platypus and echidnas.",
+      "Monotremes, specifically platypus and echidnas.",
+      "Monotremes, specifically platypus and echidnas."
+    ],
+    "mean_unique_generations": 12.666666666666666,
+    "most_common_majority_answer": "Monotremes, specifically platypus and echidnas.",
+    "most_common_majority_answer_count": 3,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "odql_14555",
+    "question": "What colour is the live wire in an electric plug?",
+    "gold_answer": "BROWN",
+    "mean_eigenscore": -1.464339451886054,
+    "std_eigenscore": 0.14915379149220442,
+    "min_eigenscore": -1.6405917490772122,
+    "max_eigenscore": -1.2758558119115064,
+    "mean_correctness_score_vs_gold": 1.0,
+    "std_correctness_score_vs_gold": 0.0,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.2758558119115064,
+      -1.4765707946694437,
+      -1.6405917490772122
+    ],
+    "seed_level_correctness_scores": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "seed_level_unique_generations": [
+      12,
+      11,
+      11
+    ],
+    "seed_level_majority_answers": [
+      "The live wire in an electric plug is typically brown.",
+      "The live wire in an electric plug is typically brown.",
+      "Brown."
+    ],
+    "mean_unique_generations": 11.333333333333334,
+    "most_common_majority_answer": "The live wire in an electric plug is typically brown.",
+    "most_common_majority_answer_count": 2,
+    "aggregate_label": "correct"
+  },
+  {
+    "id": "tb_1400",
+    "question": "The Battle of Asculum took place in 279 BC between the Romans and the Greeks in which the Romans lost 6,000 men, while the Greeks lost 3,500, including many of their officers. Who commanded the 'victorious' Greeks?",
+    "gold_answer": "King Pyrrhus of Epirus",
+    "mean_eigenscore": -1.688481559451083,
+    "std_eigenscore": 0.6762703886843826,
+    "min_eigenscore": -2.641398407387259,
+    "max_eigenscore": -1.1414925137182208,
+    "mean_correctness_score_vs_gold": 0.5151515151515151,
+    "std_correctness_score_vs_gold": 0.021427478217774146,
+    "correct_count": 3,
+    "incorrect_count": 0,
+    "correct_rate": 1.0,
+    "seed_level_majority_is_correct": [
+      true,
+      true,
+      true
+    ],
+    "seed_level_eigenscores": [
+      -1.1414925137182208,
+      -1.2825537572477685,
+      -2.641398407387259
+    ],
+    "seed_level_correctness_scores": [
+      0.5454545454545454,
+      0.5,
+      0.5
+    ],
+    "seed_level_unique_generations": [
+      12,
+      11,
+      9
+    ],
+    "seed_level_majority_answers": [
+      "The Greeks were led by Pyrrhus of Epirus.",
+      "The victorious Greeks were led by Pyrrhus of Epirus.",
+      "The 'victorious' Greeks were led by Pyrrhus of Epirus."
+    ],
+    "mean_unique_generations": 10.666666666666666,
+    "most_common_majority_answer": "The Greeks were led by Pyrrhus of Epirus.",
+    "most_common_majority_answer_count": 1,
+    "aggregate_label": "correct"
+  }
+]

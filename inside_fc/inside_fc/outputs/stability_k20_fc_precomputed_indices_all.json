@@ -1,0 +1,19 @@
+{
+  "experiment_name": "fc_precomputed",
+  "use_feature_clipping": true,
+  "seed_dataset": 42,
+  "n_samples_requested": 10,
+  "n_samples_effective": 10,
+  "selected_indices": [
+    471,
+    751,
+    805,
+    532,
+    653,
+    669,
+    694,
+    49,
+    236,
+    148
+  ]
+}
