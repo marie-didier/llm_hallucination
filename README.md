@@ -26,6 +26,12 @@ pip install -e .
 
 ## Running tests
 
+### Running BERTScore, NLI and LLM as judge
+
+First, run the script centroids_slection.py to select one response per question
+Then, run bertscore.py, nli.py or llm_as_a_judge.py
+The generated datasets and results will be found in an outputs/stats folder
+
 ### NLI Computing
 
 From the root directory, run:
