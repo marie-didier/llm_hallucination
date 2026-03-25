@@ -17,7 +17,8 @@ Unified Format:
 
 import json
 import os
-
+CURRENT_SCRIPT_PATH = os.path.abspath(__file__)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(CURRENT_SCRIPT_PATH)))
 def load_triviaqa(file_path):
     """
     Standardizes TriviaQA data by pairing generations with their hallucination labels.

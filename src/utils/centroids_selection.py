@@ -7,22 +7,32 @@ Logic:
 1. For each question, we compare all generated responses using an NLI model.
 2. We build an agreement graph: if Response A entails Response B, A gets a point.
 3. The response with the highest centrality (the semantic center) is selected.
-4. Outputs are saved as individual files in 'outputs/stats/' for each dataset.
+4. Outputs are saved as individual files in the project's 'outputs/stats/' directory.
 """
 
 import json
 import os
+import sys
 import torch
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-# Grabbing the loader we built
-from load_datasets import load_all_datasets
+# --- Path Management ---
+# Locate the project root based on this script's position (src/scores/centroids_selection.py)
+CURRENT_SCRIPT_PATH = os.path.abspath(__file__)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(CURRENT_SCRIPT_PATH)))
+
+# Add 'src' to the system path to allow importing from the utils folder
+SRC_DIR = os.path.join(PROJECT_ROOT, "src")
+if SRC_DIR not in sys.path:
+    sys.path.insert(0, SRC_DIR)
+
+from utils.load_datasets import load_all_datasets
 
 def get_nli_centroid(responses, model, tokenizer, device, threshold=0.5):
     """
-    Find the response that best represents the consensus.
-    We use NLI to see which answer is logically implied by the most others.
+    Find the response that best represents the semantic consensus.
+    Uses an NLI model to determine which answer is logically implied by the most others.
     """
     if not responses:
         return None
@@ -33,7 +43,7 @@ def get_nli_centroid(responses, model, tokenizer, device, threshold=0.5):
     n = len(texts)
     scores = [0] * n
     
-    # Generate all pairs for the NLI model
+    # Generate all directed pairs for the NLI model (A entails B)
     pairs = []
     pair_indices = []
     for i in range(n):
@@ -42,7 +52,7 @@ def get_nli_centroid(responses, model, tokenizer, device, threshold=0.5):
             pairs.append((texts[i], texts[j]))
             pair_indices.append((i, j))
 
-    # Batching to avoid killing the VRAM
+    # Batching to manage VRAM usage
     batch_size = 32
     entailment_probs = []
     
@@ -51,41 +61,39 @@ def get_nli_centroid(responses, model, tokenizer, device, threshold=0.5):
             batch = pairs[k : k + batch_size]
             inputs = tokenizer(batch, padding=True, truncation=True, return_tensors="pt").to(device)
             logits = model(**inputs).logits
-            # Standard DeBERTa NLI: Label 0 is 'entailment'
+            # cross-encoder/nli-deberta-v3-large: Index 0 is 'entailment'
             probs = torch.softmax(logits, dim=1)[:, 0].cpu().tolist()
             entailment_probs.extend(probs)
 
-    # Scoring based on logical agreement
+    # Calculate centrality scores based on logical agreement
     for idx, prob in enumerate(entailment_probs):
         if prob > threshold:
             i, j = pair_indices[idx]
             scores[i] += 1 
 
-    # Return the 'winner' of the semantic consensus
+    # Select the response with the highest consensus score
     best_idx = scores.index(max(scores))
     return responses[best_idx]
 
 def run_selection_pipeline(trivia_path, truthful_path):
     """
-    Clean the data and dump one JSON file per input dataset in outputs/stats.
+    Runs the full selection process and saves results to the project root's output folder.
     """
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
-    # Setup output folder
-    output_dir = "outputs/stats"
+    # Absolute path for outputs to ensure consistency
+    output_dir = os.path.join(PROJECT_ROOT, "outputs", "stats")
     os.makedirs(output_dir, exist_ok=True)
 
-    # Load the NLI heavy-lifter
-    print(f"--- Firing up NLI model on {device} ---")
+    print(f"--- Initializing NLI model on {device} ---")
     model_name = "cross-encoder/nli-deberta-v3-large"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSequenceClassification.from_pretrained(model_name).to(device)
     model.eval()
 
-    # Get the standardized data
+    # Load and standardize data using absolute paths
     all_data = load_all_datasets(trivia_path, truthful_path)
-    all_data = {name: items[:10] for name, items in all_data.items()}
-    # Process each dataset individually
+
     for ds_name, items in all_data.items():
         print(f"\n[Processing {ds_name}] Extracting semantic centroids...")
         processed_data = []
@@ -101,20 +109,20 @@ def run_selection_pipeline(trivia_path, truthful_path):
                     "is_hallucination": best_response['is_hallucination']
                 })
 
-        # Save specifically for this dataset
+        # Save results to the centralized output directory
         output_file = os.path.join(output_dir, f"{ds_name}_centroid.json")
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(processed_data, f, indent=4, ensure_ascii=False)
         
-        print(f"Saved {len(processed_data)} entries to: {output_file}")
+        print(f"Results saved to: {output_file}")
 
 if __name__ == "__main__":
-    # Check these paths before running
-    TRIVIA_PATH = "../../data/triviaqa/qa_generations_820_12_annotated.json"
-    TRUTHFUL_PATH = "../../data/truthfulqa/truthfulqa_with_hallucination_truth.json"
+    # Define absolute data paths relative to the project root
+    TRIVIA_PATH = os.path.join(PROJECT_ROOT, "data", "triviaqa", "qa_generations_820_12_annotated.json")
+    TRUTHFUL_PATH = os.path.join(PROJECT_ROOT, "data", "truthfulqa", "truthfulqa_with_hallucination_truth.json")
     
     try:
         run_selection_pipeline(TRIVIA_PATH, TRUTHFUL_PATH)
-        print("\nAll datasets processed successfully.")
+        print("\nSelection pipeline completed successfully.")
     except Exception as e:
-        print(f"Pipeline crashed: {e}")
+        print(f"Critical error in pipeline: {e}")
