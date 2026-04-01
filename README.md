@@ -32,3 +32,10 @@ From the root directory, run:
 ```bash
 python -m src.tests.run_nli
 ```
+
+### KLE Scores
+
+From the root directory, run:
+```bash
+python -m src.tests.run_kle
+```
