@@ -67,3 +67,6 @@ triton==3.6.0
 typer==0.24.1
 typer-slim==0.24.0
 typing_extensions==4.15.0
+bert_score
+scikit-learn
+groq
